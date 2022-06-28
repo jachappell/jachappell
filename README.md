@@ -52,3 +52,5 @@
 - [Aaland University invests in KONGSBERG simulation upgrade](https://www.mar-sim.com/news/831)
 
 
+# Quote of the Day
+<p><em>Almost anything derogatory you could say about today's software design would be accurate.</em><br /> -- K.E. Iverson</p>
