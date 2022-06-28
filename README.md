@@ -1,6 +1,6 @@
-**#Updates**
+#Updates
 
-##[Yet Another Website](https://www.amon-hen.com)**
+##[Yet Another Website](https://www.amon-hen.com)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Water](https://www.amon-hen.com/science/29120)
 - [For those wondering how I’m spending my July 4th](https://www.amon-hen.com/music/drum-and-bugle-corps/29114)
@@ -13,7 +13,7 @@
 - [Rent](https://www.amon-hen.com/politics/29090)
 
 
-##[Drum and Bugle Corps](https://www.drum-corps.net)**
+##[Drum and Bugle Corps](https://www.drum-corps.net)
 - [Western Corps Connection (2022)](https://www.drum-corps.net/scores/dci/1373)
 - [Drum Corps at the Rose Bowl (2022)](https://www.drum-corps.net/scores/dci/1368)
 - [Barnum Festival Champions on Parade (2022)](https://www.drum-corps.net/scores/dca/1366)
@@ -26,7 +26,7 @@
 - [Drum Corps World – March 2022](https://www.drum-corps.net/news/1312)
 
 
-##[Storage B](https://www.storage-b.com)**
+##[Storage B](https://www.storage-b.com)
 - [SAFe](https://www.storage-b.com/humor/790)
 - [Two decades of progress](https://www.storage-b.com/humor/779)
 - [What Agile Really Means](https://www.storage-b.com/miscellaneous/760)
@@ -39,7 +39,7 @@
 - [Algorithms, Complexity, Life, and The Art of Computer Programming](https://www.storage-b.com/miscellaneous/670)
 
 
-##[Maritime Simulation News](https://www.mar-sim.com)**
+##[Maritime Simulation News](https://www.mar-sim.com)
 - [Kongsberg Wins Large Contract with South Metropolitan TAFE](https://www.mar-sim.com/news/904)
 - [Wärtsilä Navigational Simulator becomes first Interactive ‘instructor-led’ cloud training solution to gain new DNV Class D Certification](https://www.mar-sim.com/news/888)
 - [Panama Canal Authority Taps Kongsberg for New Navigation Simulators](https://www.mar-sim.com/news/882)
