@@ -12,6 +12,7 @@
 - [MST3K 0405 – Being From Another Planet](https://www.amon-hen.com/television/9736)
 - [Rent](https://www.amon-hen.com/politics/29090)
 
+
 **[Drum and Bugle Corps](https://www.drum-corps.net)**
 - [Western Corps Connection (2022)](https://www.drum-corps.net/scores/dci/1373)
 - [Drum Corps at the Rose Bowl (2022)](https://www.drum-corps.net/scores/dci/1368)
@@ -23,6 +24,7 @@
 - [2022 Drum Corps Associates Tour Schedule](https://www.drum-corps.net/news/1327)
 - [Drum Corps World – April 2022](https://www.drum-corps.net/news/1320)
 - [Drum Corps World – March 2022](https://www.drum-corps.net/news/1312)
+
 
 **[Storage B](https://www.storage-b.com)**
 - [SAFe](https://www.storage-b.com/humor/790)
@@ -36,6 +38,7 @@
 - [Should your project use a blockchain?](https://www.storage-b.com/humor/675)
 - [Algorithms, Complexity, Life, and The Art of Computer Programming](https://www.storage-b.com/miscellaneous/670)
 
+
 **[Maritime Simulation News](https://www.mar-sim.com)**
 - [Kongsberg Wins Large Contract with South Metropolitan TAFE](https://www.mar-sim.com/news/904)
 - [Wärtsilä Navigational Simulator becomes first Interactive ‘instructor-led’ cloud training solution to gain new DNV Class D Certification](https://www.mar-sim.com/news/888)
@@ -47,4 +50,5 @@
 - [Wärtsilä upgrades the SCANTS Simulation Complex to provide advanced training at the United States Coast Guard Academy](https://www.mar-sim.com/news/838)
 - [Wärtsilä Simulator Upgrade will Enhance Le Havre Pilot Operations](https://www.mar-sim.com/news/835)
 - [Aaland University invests in KONGSBERG simulation upgrade](https://www.mar-sim.com/news/831)
+
 
