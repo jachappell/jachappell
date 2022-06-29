@@ -1,6 +1,7 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Let’s Eat Out Ladies!](https://www.amon-hen.com/movies/29100)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0407 – The Killer Shrews](https://www.amon-hen.com/television/9792)
 - [#Bloo22](https://www.amon-hen.com/music/drum-and-bugle-corps/29126)
@@ -10,7 +11,6 @@
 - [Why Worry (1923)](https://www.amon-hen.com/humor/29095)
 - [Golden Hour](https://www.amon-hen.com/music/29074)
 - [Common Ground](https://www.amon-hen.com/politics/29093)
-- [Mmmm, Pudding Roll-Ups](https://www.amon-hen.com/food/29083)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
