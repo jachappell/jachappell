@@ -2,6 +2,8 @@
 
 ## [Yet Another Website](https://www.amon-hen.com)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0407 – The Killer Shrews](https://www.amon-hen.com/television/9792)
+- [#Bloo22](https://www.amon-hen.com/music/drum-and-bugle-corps/29126)
 - [Water](https://www.amon-hen.com/science/29120)
 - [For those wondering how I’m spending my July 4th](https://www.amon-hen.com/music/drum-and-bugle-corps/29114)
 - [MST3K Short 0406 – Undersea Kingdom 1](https://www.amon-hen.com/television/9714)
@@ -9,11 +11,10 @@
 - [Golden Hour](https://www.amon-hen.com/music/29074)
 - [Common Ground](https://www.amon-hen.com/politics/29093)
 - [Mmmm, Pudding Roll-Ups](https://www.amon-hen.com/food/29083)
-- [MST3K 0405 – Being From Another Planet](https://www.amon-hen.com/television/9736)
-- [Rent](https://www.amon-hen.com/politics/29090)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Tour Premiere (2022)](https://www.drum-corps.net/scores/dci/1375)
 - [Western Corps Connection (2022)](https://www.drum-corps.net/scores/dci/1373)
 - [Drum Corps at the Rose Bowl (2022)](https://www.drum-corps.net/scores/dci/1368)
 - [Barnum Festival Champions on Parade (2022)](https://www.drum-corps.net/scores/dca/1366)
@@ -23,7 +24,6 @@
 - [Drum Corps World – May 2022](https://www.drum-corps.net/news/1341)
 - [2022 Drum Corps Associates Tour Schedule](https://www.drum-corps.net/news/1327)
 - [Drum Corps World – April 2022](https://www.drum-corps.net/news/1320)
-- [Drum Corps World – March 2022](https://www.drum-corps.net/news/1312)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Almost anything derogatory you could say about today's software design would be accurate.</em><br /> -- K.E. Iverson</p>
+<p><em>No one goes there nowadays, it's too crowded.</em><br /> -- Yogi Berra</p>
