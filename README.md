@@ -1,6 +1,7 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [RiffTrax – Day Of The Animals](https://www.amon-hen.com/humor/29122)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Let’s Eat Out Ladies!](https://www.amon-hen.com/movies/29100)
 - [MST3K 0407 – The Killer Shrews](https://www.amon-hen.com/television/9792)
@@ -10,7 +11,6 @@
 - [MST3K Short 0406 – Undersea Kingdom 1](https://www.amon-hen.com/television/9714)
 - [Why Worry (1923)](https://www.amon-hen.com/humor/29095)
 - [Golden Hour](https://www.amon-hen.com/music/29074)
-- [Common Ground](https://www.amon-hen.com/politics/29093)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
