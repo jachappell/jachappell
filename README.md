@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Day Of The Animals](https://www.amon-hen.com/humor/29122)
+- [Egg Replacer](https://www.amon-hen.com/music/29076)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Day Of The Animals](https://www.amon-hen.com/humor/29122)
 - [Let’s Eat Out Ladies!](https://www.amon-hen.com/movies/29100)
 - [MST3K 0407 – The Killer Shrews](https://www.amon-hen.com/television/9792)
 - [#Bloo22](https://www.amon-hen.com/music/drum-and-bugle-corps/29126)
@@ -10,10 +11,10 @@
 - [For those wondering how I’m spending my July 4th](https://www.amon-hen.com/music/drum-and-bugle-corps/29114)
 - [MST3K Short 0406 – Undersea Kingdom 1](https://www.amon-hen.com/television/9714)
 - [Why Worry (1923)](https://www.amon-hen.com/humor/29095)
-- [Golden Hour](https://www.amon-hen.com/music/29074)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Central Indiana (2022)](https://www.drum-corps.net/scores/dci/1381)
 - [DCI Tour Premiere (2022)](https://www.drum-corps.net/scores/dci/1375)
 - [Western Corps Connection (2022)](https://www.drum-corps.net/scores/dci/1373)
 - [Drum Corps at the Rose Bowl (2022)](https://www.drum-corps.net/scores/dci/1368)
@@ -23,7 +24,6 @@
 - [Seattle Cascades Cancel 2022 Tour](https://www.drum-corps.net/news/1344)
 - [Drum Corps World – May 2022](https://www.drum-corps.net/news/1341)
 - [2022 Drum Corps Associates Tour Schedule](https://www.drum-corps.net/news/1327)
-- [Drum Corps World – April 2022](https://www.drum-corps.net/news/1320)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I would recommend that skeptics devote even more effort than they do now to understanding the reasons why so many people want or need to believe.</em><br /> -- Murray Gell-Mann</p>
+<p><em>Sometimes the appropriate response to reality is to go insane.</em><br /> -- Philip K. Dick</p>
