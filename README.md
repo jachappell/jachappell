@@ -1,8 +1,8 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Egg Replacer](https://www.amon-hen.com/music/29076)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Egg Replacer](https://www.amon-hen.com/music/29076)
 - [RiffTrax – Day Of The Animals](https://www.amon-hen.com/humor/29122)
 - [Let’s Eat Out Ladies!](https://www.amon-hen.com/movies/29100)
 - [MST3K 0407 – The Killer Shrews](https://www.amon-hen.com/television/9792)
@@ -14,6 +14,7 @@
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Innovations in Brass: Northeast Ohio (2022)](https://www.drum-corps.net/scores/dci/1387)
 - [DCI Central Indiana (2022)](https://www.drum-corps.net/scores/dci/1381)
 - [DCI Tour Premiere (2022)](https://www.drum-corps.net/scores/dci/1375)
 - [Western Corps Connection (2022)](https://www.drum-corps.net/scores/dci/1373)
@@ -23,7 +24,6 @@
 - [Drum Corps World – June 2022](https://www.drum-corps.net/news/1355)
 - [Seattle Cascades Cancel 2022 Tour](https://www.drum-corps.net/news/1344)
 - [Drum Corps World – May 2022](https://www.drum-corps.net/news/1341)
-- [2022 Drum Corps Associates Tour Schedule](https://www.drum-corps.net/news/1327)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Sometimes the appropriate response to reality is to go insane.</em><br /> -- Philip K. Dick</p>
+<p><em>There is nothing worse than aggressive stupidity.</em><br /> -- Johann Wolfgang von Goethe</p>
