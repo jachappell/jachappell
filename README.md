@@ -1,6 +1,7 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K Short 0407 – Junior Rodeo Daredevils](https://www.amon-hen.com/television/7246)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Egg Replacer](https://www.amon-hen.com/music/29076)
 - [RiffTrax – Day Of The Animals](https://www.amon-hen.com/humor/29122)
@@ -10,20 +11,19 @@
 - [Water](https://www.amon-hen.com/science/29120)
 - [For those wondering how I’m spending my July 4th](https://www.amon-hen.com/music/drum-and-bugle-corps/29114)
 - [MST3K Short 0406 – Undersea Kingdom 1](https://www.amon-hen.com/television/9714)
-- [Why Worry (1923)](https://www.amon-hen.com/humor/29095)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [The Beanpot  (2022)](https://www.drum-corps.net/scores/dci/1398)
+- [Drums Across the Desert (2022)](https://www.drum-corps.net/scores/dci/1394)
+- [Drums on Parade (2022)](https://www.drum-corps.net/scores/dci/1391)
+- [East Coast Classic (2022)](https://www.drum-corps.net/scores/dci/1389)
 - [Innovations in Brass: Northeast Ohio (2022)](https://www.drum-corps.net/scores/dci/1387)
 - [DCI Central Indiana (2022)](https://www.drum-corps.net/scores/dci/1381)
 - [DCI Tour Premiere (2022)](https://www.drum-corps.net/scores/dci/1375)
 - [Western Corps Connection (2022)](https://www.drum-corps.net/scores/dci/1373)
 - [Drum Corps at the Rose Bowl (2022)](https://www.drum-corps.net/scores/dci/1368)
 - [Barnum Festival Champions on Parade (2022)](https://www.drum-corps.net/scores/dca/1366)
-- [Corps at the Crest – San Diego (2022)](https://www.drum-corps.net/scores/dci/1364)
-- [Drum Corps World – June 2022](https://www.drum-corps.net/news/1355)
-- [Seattle Cascades Cancel 2022 Tour](https://www.drum-corps.net/news/1344)
-- [Drum Corps World – May 2022](https://www.drum-corps.net/news/1341)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>There is nothing worse than aggressive stupidity.</em><br /> -- Johann Wolfgang von Goethe</p>
+<p><em>Those who can make you believe absurdities, can make you commit atrocities.</em><br /> -- Voltaire</p>
