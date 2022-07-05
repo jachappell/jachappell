@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0407 – Junior Rodeo Daredevils](https://www.amon-hen.com/television/7246)
+- [RiffTrax –  Patriotism](https://www.amon-hen.com/politics/27808)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0407 – Junior Rodeo Daredevils](https://www.amon-hen.com/television/7246)
 - [Egg Replacer](https://www.amon-hen.com/music/29076)
 - [RiffTrax – Day Of The Animals](https://www.amon-hen.com/humor/29122)
 - [Let’s Eat Out Ladies!](https://www.amon-hen.com/movies/29100)
@@ -10,10 +11,10 @@
 - [#Bloo22](https://www.amon-hen.com/music/drum-and-bugle-corps/29126)
 - [Water](https://www.amon-hen.com/science/29120)
 - [For those wondering how I’m spending my July 4th](https://www.amon-hen.com/music/drum-and-bugle-corps/29114)
-- [MST3K Short 0406 – Undersea Kingdom 1](https://www.amon-hen.com/television/9714)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Cavalcade of Brass (2022)](https://www.drum-corps.net/scores/dci/1400)
 - [The Beanpot  (2022)](https://www.drum-corps.net/scores/dci/1398)
 - [Drums Across the Desert (2022)](https://www.drum-corps.net/scores/dci/1394)
 - [Drums on Parade (2022)](https://www.drum-corps.net/scores/dci/1391)
@@ -23,7 +24,6 @@
 - [DCI Tour Premiere (2022)](https://www.drum-corps.net/scores/dci/1375)
 - [Western Corps Connection (2022)](https://www.drum-corps.net/scores/dci/1373)
 - [Drum Corps at the Rose Bowl (2022)](https://www.drum-corps.net/scores/dci/1368)
-- [Barnum Festival Champions on Parade (2022)](https://www.drum-corps.net/scores/dca/1366)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Those who can make you believe absurdities, can make you commit atrocities.</em><br /> -- Voltaire</p>
+<p><em>Any dog under fifty pounds is a cat and cats are pointless.</em><br /> -- Ron Swanson</p>
