@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax –  Patriotism](https://www.amon-hen.com/politics/27808)
+- [MST3K 0408 – Hercules Unchained](https://www.amon-hen.com/television/9835)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax –  Patriotism](https://www.amon-hen.com/politics/27808)
 - [MST3K Short 0407 – Junior Rodeo Daredevils](https://www.amon-hen.com/television/7246)
 - [Egg Replacer](https://www.amon-hen.com/music/29076)
 - [RiffTrax – Day Of The Animals](https://www.amon-hen.com/humor/29122)
@@ -10,7 +11,6 @@
 - [MST3K 0407 – The Killer Shrews](https://www.amon-hen.com/television/9792)
 - [#Bloo22](https://www.amon-hen.com/music/drum-and-bugle-corps/29126)
 - [Water](https://www.amon-hen.com/science/29120)
-- [For those wondering how I’m spending my July 4th](https://www.amon-hen.com/music/drum-and-bugle-corps/29114)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Any dog under fifty pounds is a cat and cats are pointless.</em><br /> -- Ron Swanson</p>
+<p><em>The Bible is not my Book and Christianity is not my religion.  I could never give assent to the long complicated statements of Christian dogma.</em><br /> -- Abraham Lincoln</p>
