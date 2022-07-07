@@ -1,32 +1,33 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0408 – Hercules Unchained](https://www.amon-hen.com/television/9835)
+- [Mmmm, Pineapple Can Jello](https://www.amon-hen.com/food/29105)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0408 – Hercules Unchained](https://www.amon-hen.com/television/9835)
 - [RiffTrax –  Patriotism](https://www.amon-hen.com/politics/27808)
 - [MST3K Short 0407 – Junior Rodeo Daredevils](https://www.amon-hen.com/television/7246)
+- [The Milky Way (1936)](https://www.amon-hen.com/humor/29097)
 - [Egg Replacer](https://www.amon-hen.com/music/29076)
 - [RiffTrax – Day Of The Animals](https://www.amon-hen.com/humor/29122)
 - [Let’s Eat Out Ladies!](https://www.amon-hen.com/movies/29100)
 - [MST3K 0407 – The Killer Shrews](https://www.amon-hen.com/television/9792)
-- [#Bloo22](https://www.amon-hen.com/music/drum-and-bugle-corps/29126)
-- [Water](https://www.amon-hen.com/science/29120)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Celebration in Brass (2022)](https://www.drum-corps.net/scores/dci/1416)
+- [Summer Music Games in Cincinnati (2022)](https://www.drum-corps.net/scores/dci/1412)
+- [DCI Dover (2022)](https://www.drum-corps.net/scores/dci/1410)
+- [MidCal Champions Showcase  (2022)](https://www.drum-corps.net/scores/dci/1408)
+- [Rotary Music Festival (2022)](https://www.drum-corps.net/scores/dci/1406)
 - [Cavalcade of Brass (2022)](https://www.drum-corps.net/scores/dci/1400)
 - [The Beanpot  (2022)](https://www.drum-corps.net/scores/dci/1398)
 - [Drums Across the Desert (2022)](https://www.drum-corps.net/scores/dci/1394)
 - [Drums on Parade (2022)](https://www.drum-corps.net/scores/dci/1391)
 - [East Coast Classic (2022)](https://www.drum-corps.net/scores/dci/1389)
-- [Innovations in Brass: Northeast Ohio (2022)](https://www.drum-corps.net/scores/dci/1387)
-- [DCI Central Indiana (2022)](https://www.drum-corps.net/scores/dci/1381)
-- [DCI Tour Premiere (2022)](https://www.drum-corps.net/scores/dci/1375)
-- [Western Corps Connection (2022)](https://www.drum-corps.net/scores/dci/1373)
-- [Drum Corps at the Rose Bowl (2022)](https://www.drum-corps.net/scores/dci/1368)
 
 
 ## [Storage B](https://www.storage-b.com)
+- [Dumping Windows 10](https://www.storage-b.com/linux/795)
 - [SAFe](https://www.storage-b.com/humor/790)
 - [Two decades of progress](https://www.storage-b.com/humor/779)
 - [What Agile Really Means](https://www.storage-b.com/miscellaneous/760)
@@ -36,7 +37,6 @@
 - [Jira](https://www.storage-b.com/humor/695)
 - [USB to Gameport  Adapter](https://www.storage-b.com/retrocomputing/680)
 - [Should your project use a blockchain?](https://www.storage-b.com/humor/675)
-- [Algorithms, Complexity, Life, and The Art of Computer Programming](https://www.storage-b.com/miscellaneous/670)
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The Bible is not my Book and Christianity is not my religion.  I could never give assent to the long complicated statements of Christian dogma.</em><br /> -- Abraham Lincoln</p>
+<p><em>Boredom is a vital problem for the moralist, since at least half the sins of mankind are caused by the fear of it.</em><br /> -- Bertrand Russell</p>
