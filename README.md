@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Pineapple Can Jello](https://www.amon-hen.com/food/29105)
+- [Bluecoats 50th Anniversary Alumni Corps – Front Ensemble](https://www.amon-hen.com/music/drum-and-bugle-corps/29151)
+- [Front Ensemble](https://www.amon-hen.com/music/drum-and-bugle-corps/29139)
+- [Twitter Censorship](https://www.amon-hen.com/politics/29137)
+- [RiffTrax –  Drawing For Beginners: The Triangle](https://www.amon-hen.com/humor/29135)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Pineapple Can Jello](https://www.amon-hen.com/food/29105)
 - [MST3K 0408 – Hercules Unchained](https://www.amon-hen.com/television/9835)
 - [RiffTrax –  Patriotism](https://www.amon-hen.com/politics/27808)
 - [MST3K Short 0407 – Junior Rodeo Daredevils](https://www.amon-hen.com/television/7246)
 - [The Milky Way (1936)](https://www.amon-hen.com/humor/29097)
-- [Egg Replacer](https://www.amon-hen.com/music/29076)
-- [RiffTrax – Day Of The Animals](https://www.amon-hen.com/humor/29122)
-- [Let’s Eat Out Ladies!](https://www.amon-hen.com/movies/29100)
-- [MST3K 0407 – The Killer Shrews](https://www.amon-hen.com/television/9792)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Boredom is a vital problem for the moralist, since at least half the sins of mankind are caused by the fear of it.</em><br /> -- Bertrand Russell</p>
+<p><em>My doctor says that I have a malformed public-duty gland and a natural deficiency in moral fibre, and that I am therefore excused from saving Universes.</em><br /> -- Douglas Adams</p>
