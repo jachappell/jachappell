@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Dry Cleaner from Des Moines](https://www.amon-hen.com/music/29131)
+- [The Giant Spider Invasion (1975)](https://www.amon-hen.com/movies/29156)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Dry Cleaner from Des Moines](https://www.amon-hen.com/music/29131)
 - [Bluecoats 50th Anniversary Alumni Corps – Front Ensemble](https://www.amon-hen.com/music/drum-and-bugle-corps/29151)
 - [Front Ensemble](https://www.amon-hen.com/music/drum-and-bugle-corps/29139)
 - [Twitter Censorship](https://www.amon-hen.com/politics/29137)
@@ -10,20 +11,19 @@
 - [Mmmm, Pineapple Can Jello](https://www.amon-hen.com/food/29105)
 - [MST3K 0408 – Hercules Unchained](https://www.amon-hen.com/television/9835)
 - [RiffTrax –  Patriotism](https://www.amon-hen.com/politics/27808)
-- [MST3K Short 0407 – Junior Rodeo Daredevils](https://www.amon-hen.com/television/7246)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Seattle Summer Music Games (2022)](https://www.drum-corps.net/scores/dci/1440)
+- [Tour of Champions – Northern Illinois (2022)](https://www.drum-corps.net/scores/dci/1438)
+- [CrownBEAT (2022)](https://www.drum-corps.net/scores/dci/1436)
+- [Grand Prix (2022)](https://www.drum-corps.net/scores/dca/1433)
+- [DCI Capital Classic (2022)](https://www.drum-corps.net/scores/dci/1430)
+- [Drums of Fire (2022)](https://www.drum-corps.net/scores/dci/1426)
 - [Music on the March (2022)](https://www.drum-corps.net/scores/dci/1423)
 - [Drums on the Ohio (2022)](https://www.drum-corps.net/scores/dci/1421)
 - [Celebration in Brass (2022)](https://www.drum-corps.net/scores/dci/1416)
 - [Summer Music Games in Cincinnati (2022)](https://www.drum-corps.net/scores/dci/1412)
-- [DCI Dover (2022)](https://www.drum-corps.net/scores/dci/1410)
-- [MidCal Champions Showcase  (2022)](https://www.drum-corps.net/scores/dci/1408)
-- [Rotary Music Festival (2022)](https://www.drum-corps.net/scores/dci/1406)
-- [Cavalcade of Brass (2022)](https://www.drum-corps.net/scores/dci/1400)
-- [The Beanpot  (2022)](https://www.drum-corps.net/scores/dci/1398)
-- [Drums Across the Desert (2022)](https://www.drum-corps.net/scores/dci/1394)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I'd rather be rich than stupid.</em><br /> -- Jack Handey</p>
+<p><em>Without music to decorate it, time is just a bunch of boring production deadlines or dates by which bills must be paid.</em><br /> -- Frank Zappa</p>
