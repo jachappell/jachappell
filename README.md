@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0409 – Undersea Kingdom 2](https://www.amon-hen.com/television/9774)
+- [Beach Dolls](https://www.amon-hen.com/television/29149)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0409 – Undersea Kingdom 2](https://www.amon-hen.com/television/9774)
 - [The Giant Spider Invasion (1975)](https://www.amon-hen.com/movies/29156)
 - [The Dry Cleaner from Des Moines](https://www.amon-hen.com/music/29131)
 - [Bluecoats 50th Anniversary Alumni Corps – Front Ensemble](https://www.amon-hen.com/music/drum-and-bugle-corps/29151)
@@ -10,20 +11,19 @@
 - [Twitter Censorship](https://www.amon-hen.com/politics/29137)
 - [RiffTrax –  Drawing For Beginners: The Triangle](https://www.amon-hen.com/humor/29135)
 - [Mmmm, Pineapple Can Jello](https://www.amon-hen.com/food/29105)
-- [MST3K 0408 – Hercules Unchained](https://www.amon-hen.com/television/9835)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI West (2022)](https://www.drum-corps.net/scores/dci/1444)
 - [River City Rhapsody – La Crosse (2022)](https://www.drum-corps.net/scores/dci/1442)
 - [Seattle Summer Music Games (2022)](https://www.drum-corps.net/scores/dci/1440)
 - [Tour of Champions – Northern Illinois (2022)](https://www.drum-corps.net/scores/dci/1438)
 - [CrownBEAT (2022)](https://www.drum-corps.net/scores/dci/1436)
-- [Grand Prix (2022)](https://www.drum-corps.net/scores/dca/1433)
+- [Drum Corps Grand Prix (2022)](https://www.drum-corps.net/scores/dca/1433)
 - [DCI Capital Classic (2022)](https://www.drum-corps.net/scores/dci/1430)
 - [Drums of Fire (2022)](https://www.drum-corps.net/scores/dci/1426)
 - [Music on the March (2022)](https://www.drum-corps.net/scores/dci/1423)
 - [Drums on the Ohio (2022)](https://www.drum-corps.net/scores/dci/1421)
-- [Celebration in Brass (2022)](https://www.drum-corps.net/scores/dci/1416)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Anybody who watches three games of football in a row should be declared brain dead.</em><br /> -- Erma Bombeck</p>
+<p><em>Sad preacher nailed upon the coloured door of time;<br />Insane teacher be there reminded of the rhyme.<br />There'll be no mutant enemy we shall certify;<br />Political ends, as sad remains, will die.<br />Reach out as forward tastes begin to enter you.</em><br /> -- Yes</p>
