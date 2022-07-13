@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Beach Dolls](https://www.amon-hen.com/television/29149)
+- [MST3K 0409 – The Indestructible Man](https://www.amon-hen.com/television/9879)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Beach Dolls](https://www.amon-hen.com/television/29149)
 - [MST3K Short 0409 – Undersea Kingdom 2](https://www.amon-hen.com/television/9774)
 - [The Giant Spider Invasion (1975)](https://www.amon-hen.com/movies/29156)
 - [The Dry Cleaner from Des Moines](https://www.amon-hen.com/music/29131)
@@ -10,10 +11,12 @@
 - [Front Ensemble](https://www.amon-hen.com/music/drum-and-bugle-corps/29139)
 - [Twitter Censorship](https://www.amon-hen.com/politics/29137)
 - [RiffTrax –  Drawing For Beginners: The Triangle](https://www.amon-hen.com/humor/29135)
-- [Mmmm, Pineapple Can Jello](https://www.amon-hen.com/food/29105)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [The Thunder of Drums (2022)](https://www.drum-corps.net/scores/dci/1457)
+- [Drums Across America – Atlanta (2022)](https://www.drum-corps.net/scores/dci/1455)
+- [Drums Along the Columbia (2022)](https://www.drum-corps.net/scores/dci/1451)
 - [DCI West (2022)](https://www.drum-corps.net/scores/dci/1444)
 - [River City Rhapsody – La Crosse (2022)](https://www.drum-corps.net/scores/dci/1442)
 - [Seattle Summer Music Games (2022)](https://www.drum-corps.net/scores/dci/1440)
@@ -21,9 +24,6 @@
 - [CrownBEAT (2022)](https://www.drum-corps.net/scores/dci/1436)
 - [Drum Corps Grand Prix (2022)](https://www.drum-corps.net/scores/dca/1433)
 - [DCI Capital Classic (2022)](https://www.drum-corps.net/scores/dci/1430)
-- [Drums of Fire (2022)](https://www.drum-corps.net/scores/dci/1426)
-- [Music on the March (2022)](https://www.drum-corps.net/scores/dci/1423)
-- [Drums on the Ohio (2022)](https://www.drum-corps.net/scores/dci/1421)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Sad preacher nailed upon the coloured door of time;<br />Insane teacher be there reminded of the rhyme.<br />There'll be no mutant enemy we shall certify;<br />Political ends, as sad remains, will die.<br />Reach out as forward tastes begin to enter you.</em><br /> -- Yes</p>
+<p><em>I told my psychiatrist that everyone hates me.  He said I was being ridiculous - everyone hasn't met me yet.</em><br /> -- Rodney Dangerfield</p>
