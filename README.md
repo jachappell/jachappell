@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0409 – The Indestructible Man](https://www.amon-hen.com/television/9879)
+- [Mmmm, Soup Shakes](https://www.amon-hen.com/food/29158)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0409 – The Indestructible Man](https://www.amon-hen.com/television/9879)
 - [Beach Dolls](https://www.amon-hen.com/television/29149)
 - [MST3K Short 0409 – Undersea Kingdom 2](https://www.amon-hen.com/television/9774)
 - [The Giant Spider Invasion (1975)](https://www.amon-hen.com/movies/29156)
@@ -10,10 +11,10 @@
 - [Bluecoats 50th Anniversary Alumni Corps – Front Ensemble](https://www.amon-hen.com/music/drum-and-bugle-corps/29151)
 - [Front Ensemble](https://www.amon-hen.com/music/drum-and-bugle-corps/29139)
 - [Twitter Censorship](https://www.amon-hen.com/politics/29137)
-- [RiffTrax –  Drawing For Beginners: The Triangle](https://www.amon-hen.com/humor/29135)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Boise (2022)](https://www.drum-corps.net/scores/dci/1459)
 - [The Thunder of Drums (2022)](https://www.drum-corps.net/scores/dci/1457)
 - [Drums Across America – Atlanta (2022)](https://www.drum-corps.net/scores/dci/1455)
 - [Drums Along the Columbia (2022)](https://www.drum-corps.net/scores/dci/1451)
@@ -23,7 +24,6 @@
 - [Tour of Champions – Northern Illinois (2022)](https://www.drum-corps.net/scores/dci/1438)
 - [CrownBEAT (2022)](https://www.drum-corps.net/scores/dci/1436)
 - [Drum Corps Grand Prix (2022)](https://www.drum-corps.net/scores/dca/1433)
-- [DCI Capital Classic (2022)](https://www.drum-corps.net/scores/dci/1430)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I told my psychiatrist that everyone hates me.  He said I was being ridiculous - everyone hasn't met me yet.</em><br /> -- Rodney Dangerfield</p>
+<p><em>If the account given in Genesis is really true, ought we not, after all, to thank this serpent? He was the first schoolmaster, the first advocate of learning, the first enemy of ignorance, the first to whisper in human ears the sacred word liberty, the creator of ambition, the author of modesty, of inquiry, of doubt, of investigation, of progress and of civilization.</em><br /> -- Robert G. Ingersoll, ("The Gods", 1872)</p>
