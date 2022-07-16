@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Six Murderous Beliefs](https://www.amon-hen.com/humor/29170)
+- [Cradle of Rocks](https://www.amon-hen.com/music/29078)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Six Murderous Beliefs](https://www.amon-hen.com/humor/29170)
 - [Mmmm, Soup Shakes](https://www.amon-hen.com/food/29158)
 - [MST3K 0409 – The Indestructible Man](https://www.amon-hen.com/television/9879)
 - [Beach Dolls](https://www.amon-hen.com/television/29149)
@@ -10,10 +11,10 @@
 - [The Giant Spider Invasion (1975)](https://www.amon-hen.com/movies/29156)
 - [The Dry Cleaner from Des Moines](https://www.amon-hen.com/music/29131)
 - [Bluecoats 50th Anniversary Alumni Corps – Front Ensemble](https://www.amon-hen.com/music/drum-and-bugle-corps/29151)
-- [Front Ensemble](https://www.amon-hen.com/music/drum-and-bugle-corps/29139)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Tupelo (2022)](https://www.drum-corps.net/scores/dci/1476)
 - [Corps Encore (2022)](https://www.drum-corps.net/scores/dci/1470)
 - [Drums on the Chippewa (2022)](https://www.drum-corps.net/scores/dci/1468)
 - [Virtual Show 1 (2022)](https://www.drum-corps.net/scores/dca/1463)
@@ -23,7 +24,6 @@
 - [Drums Along the Columbia (2022)](https://www.drum-corps.net/scores/dci/1451)
 - [DCI West (2022)](https://www.drum-corps.net/scores/dci/1444)
 - [River City Rhapsody – La Crosse (2022)](https://www.drum-corps.net/scores/dci/1442)
-- [Seattle Summer Music Games (2022)](https://www.drum-corps.net/scores/dci/1440)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It's all Christianity, people. The little, stupid differences are nothing next to the big, stupid similarities.</em><br /> -- Bartholomew J. Simpson</p>
+<p><em>When you come to a fork in the road, take it.</em><br /> -- Yogi Berra</p>
