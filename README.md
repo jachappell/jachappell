@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Cradle of Rocks](https://www.amon-hen.com/music/29078)
+- [Kill Switch (2008)](https://www.amon-hen.com/movies/29173)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Cradle of Rocks](https://www.amon-hen.com/music/29078)
 - [RiffTrax – Six Murderous Beliefs](https://www.amon-hen.com/humor/29170)
 - [Mmmm, Soup Shakes](https://www.amon-hen.com/food/29158)
 - [MST3K 0409 – The Indestructible Man](https://www.amon-hen.com/television/9879)
@@ -10,20 +11,19 @@
 - [MST3K Short 0409 – Undersea Kingdom 2](https://www.amon-hen.com/television/9774)
 - [The Giant Spider Invasion (1975)](https://www.amon-hen.com/movies/29156)
 - [The Dry Cleaner from Des Moines](https://www.amon-hen.com/music/29131)
-- [Bluecoats 50th Anniversary Alumni Corps – Front Ensemble](https://www.amon-hen.com/music/drum-and-bugle-corps/29151)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drums Along the Rockies (2022)](https://www.drum-corps.net/scores/dci/1490)
+- [Whitewater Classic (2022)](https://www.drum-corps.net/scores/dci/1486)
+- [DCI Memphis (2022)](https://www.drum-corps.net/scores/dci/1484)
+- [The Buccaneer Classic (2022)](https://www.drum-corps.net/scores/dca/1482)
+- [Drum Corps World – July 15, 2022](https://www.drum-corps.net/news/1480)
+- [Riverside Open (2022)](https://www.drum-corps.net/scores/dci/1478)
 - [DCI Tupelo (2022)](https://www.drum-corps.net/scores/dci/1476)
 - [Corps Encore (2022)](https://www.drum-corps.net/scores/dci/1470)
 - [Drums on the Chippewa (2022)](https://www.drum-corps.net/scores/dci/1468)
 - [Virtual Show 1 (2022)](https://www.drum-corps.net/scores/dca/1463)
-- [DCI Boise (2022)](https://www.drum-corps.net/scores/dci/1459)
-- [The Thunder of Drums (2022)](https://www.drum-corps.net/scores/dci/1457)
-- [Drums Across America – Atlanta (2022)](https://www.drum-corps.net/scores/dci/1455)
-- [Drums Along the Columbia (2022)](https://www.drum-corps.net/scores/dci/1451)
-- [DCI West (2022)](https://www.drum-corps.net/scores/dci/1444)
-- [River City Rhapsody – La Crosse (2022)](https://www.drum-corps.net/scores/dci/1442)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When you come to a fork in the road, take it.</em><br /> -- Yogi Berra</p>
+<p><em>I have a box of telephone rings under my bed.  Whenever I get lonely, I open it up a little bit, and I get a phone call.  One day I dropped the box all over the floor.  The phone wouldn't stop ringing.  I had to get it disconnected.  So I got a new phone.  I didn't have much money, so I had to get an irregular.  It doesn't have a five.  I ran into a friend of mine on the street the other day.  He said why don't you give me a call.  I told him I can't call everybody I want to anymore, my phone doesn't have a five.  He asked how long had it been that way.  I said I didn't know -- my calendar doesn't have any sevens.</em><br /> -- Stephen Wright</p>
