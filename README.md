@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0413 – General Hospital 1](https://www.amon-hen.com/television/8717)
+- [Fire HD 10 Plus tablet](https://www.amon-hen.com/computing/29180)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0413 – General Hospital 1](https://www.amon-hen.com/television/8717)
 - [Kill Switch (2008)](https://www.amon-hen.com/movies/29173)
 - [Cradle of Rocks](https://www.amon-hen.com/music/29078)
 - [RiffTrax – Six Murderous Beliefs](https://www.amon-hen.com/humor/29170)
@@ -10,10 +11,10 @@
 - [MST3K 0409 – The Indestructible Man](https://www.amon-hen.com/television/9879)
 - [Beach Dolls](https://www.amon-hen.com/television/29149)
 - [MST3K Short 0409 – Undersea Kingdom 2](https://www.amon-hen.com/television/9774)
-- [The Giant Spider Invasion (1975)](https://www.amon-hen.com/movies/29156)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [So Cal Classic (2022)](https://www.drum-corps.net/scores/dci/1497)
 - [Gold Showcase (2022)](https://www.drum-corps.net/scores/dci/1494)
 - [Drums Along the Rockies (2022)](https://www.drum-corps.net/scores/dci/1490)
 - [Whitewater Classic (2022)](https://www.drum-corps.net/scores/dci/1486)
@@ -23,7 +24,6 @@
 - [Riverside Open (2022)](https://www.drum-corps.net/scores/dci/1478)
 - [DCI Tupelo (2022)](https://www.drum-corps.net/scores/dci/1476)
 - [Corps Encore (2022)](https://www.drum-corps.net/scores/dci/1470)
-- [Drums on the Chippewa (2022)](https://www.drum-corps.net/scores/dci/1468)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>A tyrant must put on the appearance of uncommon devotion to religion. Subjects are less apprehensive of illegal treatment from a ruler whom they consider godfearing and pious. On the other hand, they do less easily move against him, believing that he has the gods on his side.</em><br /> -- Aristotle (384-322 BCE), "Politics"</p>
+<p><em>America tragically continues to fall behind the Chinese. It seems like no matter what we do, they stay 13 hours ahead.</em><br /> -- Stephen Colbert</p>
