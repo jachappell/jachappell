@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Fire HD 10 Plus tablet](https://www.amon-hen.com/computing/29180)
+- [MST3K 0410 – Hercules Against the Moon Men](https://www.amon-hen.com/television/9931)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Fire HD 10 Plus tablet](https://www.amon-hen.com/computing/29180)
 - [MST3K Short 0413 – General Hospital 1](https://www.amon-hen.com/television/8717)
 - [Kill Switch (2008)](https://www.amon-hen.com/movies/29173)
 - [Cradle of Rocks](https://www.amon-hen.com/music/29078)
@@ -10,10 +11,11 @@
 - [Mmmm, Soup Shakes](https://www.amon-hen.com/food/29158)
 - [MST3K 0409 – The Indestructible Man](https://www.amon-hen.com/television/9879)
 - [Beach Dolls](https://www.amon-hen.com/television/29149)
-- [MST3K Short 0409 – Undersea Kingdom 2](https://www.amon-hen.com/television/9774)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [West Texas Drums (2022)](https://www.drum-corps.net/scores/dci/1504)
+- [Brass Impact (2022)](https://www.drum-corps.net/scores/dci/1502)
 - [So Cal Classic (2022)](https://www.drum-corps.net/scores/dci/1497)
 - [Gold Showcase (2022)](https://www.drum-corps.net/scores/dci/1494)
 - [Drums Along the Rockies (2022)](https://www.drum-corps.net/scores/dci/1490)
@@ -22,8 +24,6 @@
 - [The Buccaneer Classic (2022)](https://www.drum-corps.net/scores/dca/1482)
 - [Drum Corps World – July 15, 2022](https://www.drum-corps.net/news/1480)
 - [Riverside Open (2022)](https://www.drum-corps.net/scores/dci/1478)
-- [DCI Tupelo (2022)](https://www.drum-corps.net/scores/dci/1476)
-- [Corps Encore (2022)](https://www.drum-corps.net/scores/dci/1470)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>America tragically continues to fall behind the Chinese. It seems like no matter what we do, they stay 13 hours ahead.</em><br /> -- Stephen Colbert</p>
+<p><em>In the part of this universe that we know there is great injustice, and often the good suffer, and often the wicked prosper, and one hardly knows which of those is the more annoying.</em><br /> --Bertrand Russell </p>
