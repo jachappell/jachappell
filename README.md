@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0410 – Hercules Against the Moon Men](https://www.amon-hen.com/television/9931)
+- [First Moon Landing](https://www.amon-hen.com/science/3871)
+- [Mmmm, Hot Weather Shortcuts](https://www.amon-hen.com/food/29189)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0410 – Hercules Against the Moon Men](https://www.amon-hen.com/television/9931)
 - [Fire HD 10 Plus tablet](https://www.amon-hen.com/computing/29180)
 - [MST3K Short 0413 – General Hospital 1](https://www.amon-hen.com/television/8717)
 - [Kill Switch (2008)](https://www.amon-hen.com/movies/29173)
 - [Cradle of Rocks](https://www.amon-hen.com/music/29078)
 - [RiffTrax – Six Murderous Beliefs](https://www.amon-hen.com/humor/29170)
 - [Mmmm, Soup Shakes](https://www.amon-hen.com/food/29158)
-- [MST3K 0409 – The Indestructible Man](https://www.amon-hen.com/television/9879)
-- [Beach Dolls](https://www.amon-hen.com/television/29149)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Broken Arrow (2022)](https://www.drum-corps.net/scores/dci/1506)
 - [West Texas Drums (2022)](https://www.drum-corps.net/scores/dci/1504)
 - [Brass Impact (2022)](https://www.drum-corps.net/scores/dci/1502)
 - [So Cal Classic (2022)](https://www.drum-corps.net/scores/dci/1497)
@@ -23,7 +24,6 @@
 - [DCI Memphis (2022)](https://www.drum-corps.net/scores/dci/1484)
 - [The Buccaneer Classic (2022)](https://www.drum-corps.net/scores/dca/1482)
 - [Drum Corps World – July 15, 2022](https://www.drum-corps.net/news/1480)
-- [Riverside Open (2022)](https://www.drum-corps.net/scores/dci/1478)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>In the part of this universe that we know there is great injustice, and often the good suffer, and often the wicked prosper, and one hardly knows which of those is the more annoying.</em><br /> --Bertrand Russell </p>
+<p><em>The human race is a race of cowards; and I am not only marching in that procession but carrying a banner.</em><br /> -- Mark Twain</p>
