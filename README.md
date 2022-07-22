@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [RiffTrax – Vacation Days](https://www.amon-hen.com/humor/29198)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [First Moon Landing](https://www.amon-hen.com/science/3871)
 - [Mmmm, Hot Weather Shortcuts](https://www.amon-hen.com/food/29189)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0410 – Hercules Against the Moon Men](https://www.amon-hen.com/television/9931)
 - [Fire HD 10 Plus tablet](https://www.amon-hen.com/computing/29180)
 - [MST3K Short 0413 – General Hospital 1](https://www.amon-hen.com/television/8717)
 - [Kill Switch (2008)](https://www.amon-hen.com/movies/29173)
 - [Cradle of Rocks](https://www.amon-hen.com/music/29078)
 - [RiffTrax – Six Murderous Beliefs](https://www.amon-hen.com/humor/29170)
-- [Mmmm, Soup Shakes](https://www.amon-hen.com/food/29158)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The human race is a race of cowards; and I am not only marching in that procession but carrying a banner.</em><br /> -- Mark Twain</p>
+<p><em>Science is facts; just as houses are made of stones, so is science made of facts; but a pile of stones is not a house and a collection of facts is not necessarily science.</em><br /> -- Henri Poincare</p>
