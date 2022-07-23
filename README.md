@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Vacation Days](https://www.amon-hen.com/humor/29198)
+- [Lonely Weather](https://www.amon-hen.com/music/29202)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Vacation Days](https://www.amon-hen.com/humor/29198)
 - [First Moon Landing](https://www.amon-hen.com/science/3871)
 - [Mmmm, Hot Weather Shortcuts](https://www.amon-hen.com/food/29189)
 - [MST3K 0410 – Hercules Against the Moon Men](https://www.amon-hen.com/television/9931)
@@ -10,10 +11,11 @@
 - [MST3K Short 0413 – General Hospital 1](https://www.amon-hen.com/television/8717)
 - [Kill Switch (2008)](https://www.amon-hen.com/movies/29173)
 - [Cradle of Rocks](https://www.amon-hen.com/music/29078)
-- [RiffTrax – Six Murderous Beliefs](https://www.amon-hen.com/humor/29170)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Denton (2022)](https://www.drum-corps.net/scores/dci/1513)
+- [DCI Austin (2022)](https://www.drum-corps.net/scores/dci/1510)
 - [DCI Broken Arrow (2022)](https://www.drum-corps.net/scores/dci/1506)
 - [West Texas Drums (2022)](https://www.drum-corps.net/scores/dci/1504)
 - [Brass Impact (2022)](https://www.drum-corps.net/scores/dci/1502)
@@ -22,8 +24,6 @@
 - [Drums Along the Rockies (2022)](https://www.drum-corps.net/scores/dci/1490)
 - [Whitewater Classic (2022)](https://www.drum-corps.net/scores/dci/1486)
 - [DCI Memphis (2022)](https://www.drum-corps.net/scores/dci/1484)
-- [The Buccaneer Classic (2022)](https://www.drum-corps.net/scores/dca/1482)
-- [Drum Corps World – July 15, 2022](https://www.drum-corps.net/news/1480)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Science is facts; just as houses are made of stones, so is science made of facts; but a pile of stones is not a house and a collection of facts is not necessarily science.</em><br /> -- Henri Poincare</p>
+<p><em>Never half-ass two things. Whole-ass one thing.</em><br /> -- Ron Swanson</p>
