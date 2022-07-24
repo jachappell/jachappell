@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Lonely Weather](https://www.amon-hen.com/music/29202)
+- [Movie Crazy (1932)](https://www.amon-hen.com/humor/29204)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Lonely Weather](https://www.amon-hen.com/music/29202)
 - [RiffTrax – Vacation Days](https://www.amon-hen.com/humor/29198)
 - [First Moon Landing](https://www.amon-hen.com/science/3871)
 - [Mmmm, Hot Weather Shortcuts](https://www.amon-hen.com/food/29189)
@@ -10,20 +11,19 @@
 - [Fire HD 10 Plus tablet](https://www.amon-hen.com/computing/29180)
 - [MST3K Short 0413 – General Hospital 1](https://www.amon-hen.com/television/8717)
 - [Kill Switch (2008)](https://www.amon-hen.com/movies/29173)
-- [Cradle of Rocks](https://www.amon-hen.com/music/29078)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Southwestern Championship (2022)](https://www.drum-corps.net/scores/dci/1524)
+- [Summer Thunder (2022)](https://www.drum-corps.net/scores/dci/1522)
+- [Resound (2022)](https://www.drum-corps.net/scores/dci/1518)
+- [DCI Houston (2022)](https://www.drum-corps.net/scores/dci/1516)
+- [Drum Corps World – July 22, 2022](https://www.drum-corps.net/news/1527)
 - [DCI Denton (2022)](https://www.drum-corps.net/scores/dci/1513)
 - [DCI Austin (2022)](https://www.drum-corps.net/scores/dci/1510)
 - [DCI Broken Arrow (2022)](https://www.drum-corps.net/scores/dci/1506)
 - [West Texas Drums (2022)](https://www.drum-corps.net/scores/dci/1504)
 - [Brass Impact (2022)](https://www.drum-corps.net/scores/dci/1502)
-- [So Cal Classic (2022)](https://www.drum-corps.net/scores/dci/1497)
-- [Gold Showcase (2022)](https://www.drum-corps.net/scores/dci/1494)
-- [Drums Along the Rockies (2022)](https://www.drum-corps.net/scores/dci/1490)
-- [Whitewater Classic (2022)](https://www.drum-corps.net/scores/dci/1486)
-- [DCI Memphis (2022)](https://www.drum-corps.net/scores/dci/1484)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Never half-ass two things. Whole-ass one thing.</em><br /> -- Ron Swanson</p>
+<p><em>To me, clowns aren't funny.  In fact, they're kind of scary.  I've wondered where this started, and I think it goes back to the time I went to the circus, and a clown killed my father.</em><br /> -- Jack Handey</p>
