@@ -1,19 +1,22 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K 0411 – The Magic Sword](https://www.amon-hen.com/television/9982)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Pro-lifers don’t care about babies](https://www.amon-hen.com/politics/29224)
 - [Inflation](https://www.amon-hen.com/politics/29221)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: Alternate Routes (Vickery and Castine Series Book 1)](https://www.amon-hen.com/books/297)
 - [MST3K Short 0415 – General Hospital 2](https://www.amon-hen.com/television/8781)
 - [Movie Crazy (1932)](https://www.amon-hen.com/humor/29204)
 - [Lonely Weather](https://www.amon-hen.com/music/29202)
 - [RiffTrax – Vacation Days](https://www.amon-hen.com/humor/29198)
 - [First Moon Landing](https://www.amon-hen.com/science/3871)
-- [Mmmm, Hot Weather Shortcuts](https://www.amon-hen.com/food/29189)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI McKinney (2022)](https://www.drum-corps.net/scores/dci/1543)
+- [DCI Mesquite](https://www.drum-corps.net/scores/dci/1540)
+- [DCI Corpus Christi (2022)](https://www.drum-corps.net/scores/dci/1538)
 - [Diablo Valley Classic Pacific Open Class Championship Finals (2022)](https://www.drum-corps.net/scores/dci/1536)
 - [DCI New Hampshire (2022)](https://www.drum-corps.net/scores/dci/1534)
 - [Golden State Showdown (2022)](https://www.drum-corps.net/scores/dci/1532)
@@ -21,9 +24,6 @@
 - [Summer Thunder (2022)](https://www.drum-corps.net/scores/dci/1522)
 - [Resound (2022)](https://www.drum-corps.net/scores/dci/1518)
 - [DCI Houston (2022)](https://www.drum-corps.net/scores/dci/1516)
-- [Drum Corps World – July 22, 2022](https://www.drum-corps.net/news/1527)
-- [DCI Denton (2022)](https://www.drum-corps.net/scores/dci/1513)
-- [DCI Austin (2022)](https://www.drum-corps.net/scores/dci/1510)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It is said that your life flashes before your eyes just before you die. That is true, it's called Life.</em><br /> -- Terry Pratchett</p>
+<p><em>Brannigan's Law is like Brannigan's love, hard and fast.</em><br /> -- Captain Zapp Brannigan</p>
