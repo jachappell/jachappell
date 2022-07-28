@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0411 – The Magic Sword](https://www.amon-hen.com/television/9982)
+- [Mmmm, Italian-Sauced Fish](https://www.amon-hen.com/food/29226)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0411 – The Magic Sword](https://www.amon-hen.com/television/9982)
 - [Pro-lifers don’t care about babies](https://www.amon-hen.com/politics/29224)
 - [Inflation](https://www.amon-hen.com/politics/29221)
 - [Reading: Alternate Routes (Vickery and Castine Series Book 1)](https://www.amon-hen.com/books/297)
@@ -10,7 +11,6 @@
 - [Movie Crazy (1932)](https://www.amon-hen.com/humor/29204)
 - [Lonely Weather](https://www.amon-hen.com/music/29202)
 - [RiffTrax – Vacation Days](https://www.amon-hen.com/humor/29198)
-- [First Moon Landing](https://www.amon-hen.com/science/3871)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Brannigan's Law is like Brannigan's love, hard and fast.</em><br /> -- Captain Zapp Brannigan</p>
+<p><em>If we have learned one thing from the history of invention and discovery, it is that, in the long run - and often in the short one - the most daring prophecies seem laughably conservative.</em><br /> -- Arthur C. Clarke</p>
