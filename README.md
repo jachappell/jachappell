@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Mads – Glen or Glenda](https://www.amon-hen.com/humor/29237)
+- [Eleanor Rigby](https://www.amon-hen.com/music/29245)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Mads – Glen or Glenda](https://www.amon-hen.com/humor/29237)
 - [Mmmm, Italian-Sauced Fish](https://www.amon-hen.com/food/29226)
 - [MST3K 0411 – The Magic Sword](https://www.amon-hen.com/television/9982)
 - [Pro-lifers don’t care about babies](https://www.amon-hen.com/politics/29224)
@@ -10,10 +11,11 @@
 - [Reading: Alternate Routes (Vickery and Castine Series Book 1)](https://www.amon-hen.com/books/297)
 - [MST3K Short 0415 – General Hospital 2](https://www.amon-hen.com/television/8781)
 - [Movie Crazy (1932)](https://www.amon-hen.com/humor/29204)
-- [Lonely Weather](https://www.amon-hen.com/music/29202)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Music on the Mountain (2022)](https://www.drum-corps.net/scores/dci/1557)
+- [Bluecoats Alumni Corps – July 4th Camp Recap](https://www.drum-corps.net/news/1552)
 - [DCI Little Rock (2022)](https://www.drum-corps.net/scores/dci/1549)
 - [DCI Southern Mississippi (2022)](https://www.drum-corps.net/scores/dci/1546)
 - [DCI McKinney (2022)](https://www.drum-corps.net/scores/dci/1543)
@@ -22,8 +24,6 @@
 - [Diablo Valley Classic Pacific Open Class Championship Finals (2022)](https://www.drum-corps.net/scores/dci/1536)
 - [DCI New Hampshire (2022)](https://www.drum-corps.net/scores/dci/1534)
 - [Golden State Showdown (2022)](https://www.drum-corps.net/scores/dci/1532)
-- [DCI Southwestern Championship (2022)](https://www.drum-corps.net/scores/dci/1524)
-- [Summer Thunder (2022)](https://www.drum-corps.net/scores/dci/1522)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The more data I punch in this card, the lighter it becomes, and the lower the mailing cost.</em><br /> -- S. Kelly-Bootle (<em>The Devil's DP Dictionary</em>)</p>
+<p><em>I think someone should have had the decency to tell me the luncheon was free.  To make someone run out with potato salad in his hand, pretending he's throwing up, is not what I call hospitality.</em><br /> -- Jack Handey</p>
