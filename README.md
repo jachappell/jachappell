@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Eleanor Rigby](https://www.amon-hen.com/music/29245)
+- [R.O.T.O.R. (1987)](https://www.amon-hen.com/movies/29256)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Eleanor Rigby](https://www.amon-hen.com/music/29245)
 - [The Mads – Glen or Glenda](https://www.amon-hen.com/humor/29237)
 - [Mmmm, Italian-Sauced Fish](https://www.amon-hen.com/food/29226)
 - [MST3K 0411 – The Magic Sword](https://www.amon-hen.com/television/9982)
@@ -10,20 +11,19 @@
 - [Inflation](https://www.amon-hen.com/politics/29221)
 - [Reading: Alternate Routes (Vickery and Castine Series Book 1)](https://www.amon-hen.com/books/297)
 - [MST3K Short 0415 – General Hospital 2](https://www.amon-hen.com/television/8781)
-- [Movie Crazy (1932)](https://www.amon-hen.com/humor/29204)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Southeastern Championship (2022)](https://www.drum-corps.net/scores/dci/1572)
+- [DCI Central Illinois (2022)](https://www.drum-corps.net/scores/dci/1568)
+- [Williamsport (2022)](https://www.drum-corps.net/scores/dca/1566)
+- [Legends Drum Corps Invitational (2022)](https://www.drum-corps.net/scores/dci/1564)
+- [The Masters of the Summer Music Games (2022)](https://www.drum-corps.net/scores/dci/1561)
+- [Drum Corps World – July 29, 2022](https://www.drum-corps.net/news/1559)
 - [Music on the Mountain (2022)](https://www.drum-corps.net/scores/dci/1557)
 - [Bluecoats Alumni Corps – July 4th Camp Recap](https://www.drum-corps.net/news/1552)
 - [DCI Little Rock (2022)](https://www.drum-corps.net/scores/dci/1549)
 - [DCI Southern Mississippi (2022)](https://www.drum-corps.net/scores/dci/1546)
-- [DCI McKinney (2022)](https://www.drum-corps.net/scores/dci/1543)
-- [DCI Mesquite](https://www.drum-corps.net/scores/dci/1540)
-- [DCI Corpus Christi (2022)](https://www.drum-corps.net/scores/dci/1538)
-- [Diablo Valley Classic Pacific Open Class Championship Finals (2022)](https://www.drum-corps.net/scores/dci/1536)
-- [DCI New Hampshire (2022)](https://www.drum-corps.net/scores/dci/1534)
-- [Golden State Showdown (2022)](https://www.drum-corps.net/scores/dci/1532)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I think someone should have had the decency to tell me the luncheon was free.  To make someone run out with potato salad in his hand, pretending he's throwing up, is not what I call hospitality.</em><br /> -- Jack Handey</p>
+<p><em>We scientists, whose tragic destiny it has been to make the methods of annihilation ever more gruesome and more effective, must consider it our solemn and transcendent duty to do all in our power in preventing these weapons from being used for the brutal purpose for which they were invented.</em><br /> -- Albert Einstein</p>
