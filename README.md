@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [R.O.T.O.R. (1987)](https://www.amon-hen.com/movies/29256)
+- [MST3K Short 0417 – General Hospital 3](https://www.amon-hen.com/television/8838)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [R.O.T.O.R. (1987)](https://www.amon-hen.com/movies/29256)
 - [Eleanor Rigby](https://www.amon-hen.com/music/29245)
 - [The Mads – Glen or Glenda](https://www.amon-hen.com/humor/29237)
 - [Mmmm, Italian-Sauced Fish](https://www.amon-hen.com/food/29226)
@@ -10,7 +11,6 @@
 - [Pro-lifers don’t care about babies](https://www.amon-hen.com/politics/29224)
 - [Inflation](https://www.amon-hen.com/politics/29221)
 - [Reading: Alternate Routes (Vickery and Castine Series Book 1)](https://www.amon-hen.com/books/297)
-- [MST3K Short 0415 – General Hospital 2](https://www.amon-hen.com/television/8781)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>We scientists, whose tragic destiny it has been to make the methods of annihilation ever more gruesome and more effective, must consider it our solemn and transcendent duty to do all in our power in preventing these weapons from being used for the brutal purpose for which they were invented.</em><br /> -- Albert Einstein</p>
+<p><em>I want to share something with you -- the three little sentences that will get you through life.  Number one, "Cover for me."  Number two, "Oh, good idea, boss." Number three, "It was like that when I got here."</em><br /> -- Homer J. Simpson</p>
