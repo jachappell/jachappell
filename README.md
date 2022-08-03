@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mental Health Care](https://www.amon-hen.com/politics/29271)
+- [MST3K 0412 – Hercules and the Captive Women](https://www.amon-hen.com/television/10040)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mental Health Care](https://www.amon-hen.com/politics/29271)
 - [MST3K Short 0417 – General Hospital 3](https://www.amon-hen.com/television/8838)
 - [R.O.T.O.R. (1987)](https://www.amon-hen.com/movies/29256)
 - [Eleanor Rigby](https://www.amon-hen.com/music/29245)
@@ -10,10 +11,12 @@
 - [Mmmm, Italian-Sauced Fish](https://www.amon-hen.com/food/29226)
 - [MST3K 0411 – The Magic Sword](https://www.amon-hen.com/television/9982)
 - [Pro-lifers don’t care about babies](https://www.amon-hen.com/politics/29224)
-- [Inflation](https://www.amon-hen.com/politics/29221)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Annapolis (2022)](https://www.drum-corps.net/scores/dci/1592)
+- [Summer Music Games of Southwest Virginia (2022)](https://www.drum-corps.net/scores/dci/1590)
+- [DCI Sun Prairie (2022)](https://www.drum-corps.net/scores/dci/1585)
 - [DCI Huntington (2022)](https://www.drum-corps.net/scores/dci/1582)
 - [NightBEAT (2022)](https://www.drum-corps.net/scores/dci/1577)
 - [DCI Southeastern Championship (2022)](https://www.drum-corps.net/scores/dci/1572)
@@ -21,9 +24,6 @@
 - [Williamsport, PA (2022)](https://www.drum-corps.net/scores/dca/1566)
 - [Legends Drum Corps Invitational (2022)](https://www.drum-corps.net/scores/dci/1564)
 - [The Masters of the Summer Music Games (2022)](https://www.drum-corps.net/scores/dci/1561)
-- [Drum Corps World – July 29, 2022](https://www.drum-corps.net/news/1559)
-- [Music on the Mountain (2022)](https://www.drum-corps.net/scores/dci/1557)
-- [Bluecoats Alumni Corps – July 4th Camp Recap](https://www.drum-corps.net/news/1552)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The difference between a man and a boy is, a boy wants to grow up to be a fireman, but a man wants to grow up to be a giant monster fireman.</em><br /> -- Jack Handey</p>
+<p><em>Be both a speaker of words and a doer of deeds.</em><br /> -- Homer</p>
