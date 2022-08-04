@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0412 – Hercules and the Captive Women](https://www.amon-hen.com/television/10040)
+- [Mmmm, Six Meatballs](https://www.amon-hen.com/food/29282)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0412 – Hercules and the Captive Women](https://www.amon-hen.com/television/10040)
 - [Mental Health Care](https://www.amon-hen.com/politics/29271)
 - [MST3K Short 0417 – General Hospital 3](https://www.amon-hen.com/television/8838)
 - [R.O.T.O.R. (1987)](https://www.amon-hen.com/movies/29256)
@@ -10,20 +11,19 @@
 - [The Mads – Glen or Glenda](https://www.amon-hen.com/humor/29237)
 - [Mmmm, Italian-Sauced Fish](https://www.amon-hen.com/food/29226)
 - [MST3K 0411 – The Magic Sword](https://www.amon-hen.com/television/9982)
-- [Pro-lifers don’t care about babies](https://www.amon-hen.com/politics/29224)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [March On! (2022)](https://www.drum-corps.net/scores/dci/1604)
+- [DCI Glassboro (2022)](https://www.drum-corps.net/scores/dci/1601)
+- [Virtual Show 2 (2022)](https://www.drum-corps.net/scores/dca/1597)
+- [Drums Across the Smokies (2022)](https://www.drum-corps.net/scores/dci/1594)
 - [DCI Annapolis (2022)](https://www.drum-corps.net/scores/dci/1592)
 - [Summer Music Games of Southwest Virginia (2022)](https://www.drum-corps.net/scores/dci/1590)
 - [DCI Sun Prairie (2022)](https://www.drum-corps.net/scores/dci/1585)
 - [DCI Huntington (2022)](https://www.drum-corps.net/scores/dci/1582)
 - [NightBEAT (2022)](https://www.drum-corps.net/scores/dci/1577)
 - [DCI Southeastern Championship (2022)](https://www.drum-corps.net/scores/dci/1572)
-- [DCI Central Illinois (2022)](https://www.drum-corps.net/scores/dci/1568)
-- [Williamsport, PA (2022)](https://www.drum-corps.net/scores/dca/1566)
-- [Legends Drum Corps Invitational (2022)](https://www.drum-corps.net/scores/dci/1564)
-- [The Masters of the Summer Music Games (2022)](https://www.drum-corps.net/scores/dci/1561)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Be both a speaker of words and a doer of deeds.</em><br /> -- Homer</p>
+<p><em>I'm about to write you a reality check!  Or would you prefer the cold, hard cash of truth?</em><br /> -- The Tick</p>
