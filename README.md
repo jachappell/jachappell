@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Six Meatballs](https://www.amon-hen.com/food/29282)
+- [RiffTrax – R.O.T.O.R.](https://www.amon-hen.com/humor/29248)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Six Meatballs](https://www.amon-hen.com/food/29282)
 - [MST3K 0412 – Hercules and the Captive Women](https://www.amon-hen.com/television/10040)
 - [Mental Health Care](https://www.amon-hen.com/politics/29271)
 - [MST3K Short 0417 – General Hospital 3](https://www.amon-hen.com/television/8838)
@@ -10,10 +11,10 @@
 - [Eleanor Rigby](https://www.amon-hen.com/music/29245)
 - [The Mads – Glen or Glenda](https://www.amon-hen.com/humor/29237)
 - [Mmmm, Italian-Sauced Fish](https://www.amon-hen.com/food/29226)
-- [MST3K 0411 – The Magic Sword](https://www.amon-hen.com/television/9982)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Soaring Sounds (2022)](https://www.drum-corps.net/scores/dci/1608)
 - [March On! (2022)](https://www.drum-corps.net/scores/dci/1604)
 - [DCI Glassboro (2022)](https://www.drum-corps.net/scores/dci/1601)
 - [Virtual Show 2 (2022)](https://www.drum-corps.net/scores/dca/1597)
@@ -23,7 +24,6 @@
 - [DCI Sun Prairie (2022)](https://www.drum-corps.net/scores/dci/1585)
 - [DCI Huntington (2022)](https://www.drum-corps.net/scores/dci/1582)
 - [NightBEAT (2022)](https://www.drum-corps.net/scores/dci/1577)
-- [DCI Southeastern Championship (2022)](https://www.drum-corps.net/scores/dci/1572)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I'm about to write you a reality check!  Or would you prefer the cold, hard cash of truth?</em><br /> -- The Tick</p>
+<p><em>I hold it, that a little rebellion, now and then, is a good thing...</em><br /> -- Thomas Jefferson</p>
