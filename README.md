@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Great Gig In The Sky](https://www.amon-hen.com/music/20061)
+- [Grandma’s Boy (1922)](https://www.amon-hen.com/humor/29262)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Great Gig In The Sky](https://www.amon-hen.com/music/20061)
 - [RiffTrax – R.O.T.O.R.](https://www.amon-hen.com/humor/29248)
 - [Mmmm, Six Meatballs](https://www.amon-hen.com/food/29282)
 - [MST3K 0412 – Hercules and the Captive Women](https://www.amon-hen.com/television/10040)
@@ -10,10 +11,12 @@
 - [MST3K Short 0417 – General Hospital 3](https://www.amon-hen.com/television/8838)
 - [R.O.T.O.R. (1987)](https://www.amon-hen.com/movies/29256)
 - [Eleanor Rigby](https://www.amon-hen.com/music/29245)
-- [The Mads – Glen or Glenda](https://www.amon-hen.com/humor/29237)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – August, 5, 2022](https://www.drum-corps.net/uncategorized/1623)
+- [Tournament of Drums (2022)](https://www.drum-corps.net/scores/dci/1618)
+- [DCI Eastern Classic – Friday (2022)](https://www.drum-corps.net/scores/dci/1615)
 - [Legends Drum Corps Open (2022)](https://www.drum-corps.net/scores/dci/1612)
 - [Soaring Sounds (2022)](https://www.drum-corps.net/scores/dci/1608)
 - [March On! (2022)](https://www.drum-corps.net/scores/dci/1604)
@@ -21,9 +24,6 @@
 - [Virtual Show 2 (2022)](https://www.drum-corps.net/scores/dca/1597)
 - [Drums Across the Smokies (2022)](https://www.drum-corps.net/scores/dci/1594)
 - [DCI Annapolis (2022)](https://www.drum-corps.net/scores/dci/1592)
-- [Summer Music Games of Southwest Virginia (2022)](https://www.drum-corps.net/scores/dci/1590)
-- [DCI Sun Prairie (2022)](https://www.drum-corps.net/scores/dci/1585)
-- [DCI Huntington (2022)](https://www.drum-corps.net/scores/dci/1582)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>What is my perfect crime? I break into Tiffany's at midnight. Do I go for the vault? No, I go for the chandelier. It's priceless. As I'm taking it down, a woman catches me. She tells me to stop. It's her father's business. She's Tiffany. I say no. We make love all night. In the morning, the cops come and I escape in one of their uniforms. I tell her to meet me in Mexico, but I go to Canada. I don't trust her. Besides, I like the cold. Thirty years later, I get a postcard. I have a son and he's the chief of police. This is where the story gets interesting. I tell Tiffany to meet me in Paris by the Trocadero. She's been waiting for me all these years. She's never taken another lover. I don't care. I don't show up. I go to Berlin. That's where I stashed the chandelier.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>Friends: one to three is sufficient.</em><br /> -- Ron Swanson</p>
