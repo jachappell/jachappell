@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Grandma’s Boy (1922)](https://www.amon-hen.com/humor/29262)
+- [MST3K Short 0419 – Johnny at the Fair](https://www.amon-hen.com/television/8596)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Grandma’s Boy (1922)](https://www.amon-hen.com/humor/29262)
 - [The Great Gig In The Sky](https://www.amon-hen.com/music/20061)
 - [RiffTrax – R.O.T.O.R.](https://www.amon-hen.com/humor/29248)
 - [Mmmm, Six Meatballs](https://www.amon-hen.com/food/29282)
@@ -10,20 +11,19 @@
 - [Mental Health Care](https://www.amon-hen.com/politics/29271)
 - [MST3K Short 0417 – General Hospital 3](https://www.amon-hen.com/television/8838)
 - [R.O.T.O.R. (1987)](https://www.amon-hen.com/movies/29256)
-- [Eleanor Rigby](https://www.amon-hen.com/music/29245)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Eastern Illinois (2022)](https://www.drum-corps.net/scores/dci/1635)
+- [Shoremen Brass Classic (2022)](https://www.drum-corps.net/scores/dci/1633)
+- [DCI Eastern Classic – Saturday (2022)](https://www.drum-corps.net/scores/dci/1631)
+- [Kingston Show (2022)](https://www.drum-corps.net/scores/dca/1628)
 - [Drum Corps World – August, 5, 2022](https://www.drum-corps.net/uncategorized/1623)
 - [Tournament of Drums (2022)](https://www.drum-corps.net/scores/dci/1618)
 - [DCI Eastern Classic – Friday (2022)](https://www.drum-corps.net/scores/dci/1615)
 - [Legends Drum Corps Open (2022)](https://www.drum-corps.net/scores/dci/1612)
 - [Soaring Sounds (2022)](https://www.drum-corps.net/scores/dci/1608)
 - [March On! (2022)](https://www.drum-corps.net/scores/dci/1604)
-- [DCI Glassboro (2022)](https://www.drum-corps.net/scores/dci/1601)
-- [Virtual Show 2 (2022)](https://www.drum-corps.net/scores/dca/1597)
-- [Drums Across the Smokies (2022)](https://www.drum-corps.net/scores/dci/1594)
-- [DCI Annapolis (2022)](https://www.drum-corps.net/scores/dci/1592)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Friends: one to three is sufficient.</em><br /> -- Ron Swanson</p>
+<p><em>If something is to hard to do, then it's not worth doing.  You just stick that guitar in the closet next to your shortwave radio, your karate outfit and your unicycle and we'll go inside and watch TV.</em><br /> -- Homer J. Simpson</p>
