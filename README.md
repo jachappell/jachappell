@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Monkeypox](https://www.amon-hen.com/politics/29292)
+- [MST3K 0413 – Manhunt In Space](https://www.amon-hen.com/television/10046)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Monkeypox](https://www.amon-hen.com/politics/29292)
 - [MST3K Short 0419 – Johnny at the Fair](https://www.amon-hen.com/television/8596)
 - [Grandma’s Boy (1922)](https://www.amon-hen.com/humor/29262)
 - [The Great Gig In The Sky](https://www.amon-hen.com/music/20061)
@@ -10,10 +11,12 @@
 - [Mmmm, Six Meatballs](https://www.amon-hen.com/food/29282)
 - [MST3K 0412 – Hercules and the Captive Women](https://www.amon-hen.com/television/10040)
 - [Mental Health Care](https://www.amon-hen.com/politics/29271)
-- [MST3K Short 0417 – General Hospital 3](https://www.amon-hen.com/television/8838)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [2022 Open Class World Championship Finals](https://www.drum-corps.net/scores/dci/1648)
+- [2022 World Championship Open Class Prelims](https://www.drum-corps.net/scores/dci/1643)
+- [DCI Cincinnati (2022)](https://www.drum-corps.net/scores/dci/1641)
 - [DCI Pittsburgh (2022)](https://www.drum-corps.net/scores/dci/1638)
 - [DCI Eastern Illinois (2022)](https://www.drum-corps.net/scores/dci/1635)
 - [Shoremen Brass Classic (2022)](https://www.drum-corps.net/scores/dci/1633)
@@ -21,9 +24,6 @@
 - [Kingston Show (2022)](https://www.drum-corps.net/scores/dca/1628)
 - [Drum Corps World – August, 5, 2022](https://www.drum-corps.net/uncategorized/1623)
 - [Tournament of Drums (2022)](https://www.drum-corps.net/scores/dci/1618)
-- [DCI Eastern Classic – Friday (2022)](https://www.drum-corps.net/scores/dci/1615)
-- [Legends Drum Corps Open (2022)](https://www.drum-corps.net/scores/dci/1612)
-- [Soaring Sounds (2022)](https://www.drum-corps.net/scores/dci/1608)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>To alcohol! The cause of, and solution to, all of life's problems.</em><br /> -- Homer J. Simpson</p>
+<p><em>Nationalism is an infantile sickness.  It is the measles of the human race.</em><br /> -- Albert Einstein</p>
