@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [RiffTrax – Samurai Cop](https://www.amon-hen.com/humor/29253)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Quality Cheese Food](https://www.amon-hen.com/food/29232)
 - [Royal Airs 2002 Reunion 20th Anniversary](https://www.amon-hen.com/music/drum-and-bugle-corps/29295)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0413 – Manhunt In Space](https://www.amon-hen.com/television/10046)
 - [Monkeypox](https://www.amon-hen.com/politics/29292)
 - [MST3K Short 0419 – Johnny at the Fair](https://www.amon-hen.com/television/8596)
 - [Grandma’s Boy (1922)](https://www.amon-hen.com/humor/29262)
 - [The Great Gig In The Sky](https://www.amon-hen.com/music/20061)
 - [RiffTrax – R.O.T.O.R.](https://www.amon-hen.com/humor/29248)
-- [Mmmm, Six Meatballs](https://www.amon-hen.com/food/29282)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [2022 DCI World Championship Prelims](https://www.drum-corps.net/scores/dci/1656)
 - [Royal Airs 2002 Reunion 20th Anniversary](https://www.drum-corps.net/history/1654)
 - [2022 Open Class World Championship Finals](https://www.drum-corps.net/scores/dci/1648)
 - [2022 World Championship Open Class Prelims](https://www.drum-corps.net/scores/dci/1643)
@@ -23,7 +24,6 @@
 - [Shoremen Brass Classic (2022)](https://www.drum-corps.net/scores/dci/1633)
 - [DCI Eastern Classic – Saturday (2022)](https://www.drum-corps.net/scores/dci/1631)
 - [Kingston Show (2022)](https://www.drum-corps.net/scores/dca/1628)
-- [Drum Corps World – August, 5, 2022](https://www.drum-corps.net/uncategorized/1623)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I would like to suggest that you not use speed, and here's why:  it is going to mess up your heart, mess up your liver, your kidneys, rot out your mind.  In general this drug will make you just like your mother and father.</em><br /> -- Frank Zappa</p>
+<p><em>Sometimes I think the surest sign that intelligent life exists elsewhere in the universe is that none of it has tried to contact us.</em><br /> -- Bill Watterson (<em>Calvin and Hobbes</em>)</p>
