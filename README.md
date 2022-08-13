@@ -1,8 +1,8 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Samurai Cop](https://www.amon-hen.com/humor/29253)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Samurai Cop](https://www.amon-hen.com/humor/29253)
 - [Mmmm, Quality Cheese Food](https://www.amon-hen.com/food/29232)
 - [Royal Airs 2002 Reunion 20th Anniversary](https://www.amon-hen.com/music/drum-and-bugle-corps/29295)
 - [MST3K 0413 – Manhunt In Space](https://www.amon-hen.com/television/10046)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Sometimes I think the surest sign that intelligent life exists elsewhere in the universe is that none of it has tried to contact us.</em><br /> -- Bill Watterson (<em>Calvin and Hobbes</em>)</p>
+<p><em>Gods don't like people not doing much work. People who aren't busy all the time might start to think.</em><br /> -- Terry Pratchett (<em>Small Gods</em>)</p>
