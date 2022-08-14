@@ -1,6 +1,7 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Dr. Jack (1922)](https://www.amon-hen.com/humor/29264)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [RiffTrax – Samurai Cop](https://www.amon-hen.com/humor/29253)
 - [Mmmm, Quality Cheese Food](https://www.amon-hen.com/food/29232)
@@ -10,10 +11,11 @@
 - [MST3K Short 0419 – Johnny at the Fair](https://www.amon-hen.com/television/8596)
 - [Grandma’s Boy (1922)](https://www.amon-hen.com/humor/29262)
 - [The Great Gig In The Sky](https://www.amon-hen.com/music/20061)
-- [RiffTrax – R.O.T.O.R.](https://www.amon-hen.com/humor/29248)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [2022 DCI World Championship Finals](https://www.drum-corps.net/scores/dci/1662)
+- [2022 DCI World Championship Semifinals](https://www.drum-corps.net/scores/dci/1659)
 - [2022 DCI World Championship Prelims](https://www.drum-corps.net/scores/dci/1656)
 - [Royal Airs 2002 Reunion 20th Anniversary](https://www.drum-corps.net/history/1654)
 - [2022 Open Class World Championship Finals](https://www.drum-corps.net/scores/dci/1648)
@@ -22,8 +24,6 @@
 - [DCI Pittsburgh (2022)](https://www.drum-corps.net/scores/dci/1638)
 - [DCI Eastern Illinois (2022)](https://www.drum-corps.net/scores/dci/1635)
 - [Shoremen Brass Classic (2022)](https://www.drum-corps.net/scores/dci/1633)
-- [DCI Eastern Classic – Saturday (2022)](https://www.drum-corps.net/scores/dci/1631)
-- [Kingston Show (2022)](https://www.drum-corps.net/scores/dca/1628)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Gods don't like people not doing much work. People who aren't busy all the time might start to think.</em><br /> -- Terry Pratchett (<em>Small Gods</em>)</p>
+<p><em>Fish, for sport only, not for meat. Fish meat is practically a vegetable.</em><br /> -- Ron Swanson</p>
