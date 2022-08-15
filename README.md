@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Dr. Jack (1922)](https://www.amon-hen.com/humor/29264)
+- [2022 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/29297)
+- [MST3K Short 0421 – Circus on Ice](https://www.amon-hen.com/television/9354)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Dr. Jack (1922)](https://www.amon-hen.com/humor/29264)
+- [Autumn Leaves](https://www.amon-hen.com/music/29243)
 - [RiffTrax – Samurai Cop](https://www.amon-hen.com/humor/29253)
 - [Mmmm, Quality Cheese Food](https://www.amon-hen.com/food/29232)
 - [Royal Airs 2002 Reunion 20th Anniversary](https://www.amon-hen.com/music/drum-and-bugle-corps/29295)
 - [MST3K 0413 – Manhunt In Space](https://www.amon-hen.com/television/10046)
 - [Monkeypox](https://www.amon-hen.com/politics/29292)
-- [MST3K Short 0419 – Johnny at the Fair](https://www.amon-hen.com/television/8596)
-- [Grandma’s Boy (1922)](https://www.amon-hen.com/humor/29262)
-- [The Great Gig In The Sky](https://www.amon-hen.com/music/20061)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Fish, for sport only, not for meat. Fish meat is practically a vegetable.</em><br /> -- Ron Swanson</p>
+<p><em>I can't live the button-down life like you.  I want it all!  The terrifying lows, the dizzying highs, the creamy middles!</em><br /> -- Homer J. Simpson</p>
