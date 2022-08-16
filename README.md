@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Bluecoats 50th Anniversary Alumni Corps Full Performance](https://www.amon-hen.com/music/drum-and-bugle-corps/29303)
+- [Afghanistan](https://www.amon-hen.com/politics/29299)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [2022 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/29297)
 - [MST3K Short 0421 – Circus on Ice](https://www.amon-hen.com/television/9354)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Dr. Jack (1922)](https://www.amon-hen.com/humor/29264)
 - [Autumn Leaves](https://www.amon-hen.com/music/29243)
 - [RiffTrax – Samurai Cop](https://www.amon-hen.com/humor/29253)
 - [Mmmm, Quality Cheese Food](https://www.amon-hen.com/food/29232)
 - [Royal Airs 2002 Reunion 20th Anniversary](https://www.amon-hen.com/music/drum-and-bugle-corps/29295)
-- [MST3K 0413 – Manhunt In Space](https://www.amon-hen.com/television/10046)
-- [Monkeypox](https://www.amon-hen.com/politics/29292)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Bluecoats 50th Anniversary Alumni Corps Full Performance](https://www.drum-corps.net/history/1667)
 - [2022 DCI World Championship Finals](https://www.drum-corps.net/scores/dci/1662)
 - [2022 DCI World Championship Semifinals](https://www.drum-corps.net/scores/dci/1659)
 - [2022 DCI World Championship Prelims](https://www.drum-corps.net/scores/dci/1656)
@@ -23,7 +24,6 @@
 - [DCI Cincinnati (2022)](https://www.drum-corps.net/scores/dci/1641)
 - [DCI Pittsburgh (2022)](https://www.drum-corps.net/scores/dci/1638)
 - [DCI Eastern Illinois (2022)](https://www.drum-corps.net/scores/dci/1635)
-- [Shoremen Brass Classic (2022)](https://www.drum-corps.net/scores/dci/1633)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I can't live the button-down life like you.  I want it all!  The terrifying lows, the dizzying highs, the creamy middles!</em><br /> -- Homer J. Simpson</p>
+<p><em>On the other hand, you have different fingers...</em><br /> -- Steven Wright</p>
