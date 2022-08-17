@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K 0414 – Tormented](https://www.amon-hen.com/television/10123)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Bluecoats 50th Anniversary Alumni Corps Full Performance](https://www.amon-hen.com/music/drum-and-bugle-corps/29303)
 - [Afghanistan](https://www.amon-hen.com/politics/29299)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [2022 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/29297)
 - [MST3K Short 0421 – Circus on Ice](https://www.amon-hen.com/television/9354)
 - [Dr. Jack (1922)](https://www.amon-hen.com/humor/29264)
 - [Autumn Leaves](https://www.amon-hen.com/music/29243)
 - [RiffTrax – Samurai Cop](https://www.amon-hen.com/humor/29253)
 - [Mmmm, Quality Cheese Food](https://www.amon-hen.com/food/29232)
-- [Royal Airs 2002 Reunion 20th Anniversary](https://www.amon-hen.com/music/drum-and-bugle-corps/29295)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>On the other hand, you have different fingers...</em><br /> -- Steven Wright</p>
+<p><em>Twenty two thousand days.<br />Twenty two thousand days.<br />It's not a lot.<br />It's all you've got.<br />Twenty two thousand days.</em><br /> -- Moody Blues, "Twenty Two Thousand Days"</p>
