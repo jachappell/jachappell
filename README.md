@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0414 – Tormented](https://www.amon-hen.com/television/10123)
+- [Mmmm, Canned Strained Vegetables](https://www.amon-hen.com/food/29307)
+- [Reading: Forced Perspectives (Vickery and Castine Series Book 2)](https://www.amon-hen.com/books/297)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0414 – Tormented](https://www.amon-hen.com/television/10123)
 - [Bluecoats 50th Anniversary Alumni Corps Full Performance](https://www.amon-hen.com/music/drum-and-bugle-corps/29303)
 - [Afghanistan](https://www.amon-hen.com/politics/29299)
 - [2022 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/29297)
 - [MST3K Short 0421 – Circus on Ice](https://www.amon-hen.com/television/9354)
 - [Dr. Jack (1922)](https://www.amon-hen.com/humor/29264)
 - [Autumn Leaves](https://www.amon-hen.com/music/29243)
-- [RiffTrax – Samurai Cop](https://www.amon-hen.com/humor/29253)
-- [Mmmm, Quality Cheese Food](https://www.amon-hen.com/food/29232)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Twenty two thousand days.<br />Twenty two thousand days.<br />It's not a lot.<br />It's all you've got.<br />Twenty two thousand days.</em><br /> -- Moody Blues, "Twenty Two Thousand Days"</p>
+<p><em>It's true that every time you hear a bell, an angel gets its wings. But what they don't tell you is that every time you hear a mouse trap snap, and Angel gets set on fire.</em><br /> -- Jack Handey</p>
