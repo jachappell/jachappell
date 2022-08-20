@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – On Guard – Bunco!](https://www.amon-hen.com/humor/29336)
+- [Creep](https://www.amon-hen.com/music/27533)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – On Guard – Bunco!](https://www.amon-hen.com/humor/29336)
 - [Mmmm, Canned Strained Vegetables](https://www.amon-hen.com/food/29307)
 - [Reading: Forced Perspectives (Vickery and Castine Series Book 2)](https://www.amon-hen.com/books/297)
 - [MST3K 0414 – Tormented](https://www.amon-hen.com/television/10123)
@@ -10,10 +11,10 @@
 - [Afghanistan](https://www.amon-hen.com/politics/29299)
 - [2022 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/29297)
 - [MST3K Short 0421 – Circus on Ice](https://www.amon-hen.com/television/9354)
-- [Dr. Jack (1922)](https://www.amon-hen.com/humor/29264)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – August 19, 2022](https://www.drum-corps.net/news/1674)
 - [Bluecoats 50th Anniversary Alumni Corps Full Performance](https://www.drum-corps.net/history/1667)
 - [2022 DCI World Championship Finals](https://www.drum-corps.net/scores/dci/1662)
 - [2022 DCI World Championship Semifinals](https://www.drum-corps.net/scores/dci/1659)
@@ -23,7 +24,6 @@
 - [2022 World Championship Open Class Prelims](https://www.drum-corps.net/scores/dci/1643)
 - [DCI Cincinnati (2022)](https://www.drum-corps.net/scores/dci/1641)
 - [DCI Pittsburgh (2022)](https://www.drum-corps.net/scores/dci/1638)
-- [DCI Eastern Illinois (2022)](https://www.drum-corps.net/scores/dci/1635)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>May the forces of evil become confused on the way to your house.</em><br /> -- George Carlin</p>
+<p><em>The whole earth is in jail and we're plotting this incredible jailbreak.</em><br /> -- Wavy Gravy</p>
