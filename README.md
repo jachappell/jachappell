@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Creep](https://www.amon-hen.com/music/27533)
+- [Joshua and the Promised Land (2003)](https://www.amon-hen.com/religion/29274)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Creep](https://www.amon-hen.com/music/27533)
 - [RiffTrax – On Guard – Bunco!](https://www.amon-hen.com/humor/29336)
 - [Mmmm, Canned Strained Vegetables](https://www.amon-hen.com/food/29307)
 - [Reading: Forced Perspectives (Vickery and Castine Series Book 2)](https://www.amon-hen.com/books/297)
@@ -10,10 +11,10 @@
 - [Bluecoats 50th Anniversary Alumni Corps Full Performance](https://www.amon-hen.com/music/drum-and-bugle-corps/29303)
 - [Afghanistan](https://www.amon-hen.com/politics/29299)
 - [2022 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/29297)
-- [MST3K Short 0421 – Circus on Ice](https://www.amon-hen.com/television/9354)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Bushwackers Invitational (2022)](https://www.drum-corps.net/scores/dca/1676)
 - [Drum Corps World – August 19, 2022](https://www.drum-corps.net/news/1674)
 - [Bluecoats 50th Anniversary Alumni Corps Full Performance](https://www.drum-corps.net/history/1667)
 - [2022 DCI World Championship Finals](https://www.drum-corps.net/scores/dci/1662)
@@ -23,7 +24,6 @@
 - [2022 Open Class World Championship Finals](https://www.drum-corps.net/scores/dci/1648)
 - [2022 World Championship Open Class Prelims](https://www.drum-corps.net/scores/dci/1643)
 - [DCI Cincinnati (2022)](https://www.drum-corps.net/scores/dci/1641)
-- [DCI Pittsburgh (2022)](https://www.drum-corps.net/scores/dci/1638)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The whole earth is in jail and we're plotting this incredible jailbreak.</em><br /> -- Wavy Gravy</p>
+<p><em>Economists can certainly disappoint you.  One said that the economy would turn up by the last quarter.  Well, I'm down to mine and it hasn't.</em><br /> -- Robert Orben</p>
