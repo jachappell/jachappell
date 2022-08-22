@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Joshua and the Promised Land (2003)](https://www.amon-hen.com/religion/29274)
+- [MST3K Short 0422 – Here Comes The Circus](https://www.amon-hen.com/television/6082)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Joshua and the Promised Land (2003)](https://www.amon-hen.com/religion/29274)
 - [Creep](https://www.amon-hen.com/music/27533)
 - [RiffTrax – On Guard – Bunco!](https://www.amon-hen.com/humor/29336)
 - [Mmmm, Canned Strained Vegetables](https://www.amon-hen.com/food/29307)
@@ -10,7 +11,6 @@
 - [MST3K 0414 – Tormented](https://www.amon-hen.com/television/10123)
 - [Bluecoats 50th Anniversary Alumni Corps Full Performance](https://www.amon-hen.com/music/drum-and-bugle-corps/29303)
 - [Afghanistan](https://www.amon-hen.com/politics/29299)
-- [2022 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/29297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Economists can certainly disappoint you.  One said that the economy would turn up by the last quarter.  Well, I'm down to mine and it hasn't.</em><br /> -- Robert Orben</p>
+<p><em>I bet when the neanderthal kids would make a snowman, someone would always end up saying, "Don't forget the thick, heavy brows." Then they would all get embarrassed because they remembered they had the big hunky brows too, and they'd get mad and eat the snowman.</em><br /> -- Jack Handey</p>
