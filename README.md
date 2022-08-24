@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Carbon Offsets](https://www.amon-hen.com/science/29346)
+- [MST3K 0415  – The Beatniks](https://www.amon-hen.com/television/10159)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Carbon Offsets](https://www.amon-hen.com/science/29346)
 - [MST3K Short 0422 – Here Comes The Circus](https://www.amon-hen.com/television/6082)
 - [Joshua and the Promised Land (2003)](https://www.amon-hen.com/religion/29274)
 - [Creep](https://www.amon-hen.com/music/27533)
@@ -10,7 +11,6 @@
 - [Mmmm, Canned Strained Vegetables](https://www.amon-hen.com/food/29307)
 - [Reading: Forced Perspectives (Vickery and Castine Series Book 2)](https://www.amon-hen.com/books/297)
 - [MST3K 0414 – Tormented](https://www.amon-hen.com/television/10123)
-- [Bluecoats 50th Anniversary Alumni Corps Full Performance](https://www.amon-hen.com/music/drum-and-bugle-corps/29303)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>John Bolton is like that dickish junior manager at an Applebee's.</em><br /> -- Jon Stewart</p>
+<p><em>I think a good product would be "Baby Duck Hat". It's a fake baby duck, which you strap on top of your head. Then you go swimming underwater until you find a mommy duck and her babies, and you join them. Then, all of a sudden, you stand up out of the water and roar like Godzilla. Man, those ducks really take off! Also, Baby Duck Hat is good for parties.</em><br /> -- Jack Handey</p>
