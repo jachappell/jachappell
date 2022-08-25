@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0415  – The Beatniks](https://www.amon-hen.com/television/10159)
+- [Mmmm, Post Surgery Meat](https://www.amon-hen.com/food/29320)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0415  – The Beatniks](https://www.amon-hen.com/television/10159)
 - [Carbon Offsets](https://www.amon-hen.com/science/29346)
 - [MST3K Short 0422 – Here Comes The Circus](https://www.amon-hen.com/television/6082)
 - [Joshua and the Promised Land (2003)](https://www.amon-hen.com/religion/29274)
@@ -10,10 +11,10 @@
 - [RiffTrax – On Guard – Bunco!](https://www.amon-hen.com/humor/29336)
 - [Mmmm, Canned Strained Vegetables](https://www.amon-hen.com/food/29307)
 - [Reading: Forced Perspectives (Vickery and Castine Series Book 2)](https://www.amon-hen.com/books/297)
-- [MST3K 0414 – Tormented](https://www.amon-hen.com/television/10123)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Virtual Show 3 (2022)](https://www.drum-corps.net/scores/dca/1682)
 - [Bushwackers Invitational (2022)](https://www.drum-corps.net/scores/dca/1676)
 - [Drum Corps World – August 19, 2022](https://www.drum-corps.net/news/1674)
 - [Bluecoats 50th Anniversary Alumni Corps Full Performance](https://www.drum-corps.net/history/1667)
@@ -23,7 +24,6 @@
 - [Royal Airs 2002 Reunion 20th Anniversary](https://www.drum-corps.net/history/1654)
 - [2022 Open Class World Championship Finals](https://www.drum-corps.net/scores/dci/1648)
 - [2022 World Championship Open Class Prelims](https://www.drum-corps.net/scores/dci/1643)
-- [DCI Cincinnati (2022)](https://www.drum-corps.net/scores/dci/1641)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I think a good product would be "Baby Duck Hat". It's a fake baby duck, which you strap on top of your head. Then you go swimming underwater until you find a mommy duck and her babies, and you join them. Then, all of a sudden, you stand up out of the water and roar like Godzilla. Man, those ducks really take off! Also, Baby Duck Hat is good for parties.</em><br /> -- Jack Handey</p>
+<p><em>Colonel Klink, why have you forsaken me?</em><br /> -- Homer J. Simpson</p>
