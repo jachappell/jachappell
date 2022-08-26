@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Post Surgery Meat](https://www.amon-hen.com/food/29320)
+- [RiffTrax – Honor and Glory](https://www.amon-hen.com/humor/29338)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Post Surgery Meat](https://www.amon-hen.com/food/29320)
 - [MST3K 0415  – The Beatniks](https://www.amon-hen.com/television/10159)
 - [Carbon Offsets](https://www.amon-hen.com/science/29346)
 - [MST3K Short 0422 – Here Comes The Circus](https://www.amon-hen.com/television/6082)
@@ -10,7 +11,6 @@
 - [Creep](https://www.amon-hen.com/music/27533)
 - [RiffTrax – On Guard – Bunco!](https://www.amon-hen.com/humor/29336)
 - [Mmmm, Canned Strained Vegetables](https://www.amon-hen.com/food/29307)
-- [Reading: Forced Perspectives (Vickery and Castine Series Book 2)](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Colonel Klink, why have you forsaken me?</em><br /> -- Homer J. Simpson</p>
+<p><em>Christopher Columbus, as everyone knows, is honored by posterity because he was the last to discover America.</em><br /> -- James Joyce</p>
