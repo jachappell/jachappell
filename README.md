@@ -1,19 +1,21 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Omega Cop (1989)](https://www.amon-hen.com/movies/29313)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Boxer](https://www.amon-hen.com/music/27537)
 - [Reading: Stolen Skies (Vickery and Castine Series Book 3)](https://www.amon-hen.com/books/297)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [RiffTrax – Honor and Glory](https://www.amon-hen.com/humor/29338)
 - [Mmmm, Post Surgery Meat](https://www.amon-hen.com/food/29320)
 - [MST3K 0415  – The Beatniks](https://www.amon-hen.com/television/10159)
 - [Carbon Offsets](https://www.amon-hen.com/science/29346)
 - [MST3K Short 0422 – Here Comes The Circus](https://www.amon-hen.com/television/6082)
 - [Joshua and the Promised Land (2003)](https://www.amon-hen.com/religion/29274)
-- [Creep](https://www.amon-hen.com/music/27533)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Seymour Show (2022)](https://www.drum-corps.net/scores/dca/1691)
+- [Reading Show (2022)](https://www.drum-corps.net/scores/dca/1688)
 - [Virtual Show 3 (2022)](https://www.drum-corps.net/scores/dca/1682)
 - [Bushwackers Invitational (2022)](https://www.drum-corps.net/scores/dca/1676)
 - [Drum Corps World – August 19, 2022](https://www.drum-corps.net/news/1674)
@@ -22,8 +24,6 @@
 - [2022 DCI World Championship Semifinals](https://www.drum-corps.net/scores/dci/1659)
 - [2022 DCI World Championship Prelims](https://www.drum-corps.net/scores/dci/1656)
 - [Royal Airs 2002 Reunion 20th Anniversary](https://www.drum-corps.net/history/1654)
-- [2022 Open Class World Championship Finals](https://www.drum-corps.net/scores/dci/1648)
-- [2022 World Championship Open Class Prelims](https://www.drum-corps.net/scores/dci/1643)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Frisbeetarianism is the belief that when you die, your soul goes up on the roof and gets stuck.</em><br /> -- George Carlin</p>
+<p><em>Because all you of Earth are idiots!</em><br /> -- Eros (<em>Plan 9 from Outer Space</em>)</p>
