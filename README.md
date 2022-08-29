@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Omega Cop (1989)](https://www.amon-hen.com/movies/29313)
+- [MST3K Short 0423 – Hired! 1](https://www.amon-hen.com/television/7070)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Omega Cop (1989)](https://www.amon-hen.com/movies/29313)
 - [The Boxer](https://www.amon-hen.com/music/27537)
 - [Reading: Stolen Skies (Vickery and Castine Series Book 3)](https://www.amon-hen.com/books/297)
 - [RiffTrax – Honor and Glory](https://www.amon-hen.com/humor/29338)
@@ -10,7 +11,6 @@
 - [MST3K 0415  – The Beatniks](https://www.amon-hen.com/television/10159)
 - [Carbon Offsets](https://www.amon-hen.com/science/29346)
 - [MST3K Short 0422 – Here Comes The Circus](https://www.amon-hen.com/television/6082)
-- [Joshua and the Promised Land (2003)](https://www.amon-hen.com/religion/29274)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Because all you of Earth are idiots!</em><br /> -- Eros (<em>Plan 9 from Outer Space</em>)</p>
+<p><em>God gave man two ears and one tongue so that we listen twice as much as we speak.</em><br /> -- Arab proverb</p>
