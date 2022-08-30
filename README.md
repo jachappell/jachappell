@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0423 – Hired! 1](https://www.amon-hen.com/television/7070)
+- [AI Images](https://www.amon-hen.com/television/29351)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0423 – Hired! 1](https://www.amon-hen.com/television/7070)
 - [Omega Cop (1989)](https://www.amon-hen.com/movies/29313)
 - [The Boxer](https://www.amon-hen.com/music/27537)
 - [Reading: Stolen Skies (Vickery and Castine Series Book 3)](https://www.amon-hen.com/books/297)
@@ -10,7 +11,6 @@
 - [Mmmm, Post Surgery Meat](https://www.amon-hen.com/food/29320)
 - [MST3K 0415  – The Beatniks](https://www.amon-hen.com/television/10159)
 - [Carbon Offsets](https://www.amon-hen.com/science/29346)
-- [MST3K Short 0422 – Here Comes The Circus](https://www.amon-hen.com/television/6082)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>God gave man two ears and one tongue so that we listen twice as much as we speak.</em><br /> -- Arab proverb</p>
+<p><em>Facts are meaningless.  You can use facts to prove anything that's even remotely true.</em><br /> -- Homer J. Simpson</p>
