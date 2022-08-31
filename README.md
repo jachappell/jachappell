@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [AI Images](https://www.amon-hen.com/television/29351)
+- [MST3K 0416 – Fire Maidens of Outer Space](https://www.amon-hen.com/television/10206)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [AI Images](https://www.amon-hen.com/television/29351)
 - [MST3K Short 0423 – Hired! 1](https://www.amon-hen.com/television/7070)
 - [Omega Cop (1989)](https://www.amon-hen.com/movies/29313)
 - [The Boxer](https://www.amon-hen.com/music/27537)
@@ -10,10 +11,11 @@
 - [RiffTrax – Honor and Glory](https://www.amon-hen.com/humor/29338)
 - [Mmmm, Post Surgery Meat](https://www.amon-hen.com/food/29320)
 - [MST3K 0415  – The Beatniks](https://www.amon-hen.com/television/10159)
-- [Carbon Offsets](https://www.amon-hen.com/science/29346)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Syvåtte](https://www.drum-corps.net/percussion/1697)
+- [Virtual Show 4 (2022)](https://www.drum-corps.net/scores/dca/1695)
 - [Seymour Show (2022)](https://www.drum-corps.net/scores/dca/1691)
 - [Reading Show (2022)](https://www.drum-corps.net/scores/dca/1688)
 - [Virtual Show 3 (2022)](https://www.drum-corps.net/scores/dca/1682)
@@ -22,8 +24,6 @@
 - [Bluecoats 50th Anniversary Alumni Corps Full Performance](https://www.drum-corps.net/history/1667)
 - [2022 DCI World Championship Finals](https://www.drum-corps.net/scores/dci/1662)
 - [2022 DCI World Championship Semifinals](https://www.drum-corps.net/scores/dci/1659)
-- [2022 DCI World Championship Prelims](https://www.drum-corps.net/scores/dci/1656)
-- [Royal Airs 2002 Reunion 20th Anniversary](https://www.drum-corps.net/history/1654)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Facts are meaningless.  You can use facts to prove anything that's even remotely true.</em><br /> -- Homer J. Simpson</p>
+<p><em>There is one way to find out if a man is honest -- ask him.  If he says "Yes" you know he is crooked.</em><br /> -- Groucho Marx</p>
