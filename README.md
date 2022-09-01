@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0416 – Fire Maidens of Outer Space](https://www.amon-hen.com/television/10206)
+- [Mmmm, Beverage of Moderation](https://www.amon-hen.com/food/29353)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0416 – Fire Maidens of Outer Space](https://www.amon-hen.com/television/10206)
 - [AI Images](https://www.amon-hen.com/television/29351)
 - [MST3K Short 0423 – Hired! 1](https://www.amon-hen.com/television/7070)
 - [Omega Cop (1989)](https://www.amon-hen.com/movies/29313)
@@ -10,7 +11,6 @@
 - [Reading: Stolen Skies (Vickery and Castine Series Book 3)](https://www.amon-hen.com/books/297)
 - [RiffTrax – Honor and Glory](https://www.amon-hen.com/humor/29338)
 - [Mmmm, Post Surgery Meat](https://www.amon-hen.com/food/29320)
-- [MST3K 0415  – The Beatniks](https://www.amon-hen.com/television/10159)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>There is one way to find out if a man is honest -- ask him.  If he says "Yes" you know he is crooked.</em><br /> -- Groucho Marx</p>
+<p><em>No character, however upright, is a match for constantly reiterated attacks, however false.</em><br /> -- Alexander Hamilton</p>
