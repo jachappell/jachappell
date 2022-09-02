@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Beverage of Moderation](https://www.amon-hen.com/food/29353)
+- [RiffTrax – Retro Puppet Master](https://www.amon-hen.com/humor/29359)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Beverage of Moderation](https://www.amon-hen.com/food/29353)
 - [MST3K 0416 – Fire Maidens of Outer Space](https://www.amon-hen.com/television/10206)
 - [AI Images](https://www.amon-hen.com/television/29351)
 - [MST3K Short 0423 – Hired! 1](https://www.amon-hen.com/television/7070)
@@ -10,7 +11,6 @@
 - [The Boxer](https://www.amon-hen.com/music/27537)
 - [Reading: Stolen Skies (Vickery and Castine Series Book 3)](https://www.amon-hen.com/books/297)
 - [RiffTrax – Honor and Glory](https://www.amon-hen.com/humor/29338)
-- [Mmmm, Post Surgery Meat](https://www.amon-hen.com/food/29320)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>No character, however upright, is a match for constantly reiterated attacks, however false.</em><br /> -- Alexander Hamilton</p>
+<p><em>Ethics are so annoying.  I avoid them on principle.</em><br /> -- Darby Conley</p>
