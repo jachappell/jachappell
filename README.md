@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Syvåtte (2022)](https://www.amon-hen.com/music/drum-and-bugle-corps/29361)
+- [Mummy Dearest (2021)](https://www.amon-hen.com/movies/29364)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Syvåtte (2022)](https://www.amon-hen.com/music/drum-and-bugle-corps/29361)
 - [RiffTrax – Retro Puppet Master](https://www.amon-hen.com/humor/29359)
 - [Mmmm, Beverage of Moderation](https://www.amon-hen.com/food/29353)
 - [MST3K 0416 – Fire Maidens of Outer Space](https://www.amon-hen.com/television/10206)
@@ -10,10 +11,10 @@
 - [MST3K Short 0423 – Hired! 1](https://www.amon-hen.com/television/7070)
 - [Omega Cop (1989)](https://www.amon-hen.com/movies/29313)
 - [The Boxer](https://www.amon-hen.com/music/27537)
-- [Reading: Stolen Skies (Vickery and Castine Series Book 3)](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [2022 DCA World Championships Prelims](https://www.drum-corps.net/scores/dca/1701)
 - [Syvåtte](https://www.drum-corps.net/percussion/1697)
 - [Virtual Show 4 (2022)](https://www.drum-corps.net/scores/dca/1695)
 - [Seymour Show (2022)](https://www.drum-corps.net/scores/dca/1691)
@@ -23,7 +24,6 @@
 - [Drum Corps World – August 19, 2022](https://www.drum-corps.net/news/1674)
 - [Bluecoats 50th Anniversary Alumni Corps Full Performance](https://www.drum-corps.net/history/1667)
 - [2022 DCI World Championship Finals](https://www.drum-corps.net/scores/dci/1662)
-- [2022 DCI World Championship Semifinals](https://www.drum-corps.net/scores/dci/1659)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>He that bringeth a present, findeth the door open.</em><br /> -- Scottish proverb</p>
+<p><em>I kissed my first girl and smoked my first cigarette on the same day. I haven't had time for tobacco since.</em><br /> -- Arturo Toscanini</p>
