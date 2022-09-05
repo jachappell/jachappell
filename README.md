@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mummy Dearest (2021)](https://www.amon-hen.com/movies/29364)
+- [MST3K Short 0424 – Hired! 2](https://www.amon-hen.com/television/12858)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mummy Dearest (2021)](https://www.amon-hen.com/movies/29364)
 - [Syvåtte (2022)](https://www.amon-hen.com/music/drum-and-bugle-corps/29361)
 - [RiffTrax – Retro Puppet Master](https://www.amon-hen.com/humor/29359)
 - [Mmmm, Beverage of Moderation](https://www.amon-hen.com/food/29353)
@@ -10,7 +11,6 @@
 - [AI Images](https://www.amon-hen.com/television/29351)
 - [MST3K Short 0423 – Hired! 1](https://www.amon-hen.com/television/7070)
 - [Omega Cop (1989)](https://www.amon-hen.com/movies/29313)
-- [The Boxer](https://www.amon-hen.com/music/27537)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I kissed my first girl and smoked my first cigarette on the same day. I haven't had time for tobacco since.</em><br /> -- Arturo Toscanini</p>
+<p><em>I'll die if I miss </em>Scooby-Doo<em>.</em><br /> -- Neil Pye</p>
