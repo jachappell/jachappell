@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0424 – Hired! 2](https://www.amon-hen.com/television/12858)
+- [The NCAA](https://www.amon-hen.com/politics/29367)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0424 – Hired! 2](https://www.amon-hen.com/television/12858)
 - [Mummy Dearest (2021)](https://www.amon-hen.com/movies/29364)
 - [Syvåtte (2022)](https://www.amon-hen.com/music/drum-and-bugle-corps/29361)
 - [RiffTrax – Retro Puppet Master](https://www.amon-hen.com/humor/29359)
@@ -10,10 +11,10 @@
 - [MST3K 0416 – Fire Maidens of Outer Space](https://www.amon-hen.com/television/10206)
 - [AI Images](https://www.amon-hen.com/television/29351)
 - [MST3K Short 0423 – Hired! 1](https://www.amon-hen.com/television/7070)
-- [Omega Cop (1989)](https://www.amon-hen.com/movies/29313)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [2022 DCA World Championships Finals](https://www.drum-corps.net/scores/dca/1707)
 - [2022 DCA World Championships Prelims](https://www.drum-corps.net/scores/dca/1701)
 - [Syvåtte](https://www.drum-corps.net/percussion/1697)
 - [Virtual Show 4 (2022)](https://www.drum-corps.net/scores/dca/1695)
@@ -23,7 +24,6 @@
 - [Bushwackers Invitational (2022)](https://www.drum-corps.net/scores/dca/1676)
 - [Drum Corps World – August 19, 2022](https://www.drum-corps.net/news/1674)
 - [Bluecoats 50th Anniversary Alumni Corps Full Performance](https://www.drum-corps.net/history/1667)
-- [2022 DCI World Championship Finals](https://www.drum-corps.net/scores/dci/1662)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I'll die if I miss </em>Scooby-Doo<em>.</em><br /> -- Neil Pye</p>
+<p><em>Anyone who imagines that all fruits ripen at the same time as the strawberries, knows nothing about grapes.</em><br /> -- Philippus Paracelsus</p>
