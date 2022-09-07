@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The NCAA](https://www.amon-hen.com/politics/29367)
+- [MST3K 0417 – Crash of the Moons](https://www.amon-hen.com/television/10271)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The NCAA](https://www.amon-hen.com/politics/29367)
 - [MST3K Short 0424 – Hired! 2](https://www.amon-hen.com/television/12858)
 - [Mummy Dearest (2021)](https://www.amon-hen.com/movies/29364)
 - [Syvåtte (2022)](https://www.amon-hen.com/music/drum-and-bugle-corps/29361)
@@ -10,7 +11,6 @@
 - [Mmmm, Beverage of Moderation](https://www.amon-hen.com/food/29353)
 - [MST3K 0416 – Fire Maidens of Outer Space](https://www.amon-hen.com/television/10206)
 - [AI Images](https://www.amon-hen.com/television/29351)
-- [MST3K Short 0423 – Hired! 1](https://www.amon-hen.com/television/7070)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Anyone who imagines that all fruits ripen at the same time as the strawberries, knows nothing about grapes.</em><br /> -- Philippus Paracelsus</p>
+<p><em>It's like fire and ice, basically.  I feel my role in the band is to be somewhere in the middle of that, kind of like lukewarm water.</em><br /> -- Derek Smalls</p>
