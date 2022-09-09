@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Nourishing Meat from a Can](https://www.amon-hen.com/food/29371)
+- [RiffTrax – How To Be A Friend](https://www.amon-hen.com/humor/29377)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Nourishing Meat from a Can](https://www.amon-hen.com/food/29371)
 - [MST3K 0417 – Crash of the Moons](https://www.amon-hen.com/television/10271)
 - [The NCAA](https://www.amon-hen.com/politics/29367)
 - [MST3K Short 0424 – Hired! 2](https://www.amon-hen.com/television/12858)
@@ -10,7 +11,6 @@
 - [Syvåtte (2022)](https://www.amon-hen.com/music/drum-and-bugle-corps/29361)
 - [RiffTrax – Retro Puppet Master](https://www.amon-hen.com/humor/29359)
 - [Mmmm, Beverage of Moderation](https://www.amon-hen.com/food/29353)
-- [MST3K 0416 – Fire Maidens of Outer Space](https://www.amon-hen.com/television/10206)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Music is essentially useless, as life is.</em><br /> -- George Santayana</p>
+<p><em>Brought to you by the Booze Council - because Booze really satisfies.</em><br /> -- Tom Servo</p>
