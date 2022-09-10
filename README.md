@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – How To Be A Friend](https://www.amon-hen.com/humor/29377)
+- [Running Up That Hill (live)](https://www.amon-hen.com/music/4360)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – How To Be A Friend](https://www.amon-hen.com/humor/29377)
 - [Mmmm, Nourishing Meat from a Can](https://www.amon-hen.com/food/29371)
 - [MST3K 0417 – Crash of the Moons](https://www.amon-hen.com/television/10271)
 - [The NCAA](https://www.amon-hen.com/politics/29367)
@@ -10,10 +11,10 @@
 - [Mummy Dearest (2021)](https://www.amon-hen.com/movies/29364)
 - [Syvåtte (2022)](https://www.amon-hen.com/music/drum-and-bugle-corps/29361)
 - [RiffTrax – Retro Puppet Master](https://www.amon-hen.com/humor/29359)
-- [Mmmm, Beverage of Moderation](https://www.amon-hen.com/food/29353)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – September 2022](https://www.drum-corps.net/news/1732)
 - [Seattle Cascades Set for Return to Drum Corps International in 2023](https://www.drum-corps.net/news/1727)
 - [2022 DCA World Championships Finals](https://www.drum-corps.net/scores/dca/1707)
 - [2022 DCA World Championships Prelims](https://www.drum-corps.net/scores/dca/1701)
@@ -23,7 +24,6 @@
 - [Reading Show (2022)](https://www.drum-corps.net/scores/dca/1688)
 - [Virtual Show 3 (2022)](https://www.drum-corps.net/scores/dca/1682)
 - [Bushwackers Invitational (2022)](https://www.drum-corps.net/scores/dca/1676)
-- [Drum Corps World – August 19, 2022](https://www.drum-corps.net/news/1674)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Brought to you by the Booze Council - because Booze really satisfies.</em><br /> -- Tom Servo</p>
+<p><em>The so-called Christian nations are the most enlightened and progressive...but in spite of their religion, not because of it. The Church has opposed every innovation and discovery from the day of Galileo down to our own time, when the use of anesthetic in childbirth was regarded as a sin because it avoided the biblical curse pronounced against Eve. And every step in astronomy and geology ever taken has been opposed by bigotry and superstition. The Greeks surpassed us in artistic culture and in architecture five hundred years before Christian religion was born.</em><br /> -- Mark Twain</p>
