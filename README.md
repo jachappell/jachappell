@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Running Up That Hill (live)](https://www.amon-hen.com/music/4360)
+- [Reading: World Engines: Destroyer](https://www.amon-hen.com/books/297)
+- [MST3K Short 0503 – What to Do on a Date](https://www.amon-hen.com/television/6024)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Professor Beware (1938)](https://www.amon-hen.com/humor/29384)
+- [Running Up That Hill (live)](https://www.amon-hen.com/music/4360)
 - [RiffTrax – How To Be A Friend](https://www.amon-hen.com/humor/29377)
 - [Mmmm, Nourishing Meat from a Can](https://www.amon-hen.com/food/29371)
 - [MST3K 0417 – Crash of the Moons](https://www.amon-hen.com/television/10271)
 - [The NCAA](https://www.amon-hen.com/politics/29367)
 - [MST3K Short 0424 – Hired! 2](https://www.amon-hen.com/television/12858)
-- [Mummy Dearest (2021)](https://www.amon-hen.com/movies/29364)
-- [Syvåtte (2022)](https://www.amon-hen.com/music/drum-and-bugle-corps/29361)
-- [RiffTrax – Retro Puppet Master](https://www.amon-hen.com/humor/29359)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The so-called Christian nations are the most enlightened and progressive...but in spite of their religion, not because of it. The Church has opposed every innovation and discovery from the day of Galileo down to our own time, when the use of anesthetic in childbirth was regarded as a sin because it avoided the biblical curse pronounced against Eve. And every step in astronomy and geology ever taken has been opposed by bigotry and superstition. The Greeks surpassed us in artistic culture and in architecture five hundred years before Christian religion was born.</em><br /> -- Mark Twain</p>
+<p><em>I don't want this parks department to build, any parks, because I don't believe in government. I think that all government is a waste of taxpayer money.</em><br /> -- Ron Swanson</p>
