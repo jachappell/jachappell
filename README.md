@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0418 – Attack of the The Eye Creatures](https://www.amon-hen.com/television/4941)
+- [Caesar Salad](https://www.amon-hen.com/food/29401)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0418 – Attack of the The Eye Creatures](https://www.amon-hen.com/television/4941)
 - [Drum Workshop Joins Roland Corporation](https://www.amon-hen.com/music/drums-and-percussion/29393)
 - [Law & Order](https://www.amon-hen.com/politics/29390)
 - [Reading: World Engines: Destroyer](https://www.amon-hen.com/books/297)
@@ -10,7 +11,6 @@
 - [Professor Beware (1938)](https://www.amon-hen.com/humor/29384)
 - [Running Up That Hill (live)](https://www.amon-hen.com/music/4360)
 - [RiffTrax – How To Be A Friend](https://www.amon-hen.com/humor/29377)
-- [Mmmm, Nourishing Meat from a Can](https://www.amon-hen.com/food/29371)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Remember, Information is not knowledge; Knowledge is not Wisdom; Wisdom is not truth; Truth is not beauty; Beauty is not love; Love is not music; Music is the best.</em><br /> -- Frank Zappa</p>
+<p><em>Melodrama coming from you is about as natural as an oral bowel movement.</em><br /> -- Randal Graves</p>
