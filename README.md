@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Bluecoats Alumni Corps leaves a lasting impression 50 years in the making](https://www.amon-hen.com/music/drum-and-bugle-corps/29403)
+- [We Will Rise](https://www.amon-hen.com/music/29414)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Bluecoats Alumni Corps leaves a lasting impression 50 years in the making](https://www.amon-hen.com/music/drum-and-bugle-corps/29403)
 - [Caesar Salad](https://www.amon-hen.com/food/29401)
 - [MST3K 0418 – Attack of the The Eye Creatures](https://www.amon-hen.com/television/4941)
 - [Drum Workshop Joins Roland Corporation](https://www.amon-hen.com/music/drums-and-percussion/29393)
@@ -10,7 +11,6 @@
 - [Reading: World Engines: Destroyer](https://www.amon-hen.com/books/297)
 - [MST3K Short 0503 – What to Do on a Date](https://www.amon-hen.com/television/6024)
 - [Professor Beware (1938)](https://www.amon-hen.com/humor/29384)
-- [Running Up That Hill (live)](https://www.amon-hen.com/music/4360)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I have a switch in my apartment that doesn't do anything.  Every once in a while I turn it on and off.  On and off.  On and off.  One day I got a call from a woman in France who said "Cut it out!"</em><br /> -- Stephen Wright</p>
+<p><em>There is no need to do any housework at all.  After the first four years the dirt doesn't get any worse.</em><br /> -- Quentin Crisp</p>
