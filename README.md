@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [We Will Rise](https://www.amon-hen.com/music/29414)
+- [Battle of the Worlds (1961)](https://www.amon-hen.com/movies/29417)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [We Will Rise](https://www.amon-hen.com/music/29414)
 - [Bluecoats Alumni Corps leaves a lasting impression 50 years in the making](https://www.amon-hen.com/music/drum-and-bugle-corps/29403)
 - [Caesar Salad](https://www.amon-hen.com/food/29401)
 - [MST3K 0418 – Attack of the The Eye Creatures](https://www.amon-hen.com/television/4941)
@@ -10,7 +11,6 @@
 - [Law & Order](https://www.amon-hen.com/politics/29390)
 - [Reading: World Engines: Destroyer](https://www.amon-hen.com/books/297)
 - [MST3K Short 0503 – What to Do on a Date](https://www.amon-hen.com/television/6024)
-- [Professor Beware (1938)](https://www.amon-hen.com/humor/29384)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>There is no need to do any housework at all.  After the first four years the dirt doesn't get any worse.</em><br /> -- Quentin Crisp</p>
+<p><em>Creationist critics often charge that evolution cannot be tested, and therefore cannot be viewed as a properly scientific subject at all. This claim is rhetorical nonsense.</em><br /> -- Stephen Jay Gould (<em>Dinosaur in a Haystack</em>)</p>
