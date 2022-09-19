@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Battle of the Worlds (1961)](https://www.amon-hen.com/movies/29417)
+- [MST3K Short 0507 – The Truck Farmer](https://www.amon-hen.com/television/6061)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Battle of the Worlds (1961)](https://www.amon-hen.com/movies/29417)
 - [We Will Rise](https://www.amon-hen.com/music/29414)
 - [Bluecoats Alumni Corps leaves a lasting impression 50 years in the making](https://www.amon-hen.com/music/drum-and-bugle-corps/29403)
 - [Caesar Salad](https://www.amon-hen.com/food/29401)
@@ -10,7 +11,6 @@
 - [Drum Workshop Joins Roland Corporation](https://www.amon-hen.com/music/drums-and-percussion/29393)
 - [Law & Order](https://www.amon-hen.com/politics/29390)
 - [Reading: World Engines: Destroyer](https://www.amon-hen.com/books/297)
-- [MST3K Short 0503 – What to Do on a Date](https://www.amon-hen.com/television/6024)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -27,6 +27,7 @@
 
 
 ## [Storage B](https://www.storage-b.com)
+- [Scrum](https://www.storage-b.com/humor/826)
 - [Agile and scrum are broken](https://www.storage-b.com/miscellaneous/812)
 - [Dumping Windows 10](https://www.storage-b.com/linux/795)
 - [SAFe](https://www.storage-b.com/humor/790)
@@ -36,7 +37,6 @@
 - [Fast Inverse Square Root](https://www.storage-b.com/math-numerical-analysis/718)
 - [Don’t copy Silicon Valley](https://www.storage-b.com/miscellaneous/711)
 - [Jira](https://www.storage-b.com/humor/695)
-- [USB to Gameport  Adapter](https://www.storage-b.com/retrocomputing/680)
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Creationist critics often charge that evolution cannot be tested, and therefore cannot be viewed as a properly scientific subject at all. This claim is rhetorical nonsense.</em><br /> -- Stephen Jay Gould (<em>Dinosaur in a Haystack</em>)</p>
+<p><em>The significant problems we have cannot be solved at the same level of thinking with which we created them.</em><br /> -- Albert Einstein</p>
