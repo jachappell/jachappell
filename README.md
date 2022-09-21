@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K 0419 – The Rebel Set](https://www.amon-hen.com/television/4871)
+- [Rush Limbaugh contributed nothing worthwhile to the culture](https://www.amon-hen.com/politics/29424)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Talk Like a Pirate Day](https://www.amon-hen.com/weirdness/1025)
 - [MAGA Republicans](https://www.amon-hen.com/politics/29422)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K Short 0507 – The Truck Farmer](https://www.amon-hen.com/television/6061)
 - [Battle of the Worlds (1961)](https://www.amon-hen.com/movies/29417)
 - [We Will Rise](https://www.amon-hen.com/music/29414)
 - [Bluecoats Alumni Corps leaves a lasting impression 50 years in the making](https://www.amon-hen.com/music/drum-and-bugle-corps/29403)
 - [Caesar Salad](https://www.amon-hen.com/food/29401)
-- [MST3K 0418 – Attack of the The Eye Creatures](https://www.amon-hen.com/television/4941)
-- [Drum Workshop Joins Roland Corporation](https://www.amon-hen.com/music/drums-and-percussion/29393)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It was so much easier to blame it on Them. It was bleakly depressing to think that They were Us. If it was Them, then nothing was anyone's fault. If it was us, what did that make Me? After all, I'm one of Us. I must be. I've certainly never thought of myself as one of Them. No one ever thinks of themselves as one of Them. We're always one of Us. It's Them that do the bad things.</em><br /> -- Terry Pratchett (<em>Jingo</em>)</p>
+<p><em>We are at the very beginning of time for the human race. It is not unreasonable that we grapple with problems. But there are tens of thousands of years in the future. Our responsibility is to do what we can, learn what we can, improve the solutions, and pass them on.</em><br /> -- Richard P. Feynman</p>
