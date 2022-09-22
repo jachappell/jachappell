@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Mmmm, Ground Bork](https://www.amon-hen.com/food/29427)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0419 – The Rebel Set](https://www.amon-hen.com/television/4871)
 - [Rush Limbaugh contributed nothing worthwhile to the culture](https://www.amon-hen.com/politics/29424)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Talk Like a Pirate Day](https://www.amon-hen.com/weirdness/1025)
 - [MAGA Republicans](https://www.amon-hen.com/politics/29422)
 - [MST3K Short 0507 – The Truck Farmer](https://www.amon-hen.com/television/6061)
 - [Battle of the Worlds (1961)](https://www.amon-hen.com/movies/29417)
 - [We Will Rise](https://www.amon-hen.com/music/29414)
 - [Bluecoats Alumni Corps leaves a lasting impression 50 years in the making](https://www.amon-hen.com/music/drum-and-bugle-corps/29403)
-- [Caesar Salad](https://www.amon-hen.com/food/29401)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>We are at the very beginning of time for the human race. It is not unreasonable that we grapple with problems. But there are tens of thousands of years in the future. Our responsibility is to do what we can, learn what we can, improve the solutions, and pass them on.</em><br /> -- Richard P. Feynman</p>
+<p><em>Let others praise ancient times; I am glad I was born in these.</em><br /> -- Publius Ovidius Naso (Ovid)</p>
