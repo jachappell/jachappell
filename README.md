@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Ground Bork](https://www.amon-hen.com/food/29427)
+- [RiffTrax – Cyber Tracker](https://www.amon-hen.com/humor/29432)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Ground Bork](https://www.amon-hen.com/food/29427)
 - [MST3K 0419 – The Rebel Set](https://www.amon-hen.com/television/4871)
 - [Rush Limbaugh contributed nothing worthwhile to the culture](https://www.amon-hen.com/politics/29424)
 - [Talk Like a Pirate Day](https://www.amon-hen.com/weirdness/1025)
@@ -10,7 +11,6 @@
 - [MST3K Short 0507 – The Truck Farmer](https://www.amon-hen.com/television/6061)
 - [Battle of the Worlds (1961)](https://www.amon-hen.com/movies/29417)
 - [We Will Rise](https://www.amon-hen.com/music/29414)
-- [Bluecoats Alumni Corps leaves a lasting impression 50 years in the making](https://www.amon-hen.com/music/drum-and-bugle-corps/29403)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Let others praise ancient times; I am glad I was born in these.</em><br /> -- Publius Ovidius Naso (Ovid)</p>
+<p><em>If only is was as easy to banish hunger by rubbing the belly as it is to masturbate.</em><br /> -- Diogenes the Cynic</p>
