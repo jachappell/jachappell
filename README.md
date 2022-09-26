@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Love on a Leash (2011)](https://www.amon-hen.com/movies/29439)
+- [Facebook is a Toilet 2: Electric Boogaloo](https://www.amon-hen.com/politics/29443)
+- [MST3K Short 0510 – Body Care And Grooming](https://www.amon-hen.com/television/13676)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Love on a Leash (2011)](https://www.amon-hen.com/movies/29439)
 - [Temple of Circadia](https://www.amon-hen.com/music/29434)
 - [Reading: World Engines: Creator](https://www.amon-hen.com/books/297)
 - [RiffTrax – Cyber Tracker](https://www.amon-hen.com/humor/29432)
 - [Mmmm, Ground Bork](https://www.amon-hen.com/food/29427)
 - [MST3K 0419 – The Rebel Set](https://www.amon-hen.com/television/4871)
 - [Rush Limbaugh contributed nothing worthwhile to the culture](https://www.amon-hen.com/politics/29424)
-- [Talk Like a Pirate Day](https://www.amon-hen.com/weirdness/1025)
-- [MAGA Republicans](https://www.amon-hen.com/politics/29422)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The key to burning an ex-wife effigy is to dip it in paraffin wax and then toss the flaming bottle of isopropyl alcohol from a safe distance. Do not stand too close when you light an ex-wife effigy.</em><br /> -- Ron Swanson</p>
+<p><em>People ask for criticism, but they only want praise.</em><br /> -- W. Somerset Maugham</p>
