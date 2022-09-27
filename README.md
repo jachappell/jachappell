@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Bolsonaro](https://www.amon-hen.com/television/29445)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Facebook is a Toilet 2: Electric Boogaloo](https://www.amon-hen.com/politics/29443)
 - [MST3K Short 0510 – Body Care And Grooming](https://www.amon-hen.com/television/13676)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Love on a Leash (2011)](https://www.amon-hen.com/movies/29439)
 - [Temple of Circadia](https://www.amon-hen.com/music/29434)
 - [Reading: World Engines: Creator](https://www.amon-hen.com/books/297)
 - [RiffTrax – Cyber Tracker](https://www.amon-hen.com/humor/29432)
 - [Mmmm, Ground Bork](https://www.amon-hen.com/food/29427)
 - [MST3K 0419 – The Rebel Set](https://www.amon-hen.com/television/4871)
-- [Rush Limbaugh contributed nothing worthwhile to the culture](https://www.amon-hen.com/politics/29424)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>People ask for criticism, but they only want praise.</em><br /> -- W. Somerset Maugham</p>
+<p><em>My favorite thing about the Internet is that you get to go into the private world of real creeps without having to smell them.</em><br /> -- Penn Jillette</p>
