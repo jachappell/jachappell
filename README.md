@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Bolsonaro](https://www.amon-hen.com/television/29445)
+- [MST3K 0420 – The Human Duplicators](https://www.amon-hen.com/television/10345)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Bolsonaro](https://www.amon-hen.com/television/29445)
 - [Facebook is a Toilet 2: Electric Boogaloo](https://www.amon-hen.com/politics/29443)
 - [MST3K Short 0510 – Body Care And Grooming](https://www.amon-hen.com/television/13676)
 - [Love on a Leash (2011)](https://www.amon-hen.com/movies/29439)
@@ -10,7 +11,6 @@
 - [Reading: World Engines: Creator](https://www.amon-hen.com/books/297)
 - [RiffTrax – Cyber Tracker](https://www.amon-hen.com/humor/29432)
 - [Mmmm, Ground Bork](https://www.amon-hen.com/food/29427)
-- [MST3K 0419 – The Rebel Set](https://www.amon-hen.com/television/4871)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>My favorite thing about the Internet is that you get to go into the private world of real creeps without having to smell them.</em><br /> -- Penn Jillette</p>
+<p><em>I wish I lived back in the old west days, because I'd save up my money for about twenty years so I could buy a solid-gold pick. Then I'd go out West and start digging for gold. When someone came up and asked what I was doing, I'd say, "Looking for gold, ya durn fool." He'd say, "Your pick is gold," and I'd say, "Well, that was easy." Good joke, huh.</em><br /> -- Jack Handey</p>
