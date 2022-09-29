@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0420 – The Human Duplicators](https://www.amon-hen.com/television/10345)
+- [Mexican Restaurants in Tokyo](https://www.amon-hen.com/food/29449)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0420 – The Human Duplicators](https://www.amon-hen.com/television/10345)
 - [Bolsonaro](https://www.amon-hen.com/television/29445)
 - [Facebook is a Toilet 2: Electric Boogaloo](https://www.amon-hen.com/politics/29443)
 - [MST3K Short 0510 – Body Care And Grooming](https://www.amon-hen.com/television/13676)
@@ -10,7 +11,6 @@
 - [Temple of Circadia](https://www.amon-hen.com/music/29434)
 - [Reading: World Engines: Creator](https://www.amon-hen.com/books/297)
 - [RiffTrax – Cyber Tracker](https://www.amon-hen.com/humor/29432)
-- [Mmmm, Ground Bork](https://www.amon-hen.com/food/29427)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I wish I lived back in the old west days, because I'd save up my money for about twenty years so I could buy a solid-gold pick. Then I'd go out West and start digging for gold. When someone came up and asked what I was doing, I'd say, "Looking for gold, ya durn fool." He'd say, "Your pick is gold," and I'd say, "Well, that was easy." Good joke, huh.</em><br /> -- Jack Handey</p>
+<p><em>On my death bed, my final wish is to have my ex-wives rushed to my side so I can use my dying breath to tell them both to go to Hell one last time. Would I get married again? Oh, absolutely. If you don't believe in love, what's the point of living?</em><br /> -- Ron Swanson</p>
