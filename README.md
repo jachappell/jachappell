@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mexican Restaurants in Tokyo](https://www.amon-hen.com/food/29449)
+- [Boobledink](https://www.amon-hen.com/humor/29455)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mexican Restaurants in Tokyo](https://www.amon-hen.com/food/29449)
 - [MST3K 0420 – The Human Duplicators](https://www.amon-hen.com/television/10345)
 - [Bolsonaro](https://www.amon-hen.com/television/29445)
 - [Facebook is a Toilet 2: Electric Boogaloo](https://www.amon-hen.com/politics/29443)
@@ -10,7 +11,6 @@
 - [Love on a Leash (2011)](https://www.amon-hen.com/movies/29439)
 - [Temple of Circadia](https://www.amon-hen.com/music/29434)
 - [Reading: World Engines: Creator](https://www.amon-hen.com/books/297)
-- [RiffTrax – Cyber Tracker](https://www.amon-hen.com/humor/29432)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>On my death bed, my final wish is to have my ex-wives rushed to my side so I can use my dying breath to tell them both to go to Hell one last time. Would I get married again? Oh, absolutely. If you don't believe in love, what's the point of living?</em><br /> -- Ron Swanson</p>
+<p><em>Shorts over six inches are capri pants, shorts under six inches are European.</em><br /> -- Ron Swanson</p>
