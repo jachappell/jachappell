@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Boobledink](https://www.amon-hen.com/humor/29455)
+- [Bitter Sweet Symphony](https://www.amon-hen.com/music/24371)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Boobledink](https://www.amon-hen.com/humor/29455)
 - [Mexican Restaurants in Tokyo](https://www.amon-hen.com/food/29449)
 - [MST3K 0420 – The Human Duplicators](https://www.amon-hen.com/television/10345)
 - [Bolsonaro](https://www.amon-hen.com/television/29445)
@@ -10,7 +11,6 @@
 - [MST3K Short 0510 – Body Care And Grooming](https://www.amon-hen.com/television/13676)
 - [Love on a Leash (2011)](https://www.amon-hen.com/movies/29439)
 - [Temple of Circadia](https://www.amon-hen.com/music/29434)
-- [Reading: World Engines: Creator](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Shorts over six inches are capri pants, shorts under six inches are European.</em><br /> -- Ron Swanson</p>
+<p><em>I'd like to be buried Indian-style, where they put you up on a high rack, above the ground. That way, you could get hit by meteorites and not even feel it.</em><br /> -- Jack Handey</p>
