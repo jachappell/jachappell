@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Bitter Sweet Symphony](https://www.amon-hen.com/music/24371)
+- [Legend of the Red Reaper (2013)](https://www.amon-hen.com/movies/29468)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Bitter Sweet Symphony](https://www.amon-hen.com/music/24371)
 - [Boobledink](https://www.amon-hen.com/humor/29455)
 - [Mexican Restaurants in Tokyo](https://www.amon-hen.com/food/29449)
 - [MST3K 0420 – The Human Duplicators](https://www.amon-hen.com/television/10345)
@@ -10,7 +11,6 @@
 - [Facebook is a Toilet 2: Electric Boogaloo](https://www.amon-hen.com/politics/29443)
 - [MST3K Short 0510 – Body Care And Grooming](https://www.amon-hen.com/television/13676)
 - [Love on a Leash (2011)](https://www.amon-hen.com/movies/29439)
-- [Temple of Circadia](https://www.amon-hen.com/music/29434)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I'd like to be buried Indian-style, where they put you up on a high rack, above the ground. That way, you could get hit by meteorites and not even feel it.</em><br /> -- Jack Handey</p>
+<p><em>The problem with the world is that fools and fanatics are always so certain of themselves and wiser people so full of doubts.</em><br /> -- Bertrand Russell</p>
