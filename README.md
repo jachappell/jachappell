@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Legend of the Red Reaper (2013)](https://www.amon-hen.com/movies/29468)
+- [MST3K Short 0514 – Is This Love?](https://www.amon-hen.com/television/8667)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Legend of the Red Reaper (2013)](https://www.amon-hen.com/movies/29468)
 - [Bitter Sweet Symphony](https://www.amon-hen.com/music/24371)
 - [Boobledink](https://www.amon-hen.com/humor/29455)
 - [Mexican Restaurants in Tokyo](https://www.amon-hen.com/food/29449)
@@ -10,10 +11,11 @@
 - [Bolsonaro](https://www.amon-hen.com/television/29445)
 - [Facebook is a Toilet 2: Electric Boogaloo](https://www.amon-hen.com/politics/29443)
 - [MST3K Short 0510 – Body Care And Grooming](https://www.amon-hen.com/television/13676)
-- [Love on a Leash (2011)](https://www.amon-hen.com/movies/29439)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Retirement of Denise Bonfiglio](https://www.drum-corps.net/news/1800)
+- [Drum Corps World – October 2022](https://www.drum-corps.net/news/1798)
 - [Drum Corps World – September 2022](https://www.drum-corps.net/news/1732)
 - [Seattle Cascades Set for Return to Drum Corps International in 2023](https://www.drum-corps.net/news/1727)
 - [2022 DCA World Championships Finals](https://www.drum-corps.net/scores/dca/1707)
@@ -22,8 +24,6 @@
 - [Virtual Show 4 (2022)](https://www.drum-corps.net/scores/dca/1695)
 - [Seymour Show (2022)](https://www.drum-corps.net/scores/dca/1691)
 - [Reading Show (2022)](https://www.drum-corps.net/scores/dca/1688)
-- [Virtual Show 3 (2022)](https://www.drum-corps.net/scores/dca/1682)
-- [Bushwackers Invitational (2022)](https://www.drum-corps.net/scores/dca/1676)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The problem with the world is that fools and fanatics are always so certain of themselves and wiser people so full of doubts.</em><br /> -- Bertrand Russell</p>
+<p><em>The bad reputation UNIX has gotten is totally undeserved, laid on by people who don't understand, who have not gotten in there and tried anything.</em><br /> -- Jim Joyce, former computer science lecturer at the University of California</p>
