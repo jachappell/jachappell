@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0514 – Is This Love?](https://www.amon-hen.com/television/8667)
+- [Museums](https://www.amon-hen.com/politics/29480)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0514 – Is This Love?](https://www.amon-hen.com/television/8667)
 - [Legend of the Red Reaper (2013)](https://www.amon-hen.com/movies/29468)
 - [Bitter Sweet Symphony](https://www.amon-hen.com/music/24371)
 - [Boobledink](https://www.amon-hen.com/humor/29455)
@@ -10,7 +11,6 @@
 - [MST3K 0420 – The Human Duplicators](https://www.amon-hen.com/television/10345)
 - [Bolsonaro](https://www.amon-hen.com/television/29445)
 - [Facebook is a Toilet 2: Electric Boogaloo](https://www.amon-hen.com/politics/29443)
-- [MST3K Short 0510 – Body Care And Grooming](https://www.amon-hen.com/television/13676)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The bad reputation UNIX has gotten is totally undeserved, laid on by people who don't understand, who have not gotten in there and tried anything.</em><br /> -- Jim Joyce, former computer science lecturer at the University of California</p>
+<p><em>Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.</em><br /> -- Isaac Asimov</p>
