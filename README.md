@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Mmmm, Delicious Meat Lunches](https://www.amon-hen.com/food/29472)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0421 – Monster A-Go Go](https://www.amon-hen.com/television/4627)
 - [Josh Hawley](https://www.amon-hen.com/politics/29487)
 - [Mehmet Oz](https://www.amon-hen.com/politics/29485)
 - [Herschel Walker](https://www.amon-hen.com/politics/29483)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Museums](https://www.amon-hen.com/politics/29480)
 - [MST3K Short 0514 – Is This Love?](https://www.amon-hen.com/television/8667)
 - [Legend of the Red Reaper (2013)](https://www.amon-hen.com/movies/29468)
 - [Bitter Sweet Symphony](https://www.amon-hen.com/music/24371)
-- [Boobledink](https://www.amon-hen.com/humor/29455)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Without coffee he could not work, or at least he could not have worked in the way he did.  In addition to paper and pens, he took with him everywhere as an indispensable article of equipment the coffee machine, which was no less important to him than his table or his white robe.</em><br /> -- Stefan Zweigs, Biography of Balzac</p>
+<p><em>Woke up this mornin' an' I had myself a beer,<br />Yeah, Ah woke up this mornin' an' I had myself a beer<br />The future's uncertain and the end is always near.</em><br /> -- Jim Morrison, "Roadhouse Blues"</p>
