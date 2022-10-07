@@ -1,19 +1,21 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Delicious Meat Lunches](https://www.amon-hen.com/food/29472)
+- [Republican Morality](https://www.amon-hen.com/politics/29494)
+- [RiffTrax – Busy Bodies](https://www.amon-hen.com/humor/29492)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Delicious Meat Lunches](https://www.amon-hen.com/food/29472)
 - [MST3K 0421 – Monster A-Go Go](https://www.amon-hen.com/television/4627)
 - [Josh Hawley](https://www.amon-hen.com/politics/29487)
 - [Mehmet Oz](https://www.amon-hen.com/politics/29485)
 - [Herschel Walker](https://www.amon-hen.com/politics/29483)
 - [Museums](https://www.amon-hen.com/politics/29480)
 - [MST3K Short 0514 – Is This Love?](https://www.amon-hen.com/television/8667)
-- [Legend of the Red Reaper (2013)](https://www.amon-hen.com/movies/29468)
-- [Bitter Sweet Symphony](https://www.amon-hen.com/music/24371)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Tom Float, legendary marching percussion instructor and arranger, dies at 69](https://www.drum-corps.net/news/1851)
+- [Notes from DCI’s fall planning meeting (2022)](https://www.drum-corps.net/news/1829)
 - [Retirement of Denise Bonfiglio](https://www.drum-corps.net/news/1800)
 - [Drum Corps World – October 2022](https://www.drum-corps.net/news/1798)
 - [Drum Corps World – September 2022](https://www.drum-corps.net/news/1732)
@@ -22,8 +24,6 @@
 - [2022 DCA World Championships Prelims](https://www.drum-corps.net/scores/dca/1701)
 - [Syvåtte](https://www.drum-corps.net/percussion/1697)
 - [Virtual Show 4 (2022)](https://www.drum-corps.net/scores/dca/1695)
-- [Seymour Show (2022)](https://www.drum-corps.net/scores/dca/1691)
-- [Reading Show (2022)](https://www.drum-corps.net/scores/dca/1688)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Woke up this mornin' an' I had myself a beer,<br />Yeah, Ah woke up this mornin' an' I had myself a beer<br />The future's uncertain and the end is always near.</em><br /> -- Jim Morrison, "Roadhouse Blues"</p>
+<p><em>Mmmm, 52 slices of American cheese.</em><br /> -- Homer J. Simpson</p>
