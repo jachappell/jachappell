@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Soul Eternal](https://www.amon-hen.com/music/29496)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Republican Morality](https://www.amon-hen.com/politics/29494)
 - [RiffTrax – Busy Bodies](https://www.amon-hen.com/humor/29492)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Delicious Meat Lunches](https://www.amon-hen.com/food/29472)
 - [MST3K 0421 – Monster A-Go Go](https://www.amon-hen.com/television/4627)
 - [Josh Hawley](https://www.amon-hen.com/politics/29487)
 - [Mehmet Oz](https://www.amon-hen.com/politics/29485)
 - [Herschel Walker](https://www.amon-hen.com/politics/29483)
 - [Museums](https://www.amon-hen.com/politics/29480)
-- [MST3K Short 0514 – Is This Love?](https://www.amon-hen.com/television/8667)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Mmmm, 52 slices of American cheese.</em><br /> -- Homer J. Simpson</p>
+<p><em>A cult is a religion with no political power.</em><br /> -- Tom Wolfe</p>
