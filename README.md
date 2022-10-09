@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Soul Eternal](https://www.amon-hen.com/music/29496)
+- [Reading: Tough Sh*t: Life Advice from a Fat, Lazy Slob Who Did Good](https://www.amon-hen.com/books/297)
+- [Quantum Gravity](https://www.amon-hen.com/science/24633)
+- [The Last Man on Earth (1964)](https://www.amon-hen.com/movies/25588)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Soul Eternal](https://www.amon-hen.com/music/29496)
 - [Republican Morality](https://www.amon-hen.com/politics/29494)
 - [RiffTrax – Busy Bodies](https://www.amon-hen.com/humor/29492)
 - [Mmmm, Delicious Meat Lunches](https://www.amon-hen.com/food/29472)
 - [MST3K 0421 – Monster A-Go Go](https://www.amon-hen.com/television/4627)
 - [Josh Hawley](https://www.amon-hen.com/politics/29487)
-- [Mehmet Oz](https://www.amon-hen.com/politics/29485)
-- [Herschel Walker](https://www.amon-hen.com/politics/29483)
-- [Museums](https://www.amon-hen.com/politics/29480)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -32,11 +32,11 @@
 - [Dumping Windows 10](https://www.storage-b.com/linux/795)
 - [SAFe](https://www.storage-b.com/humor/790)
 - [Two decades of progress](https://www.storage-b.com/humor/779)
+- [C++20: Reaching for the Aims of C++](https://www.storage-b.com/c/177)
 - [What Agile Really Means](https://www.storage-b.com/miscellaneous/760)
 - [Should you use blockchain?](https://www.storage-b.com/humor/726)
 - [Fast Inverse Square Root](https://www.storage-b.com/math-numerical-analysis/718)
 - [Don’t copy Silicon Valley](https://www.storage-b.com/miscellaneous/711)
-- [Jira](https://www.storage-b.com/humor/695)
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>A cult is a religion with no political power.</em><br /> -- Tom Wolfe</p>
+<p><em>Politics is the art of looking for trouble, finding it, misdiagnosing it, and then misapplying the wrong remedies.</em><br /> -- Groucho Marx</p>
