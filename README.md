@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K Short 0515 – Cheating](https://www.amon-hen.com/television/7352)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: Tough Sh*t: Life Advice from a Fat, Lazy Slob Who Did Good](https://www.amon-hen.com/books/297)
 - [Quantum Gravity](https://www.amon-hen.com/science/24633)
 - [The Last Man on Earth (1964)](https://www.amon-hen.com/movies/25588)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Soul Eternal](https://www.amon-hen.com/music/29496)
 - [Republican Morality](https://www.amon-hen.com/politics/29494)
 - [RiffTrax – Busy Bodies](https://www.amon-hen.com/humor/29492)
 - [Mmmm, Delicious Meat Lunches](https://www.amon-hen.com/food/29472)
 - [MST3K 0421 – Monster A-Go Go](https://www.amon-hen.com/television/4627)
-- [Josh Hawley](https://www.amon-hen.com/politics/29487)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Politics is the art of looking for trouble, finding it, misdiagnosing it, and then misapplying the wrong remedies.</em><br /> -- Groucho Marx</p>
+<p><em>An architect's first work is apt to be spare and clean.  He knows he doesn't know what he's doing, so he does it carefully and with great restraint.<br /><br /> As he designs the first work, frill after frill and embellishment after embellishment occur to him.  These get stored away to be used "next time." Sooner or later the first system is finished, and the architect, with firm confidence and a demonstrated mastery of that class of systems, is ready to build a second system.<br /><br /> This second is the most dangerous system a man ever designs.  When he does his third and later ones, his prior experiences will confirm each other as to the general characteristics of such systems, and their differences will identify those parts of his experience that are particular and not generalizable.<br /><br /> The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.  The result, as Ovid says, is a "big pile."</em><br /> -- Frederick Brooks, (<em>The Mythical Man Month</em>)</p>
