@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Crime Reporting](https://www.amon-hen.com/politics/29513)
+- [MST3K 0422 – The Day the Earth Froze](https://www.amon-hen.com/television/10436)
+- [Spherical Seal](https://www.amon-hen.com/science/29515)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Crime Reporting](https://www.amon-hen.com/politics/29513)
 - [MST3K Short 0515 – Cheating](https://www.amon-hen.com/television/7352)
 - [Reading: Tough Sh*t: Life Advice from a Fat, Lazy Slob Who Did Good](https://www.amon-hen.com/books/297)
 - [Quantum Gravity](https://www.amon-hen.com/science/24633)
 - [The Last Man on Earth (1964)](https://www.amon-hen.com/movies/25588)
 - [Soul Eternal](https://www.amon-hen.com/music/29496)
 - [Republican Morality](https://www.amon-hen.com/politics/29494)
-- [RiffTrax – Busy Bodies](https://www.amon-hen.com/humor/29492)
-- [Mmmm, Delicious Meat Lunches](https://www.amon-hen.com/food/29472)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Wait a minute. I'm a guy like me!</em><br /> -- Homer J. Simpson</p>
+<p><em>If I had a mine shaft, I don't think I would just abandon it.  There's got to be a better way.</em><br /> -- Jack Handey</p>
