@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Mmmm, Ordinary Donkey Meat](https://www.amon-hen.com/food/29519)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0422 – The Day the Earth Froze](https://www.amon-hen.com/television/10436)
 - [Spherical Seal](https://www.amon-hen.com/science/29515)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Crime Reporting](https://www.amon-hen.com/politics/29513)
 - [MST3K Short 0515 – Cheating](https://www.amon-hen.com/television/7352)
 - [Reading: Tough Sh*t: Life Advice from a Fat, Lazy Slob Who Did Good](https://www.amon-hen.com/books/297)
 - [Quantum Gravity](https://www.amon-hen.com/science/24633)
 - [The Last Man on Earth (1964)](https://www.amon-hen.com/movies/25588)
 - [Soul Eternal](https://www.amon-hen.com/music/29496)
-- [Republican Morality](https://www.amon-hen.com/politics/29494)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If I had a mine shaft, I don't think I would just abandon it.  There's got to be a better way.</em><br /> -- Jack Handey</p>
+<p><em>What's in a name? That is what we ask ourselves in childhood when we write the name that we are told is ours.</em><br /> -- James Joyce</p>
