@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Ordinary Donkey Meat](https://www.amon-hen.com/food/29519)
+- [RiffTrax – Hillbillys In A Haunted House](https://www.amon-hen.com/humor/29524)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Ordinary Donkey Meat](https://www.amon-hen.com/food/29519)
 - [MST3K 0422 – The Day the Earth Froze](https://www.amon-hen.com/television/10436)
 - [Spherical Seal](https://www.amon-hen.com/science/29515)
 - [Crime Reporting](https://www.amon-hen.com/politics/29513)
@@ -10,7 +11,6 @@
 - [Reading: Tough Sh*t: Life Advice from a Fat, Lazy Slob Who Did Good](https://www.amon-hen.com/books/297)
 - [Quantum Gravity](https://www.amon-hen.com/science/24633)
 - [The Last Man on Earth (1964)](https://www.amon-hen.com/movies/25588)
-- [Soul Eternal](https://www.amon-hen.com/music/29496)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>What's in a name? That is what we ask ourselves in childhood when we write the name that we are told is ours.</em><br /> -- James Joyce</p>
+<p><em>You'd better beat it.  You can leave in a taxi.  If you can't get a taxi, you can leave in a huff.  If that's too soon, you can leave in a minute and a huff.</em><br /> -- Groucho Marx</p>
