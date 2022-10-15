@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Hillbillys In A Haunted House](https://www.amon-hen.com/humor/29524)
+- [Conversations](https://www.amon-hen.com/music/29511)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Hillbillys In A Haunted House](https://www.amon-hen.com/humor/29524)
 - [Mmmm, Ordinary Donkey Meat](https://www.amon-hen.com/food/29519)
 - [MST3K 0422 – The Day the Earth Froze](https://www.amon-hen.com/television/10436)
 - [Spherical Seal](https://www.amon-hen.com/science/29515)
@@ -10,7 +11,6 @@
 - [MST3K Short 0515 – Cheating](https://www.amon-hen.com/television/7352)
 - [Reading: Tough Sh*t: Life Advice from a Fat, Lazy Slob Who Did Good](https://www.amon-hen.com/books/297)
 - [Quantum Gravity](https://www.amon-hen.com/science/24633)
-- [The Last Man on Earth (1964)](https://www.amon-hen.com/movies/25588)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -27,6 +27,7 @@
 
 
 ## [Storage B](https://www.storage-b.com)
+- [C++ in Constrained Environments](https://www.storage-b.com/c/840)
 - [Scrum](https://www.storage-b.com/humor/826)
 - [Agile and scrum are broken](https://www.storage-b.com/miscellaneous/812)
 - [Dumping Windows 10](https://www.storage-b.com/linux/795)
@@ -36,7 +37,6 @@
 - [What Agile Really Means](https://www.storage-b.com/miscellaneous/760)
 - [Should you use blockchain?](https://www.storage-b.com/humor/726)
 - [Fast Inverse Square Root](https://www.storage-b.com/math-numerical-analysis/718)
-- [Don’t copy Silicon Valley](https://www.storage-b.com/miscellaneous/711)
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You'd better beat it.  You can leave in a taxi.  If you can't get a taxi, you can leave in a huff.  If that's too soon, you can leave in a minute and a huff.</em><br /> -- Groucho Marx</p>
+<p><em>It is not easy to see how the more extreme forms of nationalism can long survive when men have seen the Earth in its true perspective as a single small globe against the stars.</em><br /> -- Arthur C. Clarke</p>
