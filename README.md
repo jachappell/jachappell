@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Conversations](https://www.amon-hen.com/music/29511)
+- [The Tingler (1959)](https://www.amon-hen.com/movies/29528)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Conversations](https://www.amon-hen.com/music/29511)
 - [RiffTrax – Hillbillys In A Haunted House](https://www.amon-hen.com/humor/29524)
 - [Mmmm, Ordinary Donkey Meat](https://www.amon-hen.com/food/29519)
 - [MST3K 0422 – The Day the Earth Froze](https://www.amon-hen.com/television/10436)
@@ -10,10 +11,10 @@
 - [Crime Reporting](https://www.amon-hen.com/politics/29513)
 - [MST3K Short 0515 – Cheating](https://www.amon-hen.com/television/7352)
 - [Reading: Tough Sh*t: Life Advice from a Fat, Lazy Slob Who Did Good](https://www.amon-hen.com/books/297)
-- [Quantum Gravity](https://www.amon-hen.com/science/24633)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [New Educators Join Bluecoats Brass Team](https://www.drum-corps.net/news/2006)
 - [Tom Float, legendary marching percussion instructor and arranger, dies at 69](https://www.drum-corps.net/news/1851)
 - [Notes from DCI’s fall planning meeting (2022)](https://www.drum-corps.net/news/1829)
 - [Retirement of Denise Bonfiglio](https://www.drum-corps.net/news/1800)
@@ -23,7 +24,6 @@
 - [2022 DCA World Championships Finals](https://www.drum-corps.net/scores/dca/1707)
 - [2022 DCA World Championships Prelims](https://www.drum-corps.net/scores/dca/1701)
 - [Syvåtte](https://www.drum-corps.net/percussion/1697)
-- [Virtual Show 4 (2022)](https://www.drum-corps.net/scores/dca/1695)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It is not easy to see how the more extreme forms of nationalism can long survive when men have seen the Earth in its true perspective as a single small globe against the stars.</em><br /> -- Arthur C. Clarke</p>
+<p><em></em>Big Bang Theory<em> is FAKE SCIENCE. I'm told Sheldon doesn't actually have a PhD and his real name is Jim. Bad (or sick) guy!</em><br /> -- Stephen Colbert (via Twitter)</p>
