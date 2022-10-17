@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Tingler (1959)](https://www.amon-hen.com/movies/29528)
+- [Reading: The Mauritius Command](https://www.amon-hen.com/books/297)
+- [MST3K Short 0518 – What About Juvenile Delinquency?](https://www.amon-hen.com/television/8316)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Tingler (1959)](https://www.amon-hen.com/movies/29528)
 - [Conversations](https://www.amon-hen.com/music/29511)
 - [RiffTrax – Hillbillys In A Haunted House](https://www.amon-hen.com/humor/29524)
 - [Mmmm, Ordinary Donkey Meat](https://www.amon-hen.com/food/29519)
 - [MST3K 0422 – The Day the Earth Froze](https://www.amon-hen.com/television/10436)
 - [Spherical Seal](https://www.amon-hen.com/science/29515)
 - [Crime Reporting](https://www.amon-hen.com/politics/29513)
-- [MST3K Short 0515 – Cheating](https://www.amon-hen.com/television/7352)
-- [Reading: Tough Sh*t: Life Advice from a Fat, Lazy Slob Who Did Good](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em></em>Big Bang Theory<em> is FAKE SCIENCE. I'm told Sheldon doesn't actually have a PhD and his real name is Jim. Bad (or sick) guy!</em><br /> -- Stephen Colbert (via Twitter)</p>
+<p><em>True ornament is not a matter of prettifying externals. It is organic with the structure it adorns, whether a person, a building, or a park. At its best it is an emphasis of structure, a realization in graceful terms of the nature of that which is ornamented.</em><br /> -- Frank Lloyd Wright</p>
