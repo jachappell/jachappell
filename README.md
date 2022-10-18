@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Transgender Rights II](https://www.amon-hen.com/politics/29568)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: The Mauritius Command](https://www.amon-hen.com/books/297)
 - [MST3K Short 0518 – What About Juvenile Delinquency?](https://www.amon-hen.com/television/8316)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Tingler (1959)](https://www.amon-hen.com/movies/29528)
 - [Conversations](https://www.amon-hen.com/music/29511)
 - [RiffTrax – Hillbillys In A Haunted House](https://www.amon-hen.com/humor/29524)
 - [Mmmm, Ordinary Donkey Meat](https://www.amon-hen.com/food/29519)
 - [MST3K 0422 – The Day the Earth Froze](https://www.amon-hen.com/television/10436)
 - [Spherical Seal](https://www.amon-hen.com/science/29515)
-- [Crime Reporting](https://www.amon-hen.com/politics/29513)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>True ornament is not a matter of prettifying externals. It is organic with the structure it adorns, whether a person, a building, or a park. At its best it is an emphasis of structure, a realization in graceful terms of the nature of that which is ornamented.</em><br /> -- Frank Lloyd Wright</p>
+<p><em>We used to laugh at Grandpa when he'd head off and go fishing. But we wouldn't be laughing that evening when he'd come back with some whore he picked up in town.</em><br /> -- Jack Handey</p>
