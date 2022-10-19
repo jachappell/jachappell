@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Transgender Rights II](https://www.amon-hen.com/politics/29568)
+- [MST3K 0423 – Bride of the Monster](https://www.amon-hen.com/television/4014)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Transgender Rights II](https://www.amon-hen.com/politics/29568)
 - [Reading: The Mauritius Command](https://www.amon-hen.com/books/297)
 - [MST3K Short 0518 – What About Juvenile Delinquency?](https://www.amon-hen.com/television/8316)
 - [The Tingler (1959)](https://www.amon-hen.com/movies/29528)
@@ -10,7 +11,6 @@
 - [RiffTrax – Hillbillys In A Haunted House](https://www.amon-hen.com/humor/29524)
 - [Mmmm, Ordinary Donkey Meat](https://www.amon-hen.com/food/29519)
 - [MST3K 0422 – The Day the Earth Froze](https://www.amon-hen.com/television/10436)
-- [Spherical Seal](https://www.amon-hen.com/science/29515)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>We used to laugh at Grandpa when he'd head off and go fishing. But we wouldn't be laughing that evening when he'd come back with some whore he picked up in town.</em><br /> -- Jack Handey</p>
+<p><em>I was in the basement, playing my favorite game, 'Murder In The Dark.'</em><br /> -- Vyvyan Basterd </p>
