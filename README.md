@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0423 – Bride of the Monster](https://www.amon-hen.com/television/4014)
+- [Mmmm, Beef Fizz](https://www.amon-hen.com/food/29564)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0423 – Bride of the Monster](https://www.amon-hen.com/television/4014)
 - [Transgender Rights II](https://www.amon-hen.com/politics/29568)
 - [Reading: The Mauritius Command](https://www.amon-hen.com/books/297)
 - [MST3K Short 0518 – What About Juvenile Delinquency?](https://www.amon-hen.com/television/8316)
@@ -10,7 +11,6 @@
 - [Conversations](https://www.amon-hen.com/music/29511)
 - [RiffTrax – Hillbillys In A Haunted House](https://www.amon-hen.com/humor/29524)
 - [Mmmm, Ordinary Donkey Meat](https://www.amon-hen.com/food/29519)
-- [MST3K 0422 – The Day the Earth Froze](https://www.amon-hen.com/television/10436)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I was in the basement, playing my favorite game, 'Murder In The Dark.'</em><br /> -- Vyvyan Basterd </p>
+<p><em>People always ask me, "Where were you when Kennedy was shot?"  Well, I don't have an alibi.</em><br /> -- Emo Philips</p>
