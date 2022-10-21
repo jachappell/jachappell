@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Beef Fizz](https://www.amon-hen.com/food/29564)
+- [RiffTrax – Missile X: The Neutron Bomb Incident](https://www.amon-hen.com/humor/29623)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Beef Fizz](https://www.amon-hen.com/food/29564)
 - [MST3K 0423 – Bride of the Monster](https://www.amon-hen.com/television/4014)
 - [Transgender Rights II](https://www.amon-hen.com/politics/29568)
 - [Reading: The Mauritius Command](https://www.amon-hen.com/books/297)
@@ -10,7 +11,6 @@
 - [The Tingler (1959)](https://www.amon-hen.com/movies/29528)
 - [Conversations](https://www.amon-hen.com/music/29511)
 - [RiffTrax – Hillbillys In A Haunted House](https://www.amon-hen.com/humor/29524)
-- [Mmmm, Ordinary Donkey Meat](https://www.amon-hen.com/food/29519)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>People always ask me, "Where were you when Kennedy was shot?"  Well, I don't have an alibi.</em><br /> -- Emo Philips</p>
+<p><em>"Creation science" has not entered the curriculum for a reason so simple and so basic that we often forget to mention it: because it is false, and because good teachers understand exactly why it is false.  What could be more destructive of that most fragile yet most precious commodity in our entire intellectual heritage -- good teaching -- than a bill forcing honorable teachers to sully their sacred trust by granting equal treatment to a doctrine not only known to be false, but calculated to undermine any general understanding of science as an enterprise?</em><br /> -- Stephen Jay Gould</p>
