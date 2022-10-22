@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Missile X: The Neutron Bomb Incident](https://www.amon-hen.com/humor/29623)
+- [The Horror!](https://www.amon-hen.com/music/29629)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Missile X: The Neutron Bomb Incident](https://www.amon-hen.com/humor/29623)
 - [Mmmm, Beef Fizz](https://www.amon-hen.com/food/29564)
 - [MST3K 0423 – Bride of the Monster](https://www.amon-hen.com/television/4014)
 - [Transgender Rights II](https://www.amon-hen.com/politics/29568)
@@ -10,7 +11,6 @@
 - [MST3K Short 0518 – What About Juvenile Delinquency?](https://www.amon-hen.com/television/8316)
 - [The Tingler (1959)](https://www.amon-hen.com/movies/29528)
 - [Conversations](https://www.amon-hen.com/music/29511)
-- [RiffTrax – Hillbillys In A Haunted House](https://www.amon-hen.com/humor/29524)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>"Creation science" has not entered the curriculum for a reason so simple and so basic that we often forget to mention it: because it is false, and because good teachers understand exactly why it is false.  What could be more destructive of that most fragile yet most precious commodity in our entire intellectual heritage -- good teaching -- than a bill forcing honorable teachers to sully their sacred trust by granting equal treatment to a doctrine not only known to be false, but calculated to undermine any general understanding of science as an enterprise?</em><br /> -- Stephen Jay Gould</p>
+<p><em>Oh Lord, please don't burn us<br />Don't grill or toast your flock<br />Don't put us on the barbecue<br />Or simmer us in stock<br />Don't braise or bake or boil us<br />Or stir-fry us in a wok<br />Oh please don't lightly poach us<br />Or baste us with hot fat<br />Don't fricassee or roast us<br />Or boil us in a vat<br />And please don't stick thy servants Lord<br />In a Rotiss-o-mat.</em><br /> -- Chaplain (<em>Monty Python's The Meaning of Life</em>)</p>
