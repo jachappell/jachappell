@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Horror!](https://www.amon-hen.com/music/29629)
+- [The Little Shop of Horrors (1960)](https://www.amon-hen.com/humor/25527)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Horror!](https://www.amon-hen.com/music/29629)
 - [RiffTrax – Missile X: The Neutron Bomb Incident](https://www.amon-hen.com/humor/29623)
 - [Mmmm, Beef Fizz](https://www.amon-hen.com/food/29564)
 - [MST3K 0423 – Bride of the Monster](https://www.amon-hen.com/television/4014)
@@ -10,7 +11,6 @@
 - [Reading: The Mauritius Command](https://www.amon-hen.com/books/297)
 - [MST3K Short 0518 – What About Juvenile Delinquency?](https://www.amon-hen.com/television/8316)
 - [The Tingler (1959)](https://www.amon-hen.com/movies/29528)
-- [Conversations](https://www.amon-hen.com/music/29511)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Oh Lord, please don't burn us<br />Don't grill or toast your flock<br />Don't put us on the barbecue<br />Or simmer us in stock<br />Don't braise or bake or boil us<br />Or stir-fry us in a wok<br />Oh please don't lightly poach us<br />Or baste us with hot fat<br />Don't fricassee or roast us<br />Or boil us in a vat<br />And please don't stick thy servants Lord<br />In a Rotiss-o-mat.</em><br /> -- Chaplain (<em>Monty Python's The Meaning of Life</em>)</p>
+<p><em>The two most abundant things in the universe are hydrogen and stupidity.</em><br /> -- Harlan Ellison</p>
