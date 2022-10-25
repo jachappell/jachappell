@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0520 – Last Clear Chance](https://www.amon-hen.com/television/5967)
+- [Trumpism](https://www.amon-hen.com/politics/29637)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0520 – Last Clear Chance](https://www.amon-hen.com/television/5967)
 - [The Little Shop of Horrors (1960)](https://www.amon-hen.com/humor/25527)
 - [The Horror!](https://www.amon-hen.com/music/29629)
 - [RiffTrax – Missile X: The Neutron Bomb Incident](https://www.amon-hen.com/humor/29623)
@@ -10,7 +11,6 @@
 - [MST3K 0423 – Bride of the Monster](https://www.amon-hen.com/television/4014)
 - [Transgender Rights II](https://www.amon-hen.com/politics/29568)
 - [Reading: The Mauritius Command](https://www.amon-hen.com/books/297)
-- [MST3K Short 0518 – What About Juvenile Delinquency?](https://www.amon-hen.com/television/8316)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It could not be happening because this sort of thing did not happen. Any contradictory evidence could be safely ignored.</em><br /> -- Terry Pratchett (<em>Jingo</em>)</p>
+<p><em>The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.</em><br /> -- Terry Pratchett</p>
