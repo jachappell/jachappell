@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Trumpism](https://www.amon-hen.com/politics/29637)
+- [MST3K 0424 – Manos: The Hands of Fate](https://www.amon-hen.com/television/4144)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Trumpism](https://www.amon-hen.com/politics/29637)
 - [MST3K Short 0520 – Last Clear Chance](https://www.amon-hen.com/television/5967)
 - [The Little Shop of Horrors (1960)](https://www.amon-hen.com/humor/25527)
 - [The Horror!](https://www.amon-hen.com/music/29629)
@@ -10,7 +11,6 @@
 - [Mmmm, Beef Fizz](https://www.amon-hen.com/food/29564)
 - [MST3K 0423 – Bride of the Monster](https://www.amon-hen.com/television/4014)
 - [Transgender Rights II](https://www.amon-hen.com/politics/29568)
-- [Reading: The Mauritius Command](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.</em><br /> -- Terry Pratchett</p>
+<p><em>In science one tries to tell people, in such a way as to be understood by everyone, something that no one ever knew before. But in poetry, it's the exact opposite.</em><br /> -- Paul Dirac</p>
