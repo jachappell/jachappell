@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [French, fancy and flavored-filled](https://www.amon-hen.com/food/29662)
+- [RiffTrax – Attack From Space](https://www.amon-hen.com/humor/29669)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [French, fancy and flavored-filled](https://www.amon-hen.com/food/29662)
 - [MST3K 0424 – Manos: The Hands of Fate](https://www.amon-hen.com/television/4144)
 - [Trumpism](https://www.amon-hen.com/politics/29637)
 - [MST3K Short 0520 – Last Clear Chance](https://www.amon-hen.com/television/5967)
@@ -10,7 +11,6 @@
 - [The Horror!](https://www.amon-hen.com/music/29629)
 - [RiffTrax – Missile X: The Neutron Bomb Incident](https://www.amon-hen.com/humor/29623)
 - [Mmmm, Beef Fizz](https://www.amon-hen.com/food/29564)
-- [MST3K 0423 – Bride of the Monster](https://www.amon-hen.com/television/4014)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I will not make any deals with you. I've resigned. I will not be pushed, filed, stamped, indexed, briefed, debriefed or numbered. My life is my own. I resign.</em><br /> -- Number 6</p>
+<p><em>Blessed is he who expects nothing, for he shall never be disappointed.</em><br /> -- Alexander Pope</p>
