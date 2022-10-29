@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Attack From Space](https://www.amon-hen.com/humor/29669)
+- [Baby, You’re A Haunted House](https://www.amon-hen.com/music/29671)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Attack From Space](https://www.amon-hen.com/humor/29669)
 - [French, fancy and flavored-filled](https://www.amon-hen.com/food/29662)
 - [MST3K 0424 – Manos: The Hands of Fate](https://www.amon-hen.com/television/4144)
 - [Trumpism](https://www.amon-hen.com/politics/29637)
@@ -10,10 +11,10 @@
 - [The Little Shop of Horrors (1960)](https://www.amon-hen.com/humor/25527)
 - [The Horror!](https://www.amon-hen.com/music/29629)
 - [RiffTrax – Missile X: The Neutron Bomb Incident](https://www.amon-hen.com/humor/29623)
-- [Mmmm, Beef Fizz](https://www.amon-hen.com/food/29564)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – November 2022](https://www.drum-corps.net/news/2177)
 - [New Educators Join Bluecoats Brass Team](https://www.drum-corps.net/news/2006)
 - [Tom Float, legendary marching percussion instructor and arranger, dies at 69](https://www.drum-corps.net/news/1851)
 - [Notes from DCI’s fall planning meeting (2022)](https://www.drum-corps.net/news/1829)
@@ -23,7 +24,6 @@
 - [Seattle Cascades Set for Return to Drum Corps International in 2023](https://www.drum-corps.net/news/1727)
 - [2022 DCA World Championships Finals](https://www.drum-corps.net/scores/dca/1707)
 - [2022 DCA World Championships Prelims](https://www.drum-corps.net/scores/dca/1701)
-- [Syvåtte](https://www.drum-corps.net/percussion/1697)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Blessed is he who expects nothing, for he shall never be disappointed.</em><br /> -- Alexander Pope</p>
+<p><em>The flow chart is a most thoroughly oversold piece of program documentation.</em><br /> -- Frederick Brooks, (<em>The Mythical Man-Month</em>)</p>
