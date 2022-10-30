@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Baby, You’re A Haunted House](https://www.amon-hen.com/music/29671)
+- [Donald Trump regularly encourages violence against political adversaries](https://www.amon-hen.com/politics/1027)
+- [Nosferatu (1922)](https://www.amon-hen.com/movies/25162)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Baby, You’re A Haunted House](https://www.amon-hen.com/music/29671)
 - [RiffTrax – Attack From Space](https://www.amon-hen.com/humor/29669)
 - [French, fancy and flavored-filled](https://www.amon-hen.com/food/29662)
 - [MST3K 0424 – Manos: The Hands of Fate](https://www.amon-hen.com/television/4144)
 - [Trumpism](https://www.amon-hen.com/politics/29637)
 - [MST3K Short 0520 – Last Clear Chance](https://www.amon-hen.com/television/5967)
 - [The Little Shop of Horrors (1960)](https://www.amon-hen.com/humor/25527)
-- [The Horror!](https://www.amon-hen.com/music/29629)
-- [RiffTrax – Missile X: The Neutron Bomb Incident](https://www.amon-hen.com/humor/29623)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -27,6 +27,7 @@
 
 
 ## [Storage B](https://www.storage-b.com)
+- [Stupidity](https://www.storage-b.com/www/845)
 - [C++ in Constrained Environments](https://www.storage-b.com/c/840)
 - [Scrum](https://www.storage-b.com/humor/826)
 - [Agile and scrum are broken](https://www.storage-b.com/miscellaneous/812)
@@ -36,7 +37,6 @@
 - [C++20: Reaching for the Aims of C++](https://www.storage-b.com/c/177)
 - [What Agile Really Means](https://www.storage-b.com/miscellaneous/760)
 - [Should you use blockchain?](https://www.storage-b.com/humor/726)
-- [Fast Inverse Square Root](https://www.storage-b.com/math-numerical-analysis/718)
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The flow chart is a most thoroughly oversold piece of program documentation.</em><br /> -- Frederick Brooks, (<em>The Mythical Man-Month</em>)</p>
+<p><em>Pinky, you've left the lens cap of your mind on again.</em><br /> -- The Brain</p>
