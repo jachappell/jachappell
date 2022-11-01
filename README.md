@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Bail Reform](https://www.amon-hen.com/politics/29709)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Private Health Insurance](https://www.amon-hen.com/politics/29705)
 - [Reading: Blindsight](https://www.amon-hen.com/books/297)
 - [MST3K Short 0524 – Design for Dreaming](https://www.amon-hen.com/television/5807)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Paul Lynde Halloween Special](https://www.amon-hen.com/television/16893)
 - [Donald Trump regularly encourages violence against political adversaries](https://www.amon-hen.com/politics/1027)
 - [Nosferatu (1922)](https://www.amon-hen.com/movies/25162)
 - [Baby, You’re A Haunted House](https://www.amon-hen.com/music/29671)
 - [RiffTrax – Attack From Space](https://www.amon-hen.com/humor/29669)
-- [French, fancy and flavored-filled](https://www.amon-hen.com/food/29662)
-- [MST3K 0424 – Manos: The Hands of Fate](https://www.amon-hen.com/television/4144)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>He asked me if I knew what time it was -- I said yes, but not right now.</em><br /> -- Stephen Wright</p>
+<p><em>All religions issue Bibles against Satan, and say the most injurious things against him, but we never hear his side.</em><br /> -- Mark Twain</p>
