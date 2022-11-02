@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Bail Reform](https://www.amon-hen.com/politics/29709)
+- [MST3K 0501 – W­arr­ior of the Los­t W­orld](https://www.amon-hen.com/television/13053)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Bail Reform](https://www.amon-hen.com/politics/29709)
 - [Private Health Insurance](https://www.amon-hen.com/politics/29705)
 - [Reading: Blindsight](https://www.amon-hen.com/books/297)
 - [MST3K Short 0524 – Design for Dreaming](https://www.amon-hen.com/television/5807)
@@ -10,7 +11,6 @@
 - [Donald Trump regularly encourages violence against political adversaries](https://www.amon-hen.com/politics/1027)
 - [Nosferatu (1922)](https://www.amon-hen.com/movies/25162)
 - [Baby, You’re A Haunted House](https://www.amon-hen.com/music/29671)
-- [RiffTrax – Attack From Space](https://www.amon-hen.com/humor/29669)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>All religions issue Bibles against Satan, and say the most injurious things against him, but we never hear his side.</em><br /> -- Mark Twain</p>
+<p><em>No one has an idea really of where we should draw the line.  What about the Bible?  Every nut who kills people has a Bible lying around.  If you're looking for violent rape imagery, the Bible's right there in your hotel room. If you just want to look up ways to screw people up, there it is, and you're justified because God told you to.  You have Shakespeare and you have Sophocles--what are we going to do, lose </em>Oedipus Rex<em> if someone pokes an eye out?</em><br /> -- Penn Jillette, from <em>Reason</em> magazine, on censorship of violent TV shows</p>
