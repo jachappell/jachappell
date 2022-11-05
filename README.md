@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Privileged White Dudes Getting Pissy](https://www.amon-hen.com/politics/29719)
+- [The Biggest Ideas in the Universe: Space, Time and Motion](https://www.amon-hen.com/science/29728)
+- [Taming the Dragon](https://www.amon-hen.com/music/29725)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Privileged White Dudes Getting Pissy](https://www.amon-hen.com/politics/29719)
 - [The McRib is back!](https://www.amon-hen.com/humor/29715)
 - [MST3K 0501 – W­arr­ior of the Los­t W­orld](https://www.amon-hen.com/television/13053)
 - [Bail Reform](https://www.amon-hen.com/politics/29709)
 - [Private Health Insurance](https://www.amon-hen.com/politics/29705)
 - [Reading: Blindsight](https://www.amon-hen.com/books/297)
 - [MST3K Short 0524 – Design for Dreaming](https://www.amon-hen.com/television/5807)
-- [The Paul Lynde Halloween Special](https://www.amon-hen.com/television/16893)
-- [Donald Trump regularly encourages violence against political adversaries](https://www.amon-hen.com/politics/1027)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>In a museum in Havana, there are two skulls of Christopher Columbus, "one when he was a boy and one when he was a man."</em><br /> -- Mark Twain</p>
+<p><em>I'm a simple man. I like pretty, dark-haired women, and breakfast food.</em><br /> -- Ron Swanson</p>
