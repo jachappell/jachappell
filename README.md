@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [The Intruder (1962)](https://www.amon-hen.com/movies/24510)
+- [798.00 EUR Network Switch](https://www.amon-hen.com/skeptic/29731)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Biggest Ideas in the Universe: Space, Time and Motion](https://www.amon-hen.com/science/29728)
 - [Taming the Dragon](https://www.amon-hen.com/music/29725)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Privileged White Dudes Getting Pissy](https://www.amon-hen.com/politics/29719)
 - [The McRib is back!](https://www.amon-hen.com/humor/29715)
-- [MST3K 0501 – W­arr­ior of the Los­t W­orld](https://www.amon-hen.com/television/13053)
+- [MST3K 0501 – Warrior of the Lost World](https://www.amon-hen.com/television/13053)
 - [Bail Reform](https://www.amon-hen.com/politics/29709)
 - [Private Health Insurance](https://www.amon-hen.com/politics/29705)
-- [Reading: Blindsight](https://www.amon-hen.com/books/297)
-- [MST3K Short 0524 – Design for Dreaming](https://www.amon-hen.com/television/5807)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I'm a simple man. I like pretty, dark-haired women, and breakfast food.</em><br /> -- Ron Swanson</p>
+<p><em>Want me to smack the corpse around a little?</em><br /> -- Bender Unit 22</p>
