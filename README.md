@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K Short 0602 – A Date With Your Family](https://www.amon-hen.com/television/5927)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Intruder (1962)](https://www.amon-hen.com/movies/24510)
 - [798.00 EUR Network Switch](https://www.amon-hen.com/skeptic/29731)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Biggest Ideas in the Universe: Space, Time and Motion](https://www.amon-hen.com/science/29728)
 - [Taming the Dragon](https://www.amon-hen.com/music/29725)
 - [Privileged White Dudes Getting Pissy](https://www.amon-hen.com/politics/29719)
 - [The McRib is back!](https://www.amon-hen.com/humor/29715)
 - [MST3K 0501 – Warrior of the Lost World](https://www.amon-hen.com/television/13053)
 - [Bail Reform](https://www.amon-hen.com/politics/29709)
-- [Private Health Insurance](https://www.amon-hen.com/politics/29705)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -27,6 +27,7 @@
 
 
 ## [Storage B](https://www.storage-b.com)
+- [Mastodon](https://www.storage-b.com/www/857)
 - [Linux EULA](https://www.storage-b.com/linux/850)
 - [Stupidity](https://www.storage-b.com/www/845)
 - [C++ in Constrained Environments](https://www.storage-b.com/c/840)
@@ -36,7 +37,6 @@
 - [SAFe](https://www.storage-b.com/humor/790)
 - [Two decades of progress](https://www.storage-b.com/humor/779)
 - [C++20: Reaching for the Aims of C++](https://www.storage-b.com/c/177)
-- [What Agile Really Means](https://www.storage-b.com/miscellaneous/760)
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Want me to smack the corpse around a little?</em><br /> -- Bender Unit 22</p>
+<p><em>What I mean (and everybody else means) by the word QUALITY cannot be broken down into subjects and predicates.  This is not because Quality is so mysterious but because Quality is so simple, immediate, and direct.</em><br /> -- R. Pirsig (<em>Zen and the Art of Motorcycle Maintenance</em>)</p>
