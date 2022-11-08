@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0602 – A Date With Your Family](https://www.amon-hen.com/television/5927)
+- [Election Subversion](https://www.amon-hen.com/politics/29747)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0602 – A Date With Your Family](https://www.amon-hen.com/television/5927)
 - [The Intruder (1962)](https://www.amon-hen.com/movies/24510)
 - [798.00 EUR Network Switch](https://www.amon-hen.com/skeptic/29731)
 - [The Biggest Ideas in the Universe: Space, Time and Motion](https://www.amon-hen.com/science/29728)
@@ -10,7 +11,6 @@
 - [Privileged White Dudes Getting Pissy](https://www.amon-hen.com/politics/29719)
 - [The McRib is back!](https://www.amon-hen.com/humor/29715)
 - [MST3K 0501 – Warrior of the Lost World](https://www.amon-hen.com/television/13053)
-- [Bail Reform](https://www.amon-hen.com/politics/29709)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>What I mean (and everybody else means) by the word QUALITY cannot be broken down into subjects and predicates.  This is not because Quality is so mysterious but because Quality is so simple, immediate, and direct.</em><br /> -- R. Pirsig (<em>Zen and the Art of Motorcycle Maintenance</em>)</p>
+<p><em>If you really want something in life you have to work for it.  Now quiet, they're about to announce the lottery numbers.</em><br /> -- Homer J. Simpson</p>
