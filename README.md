@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Election Subversion](https://www.amon-hen.com/politics/29747)
+- [MST3K 0502 – Hercules](https://www.amon-hen.com/television/13133)
+- [Mastodon: Quote of the Day](https://www.amon-hen.com/quotes/29753)
+- [Election Day Thought](https://www.amon-hen.com/politics/29751)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Election Subversion](https://www.amon-hen.com/politics/29747)
 - [MST3K Short 0602 – A Date With Your Family](https://www.amon-hen.com/television/5927)
 - [The Intruder (1962)](https://www.amon-hen.com/movies/24510)
 - [798.00 EUR Network Switch](https://www.amon-hen.com/skeptic/29731)
 - [The Biggest Ideas in the Universe: Space, Time and Motion](https://www.amon-hen.com/science/29728)
 - [Taming the Dragon](https://www.amon-hen.com/music/29725)
-- [Privileged White Dudes Getting Pissy](https://www.amon-hen.com/politics/29719)
-- [The McRib is back!](https://www.amon-hen.com/humor/29715)
-- [MST3K 0501 – Warrior of the Lost World](https://www.amon-hen.com/television/13053)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Bluecoats Announces TAMA | BERGERAULT As Percussion Performance Partner](https://www.drum-corps.net/percussion/2201)
 - [Drum Corps World – November 2022](https://www.drum-corps.net/news/2177)
 - [New Educators Join Bluecoats Brass Team](https://www.drum-corps.net/news/2006)
 - [Tom Float, legendary marching percussion instructor and arranger, dies at 69](https://www.drum-corps.net/news/1851)
@@ -23,7 +24,6 @@
 - [Drum Corps World – September 2022](https://www.drum-corps.net/news/1732)
 - [Seattle Cascades Set for Return to Drum Corps International in 2023](https://www.drum-corps.net/news/1727)
 - [2022 DCA World Championships Finals](https://www.drum-corps.net/scores/dca/1707)
-- [2022 DCA World Championships Prelims](https://www.drum-corps.net/scores/dca/1701)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If you really want something in life you have to work for it.  Now quiet, they're about to announce the lottery numbers.</em><br /> -- Homer J. Simpson</p>
+<p><em>It is amazing that when someone else spouts the nonsense you yourself believe you can readily perceive it as nonsense.</em><br /> -- Philip K. Dick</p>
