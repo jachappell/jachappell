@@ -1,20 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Reading: Echopraxia](https://www.amon-hen.com/books/297)
+- [Tom Rarick | Tama Drums](https://www.amon-hen.com/music/drum-and-bugle-corps/29764)
+- [Mmmm, Rotten Meat Flavor](https://www.amon-hen.com/food/29756)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0502 – Hercules](https://www.amon-hen.com/television/13133)
 - [Mastodon: Quote of the Day](https://www.amon-hen.com/quotes/29753)
 - [Election Day Thought](https://www.amon-hen.com/politics/29751)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Election Subversion](https://www.amon-hen.com/politics/29747)
 - [MST3K Short 0602 – A Date With Your Family](https://www.amon-hen.com/television/5927)
 - [The Intruder (1962)](https://www.amon-hen.com/movies/24510)
-- [798.00 EUR Network Switch](https://www.amon-hen.com/skeptic/29731)
-- [The Biggest Ideas in the Universe: Space, Time and Motion](https://www.amon-hen.com/science/29728)
-- [Taming the Dragon](https://www.amon-hen.com/music/29725)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
-- [Bluecoats Announces TAMA | BERGERAULT As Percussion Performance Partner](https://www.drum-corps.net/percussion/2201)
+- [Bluecoats Announces TAMA | BERGERAULT as Percussion Performance Partner](https://www.drum-corps.net/percussion/2201)
 - [Drum Corps World – November 2022](https://www.drum-corps.net/news/2177)
 - [New Educators Join Bluecoats Brass Team](https://www.drum-corps.net/news/2006)
 - [Tom Float, legendary marching percussion instructor and arranger, dies at 69](https://www.drum-corps.net/news/1851)
@@ -27,6 +27,7 @@
 
 
 ## [Storage B](https://www.storage-b.com)
+- [More Stupidity](https://www.storage-b.com/www/859)
 - [Mastodon](https://www.storage-b.com/www/857)
 - [Linux EULA](https://www.storage-b.com/linux/850)
 - [Stupidity](https://www.storage-b.com/www/845)
@@ -36,7 +37,6 @@
 - [Dumping Windows 10](https://www.storage-b.com/linux/795)
 - [SAFe](https://www.storage-b.com/humor/790)
 - [Two decades of progress](https://www.storage-b.com/humor/779)
-- [C++20: Reaching for the Aims of C++](https://www.storage-b.com/c/177)
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It is amazing that when someone else spouts the nonsense you yourself believe you can readily perceive it as nonsense.</em><br /> -- Philip K. Dick</p>
+<p><em>If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.</em><br /> -- J.R.R. Tolkien</p>
