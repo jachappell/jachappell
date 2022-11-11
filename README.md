@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [The Gales of November](https://www.amon-hen.com/music/2651)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Objectively Shitty Senators](https://www.amon-hen.com/politics/29761)
 - [Reading: Echopraxia](https://www.amon-hen.com/books/297)
 - [Tom Rarick | Tama Drums](https://www.amon-hen.com/music/drum-and-bugle-corps/29764)
 - [Mmmm, Rotten Meat Flavor](https://www.amon-hen.com/food/29756)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0502 – Hercules](https://www.amon-hen.com/television/13133)
 - [Mastodon: Quote of the Day](https://www.amon-hen.com/quotes/29753)
 - [Election Day Thought](https://www.amon-hen.com/politics/29751)
 - [Election Subversion](https://www.amon-hen.com/politics/29747)
-- [MST3K Short 0602 – A Date With Your Family](https://www.amon-hen.com/television/5927)
-- [The Intruder (1962)](https://www.amon-hen.com/movies/24510)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.</em><br /> -- J.R.R. Tolkien</p>
+<p><em>There are only three ways to motivate people: money, fear, and hunger.</em><br /> -- Ron Swanson</p>
