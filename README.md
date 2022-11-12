@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Gales of November](https://www.amon-hen.com/music/2651)
+- [The Garden](https://www.amon-hen.com/music/29769)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Gales of November](https://www.amon-hen.com/music/2651)
 - [Objectively Shitty Senators](https://www.amon-hen.com/politics/29761)
 - [Reading: Echopraxia](https://www.amon-hen.com/books/297)
 - [Tom Rarick | Tama Drums](https://www.amon-hen.com/music/drum-and-bugle-corps/29764)
@@ -10,7 +11,6 @@
 - [MST3K 0502 – Hercules](https://www.amon-hen.com/television/13133)
 - [Mastodon: Quote of the Day](https://www.amon-hen.com/quotes/29753)
 - [Election Day Thought](https://www.amon-hen.com/politics/29751)
-- [Election Subversion](https://www.amon-hen.com/politics/29747)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>There are only three ways to motivate people: money, fear, and hunger.</em><br /> -- Ron Swanson</p>
+<p><em>Getting out of jury duty is easy. The trick is to say you're prejudiced against all races.</em><br /> -- Homer J. Simpson</p>
