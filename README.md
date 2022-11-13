@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Garden](https://www.amon-hen.com/music/29769)
+- [Complete Assholes](https://www.amon-hen.com/politics/29791)
+- [An American Hippie In Israel (1972)](https://www.amon-hen.com/movies/29780)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Garden](https://www.amon-hen.com/music/29769)
 - [The Gales of November](https://www.amon-hen.com/music/2651)
 - [Objectively Shitty Senators](https://www.amon-hen.com/politics/29761)
 - [Reading: Echopraxia](https://www.amon-hen.com/books/297)
 - [Tom Rarick | Tama Drums](https://www.amon-hen.com/music/drum-and-bugle-corps/29764)
 - [Mmmm, Rotten Meat Flavor](https://www.amon-hen.com/food/29756)
 - [MST3K 0502 – Hercules](https://www.amon-hen.com/television/13133)
-- [Mastodon: Quote of the Day](https://www.amon-hen.com/quotes/29753)
-- [Election Day Thought](https://www.amon-hen.com/politics/29751)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [27th Lancers Alumni Corps (1994)](https://www.drum-corps.net/history/2222)
 - [Bluecoats Announces TAMA | BERGERAULT as Percussion Performance Partner](https://www.drum-corps.net/percussion/2201)
 - [Drum Corps World – November 2022](https://www.drum-corps.net/news/2177)
 - [New Educators Join Bluecoats Brass Team](https://www.drum-corps.net/news/2006)
@@ -23,7 +24,6 @@
 - [Drum Corps World – October 2022](https://www.drum-corps.net/news/1798)
 - [Drum Corps World – September 2022](https://www.drum-corps.net/news/1732)
 - [Seattle Cascades Set for Return to Drum Corps International in 2023](https://www.drum-corps.net/news/1727)
-- [2022 DCA World Championships Finals](https://www.drum-corps.net/scores/dca/1707)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Getting out of jury duty is easy. The trick is to say you're prejudiced against all races.</em><br /> -- Homer J. Simpson</p>
+<p><em>I figure that if God actually does exist, He's big enough to understand an honest difference of opinion.</em><br /> -- Isaac Asimov</p>
