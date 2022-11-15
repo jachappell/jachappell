@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [The Monarchy](https://www.amon-hen.com/politics/29813)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Voting by Mail / Mail-in Voting](https://www.amon-hen.com/politics/29806)
 - [How Biden Stole the Election](https://www.amon-hen.com/politics/29801)
 - [MST3K Short 0603 – The Selling Wizard](https://www.amon-hen.com/television/6916)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Complete Assholes](https://www.amon-hen.com/politics/29791)
 - [An American Hippie In Israel (1972)](https://www.amon-hen.com/movies/29780)
 - [The Garden](https://www.amon-hen.com/music/29769)
 - [The Gales of November](https://www.amon-hen.com/music/2651)
 - [Objectively Shitty Senators](https://www.amon-hen.com/politics/29761)
-- [Reading: Echopraxia](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Chicago Royal Airs Alumni Corps (2002)](https://www.drum-corps.net/history/2225)
 - [Mighty St. Joe’s Alumni Corps (1995)](https://www.drum-corps.net/history/2234)
 - [27th Lancers Alumni Corps (1994)](https://www.drum-corps.net/history/2222)
 - [Bluecoats Announces TAMA | BERGERAULT as Percussion Performance Partner](https://www.drum-corps.net/percussion/2201)
@@ -23,7 +24,6 @@
 - [Notes from DCI’s fall planning meeting (2022)](https://www.drum-corps.net/news/1829)
 - [Retirement of Denise Bonfiglio](https://www.drum-corps.net/news/1800)
 - [Drum Corps World – October 2022](https://www.drum-corps.net/news/1798)
-- [Drum Corps World – September 2022](https://www.drum-corps.net/news/1732)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Destiny is a good thing to accept when it's going your way.  When it isn't, don't call it destiny; call it injustice, treachery, or simple bad luck.</em><br /> -- Joseph Heller (<em>God Knows</em>)</p>
+<p><em>Vampires are make believe, just like elves and gremlins and Eskimos!</em><br /> -- Homer J. Simpson</p>
