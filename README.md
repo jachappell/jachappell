@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Monarchy](https://www.amon-hen.com/politics/29813)
+- [Trump  is anti-American, treasonous filth](https://www.amon-hen.com/politics/29823)
+- [MST3K 0503 – Swamp Diamonds](https://www.amon-hen.com/television/13839)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Monarchy](https://www.amon-hen.com/politics/29813)
 - [Voting by Mail / Mail-in Voting](https://www.amon-hen.com/politics/29806)
 - [How Biden Stole the Election](https://www.amon-hen.com/politics/29801)
 - [MST3K Short 0603 – The Selling Wizard](https://www.amon-hen.com/television/6916)
 - [Complete Assholes](https://www.amon-hen.com/politics/29791)
 - [An American Hippie In Israel (1972)](https://www.amon-hen.com/movies/29780)
 - [The Garden](https://www.amon-hen.com/music/29769)
-- [The Gales of November](https://www.amon-hen.com/music/2651)
-- [Objectively Shitty Senators](https://www.amon-hen.com/politics/29761)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Hawthorne Caballeros Alumni Corps (2005)](https://www.drum-corps.net/history/2241)
 - [Chicago Royal Airs Alumni Corps (2002)](https://www.drum-corps.net/history/2225)
 - [Mighty St. Joe’s Alumni Corps (1995)](https://www.drum-corps.net/history/2234)
 - [27th Lancers Alumni Corps (1994)](https://www.drum-corps.net/history/2222)
@@ -23,7 +24,6 @@
 - [Tom Float, legendary marching percussion instructor and arranger, dies at 69](https://www.drum-corps.net/news/1851)
 - [Notes from DCI’s fall planning meeting (2022)](https://www.drum-corps.net/news/1829)
 - [Retirement of Denise Bonfiglio](https://www.drum-corps.net/news/1800)
-- [Drum Corps World – October 2022](https://www.drum-corps.net/news/1798)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Vampires are make believe, just like elves and gremlins and Eskimos!</em><br /> -- Homer J. Simpson</p>
+<p><em>Religion supports nobody.  It has to be supported.  It produces no wheat, no corn; it ploughs no land; it fells no forests.  It is a perpetual mendicant. It lives on the labors of others, and then has the arrogance to pretend that it supports the giver.</em><br /> -- Robert G. Ingersoll</p>
