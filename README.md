@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Taizo](https://www.amon-hen.com/music/29827)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Christmas is a Terrible Holiday](https://www.amon-hen.com/humor/29772)
 - [The Star Wars Holiday Special](https://www.amon-hen.com/television/1787)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Spreadable Cheese](https://www.amon-hen.com/food/29787)
 - [Trump  is anti-American, treasonous filth](https://www.amon-hen.com/politics/29823)
 - [MST3K 0503 – Swamp Diamonds](https://www.amon-hen.com/television/13839)
 - [The Monarchy](https://www.amon-hen.com/politics/29813)
 - [Voting by Mail / Mail-in Voting](https://www.amon-hen.com/politics/29806)
 - [How Biden Stole the Election](https://www.amon-hen.com/politics/29801)
-- [MST3K Short 0603 – The Selling Wizard](https://www.amon-hen.com/television/6916)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Cavaliers Alumni Corps (2008)](https://www.drum-corps.net/history/2258)
 - [Anaheim Kingsmen Alumni Corps (2007)](https://www.drum-corps.net/history/2255)
 - [Madison Scouts Alumni Corps (2006)](https://www.drum-corps.net/history/2251)
 - [Hawthorne Caballeros Alumni Corps (2005)](https://www.drum-corps.net/history/2241)
@@ -23,7 +24,6 @@
 - [Bluecoats Announces TAMA | BERGERAULT as Percussion Performance Partner](https://www.drum-corps.net/percussion/2201)
 - [Drum Corps World – November 2022](https://www.drum-corps.net/news/2177)
 - [New Educators Join Bluecoats Brass Team](https://www.drum-corps.net/news/2006)
-- [Tom Float, legendary marching percussion instructor and arranger, dies at 69](https://www.drum-corps.net/news/1851)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>That seems to point up a significant difference between Europeans and Americans. A European says: "I can't understand this, what's wrong with me?" An American says: "I can't understand this, what's wrong with him?"</em><br /> -- Terry Pratchett</p>
+<p><em>Don't go around saying the world owes you a living.  The world owes you nothing.  It was here first.</em><br /> -- Mark Twain</p>
