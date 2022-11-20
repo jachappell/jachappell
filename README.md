@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Taizo](https://www.amon-hen.com/music/29827)
+- [RiffTrax – The Star Wars Holiday Special](https://www.amon-hen.com/television/28367)
+- [The Atomic Submarine (1959)](https://www.amon-hen.com/movies/29831)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Taizo](https://www.amon-hen.com/music/29827)
 - [Christmas is a Terrible Holiday](https://www.amon-hen.com/humor/29772)
 - [The Star Wars Holiday Special](https://www.amon-hen.com/television/1787)
 - [Mmmm, Spreadable Cheese](https://www.amon-hen.com/food/29787)
 - [Trump  is anti-American, treasonous filth](https://www.amon-hen.com/politics/29823)
 - [MST3K 0503 – Swamp Diamonds](https://www.amon-hen.com/television/13839)
 - [The Monarchy](https://www.amon-hen.com/politics/29813)
-- [Voting by Mail / Mail-in Voting](https://www.amon-hen.com/politics/29806)
-- [How Biden Stole the Election](https://www.amon-hen.com/politics/29801)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Star of Indiana Alumni Corps (2010)](https://www.drum-corps.net/history/2274)
 - [Cavaliers Alumni Corps (2008)](https://www.drum-corps.net/history/2258)
 - [Anaheim Kingsmen Alumni Corps (2007)](https://www.drum-corps.net/history/2255)
 - [Madison Scouts Alumni Corps (2006)](https://www.drum-corps.net/history/2251)
@@ -23,7 +24,6 @@
 - [27th Lancers Alumni Corps (1994)](https://www.drum-corps.net/history/2222)
 - [Bluecoats Announces TAMA | BERGERAULT as Percussion Performance Partner](https://www.drum-corps.net/percussion/2201)
 - [Drum Corps World – November 2022](https://www.drum-corps.net/news/2177)
-- [New Educators Join Bluecoats Brass Team](https://www.drum-corps.net/news/2006)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Don't go around saying the world owes you a living.  The world owes you nothing.  It was here first.</em><br /> -- Mark Twain</p>
+<p><em>When I was a child, the other children in my neighborhood would taunt me, calling me "noodle-head" or "neo-Calvinist" So I would run after them, but lucky for them the chain would snap tight and pull me back.</em><br /> -- Emo Philips </p>
