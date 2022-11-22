@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0607 – Uncle Jim’s Dairy Farm](https://www.amon-hen.com/television/6434)
+- [Qatar World Cup #FIFA #FIFAWorldCup2022 #FIFAWorldCup](https://www.amon-hen.com/politics/29849)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0607 – Uncle Jim’s Dairy Farm](https://www.amon-hen.com/television/6434)
 - [RiffTrax – The Star Wars Holiday Special](https://www.amon-hen.com/television/28367)
 - [The Atomic Submarine (1959)](https://www.amon-hen.com/movies/29831)
 - [Taizo](https://www.amon-hen.com/music/29827)
@@ -10,10 +11,10 @@
 - [The Star Wars Holiday Special](https://www.amon-hen.com/television/1787)
 - [Mmmm, Spreadable Cheese](https://www.amon-hen.com/food/29787)
 - [Trump  is anti-American, treasonous filth](https://www.amon-hen.com/politics/29823)
-- [MST3K 0503 – Swamp Diamonds](https://www.amon-hen.com/television/13839)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Santa Clara Vanguard Alumni Corps (2017)](https://www.drum-corps.net/history/2278)
 - [Bridgemen Alumni Corps (2016)](https://www.drum-corps.net/history/2276)
 - [Star of Indiana Alumni Corps (2010)](https://www.drum-corps.net/history/2274)
 - [Cavaliers Alumni Corps (2008)](https://www.drum-corps.net/history/2258)
@@ -23,7 +24,6 @@
 - [Chicago Royal Airs Alumni Corps (2002)](https://www.drum-corps.net/history/2225)
 - [Mighty St. Joe’s Alumni Corps (1995)](https://www.drum-corps.net/history/2234)
 - [27th Lancers Alumni Corps (1994)](https://www.drum-corps.net/history/2222)
-- [Bluecoats Announces TAMA | BERGERAULT as Percussion Performance Partner](https://www.drum-corps.net/percussion/2201)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The actual tragedies of life bear no relation to one's preconceived ideas. In the event, one is always bewildered by their simplicity, their grandeur of design, and by that element of the bizzare which seems inherent in them.</em><br /> -- Jean Cocteau</p>
+<p><em>Turn the world over on its side and everything loose will land in Los Angeles.</em><br /> -- Frank Lloyd Wright</p>
