@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Qatar World Cup #FIFA #FIFAWorldCup2022 #FIFAWorldCup](https://www.amon-hen.com/politics/29849)
+- [MST3K 0504 – Secret Agent Super Dragon](https://www.amon-hen.com/television/6580)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Qatar World Cup #FIFA #FIFAWorldCup2022 #FIFAWorldCup](https://www.amon-hen.com/politics/29849)
 - [MST3K Short 0607 – Uncle Jim’s Dairy Farm](https://www.amon-hen.com/television/6434)
 - [RiffTrax – The Star Wars Holiday Special](https://www.amon-hen.com/television/28367)
 - [The Atomic Submarine (1959)](https://www.amon-hen.com/movies/29831)
@@ -10,10 +11,10 @@
 - [Christmas is a Terrible Holiday](https://www.amon-hen.com/humor/29772)
 - [The Star Wars Holiday Special](https://www.amon-hen.com/television/1787)
 - [Mmmm, Spreadable Cheese](https://www.amon-hen.com/food/29787)
-- [Trump  is anti-American, treasonous filth](https://www.amon-hen.com/politics/29823)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Bluecoats Alumni Corps (2022)](https://www.drum-corps.net/history/2282)
 - [Santa Clara Vanguard Alumni Corps (2017)](https://www.drum-corps.net/history/2278)
 - [Bridgemen Alumni Corps (2016)](https://www.drum-corps.net/history/2276)
 - [Star of Indiana Alumni Corps (2010)](https://www.drum-corps.net/history/2274)
@@ -23,7 +24,6 @@
 - [Hawthorne Caballeros Alumni Corps (2005)](https://www.drum-corps.net/history/2241)
 - [Chicago Royal Airs Alumni Corps (2002)](https://www.drum-corps.net/history/2225)
 - [Mighty St. Joe’s Alumni Corps (1995)](https://www.drum-corps.net/history/2234)
-- [27th Lancers Alumni Corps (1994)](https://www.drum-corps.net/history/2222)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Turn the world over on its side and everything loose will land in Los Angeles.</em><br /> -- Frank Lloyd Wright</p>
+<p><em>I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve.</em><br /> -- J.R.R. Tolkien</p>
