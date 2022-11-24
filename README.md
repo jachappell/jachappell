@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0504 – Secret Agent Super Dragon](https://www.amon-hen.com/television/6580)
+- [Mmmm, Canned Jellied Sauce](https://www.amon-hen.com/food/29833)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0504 – Secret Agent Super Dragon](https://www.amon-hen.com/television/6580)
 - [Qatar World Cup #FIFA #FIFAWorldCup2022 #FIFAWorldCup](https://www.amon-hen.com/politics/29849)
 - [MST3K Short 0607 – Uncle Jim’s Dairy Farm](https://www.amon-hen.com/television/6434)
 - [RiffTrax – The Star Wars Holiday Special](https://www.amon-hen.com/television/28367)
@@ -10,10 +11,10 @@
 - [Taizo](https://www.amon-hen.com/music/29827)
 - [Christmas is a Terrible Holiday](https://www.amon-hen.com/humor/29772)
 - [The Star Wars Holiday Special](https://www.amon-hen.com/television/1787)
-- [Mmmm, Spreadable Cheese](https://www.amon-hen.com/food/29787)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [2023 Drum Corps International Tour Schedule](https://www.drum-corps.net/news/2309)
 - [Bluecoats Alumni Corps (2022)](https://www.drum-corps.net/history/2282)
 - [Santa Clara Vanguard Alumni Corps (2017)](https://www.drum-corps.net/history/2278)
 - [Bridgemen Alumni Corps (2016)](https://www.drum-corps.net/history/2276)
@@ -23,7 +24,6 @@
 - [Madison Scouts Alumni Corps (2006)](https://www.drum-corps.net/history/2251)
 - [Hawthorne Caballeros Alumni Corps (2005)](https://www.drum-corps.net/history/2241)
 - [Chicago Royal Airs Alumni Corps (2002)](https://www.drum-corps.net/history/2225)
-- [Mighty St. Joe’s Alumni Corps (1995)](https://www.drum-corps.net/history/2234)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve.</em><br /> -- J.R.R. Tolkien</p>
+<p><em>I don't need a compass to know which way the wind shines!</em><br /> -- Mr. Furious</p>
