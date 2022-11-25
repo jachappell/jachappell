@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Canned Jellied Sauce](https://www.amon-hen.com/food/29833)
+- [People refusing to be honest about what 2020 was like](https://www.amon-hen.com/politics/29868)
+- [Reading: What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://www.amon-hen.com/books/297)
+- [RiffTrax – Let’s Talk Turkey](https://www.amon-hen.com/humor/29851)
+- [Happy Thanksgiving](https://www.amon-hen.com/humor/792)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Canned Jellied Sauce](https://www.amon-hen.com/food/29833)
 - [MST3K 0504 – Secret Agent Super Dragon](https://www.amon-hen.com/television/6580)
 - [Qatar World Cup #FIFA #FIFAWorldCup2022 #FIFAWorldCup](https://www.amon-hen.com/politics/29849)
 - [MST3K Short 0607 – Uncle Jim’s Dairy Farm](https://www.amon-hen.com/television/6434)
 - [RiffTrax – The Star Wars Holiday Special](https://www.amon-hen.com/television/28367)
-- [The Atomic Submarine (1959)](https://www.amon-hen.com/movies/29831)
-- [Taizo](https://www.amon-hen.com/music/29827)
-- [Christmas is a Terrible Holiday](https://www.amon-hen.com/humor/29772)
-- [The Star Wars Holiday Special](https://www.amon-hen.com/television/1787)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I don't need a compass to know which way the wind shines!</em><br /> -- Mr. Furious</p>
+<p><em>As great scientists have said and as all children know, it is above all by the imagination that we achieve perception, and compassion, and hope.</em><br /> -- Ursula K. Le Guin</p>
