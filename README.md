@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [TAMA | BERGERAULT x Bluecoats](https://www.amon-hen.com/music/drum-and-bugle-corps/29872)
+- [Nautilus](https://www.amon-hen.com/music/29854)
+- [Happy Holidays](https://www.amon-hen.com/quotes/248)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [People refusing to be honest about what 2020 was like](https://www.amon-hen.com/politics/29868)
 - [Reading: What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://www.amon-hen.com/books/297)
 - [RiffTrax – Let’s Talk Turkey](https://www.amon-hen.com/humor/29851)
 - [Happy Thanksgiving](https://www.amon-hen.com/humor/792)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Canned Jellied Sauce](https://www.amon-hen.com/food/29833)
 - [MST3K 0504 – Secret Agent Super Dragon](https://www.amon-hen.com/television/6580)
-- [Qatar World Cup #FIFA #FIFAWorldCup2022 #FIFAWorldCup](https://www.amon-hen.com/politics/29849)
-- [MST3K Short 0607 – Uncle Jim’s Dairy Farm](https://www.amon-hen.com/television/6434)
-- [RiffTrax – The Star Wars Holiday Special](https://www.amon-hen.com/television/28367)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – December 2022](https://www.drum-corps.net/news/2317)
 - [2023 Drum Corps International Tour Schedule](https://www.drum-corps.net/news/2309)
 - [Bluecoats Alumni Corps (2022)](https://www.drum-corps.net/history/2282)
 - [Santa Clara Vanguard Alumni Corps (2017)](https://www.drum-corps.net/history/2278)
@@ -23,7 +24,6 @@
 - [Anaheim Kingsmen Alumni Corps (2007)](https://www.drum-corps.net/history/2255)
 - [Madison Scouts Alumni Corps (2006)](https://www.drum-corps.net/history/2251)
 - [Hawthorne Caballeros Alumni Corps (2005)](https://www.drum-corps.net/history/2241)
-- [Chicago Royal Airs Alumni Corps (2002)](https://www.drum-corps.net/history/2225)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>As great scientists have said and as all children know, it is above all by the imagination that we achieve perception, and compassion, and hope.</em><br /> -- Ursula K. Le Guin</p>
+<p><em>You see, boy?  The real money's in bootlegging!  Not in your childish vandalism.</em><br /> -- Homer J. Simpson</p>
