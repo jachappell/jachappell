@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [The Quantum Origins of Gravity](https://www.amon-hen.com/science/29881)
+- [Copyediting Tip](https://www.amon-hen.com/politics/29877)
+- [Zombie Nightmare (1987)](https://www.amon-hen.com/movies/29875)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [TAMA | BERGERAULT x Bluecoats](https://www.amon-hen.com/music/drum-and-bugle-corps/29872)
 - [Nautilus](https://www.amon-hen.com/music/29854)
 - [Happy Holidays](https://www.amon-hen.com/quotes/248)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [People refusing to be honest about what 2020 was like](https://www.amon-hen.com/politics/29868)
 - [Reading: What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://www.amon-hen.com/books/297)
 - [RiffTrax – Let’s Talk Turkey](https://www.amon-hen.com/humor/29851)
-- [Happy Thanksgiving](https://www.amon-hen.com/humor/792)
-- [Mmmm, Canned Jellied Sauce](https://www.amon-hen.com/food/29833)
-- [MST3K 0504 – Secret Agent Super Dragon](https://www.amon-hen.com/television/6580)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Bluecoats 50th Anniversary Alumni Corps Full Rehearsal Run – Baritone/Trombone](https://www.drum-corps.net/history/2319)
 - [Drum Corps World – December 2022](https://www.drum-corps.net/news/2317)
 - [2023 Drum Corps International Tour Schedule](https://www.drum-corps.net/news/2309)
 - [Bluecoats Alumni Corps (2022)](https://www.drum-corps.net/history/2282)
@@ -23,7 +24,6 @@
 - [Cavaliers Alumni Corps (2008)](https://www.drum-corps.net/history/2258)
 - [Anaheim Kingsmen Alumni Corps (2007)](https://www.drum-corps.net/history/2255)
 - [Madison Scouts Alumni Corps (2006)](https://www.drum-corps.net/history/2251)
-- [Hawthorne Caballeros Alumni Corps (2005)](https://www.drum-corps.net/history/2241)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You see, boy?  The real money's in bootlegging!  Not in your childish vandalism.</em><br /> -- Homer J. Simpson</p>
+<p><em>If you live long enough, the venerability factor creeps in; first, you get accused of things you never did, and later, credited for virtues you never had.</em><br /> -- I. F. Stone</p>
