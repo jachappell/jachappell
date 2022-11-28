@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [A Personal Apology to Young Americans for Failing to Stop Ronald #Reagan](https://www.amon-hen.com/politics/29887)
+- [A sign your politics may be alarmingly skewed toward fascism](https://www.amon-hen.com/politics/29885)
+- [MST3K Short 0608 – A Day At The Fair](https://www.amon-hen.com/television/6149)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Quantum Origins of Gravity](https://www.amon-hen.com/science/29881)
 - [Copyediting Tip](https://www.amon-hen.com/politics/29877)
 - [Zombie Nightmare (1987)](https://www.amon-hen.com/movies/29875)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [TAMA | BERGERAULT x Bluecoats](https://www.amon-hen.com/music/drum-and-bugle-corps/29872)
 - [Nautilus](https://www.amon-hen.com/music/29854)
 - [Happy Holidays](https://www.amon-hen.com/quotes/248)
-- [People refusing to be honest about what 2020 was like](https://www.amon-hen.com/politics/29868)
-- [Reading: What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://www.amon-hen.com/books/297)
-- [RiffTrax – Let’s Talk Turkey](https://www.amon-hen.com/humor/29851)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If you live long enough, the venerability factor creeps in; first, you get accused of things you never did, and later, credited for virtues you never had.</em><br /> -- I. F. Stone</p>
+<p><em>The less I know about other people's affairs, the happier I am. I'm not interested in caring about people. I once worked with a guy for three years and never learned his name. Best friend I ever had. We still never talk sometimes.</em><br /> -- Ron Swanson</p>
