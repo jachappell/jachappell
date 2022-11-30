@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K 0505 – The Magic Voyage of Sinbad](https://www.amon-hen.com/television/13411)
+- [Reading: Galaxias](https://www.amon-hen.com/books/297)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The biggest ideas in the Universe](https://www.amon-hen.com/science/29879)
 - [What mainstream journalism hates to admit](https://www.amon-hen.com/politics/29890)
 - [Cyber Monday](https://www.amon-hen.com/humor/5023)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [A Personal Apology to Young Americans for Failing to Stop Ronald #Reagan](https://www.amon-hen.com/politics/29887)
 - [A sign your politics may be alarmingly skewed toward fascism](https://www.amon-hen.com/politics/29885)
 - [MST3K Short 0608 – A Day At The Fair](https://www.amon-hen.com/television/6149)
 - [The Quantum Origins of Gravity](https://www.amon-hen.com/science/29881)
-- [Copyediting Tip](https://www.amon-hen.com/politics/29877)
-- [Zombie Nightmare (1987)](https://www.amon-hen.com/movies/29875)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Our great democracies still tend to think that a stupid man is more likely to be honest than a clever man.</em><br /> -- Bertrand Russell</p>
+<p><em>I hate quotations.  Tell me what you know.</em><br /> -- Ralph Waldo Emerson</p>
