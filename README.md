@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Mmmm, Nourishing Meat](https://www.amon-hen.com/food/29905)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0505 – The Magic Voyage of Sinbad](https://www.amon-hen.com/television/13411)
 - [Reading: Galaxias](https://www.amon-hen.com/books/297)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The biggest ideas in the Universe](https://www.amon-hen.com/science/29879)
 - [What mainstream journalism hates to admit](https://www.amon-hen.com/politics/29890)
 - [Cyber Monday](https://www.amon-hen.com/humor/5023)
 - [A Personal Apology to Young Americans for Failing to Stop Ronald #Reagan](https://www.amon-hen.com/politics/29887)
 - [A sign your politics may be alarmingly skewed toward fascism](https://www.amon-hen.com/politics/29885)
 - [MST3K Short 0608 – A Day At The Fair](https://www.amon-hen.com/television/6149)
-- [The Quantum Origins of Gravity](https://www.amon-hen.com/science/29881)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -27,6 +27,7 @@
 
 
 ## [Storage B](https://www.storage-b.com)
+- [Framework Comparison](https://www.storage-b.com/humor/864)
 - [More Stupidity](https://www.storage-b.com/www/859)
 - [Mastodon](https://www.storage-b.com/www/857)
 - [Linux EULA](https://www.storage-b.com/linux/850)
@@ -36,7 +37,6 @@
 - [Agile and scrum are broken](https://www.storage-b.com/miscellaneous/812)
 - [Dumping Windows 10](https://www.storage-b.com/linux/795)
 - [SAFe](https://www.storage-b.com/humor/790)
-- [Two decades of progress](https://www.storage-b.com/humor/779)
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I hate quotations.  Tell me what you know.</em><br /> -- Ralph Waldo Emerson</p>
+<p><em>The whole point of this country is if you wanna eat garbage, balloon up to 600 pounds and die of a heart attack at 43, you can! You are free to do so! To me, that's beautiful.</em><br /> -- Ron Swanson</p>
