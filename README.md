@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Nourishing Meat](https://www.amon-hen.com/food/29905)
+- [RiffTrax – Christmas Circus with Whizzo The Clown](https://www.amon-hen.com/humor/29898)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Nourishing Meat](https://www.amon-hen.com/food/29905)
 - [MST3K 0505 – The Magic Voyage of Sinbad](https://www.amon-hen.com/television/13411)
 - [Reading: Galaxias](https://www.amon-hen.com/books/297)
 - [The biggest ideas in the Universe](https://www.amon-hen.com/science/29879)
@@ -10,7 +11,6 @@
 - [Cyber Monday](https://www.amon-hen.com/humor/5023)
 - [A Personal Apology to Young Americans for Failing to Stop Ronald #Reagan](https://www.amon-hen.com/politics/29887)
 - [A sign your politics may be alarmingly skewed toward fascism](https://www.amon-hen.com/politics/29885)
-- [MST3K Short 0608 – A Day At The Fair](https://www.amon-hen.com/television/6149)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The whole point of this country is if you wanna eat garbage, balloon up to 600 pounds and die of a heart attack at 43, you can! You are free to do so! To me, that's beautiful.</em><br /> -- Ron Swanson</p>
+<p><em>A marriage is always made up of two people who are prepared to swear that only the other one snores.</em><br /> -- Terry Pratchett</p>
