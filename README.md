@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Christmas Circus with Whizzo The Clown](https://www.amon-hen.com/humor/29898)
+- [moonmoons](https://www.amon-hen.com/music/29856)
+- [Eric Schmitt’s Kanye Tweet](https://www.amon-hen.com/politics/29919)
+- [House Judiciary GOP Twitter: Kanye. Elon. Trump.](https://www.amon-hen.com/politics/29915)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Christmas Circus with Whizzo The Clown](https://www.amon-hen.com/humor/29898)
 - [Mmmm, Nourishing Meat](https://www.amon-hen.com/food/29905)
 - [MST3K 0505 – The Magic Voyage of Sinbad](https://www.amon-hen.com/television/13411)
 - [Reading: Galaxias](https://www.amon-hen.com/books/297)
 - [The biggest ideas in the Universe](https://www.amon-hen.com/science/29879)
 - [What mainstream journalism hates to admit](https://www.amon-hen.com/politics/29890)
-- [Cyber Monday](https://www.amon-hen.com/humor/5023)
-- [A Personal Apology to Young Americans for Failing to Stop Ronald #Reagan](https://www.amon-hen.com/politics/29887)
-- [A sign your politics may be alarmingly skewed toward fascism](https://www.amon-hen.com/politics/29885)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [TAMA | BERGERAULT x Bluecoats](https://www.drum-corps.net/percussion/2322)
 - [Bluecoats 50th Anniversary Alumni Corps Full Rehearsal Run – Baritone/Trombone](https://www.drum-corps.net/history/2319)
 - [Drum Corps World – December 2022](https://www.drum-corps.net/news/2317)
 - [2023 Drum Corps International Tour Schedule](https://www.drum-corps.net/news/2309)
@@ -23,7 +24,6 @@
 - [Star of Indiana Alumni Corps (2010)](https://www.drum-corps.net/history/2274)
 - [Cavaliers Alumni Corps (2008)](https://www.drum-corps.net/history/2258)
 - [Anaheim Kingsmen Alumni Corps (2007)](https://www.drum-corps.net/history/2255)
-- [Madison Scouts Alumni Corps (2006)](https://www.drum-corps.net/history/2251)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>A marriage is always made up of two people who are prepared to swear that only the other one snores.</em><br /> -- Terry Pratchett</p>
+<p><em>The truth may be out there, but the lies are inside your head.</em><br /> -- Terry Pratchett</p>
