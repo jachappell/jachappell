@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Here’s your headline for covering this @elonmusk / Fake Hunter shitshow:](https://www.amon-hen.com/politics/29932)
+- [Elon Musk and Matt Taibbi’s First Amendment follies.](https://www.amon-hen.com/politics/29930)
+- [A Carol for Another Christmas (1964)](https://www.amon-hen.com/television/29927)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [moonmoons](https://www.amon-hen.com/music/29856)
 - [Eric Schmitt’s Kanye Tweet](https://www.amon-hen.com/politics/29919)
 - [House Judiciary GOP Twitter: Kanye. Elon. Trump.](https://www.amon-hen.com/politics/29915)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [RiffTrax – Christmas Circus with Whizzo The Clown](https://www.amon-hen.com/humor/29898)
 - [Mmmm, Nourishing Meat](https://www.amon-hen.com/food/29905)
 - [MST3K 0505 – The Magic Voyage of Sinbad](https://www.amon-hen.com/television/13411)
-- [Reading: Galaxias](https://www.amon-hen.com/books/297)
-- [The biggest ideas in the Universe](https://www.amon-hen.com/science/29879)
-- [What mainstream journalism hates to admit](https://www.amon-hen.com/politics/29890)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The truth may be out there, but the lies are inside your head.</em><br /> -- Terry Pratchett</p>
+<p><em>Carob works on the principle that, when mixed with the right combination of fats and sugar, it can duplicate chocolate in color and texture. Of course, the same can be said of dirt.</em><br /> -- Sandra Boynton</p>
