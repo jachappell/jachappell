@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Do-It-Yourself 2022 GOP Christmas Card](https://www.amon-hen.com/politics/29936)
+- [MST3K Short 0609 – Why Study Industrial Arts?](https://www.amon-hen.com/television/7459)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Here’s your headline for covering this @elonmusk / Fake Hunter shitshow:](https://www.amon-hen.com/politics/29932)
 - [Elon Musk and Matt Taibbi’s First Amendment follies.](https://www.amon-hen.com/politics/29930)
 - [A Carol for Another Christmas (1964)](https://www.amon-hen.com/television/29927)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [moonmoons](https://www.amon-hen.com/music/29856)
 - [Eric Schmitt’s Kanye Tweet](https://www.amon-hen.com/politics/29919)
 - [House Judiciary GOP Twitter: Kanye. Elon. Trump.](https://www.amon-hen.com/politics/29915)
 - [RiffTrax – Christmas Circus with Whizzo The Clown](https://www.amon-hen.com/humor/29898)
-- [Mmmm, Nourishing Meat](https://www.amon-hen.com/food/29905)
-- [MST3K 0505 – The Magic Voyage of Sinbad](https://www.amon-hen.com/television/13411)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Bluecoats’ First Birthday](https://www.drum-corps.net/history/2324)
 - [TAMA | BERGERAULT x Bluecoats](https://www.drum-corps.net/percussion/2322)
 - [Bluecoats 50th Anniversary Alumni Corps Full Rehearsal Run – Baritone/Trombone](https://www.drum-corps.net/history/2319)
 - [Drum Corps World – December 2022](https://www.drum-corps.net/news/2317)
@@ -23,7 +24,6 @@
 - [Bridgemen Alumni Corps (2016)](https://www.drum-corps.net/history/2276)
 - [Star of Indiana Alumni Corps (2010)](https://www.drum-corps.net/history/2274)
 - [Cavaliers Alumni Corps (2008)](https://www.drum-corps.net/history/2258)
-- [Anaheim Kingsmen Alumni Corps (2007)](https://www.drum-corps.net/history/2255)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Carob works on the principle that, when mixed with the right combination of fats and sugar, it can duplicate chocolate in color and texture. Of course, the same can be said of dirt.</em><br /> -- Sandra Boynton</p>
+<p><em>Bart, a woman is like beer. They look good, they smell good, and you'd step over your own mother just to get one!</em><br /> -- Homer J. Simpson</p>
