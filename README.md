@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Hot Dr. Pepper](https://www.amon-hen.com/food/29922)
+- [RiffTrax – Gifts From The Air](https://www.amon-hen.com/humor/29955)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Hot Dr. Pepper](https://www.amon-hen.com/food/29922)
 - [MST3K 0506 – Eegah](https://www.amon-hen.com/television/13460)
 - [Hunter Biden Dick Pics](https://www.amon-hen.com/politics/29940)
 - [Existential Physics](https://www.amon-hen.com/science/29893)
@@ -10,7 +11,6 @@
 - [MST3K Short 0609 – Why Study Industrial Arts?](https://www.amon-hen.com/television/7459)
 - [Here’s your headline for covering this @elonmusk / Fake Hunter shitshow:](https://www.amon-hen.com/politics/29932)
 - [Elon Musk and Matt Taibbi’s First Amendment follies.](https://www.amon-hen.com/politics/29930)
-- [A Carol for Another Christmas (1964)](https://www.amon-hen.com/television/29927)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>In the Schrute family, we believe in a five-fingered intervention. Awareness, education, control, acceptance and punching.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>Without deviation from the norm, progress is not possible.</em><br /> -- Frank Zappa</p>
