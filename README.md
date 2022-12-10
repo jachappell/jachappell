@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Gifts From The Air](https://www.amon-hen.com/humor/29955)
+- [Momento Magico](https://www.amon-hen.com/music/29858)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Gifts From The Air](https://www.amon-hen.com/humor/29955)
 - [Mmmm, Hot Dr. Pepper](https://www.amon-hen.com/food/29922)
 - [MST3K 0506 – Eegah](https://www.amon-hen.com/television/13460)
 - [Hunter Biden Dick Pics](https://www.amon-hen.com/politics/29940)
@@ -10,7 +11,6 @@
 - [Do-It-Yourself 2022 GOP Christmas Card](https://www.amon-hen.com/politics/29936)
 - [MST3K Short 0609 – Why Study Industrial Arts?](https://www.amon-hen.com/television/7459)
 - [Here’s your headline for covering this @elonmusk / Fake Hunter shitshow:](https://www.amon-hen.com/politics/29932)
-- [Elon Musk and Matt Taibbi’s First Amendment follies.](https://www.amon-hen.com/politics/29930)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Without deviation from the norm, progress is not possible.</em><br /> -- Frank Zappa</p>
+<p><em>So once again, we find that evil of the past seeps into the present like salad dressing through cheap wax paper, mixing memory and desire.</em><br /> -- The Tick</p>
