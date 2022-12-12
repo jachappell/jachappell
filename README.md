@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K Short 0610 – A Young Man’s Fancy](https://www.amon-hen.com/television/6161)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Join the War on Christmas](https://www.amon-hen.com/religion/29965)
 - [Die Hard is a Christmas Movie](https://www.amon-hen.com/religion/29960)
 - [Santa Claus Conquers the Martians (1964)](https://www.amon-hen.com/movies/27057)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Momento Magico](https://www.amon-hen.com/music/29858)
 - [RiffTrax – Gifts From The Air](https://www.amon-hen.com/humor/29955)
 - [Mmmm, Hot Dr. Pepper](https://www.amon-hen.com/food/29922)
 - [MST3K 0506 – Eegah](https://www.amon-hen.com/television/13460)
 - [Hunter Biden Dick Pics](https://www.amon-hen.com/politics/29940)
-- [Existential Physics](https://www.amon-hen.com/science/29893)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>There is hopeful symbolism in the fact that flags do not wave in a vacuum.</em><br /> -- Arthur C. Clarke</p>
+<p><em>I didn't think it was physically possible, but this both sucks and blows.</em><br /> -- Bartholomew J. Simpson</p>
