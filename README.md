@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0610 – A Young Man’s Fancy](https://www.amon-hen.com/television/6161)
+- [Google Nest WiFi Pro – Wi-Fi 6E – Mesh Wi-Fi Router](https://www.amon-hen.com/computing/29972)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0610 – A Young Man’s Fancy](https://www.amon-hen.com/television/6161)
 - [Join the War on Christmas](https://www.amon-hen.com/religion/29965)
 - [Die Hard is a Christmas Movie](https://www.amon-hen.com/religion/29960)
 - [Santa Claus Conquers the Martians (1964)](https://www.amon-hen.com/movies/27057)
@@ -10,7 +11,6 @@
 - [RiffTrax – Gifts From The Air](https://www.amon-hen.com/humor/29955)
 - [Mmmm, Hot Dr. Pepper](https://www.amon-hen.com/food/29922)
 - [MST3K 0506 – Eegah](https://www.amon-hen.com/television/13460)
-- [Hunter Biden Dick Pics](https://www.amon-hen.com/politics/29940)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I didn't think it was physically possible, but this both sucks and blows.</em><br /> -- Bartholomew J. Simpson</p>
+<p><em>It has been my experience that folks who have no vices have very few virtues.</em><br /> -- Abraham Lincoln</p>
