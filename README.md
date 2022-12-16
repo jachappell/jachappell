@@ -1,6 +1,7 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Trump Trading Cards](https://www.amon-hen.com/politics/29998)
 - [RiffTrax – Santa and the Ice Cream Bunny](https://www.amon-hen.com/humor/28420)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Peas In Salmon Loaf Ring](https://www.amon-hen.com/food/29982)
@@ -10,7 +11,6 @@
 - [MST3K Short 0610 – A Young Man’s Fancy](https://www.amon-hen.com/television/6161)
 - [Join the War on Christmas](https://www.amon-hen.com/religion/29965)
 - [Die Hard is a Christmas Movie](https://www.amon-hen.com/religion/29960)
-- [Santa Claus Conquers the Martians (1964)](https://www.amon-hen.com/movies/27057)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
