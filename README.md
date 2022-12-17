@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Good To See You Again](https://www.amon-hen.com/music/29896)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Trump Trading Cards](https://www.amon-hen.com/politics/29998)
 - [RiffTrax – Santa and the Ice Cream Bunny](https://www.amon-hen.com/humor/28420)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Peas In Salmon Loaf Ring](https://www.amon-hen.com/food/29982)
 - [MST3K 0521 – Santa Claus](https://www.amon-hen.com/television/5073)
 - [Nobody is better at bending the knee than a white Republican](https://www.amon-hen.com/politics/29989)
 - [Google Nest WiFi Pro – Wi-Fi 6E – Mesh Wi-Fi Router](https://www.amon-hen.com/computing/29972)
 - [MST3K Short 0610 – A Young Man’s Fancy](https://www.amon-hen.com/television/6161)
 - [Join the War on Christmas](https://www.amon-hen.com/religion/29965)
-- [Die Hard is a Christmas Movie](https://www.amon-hen.com/religion/29960)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – January 2023](https://www.drum-corps.net/news/2343)
 - [Santa Clara Vanguard Announces Cessation Of Operations for the 2023 Season](https://www.drum-corps.net/news/2339)
 - [Bluecoats’ First Birthday](https://www.drum-corps.net/history/2324)
 - [TAMA | BERGERAULT x Bluecoats](https://www.drum-corps.net/percussion/2322)
@@ -23,7 +24,6 @@
 - [Bluecoats Alumni Corps (2022)](https://www.drum-corps.net/history/2282)
 - [Santa Clara Vanguard Alumni Corps (2017)](https://www.drum-corps.net/history/2278)
 - [Bridgemen Alumni Corps (2016)](https://www.drum-corps.net/history/2276)
-- [Star of Indiana Alumni Corps (2010)](https://www.drum-corps.net/history/2274)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I grew up in Europe, where the history comes from.</em><br /> -- Eddie Izzard</p>
+<p><em>You never see animals going through the absurd and often horrible fooleries of magic and religion....  Only man behaves with such gratuitous folly.  It is the price he has to pay for being intelligent but not, as yet, quite intelligent enough.</em><br /> -- Aldous Huxley</p>
