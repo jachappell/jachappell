@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Good To See You Again](https://www.amon-hen.com/music/29896)
+- [Free Trump Trading Cards](https://www.amon-hen.com/politics/30007)
+- [Santa Claus (1959)](https://www.amon-hen.com/movies/29963)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Good To See You Again](https://www.amon-hen.com/music/29896)
 - [Trump Trading Cards](https://www.amon-hen.com/politics/29998)
 - [RiffTrax – Santa and the Ice Cream Bunny](https://www.amon-hen.com/humor/28420)
 - [Mmmm, Peas In Salmon Loaf Ring](https://www.amon-hen.com/food/29982)
 - [MST3K 0521 – Santa Claus](https://www.amon-hen.com/television/5073)
 - [Nobody is better at bending the knee than a white Republican](https://www.amon-hen.com/politics/29989)
 - [Google Nest WiFi Pro – Wi-Fi 6E – Mesh Wi-Fi Router](https://www.amon-hen.com/computing/29972)
-- [MST3K Short 0610 – A Young Man’s Fancy](https://www.amon-hen.com/television/6161)
-- [Join the War on Christmas](https://www.amon-hen.com/religion/29965)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You never see animals going through the absurd and often horrible fooleries of magic and religion....  Only man behaves with such gratuitous folly.  It is the price he has to pay for being intelligent but not, as yet, quite intelligent enough.</em><br /> -- Aldous Huxley</p>
+<p><em>When I was a kid I used to pray every night for a new bicycle.  Then I realized that the Lord doesn't work that way so I stole one and asked Him to forgive me.</em><br /> -- Emo Philips</p>
