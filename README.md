@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Reading: Desolation Island](https://www.amon-hen.com/books/297)
+- [MST3K Short 0613 – Keeping Clean and Neat](https://www.amon-hen.com/television/5710)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Free Trump Trading Cards](https://www.amon-hen.com/politics/30007)
 - [Santa Claus (1959)](https://www.amon-hen.com/movies/29963)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Good To See You Again](https://www.amon-hen.com/music/29896)
 - [Trump Trading Cards](https://www.amon-hen.com/politics/29998)
 - [RiffTrax – Santa and the Ice Cream Bunny](https://www.amon-hen.com/humor/28420)
 - [Mmmm, Peas In Salmon Loaf Ring](https://www.amon-hen.com/food/29982)
 - [MST3K 0521 – Santa Claus](https://www.amon-hen.com/television/5073)
-- [Nobody is better at bending the knee than a white Republican](https://www.amon-hen.com/politics/29989)
-- [Google Nest WiFi Pro – Wi-Fi 6E – Mesh Wi-Fi Router](https://www.amon-hen.com/computing/29972)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When I was a kid I used to pray every night for a new bicycle.  Then I realized that the Lord doesn't work that way so I stole one and asked Him to forgive me.</em><br /> -- Emo Philips</p>
+<p><em>I'm just trying to make a smudge on the collective unconscious.</em><br /> -- David Letterman</p>
