@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Kate Bush Christmas Special (1979)](https://www.amon-hen.com/television/29995)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: Desolation Island](https://www.amon-hen.com/books/297)
 - [MST3K Short 0613 – Keeping Clean and Neat](https://www.amon-hen.com/television/5710)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Free Trump Trading Cards](https://www.amon-hen.com/politics/30007)
 - [Santa Claus (1959)](https://www.amon-hen.com/movies/29963)
 - [Good To See You Again](https://www.amon-hen.com/music/29896)
 - [Trump Trading Cards](https://www.amon-hen.com/politics/29998)
 - [RiffTrax – Santa and the Ice Cream Bunny](https://www.amon-hen.com/humor/28420)
 - [Mmmm, Peas In Salmon Loaf Ring](https://www.amon-hen.com/food/29982)
-- [MST3K 0521 – Santa Claus](https://www.amon-hen.com/television/5073)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I'm just trying to make a smudge on the collective unconscious.</em><br /> -- David Letterman</p>
+<p><em>I'll be more enthusiastic about encouraging thinking outside the box when there's evidence of any thinking going on inside it.</em><br /> -- Terry Pratchett</p>
