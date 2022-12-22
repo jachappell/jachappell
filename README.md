@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Mmmm, Frozen Holiday Dinner](https://www.amon-hen.com/food/30037)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [National Flashlight Day](https://www.amon-hen.com/miscellaneous/1766)
 - [Well, Happy Holidays Anyway!](https://www.amon-hen.com/politics/30048)
 - [MST3K 0321 – Santa Claus Conquers the Martians](https://www.amon-hen.com/television/5079)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Kate Bush Christmas Special (1979)](https://www.amon-hen.com/television/29995)
 - [Reading: Desolation Island](https://www.amon-hen.com/books/297)
 - [MST3K Short 0613 – Keeping Clean and Neat](https://www.amon-hen.com/television/5710)
 - [Free Trump Trading Cards](https://www.amon-hen.com/politics/30007)
 - [Santa Claus (1959)](https://www.amon-hen.com/movies/29963)
-- [Good To See You Again](https://www.amon-hen.com/music/29896)
-- [Trump Trading Cards](https://www.amon-hen.com/politics/29998)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>A black cat crossing your path signifies that the animal is going somewhere.</em><br /> -- Groucho Marx </p>
+<p><em>The big thieves hang the little ones.</em><br /> -- Czech Proverb</p>
