@@ -1,21 +1,22 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Frozen Holiday Dinner](https://www.amon-hen.com/food/30037)
+- [Festivus is Coming](https://www.amon-hen.com/humor/5249)
+- [RiffTrax – Santa’s Summer House](https://www.amon-hen.com/humor/28454)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Frozen Holiday Dinner](https://www.amon-hen.com/food/30037)
 - [National Flashlight Day](https://www.amon-hen.com/miscellaneous/1766)
 - [Well, Happy Holidays Anyway!](https://www.amon-hen.com/politics/30048)
 - [MST3K 0321 – Santa Claus Conquers the Martians](https://www.amon-hen.com/television/5079)
 - [Kate Bush Christmas Special (1979)](https://www.amon-hen.com/television/29995)
 - [Reading: Desolation Island](https://www.amon-hen.com/books/297)
 - [MST3K Short 0613 – Keeping Clean and Neat](https://www.amon-hen.com/television/5710)
-- [Free Trump Trading Cards](https://www.amon-hen.com/politics/30007)
-- [Santa Claus (1959)](https://www.amon-hen.com/movies/29963)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
 - [Drum Corps World – January 2023](https://www.drum-corps.net/news/2343)
 - [Santa Clara Vanguard Announces Cessation Of Operations for the 2023 Season](https://www.drum-corps.net/news/2339)
+- [Shadow Marching Arts to end all operations](https://www.drum-corps.net/news/2347)
 - [Bluecoats’ First Birthday](https://www.drum-corps.net/history/2324)
 - [TAMA | BERGERAULT x Bluecoats](https://www.drum-corps.net/percussion/2322)
 - [Bluecoats 50th Anniversary Alumni Corps Full Rehearsal Run – Baritone/Trombone](https://www.drum-corps.net/history/2319)
@@ -23,7 +24,6 @@
 - [2023 Drum Corps International Tour Schedule](https://www.drum-corps.net/news/2309)
 - [Bluecoats Alumni Corps (2022)](https://www.drum-corps.net/history/2282)
 - [Santa Clara Vanguard Alumni Corps (2017)](https://www.drum-corps.net/history/2278)
-- [Bridgemen Alumni Corps (2016)](https://www.drum-corps.net/history/2276)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The big thieves hang the little ones.</em><br /> -- Czech Proverb</p>
+<p><em>Once when I was in Hawaii, on the island of Kauai, I met a mysterious old stranger. He said he was about to die and wanted to tell someone about the treasure. I said, "Okay, as long as it's not a long story. Some of us have a plane to catch, you know." He stared telling hes story, about the treasure and his life and all, and I thought: "This story isn't too long." But then, he kept going, and I started thinking, "Uh-oh, this story is getting long." But then the story was over, and I said to myself: "You know, that story wasn't too long after all." I forget what the story was about, but there was a good movie on the plane. It was a little long, though.</em><br /> -- Jack Handey</p>
