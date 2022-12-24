@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [December Snow](https://www.amon-hen.com/music/30035)
+- [Happy Festivus!](https://www.amon-hen.com/humor/18780)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Festivus is Coming](https://www.amon-hen.com/humor/5249)
 - [RiffTrax – Santa’s Summer House](https://www.amon-hen.com/humor/28454)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Frozen Holiday Dinner](https://www.amon-hen.com/food/30037)
 - [National Flashlight Day](https://www.amon-hen.com/miscellaneous/1766)
 - [Well, Happy Holidays Anyway!](https://www.amon-hen.com/politics/30048)
 - [MST3K 0321 – Santa Claus Conquers the Martians](https://www.amon-hen.com/television/5079)
 - [Kate Bush Christmas Special (1979)](https://www.amon-hen.com/television/29995)
-- [Reading: Desolation Island](https://www.amon-hen.com/books/297)
-- [MST3K Short 0613 – Keeping Clean and Neat](https://www.amon-hen.com/television/5710)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Once when I was in Hawaii, on the island of Kauai, I met a mysterious old stranger. He said he was about to die and wanted to tell someone about the treasure. I said, "Okay, as long as it's not a long story. Some of us have a plane to catch, you know." He stared telling hes story, about the treasure and his life and all, and I thought: "This story isn't too long." But then, he kept going, and I started thinking, "Uh-oh, this story is getting long." But then the story was over, and I said to myself: "You know, that story wasn't too long after all." I forget what the story was about, but there was a good movie on the plane. It was a little long, though.</em><br /> -- Jack Handey</p>
+<p><em>Any sufficiently advanced technology is indistinguishable from magic.</em><br /> -- Arthur C. Clarke</p>
