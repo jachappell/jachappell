@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Bluecoats Alumni Corps Experience](https://www.amon-hen.com/music/drum-and-bugle-corps/30057)
+- [Santa’s Boot Camp (2016)](https://www.amon-hen.com/movies/30054)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [December Snow](https://www.amon-hen.com/music/30035)
 - [Happy Festivus!](https://www.amon-hen.com/humor/18780)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Festivus is Coming](https://www.amon-hen.com/humor/5249)
 - [RiffTrax – Santa’s Summer House](https://www.amon-hen.com/humor/28454)
 - [Mmmm, Frozen Holiday Dinner](https://www.amon-hen.com/food/30037)
 - [National Flashlight Day](https://www.amon-hen.com/miscellaneous/1766)
 - [Well, Happy Holidays Anyway!](https://www.amon-hen.com/politics/30048)
-- [MST3K 0321 – Santa Claus Conquers the Martians](https://www.amon-hen.com/television/5079)
-- [Kate Bush Christmas Special (1979)](https://www.amon-hen.com/television/29995)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Any sufficiently advanced technology is indistinguishable from magic.</em><br /> -- Arthur C. Clarke</p>
+<p><em>Sham Harga had run a succesful eatery for many years by always smiling, never extending credit, and realizing that most of his customers wanted meals properly balanced between the four food groups: sugar, starch, grease, and burnt crunchy bits.</em><br /> -- Terry Pratchett (<em>Men at Arms</em>)</p>
