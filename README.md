@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Trash](https://www.amon-hen.com/television/30044)
+- [MST3K 0507 – I Accuse My Parents](https://www.amon-hen.com/television/13493)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Trash](https://www.amon-hen.com/television/30044)
 - [Newtonian Swag: 2022](https://www.amon-hen.com/books/30063)
 - [MST3K Short 0616 – Are You Ready for Marriage?](https://www.amon-hen.com/television/8550)
 - [Bluecoats Alumni Corps Experience](https://www.amon-hen.com/music/drum-and-bugle-corps/30057)
@@ -10,7 +11,6 @@
 - [December Snow](https://www.amon-hen.com/music/30035)
 - [Happy Festivus!](https://www.amon-hen.com/humor/18780)
 - [Festivus is Coming](https://www.amon-hen.com/humor/5249)
-- [RiffTrax – Santa’s Summer House](https://www.amon-hen.com/humor/28454)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>This anonymous clan of slack-jawed troglodytes has cost me the election, and yet if I were to have them killed, I would be the one to go to jail.  That's democracy for you.</em><br /> -- Charles Montgomery Burns</p>
+<p><em>A plumbing system is very much like your electrical system, except that instead of electricity, it has water, and instead of wires, it has pipes, and instead of radios and waffle irons, it has faucets and toilets.  So the truth is that your plumbing systems is nothing at all like your  electrical system, which is good, because electricity can kill you.</em><br /> -- Dave Barry</p>
