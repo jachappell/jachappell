@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Tomato Soup Mousse](https://www.amon-hen.com/food/30075)
+- [RiffTrax – Birdemic](https://www.amon-hen.com/humor/30080)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Tomato Soup Mousse](https://www.amon-hen.com/food/30075)
 - [MST3K 0507 – I Accuse My Parents](https://www.amon-hen.com/television/13493)
 - [Trash](https://www.amon-hen.com/television/30044)
 - [Newtonian Swag: 2022](https://www.amon-hen.com/books/30063)
@@ -10,7 +11,6 @@
 - [Bluecoats Alumni Corps Experience](https://www.amon-hen.com/music/drum-and-bugle-corps/30057)
 - [Santa’s Boot Camp (2016)](https://www.amon-hen.com/movies/30054)
 - [December Snow](https://www.amon-hen.com/music/30035)
-- [Happy Festivus!](https://www.amon-hen.com/humor/18780)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The trinitarian believes a virgin to be the mother of a son who is her maker.</em><br /> -- Sir Francis Bacon</p>
+<p><em>Sometimes when you look in his eyes you get the feeling that someone else is driving.</em><br /> -- David Letterman</p>
