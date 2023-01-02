@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Swamp Women  (1956)](https://www.amon-hen.com/movies/30086)
+- [Summary of 2022](https://www.amon-hen.com/site-news/30095)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [2022: Yet Another Year in Review](https://www.amon-hen.com/chappells-show/30000)
+- [Swamp Women  (1956)](https://www.amon-hen.com/movies/30086)
 - [Auld Lang Syne](https://www.amon-hen.com/music/7749)
 - [RiffTrax – Birdemic](https://www.amon-hen.com/humor/30080)
 - [Mmmm, Tomato Soup Mousse](https://www.amon-hen.com/food/30075)
 - [MST3K 0507 – I Accuse My Parents](https://www.amon-hen.com/television/13493)
 - [Trash](https://www.amon-hen.com/television/30044)
 - [Newtonian Swag: 2022](https://www.amon-hen.com/books/30063)
-- [MST3K Short 0616 – Are You Ready for Marriage?](https://www.amon-hen.com/television/8550)
-- [Bluecoats Alumni Corps Experience](https://www.amon-hen.com/music/drum-and-bugle-corps/30057)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You may have hoodwinked everyone else in this backwater town, but you can't fool me. I listen to public radio.</em><br /> -- Squidward Tentacles </p>
+<p><em>Nobody looks good with brown lipstick on.</em><br /> -- Frank Zappa</p>
