@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K 0508 – Operation Double 007](https://www.amon-hen.com/television/13537)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: The Ankh-Morpork Archives: Volume One](https://www.amon-hen.com/books/297)
 - [The Universe in 90 minutes](https://www.amon-hen.com/science/30101)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Summary of 2022](https://www.amon-hen.com/site-news/30095)
 - [2022: Yet Another Year in Review](https://www.amon-hen.com/chappells-show/30000)
 - [Swamp Women  (1956)](https://www.amon-hen.com/movies/30086)
 - [Auld Lang Syne](https://www.amon-hen.com/music/7749)
 - [RiffTrax – Birdemic](https://www.amon-hen.com/humor/30080)
 - [Mmmm, Tomato Soup Mousse](https://www.amon-hen.com/food/30075)
-- [MST3K 0507 – I Accuse My Parents](https://www.amon-hen.com/television/13493)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I've always said there's nothing an agnostic can't do if he really doesn't know whether he believes in anything or not.</em><br /> -- Monty Python</p>
+<p><em>Crime does not pay ... as well as politics.</em><br /> -- Alfred E. Newman</p>
