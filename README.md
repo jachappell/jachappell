@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [RiffTrax – My Mother Was Never A Kid](https://www.amon-hen.com/television/30118)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [GOP US House speakers in modern times](https://www.amon-hen.com/politics/30116)
 - [Mmmm, Really Delicious Leftovers](https://www.amon-hen.com/food/30109)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0508 – Operation Double 007](https://www.amon-hen.com/television/13537)
 - [Reading: The Ankh-Morpork Archives: Volume One](https://www.amon-hen.com/books/297)
 - [The Universe in 90 minutes](https://www.amon-hen.com/science/30101)
 - [Summary of 2022](https://www.amon-hen.com/site-news/30095)
 - [2022: Yet Another Year in Review](https://www.amon-hen.com/chappells-show/30000)
 - [Swamp Women  (1956)](https://www.amon-hen.com/movies/30086)
-- [Auld Lang Syne](https://www.amon-hen.com/music/7749)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It's no coincidence that in no known language does the phrase 'As pretty as an airport' appear.</em><br /> -- Douglas Adams</p>
+<p><em>The good Christian should beware of mathematicians and all those who make empty prophecies.  The danger already exists that mathematicians have made a covenant with the devil to darken the spirit and confine man in the bonds of Hell.</em><br /> -- St. Augustine</p>
