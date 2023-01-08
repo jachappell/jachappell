@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Hawley & Cruz](https://www.amon-hen.com/politics/30149)
+- [The Wild Angels (1966)](https://www.amon-hen.com/movies/30146)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: The Werewolf Principle](https://www.amon-hen.com/books/297)
 - [His name is Reek](https://www.amon-hen.com/politics/30136)
 - [Circus of Heaven](https://www.amon-hen.com/music/30131)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [RiffTrax – My Mother Was Never A Kid](https://www.amon-hen.com/television/30118)
 - [GOP US House speakers in modern times](https://www.amon-hen.com/politics/30116)
 - [Mmmm, Really Delicious Leftovers](https://www.amon-hen.com/food/30109)
 - [MST3K 0508 – Operation Double 007](https://www.amon-hen.com/television/13537)
-- [Terry Pratchett — Discworld](https://www.amon-hen.com/books/363)
-- [The Universe in 90 minutes](https://www.amon-hen.com/science/30101)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [2023 rules proposal voting results](https://www.drum-corps.net/news/2394)
 - [2023 DCI Rules Congress proposals at-a-glance](https://www.drum-corps.net/news/2390)
 - [Drum Corps World – January 2023](https://www.drum-corps.net/news/2343)
 - [Santa Clara Vanguard Announces Cessation Of Operations for the 2023 Season](https://www.drum-corps.net/news/2339)
@@ -23,7 +24,6 @@
 - [Bluecoats 50th Anniversary Alumni Corps Full Rehearsal Run – Baritone/Trombone](https://www.drum-corps.net/history/2319)
 - [Drum Corps World – December 2022](https://www.drum-corps.net/news/2317)
 - [2023 Drum Corps International Tour Schedule](https://www.drum-corps.net/news/2309)
-- [Bluecoats Alumni Corps (2022)](https://www.drum-corps.net/history/2282)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I'm going to the backseat of my car with the woman I love, and I won't be back for TEN MINUTES.</em><br /> -- Homer J. Simpson</p>
+<p><em>You see, wire telegraph is a kind of a very, very long cat. You pull his tail in New York and his head is meowing in Los Angeles.  Do you understand this? And radio operates exactly the same way: you send signals here, they receive them there. The only difference is that there is no cat.</em><br /> -- Albert Einstein</p>
