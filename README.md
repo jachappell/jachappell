@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K Short 0618 – Out of this World](https://www.amon-hen.com/television/7198)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Hawley & Cruz](https://www.amon-hen.com/politics/30149)
 - [The Wild Angels (1966)](https://www.amon-hen.com/movies/30146)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: The Werewolf Principle](https://www.amon-hen.com/books/297)
 - [His name is Reek](https://www.amon-hen.com/politics/30136)
 - [Circus of Heaven](https://www.amon-hen.com/music/30131)
 - [RiffTrax – My Mother Was Never A Kid](https://www.amon-hen.com/television/30118)
 - [GOP US House speakers in modern times](https://www.amon-hen.com/politics/30116)
 - [Mmmm, Really Delicious Leftovers](https://www.amon-hen.com/food/30109)
-- [MST3K 0508 – Operation Double 007](https://www.amon-hen.com/television/13537)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps International CEO to retire in late 2023](https://www.drum-corps.net/news/2397)
 - [2023 rules proposal voting results](https://www.drum-corps.net/news/2394)
 - [2023 DCI Rules Congress proposals at-a-glance](https://www.drum-corps.net/news/2390)
 - [Drum Corps World – January 2023](https://www.drum-corps.net/news/2343)
@@ -23,7 +24,6 @@
 - [TAMA | BERGERAULT x Bluecoats](https://www.drum-corps.net/percussion/2322)
 - [Bluecoats 50th Anniversary Alumni Corps Full Rehearsal Run – Baritone/Trombone](https://www.drum-corps.net/history/2319)
 - [Drum Corps World – December 2022](https://www.drum-corps.net/news/2317)
-- [2023 Drum Corps International Tour Schedule](https://www.drum-corps.net/news/2309)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You see, wire telegraph is a kind of a very, very long cat. You pull his tail in New York and his head is meowing in Los Angeles.  Do you understand this? And radio operates exactly the same way: you send signals here, they receive them there. The only difference is that there is no cat.</em><br /> -- Albert Einstein</p>
+<p><em>Any American who is prepared to run for president should automatically, by definition, be disqualified from ever doing so.</em><br /> -- Gore Vidal</p>
