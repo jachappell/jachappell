@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0618 – Out of this World](https://www.amon-hen.com/television/7198)
+- [The Night Before Sluzzle Tag](https://www.amon-hen.com/television/17245)
+- [The Birth, Life and Death of the Universe](https://www.amon-hen.com/science/30114)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0618 – Out of this World](https://www.amon-hen.com/television/7198)
 - [Hawley & Cruz](https://www.amon-hen.com/politics/30149)
 - [The Wild Angels (1966)](https://www.amon-hen.com/movies/30146)
 - [Reading: The Werewolf Principle](https://www.amon-hen.com/books/297)
 - [His name is Reek](https://www.amon-hen.com/politics/30136)
 - [Circus of Heaven](https://www.amon-hen.com/music/30131)
 - [RiffTrax – My Mother Was Never A Kid](https://www.amon-hen.com/television/30118)
-- [GOP US House speakers in modern times](https://www.amon-hen.com/politics/30116)
-- [Mmmm, Really Delicious Leftovers](https://www.amon-hen.com/food/30109)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Any American who is prepared to run for president should automatically, by definition, be disqualified from ever doing so.</em><br /> -- Gore Vidal</p>
+<p><em>Why isn't there a name for the meal between breakfast and brunch?</em><br /> -- Stephen Colbert (via Twitter)</p>
