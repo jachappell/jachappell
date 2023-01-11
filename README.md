@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K 0509 – The Girl in Lovers Lane](https://www.amon-hen.com/television/13614)
+- [Jolly Sluzzle Tag!](https://www.amon-hen.com/television/17252)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Night Before Sluzzle Tag](https://www.amon-hen.com/television/17245)
 - [The Birth, Life and Death of the Universe](https://www.amon-hen.com/science/30114)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K Short 0618 – Out of this World](https://www.amon-hen.com/television/7198)
 - [Hawley & Cruz](https://www.amon-hen.com/politics/30149)
 - [The Wild Angels (1966)](https://www.amon-hen.com/movies/30146)
 - [Reading: The Werewolf Principle](https://www.amon-hen.com/books/297)
 - [His name is Reek](https://www.amon-hen.com/politics/30136)
-- [Circus of Heaven](https://www.amon-hen.com/music/30131)
-- [RiffTrax – My Mother Was Never A Kid](https://www.amon-hen.com/television/30118)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -27,6 +27,7 @@
 
 
 ## [Storage B](https://www.storage-b.com)
+- [Hewlett Packard Then and Now](https://www.storage-b.com/humor/881)
 - [Absolute Nightmare](https://www.storage-b.com/www/874)
 - [Framework Comparison](https://www.storage-b.com/humor/864)
 - [More Stupidity](https://www.storage-b.com/www/859)
@@ -36,7 +37,6 @@
 - [C++ in Constrained Environments](https://www.storage-b.com/c/840)
 - [Scrum](https://www.storage-b.com/humor/826)
 - [Agile and scrum are broken](https://www.storage-b.com/miscellaneous/812)
-- [Dumping Windows 10](https://www.storage-b.com/linux/795)
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Why isn't there a name for the meal between breakfast and brunch?</em><br /> -- Stephen Colbert (via Twitter)</p>
+<p><em>It has always been the prerogative of children and half-wits to point out that the emperor has no clothes. But the half-wit remains a half-wit, and the emperor remains an emperor.</em><br /> -- Neil Gaiman</p>
