@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Mmmm, Sack O’Sauce in a Can O’Meat](https://www.amon-hen.com/food/30176)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0509 – The Girl in Lovers Lane](https://www.amon-hen.com/television/13614)
 - [Jolly Sluzzle Tag!](https://www.amon-hen.com/television/17252)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Night Before Sluzzle Tag](https://www.amon-hen.com/television/17245)
 - [The Birth, Life and Death of the Universe](https://www.amon-hen.com/science/30114)
 - [MST3K Short 0618 – Out of this World](https://www.amon-hen.com/television/7198)
 - [Hawley & Cruz](https://www.amon-hen.com/politics/30149)
 - [The Wild Angels (1966)](https://www.amon-hen.com/movies/30146)
 - [Reading: The Werewolf Principle](https://www.amon-hen.com/books/297)
-- [His name is Reek](https://www.amon-hen.com/politics/30136)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It has always been the prerogative of children and half-wits to point out that the emperor has no clothes. But the half-wit remains a half-wit, and the emperor remains an emperor.</em><br /> -- Neil Gaiman</p>
+<p><em>I saw </em>Wedding Crashers<em> accidentally. I bought a ticket for </em>Grizzly Man<em> and went into the wrong theater. After an hour, I figured I was in the wrong theater, but I kept waiting. Because that's the thing about bear attacks, they come when you least expect it.</em><br /> -- Dwight Kurt Schrute III</p>
