@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Reading: Starfish](https://www.amon-hen.com/books/297)
+- [The Night Time](https://www.amon-hen.com/music/30184)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Hot Bible](https://www.amon-hen.com/religion/30182)
 - [HAL’s Birthday](https://www.amon-hen.com/quotes/834)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Sack O’Sauce in a Can O’Meat](https://www.amon-hen.com/food/30176)
 - [MST3K 0509 – The Girl in Lovers Lane](https://www.amon-hen.com/television/13614)
 - [Jolly Sluzzle Tag!](https://www.amon-hen.com/television/17252)
 - [The Night Before Sluzzle Tag](https://www.amon-hen.com/television/17245)
 - [The Birth, Life and Death of the Universe](https://www.amon-hen.com/science/30114)
-- [MST3K Short 0618 – Out of this World](https://www.amon-hen.com/television/7198)
-- [Hawley & Cruz](https://www.amon-hen.com/politics/30149)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>In religion and politics, people's beliefs and convictions are in almost every case gotten at second hand, and without examination.</em><br /> -- Mark Twain</p>
+<p><em>Beware of bugs in the above code; I have only proved it correct, not tried it.</em><br /> -- Donald E. Knuth</p>
