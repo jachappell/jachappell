@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Night of the Blood Beast (1958)](https://www.amon-hen.com/movies/30191)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: Starfish](https://www.amon-hen.com/books/297)
 - [The Night Time](https://www.amon-hen.com/music/30184)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Hot Bible](https://www.amon-hen.com/religion/30182)
 - [HAL’s Birthday](https://www.amon-hen.com/quotes/834)
 - [Mmmm, Sack O’Sauce in a Can O’Meat](https://www.amon-hen.com/food/30176)
 - [MST3K 0509 – The Girl in Lovers Lane](https://www.amon-hen.com/television/13614)
 - [Jolly Sluzzle Tag!](https://www.amon-hen.com/television/17252)
 - [The Night Before Sluzzle Tag](https://www.amon-hen.com/television/17245)
-- [The Birth, Life and Death of the Universe](https://www.amon-hen.com/science/30114)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Beware of bugs in the above code; I have only proved it correct, not tried it.</em><br /> -- Donald E. Knuth</p>
+<p><em>I put contact lenses in my dog's eyes.  They had little pictures of cats on them.  Then I took one out and he ran around in circles.</em><br /> -- Stephen Wright</p>
