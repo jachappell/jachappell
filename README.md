@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Night of the Blood Beast (1958)](https://www.amon-hen.com/movies/30191)
+- [MST3K Short 0619 – Speech: Platform, Posture and Appearance](https://www.amon-hen.com/television/9575)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Night of the Blood Beast (1958)](https://www.amon-hen.com/movies/30191)
 - [Reading: Starfish](https://www.amon-hen.com/books/297)
 - [The Night Time](https://www.amon-hen.com/music/30184)
 - [Hot Bible](https://www.amon-hen.com/religion/30182)
@@ -10,7 +11,6 @@
 - [Mmmm, Sack O’Sauce in a Can O’Meat](https://www.amon-hen.com/food/30176)
 - [MST3K 0509 – The Girl in Lovers Lane](https://www.amon-hen.com/television/13614)
 - [Jolly Sluzzle Tag!](https://www.amon-hen.com/television/17252)
-- [The Night Before Sluzzle Tag](https://www.amon-hen.com/television/17245)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I put contact lenses in my dog's eyes.  They had little pictures of cats on them.  Then I took one out and he ran around in circles.</em><br /> -- Stephen Wright</p>
+<p><em>Bad facts make bad laws.</em><br /> -- Frank Zappa</p>
