@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [What is dark matter?](https://www.amon-hen.com/science/30129)
+- [MST3K 0510 –  Lassie: The Painted Hills](https://www.amon-hen.com/television/13674)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [What is dark matter?](https://www.amon-hen.com/science/30129)
 - [MST3K Short 0619 – Speech: Platform, Posture and Appearance](https://www.amon-hen.com/television/9575)
 - [Night of the Blood Beast (1958)](https://www.amon-hen.com/movies/30191)
 - [Reading: Starfish](https://www.amon-hen.com/books/297)
@@ -10,7 +11,6 @@
 - [Hot Bible](https://www.amon-hen.com/religion/30182)
 - [HAL’s Birthday](https://www.amon-hen.com/quotes/834)
 - [Mmmm, Sack O’Sauce in a Can O’Meat](https://www.amon-hen.com/food/30176)
-- [MST3K 0509 – The Girl in Lovers Lane](https://www.amon-hen.com/television/13614)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>A man of genius makes no mistakes.  His errors are volitional and are the portals of discovery.</em><br /> -- James Joyce (<em>Ulysses</em>)</p>
+<p><em>Be careful of reading health books, you might die of a misprint.</em><br /> -- Mark Twain</p>
