@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0510 –  Lassie: The Painted Hills](https://www.amon-hen.com/television/13674)
+- [Mmmm, Meat Snacks](https://www.amon-hen.com/food/30214)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0510 –  Lassie: The Painted Hills](https://www.amon-hen.com/television/13674)
 - [What is dark matter?](https://www.amon-hen.com/science/30129)
 - [MST3K Short 0619 – Speech: Platform, Posture and Appearance](https://www.amon-hen.com/television/9575)
 - [Night of the Blood Beast (1958)](https://www.amon-hen.com/movies/30191)
@@ -10,10 +11,10 @@
 - [The Night Time](https://www.amon-hen.com/music/30184)
 - [Hot Bible](https://www.amon-hen.com/religion/30182)
 - [HAL’s Birthday](https://www.amon-hen.com/quotes/834)
-- [Mmmm, Sack O’Sauce in a Can O’Meat](https://www.amon-hen.com/food/30176)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Bluecoats Launches Rhythm IN BLUE as SoundSport® Ensemble](https://www.drum-corps.net/news/2404)
 - [Drum Corps International CEO to retire in late 2023](https://www.drum-corps.net/news/2397)
 - [2023 rules proposal voting results](https://www.drum-corps.net/news/2394)
 - [2023 DCI Rules Congress proposals at-a-glance](https://www.drum-corps.net/news/2390)
@@ -23,7 +24,6 @@
 - [Bluecoats’ First Birthday](https://www.drum-corps.net/history/2324)
 - [TAMA | BERGERAULT x Bluecoats](https://www.drum-corps.net/percussion/2322)
 - [Bluecoats 50th Anniversary Alumni Corps Full Rehearsal Run – Baritone/Trombone](https://www.drum-corps.net/history/2319)
-- [Drum Corps World – December 2022](https://www.drum-corps.net/news/2317)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Be careful of reading health books, you might die of a misprint.</em><br /> -- Mark Twain</p>
+<p><em>If you saw two guys named Hambone and Flippy, which one would you think liked dolphins the most? I'd say Flippy, wouldn't you? You'd be wrong, though. It's Hambone.</em><br /> -- Jack Handey</p>
