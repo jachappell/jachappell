@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Meat Snacks](https://www.amon-hen.com/food/30214)
+- [Rifftrax – The Water We Drink](https://www.amon-hen.com/humor/30219)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Meat Snacks](https://www.amon-hen.com/food/30214)
 - [MST3K 0510 –  Lassie: The Painted Hills](https://www.amon-hen.com/television/13674)
 - [What is dark matter?](https://www.amon-hen.com/science/30129)
 - [MST3K Short 0619 – Speech: Platform, Posture and Appearance](https://www.amon-hen.com/television/9575)
@@ -10,7 +11,6 @@
 - [Reading: Starfish](https://www.amon-hen.com/books/297)
 - [The Night Time](https://www.amon-hen.com/music/30184)
 - [Hot Bible](https://www.amon-hen.com/religion/30182)
-- [HAL’s Birthday](https://www.amon-hen.com/quotes/834)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If you saw two guys named Hambone and Flippy, which one would you think liked dolphins the most? I'd say Flippy, wouldn't you? You'd be wrong, though. It's Hambone.</em><br /> -- Jack Handey</p>
+<p><em>An anthropologist at Tulane has just come back from a field trip to New Guinea with reports of a tribe so primitive that they have Tide but not new Tide with lemon-fresh Borax.</em><br /> -- David Letterman</p>
