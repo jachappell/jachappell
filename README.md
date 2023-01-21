@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Rifftrax – The Water We Drink](https://www.amon-hen.com/humor/30219)
+- [Rose Colored Glasses](https://www.amon-hen.com/music/30187)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Rifftrax – The Water We Drink](https://www.amon-hen.com/humor/30219)
 - [Mmmm, Meat Snacks](https://www.amon-hen.com/food/30214)
 - [MST3K 0510 –  Lassie: The Painted Hills](https://www.amon-hen.com/television/13674)
 - [What is dark matter?](https://www.amon-hen.com/science/30129)
@@ -10,7 +11,6 @@
 - [Night of the Blood Beast (1958)](https://www.amon-hen.com/movies/30191)
 - [Reading: Starfish](https://www.amon-hen.com/books/297)
 - [The Night Time](https://www.amon-hen.com/music/30184)
-- [Hot Bible](https://www.amon-hen.com/religion/30182)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>An anthropologist at Tulane has just come back from a field trip to New Guinea with reports of a tribe so primitive that they have Tide but not new Tide with lemon-fresh Borax.</em><br /> -- David Letterman</p>
+<p><em>In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.</em><br /> -- Douglas Adams</p>
