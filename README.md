@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Rose Colored Glasses](https://www.amon-hen.com/music/30187)
+- [Reading: Maelstrom](https://www.amon-hen.com/books/297)
+- [A Bucket of Blood (1959)](https://www.amon-hen.com/movies/30232)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Rose Colored Glasses](https://www.amon-hen.com/music/30187)
 - [Rifftrax – The Water We Drink](https://www.amon-hen.com/humor/30219)
 - [Mmmm, Meat Snacks](https://www.amon-hen.com/food/30214)
 - [MST3K 0510 –  Lassie: The Painted Hills](https://www.amon-hen.com/television/13674)
 - [What is dark matter?](https://www.amon-hen.com/science/30129)
 - [MST3K Short 0619 – Speech: Platform, Posture and Appearance](https://www.amon-hen.com/television/9575)
 - [Night of the Blood Beast (1958)](https://www.amon-hen.com/movies/30191)
-- [Reading: Starfish](https://www.amon-hen.com/books/297)
-- [The Night Time](https://www.amon-hen.com/music/30184)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.</em><br /> -- Douglas Adams</p>
+<p><em>Now, don't you worry. The saucers are up there.  The graveyard is out there. But I'll be locked up safely in there.</em><br /> -- Paula Trent (<em>Plan 9 from Outer Space</em>)</p>
