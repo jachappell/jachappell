@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [More Quantum Gravity](https://www.amon-hen.com/science/30226)
+- [Happy Bounty Day!](https://www.amon-hen.com/boats/15635)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [2023 Rhythm In Blue](https://www.amon-hen.com/music/drum-and-bugle-corps/30238)
 - [MST3K Short 0621 – Money Talks!](https://www.amon-hen.com/television/7110)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: Maelstrom](https://www.amon-hen.com/books/297)
 - [A Bucket of Blood (1959)](https://www.amon-hen.com/movies/30232)
 - [Rose Colored Glasses](https://www.amon-hen.com/music/30187)
 - [Rifftrax – The Water We Drink](https://www.amon-hen.com/humor/30219)
 - [Mmmm, Meat Snacks](https://www.amon-hen.com/food/30214)
-- [MST3K 0510 –  Lassie: The Painted Hills](https://www.amon-hen.com/television/13674)
-- [What is dark matter?](https://www.amon-hen.com/science/30129)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Every now and then, when your life gets complicated and the weasels start closing in, the only cure is to load up on heinous chemicals and then drive like a bastard from Hollywood to Las Vegas ... with the music at top volume and at least a pint of ether.</em><br /> -- Hunter S. Thompson (<em>Fear and Loathing in Las Vegas</em>)</p>
+<p><em>"Whoopee" was such a beautiful word and then Bob Eubanks had to go and cheapen it.</em><br /> -- James Urbaniak (via Twitter)</p>
