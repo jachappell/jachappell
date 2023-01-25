@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K 0511 – Gunslinger](https://www.amon-hen.com/television/13885)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [More Quantum Gravity](https://www.amon-hen.com/science/30226)
 - [Happy Bounty Day!](https://www.amon-hen.com/boats/15635)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [2023 Rhythm In Blue](https://www.amon-hen.com/music/drum-and-bugle-corps/30238)
 - [MST3K Short 0621 – Money Talks!](https://www.amon-hen.com/television/7110)
 - [Reading: Maelstrom](https://www.amon-hen.com/books/297)
 - [A Bucket of Blood (1959)](https://www.amon-hen.com/movies/30232)
 - [Rose Colored Glasses](https://www.amon-hen.com/music/30187)
 - [Rifftrax – The Water We Drink](https://www.amon-hen.com/humor/30219)
-- [Mmmm, Meat Snacks](https://www.amon-hen.com/food/30214)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>"Whoopee" was such a beautiful word and then Bob Eubanks had to go and cheapen it.</em><br /> -- James Urbaniak (via Twitter)</p>
+<p><em>I can't believe it! Reading and writing actually paid off!</em><br /> -- Homer J. Simpson</p>
