@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0511 – Gunslinger](https://www.amon-hen.com/television/13885)
+- [Crap Rice Noodle Soop](https://www.amon-hen.com/food/30228)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0511 – Gunslinger](https://www.amon-hen.com/television/13885)
 - [More Quantum Gravity](https://www.amon-hen.com/science/30226)
 - [Happy Bounty Day!](https://www.amon-hen.com/boats/15635)
 - [2023 Rhythm In Blue](https://www.amon-hen.com/music/drum-and-bugle-corps/30238)
@@ -10,7 +11,6 @@
 - [Reading: Maelstrom](https://www.amon-hen.com/books/297)
 - [A Bucket of Blood (1959)](https://www.amon-hen.com/movies/30232)
 - [Rose Colored Glasses](https://www.amon-hen.com/music/30187)
-- [Rifftrax – The Water We Drink](https://www.amon-hen.com/humor/30219)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I can't believe it! Reading and writing actually paid off!</em><br /> -- Homer J. Simpson</p>
+<p><em>A funny thing to do is, if you're out hiking and your friend gets bitten by a poisonous snake, tell him you're going to go for help, then go about ten feet and pretend that *you* got bit by a snake. Then start an argument with him about who's going to go get help. A lot of guys will start crying. That's why it makes you feel good when you tell them it was just a joke.</em><br /> -- Jack Handey</p>
