@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Crap Rice Noodle Soop](https://www.amon-hen.com/food/30228)
+- [RiffTrax – Gammera The Invincible](https://www.amon-hen.com/humor/30221)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Crap Rice Noolde Soop](https://www.amon-hen.com/food/30228)
 - [MST3K 0511 – Gunslinger](https://www.amon-hen.com/television/13885)
 - [More Quantum Gravity](https://www.amon-hen.com/science/30226)
 - [Happy Bounty Day!](https://www.amon-hen.com/boats/15635)
@@ -10,7 +11,6 @@
 - [MST3K Short 0621 – Money Talks!](https://www.amon-hen.com/television/7110)
 - [Reading: Maelstrom](https://www.amon-hen.com/books/297)
 - [A Bucket of Blood (1959)](https://www.amon-hen.com/movies/30232)
-- [Rose Colored Glasses](https://www.amon-hen.com/music/30187)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>A funny thing to do is, if you're out hiking and your friend gets bitten by a poisonous snake, tell him you're going to go for help, then go about ten feet and pretend that *you* got bit by a snake. Then start an argument with him about who's going to go get help. A lot of guys will start crying. That's why it makes you feel good when you tell them it was just a joke.</em><br /> -- Jack Handey</p>
+<p><em>I like my beer cold...my TV loud...and my homosexuals flaming.</em><br /> -- Homer J. Simpson</p>
