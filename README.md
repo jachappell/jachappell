@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Gammera The Invincible](https://www.amon-hen.com/humor/30221)
+- [Your Move](https://www.amon-hen.com/music/30126)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Gammera The Invincible](https://www.amon-hen.com/humor/30221)
 - [Crap Rice Noolde Soop](https://www.amon-hen.com/food/30228)
 - [MST3K 0511 – Gunslinger](https://www.amon-hen.com/television/13885)
 - [More Quantum Gravity](https://www.amon-hen.com/science/30226)
@@ -10,7 +11,6 @@
 - [2023 Rhythm In Blue](https://www.amon-hen.com/music/drum-and-bugle-corps/30238)
 - [MST3K Short 0621 – Money Talks!](https://www.amon-hen.com/television/7110)
 - [Reading: Maelstrom](https://www.amon-hen.com/books/297)
-- [A Bucket of Blood (1959)](https://www.amon-hen.com/movies/30232)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I like my beer cold...my TV loud...and my homosexuals flaming.</em><br /> -- Homer J. Simpson</p>
+<p><em>The universe, they said, depended for its operation on the balance of four forces which they identified as charm, persuasion, uncertainty and bloody-mindedness.</em><br /> -- Terry Pratchett (<em>The Light Fantastic</em>)</p>
