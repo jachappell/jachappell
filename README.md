@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Your Move](https://www.amon-hen.com/music/30126)
+- [The Lost World (1925)](https://www.amon-hen.com/movies/24214)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Your Move](https://www.amon-hen.com/music/30126)
 - [RiffTrax – Gammera The Invincible](https://www.amon-hen.com/humor/30221)
 - [Crap Rice Noolde Soop](https://www.amon-hen.com/food/30228)
 - [MST3K 0511 – Gunslinger](https://www.amon-hen.com/television/13885)
@@ -10,7 +11,6 @@
 - [Happy Bounty Day!](https://www.amon-hen.com/boats/15635)
 - [2023 Rhythm In Blue](https://www.amon-hen.com/music/drum-and-bugle-corps/30238)
 - [MST3K Short 0621 – Money Talks!](https://www.amon-hen.com/television/7110)
-- [Reading: Maelstrom](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The universe, they said, depended for its operation on the balance of four forces which they identified as charm, persuasion, uncertainty and bloody-mindedness.</em><br /> -- Terry Pratchett (<em>The Light Fantastic</em>)</p>
+<p><em>When people learn no tools of judgment and merely follow their hopes, the seeds of political manipulation are sown.</em><br /> -- Stephen Jay Gould</p>
