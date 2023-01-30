@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Lost World (1925)](https://www.amon-hen.com/movies/24214)
+- [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Lost World (1925)](https://www.amon-hen.com/movies/24214)
 - [Your Move](https://www.amon-hen.com/music/30126)
 - [RiffTrax – Gammera The Invincible](https://www.amon-hen.com/humor/30221)
 - [Crap Rice Noolde Soop](https://www.amon-hen.com/food/30228)
@@ -10,7 +11,6 @@
 - [More Quantum Gravity](https://www.amon-hen.com/science/30226)
 - [Happy Bounty Day!](https://www.amon-hen.com/boats/15635)
 - [2023 Rhythm In Blue](https://www.amon-hen.com/music/drum-and-bugle-corps/30238)
-- [MST3K Short 0621 – Money Talks!](https://www.amon-hen.com/television/7110)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When people learn no tools of judgment and merely follow their hopes, the seeds of political manipulation are sown.</em><br /> -- Stephen Jay Gould</p>
+<p><em>I'm condemned by a society that demands success when all I can offer is failure!</em><br /> -- Max Bialystock</p>
