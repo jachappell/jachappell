@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
+- [Seoul Hilton](https://www.amon-hen.com/chappells-show/30089)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
 - [The Lost World (1925)](https://www.amon-hen.com/movies/24214)
 - [Your Move](https://www.amon-hen.com/music/30126)
 - [RiffTrax – Gammera The Invincible](https://www.amon-hen.com/humor/30221)
@@ -10,7 +11,6 @@
 - [MST3K 0511 – Gunslinger](https://www.amon-hen.com/television/13885)
 - [More Quantum Gravity](https://www.amon-hen.com/science/30226)
 - [Happy Bounty Day!](https://www.amon-hen.com/boats/15635)
-- [2023 Rhythm In Blue](https://www.amon-hen.com/music/drum-and-bugle-corps/30238)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I'm condemned by a society that demands success when all I can offer is failure!</em><br /> -- Max Bialystock</p>
+<p><em>The men the American public admire most extravagantly are the most daring liars; the men they detest most violently are those who try to tell them the truth.</em><br /> -- H.L. Mencken</p>
