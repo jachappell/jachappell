@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0512 – Mitchell](https://www.amon-hen.com/television/13918)
+- [Mmmm, Spam](https://www.amon-hen.com/food/30160)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0512 – Mitchell](https://www.amon-hen.com/television/13918)
 - [Seoul Hilton](https://www.amon-hen.com/chappells-show/30089)
 - [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
 - [The Lost World (1925)](https://www.amon-hen.com/movies/24214)
@@ -10,7 +11,6 @@
 - [RiffTrax – Gammera The Invincible](https://www.amon-hen.com/humor/30221)
 - [Crap Rice Noolde Soop](https://www.amon-hen.com/food/30228)
 - [MST3K 0511 – Gunslinger](https://www.amon-hen.com/television/13885)
-- [More Quantum Gravity](https://www.amon-hen.com/science/30226)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Lisa, if you don't like your job you don't strike.  You just go in every day and do it really half-assed.  That's the American way.</em><br /> -- Homer J. Simpson</p>
+<p><em>The 'Net is a waste of time, and that's exactly what's right about it.</em><br /> -- William Gibson</p>
