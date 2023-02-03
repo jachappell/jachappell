@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Spam](https://www.amon-hen.com/food/30160)
+- [Spherical Chicken](https://www.amon-hen.com/science/30167)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Spam](https://www.amon-hen.com/food/30160)
 - [MST3K 0512 – Mitchell](https://www.amon-hen.com/television/13918)
 - [Seoul Hilton](https://www.amon-hen.com/chappells-show/30089)
 - [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
@@ -10,7 +11,6 @@
 - [Your Move](https://www.amon-hen.com/music/30126)
 - [RiffTrax – Gammera The Invincible](https://www.amon-hen.com/humor/30221)
 - [Crap Rice Noolde Soop](https://www.amon-hen.com/food/30228)
-- [MST3K 0511 – Gunslinger](https://www.amon-hen.com/television/13885)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The 'Net is a waste of time, and that's exactly what's right about it.</em><br /> -- William Gibson</p>
+<p><em>Men never do evil so completely and cheerfully as when they do it from a religious conviction.</em><br /> -- Blaise Pascal</p>
