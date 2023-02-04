@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Spherical Chicken](https://www.amon-hen.com/science/30167)
+- [Your Move, Again](https://www.amon-hen.com/music/30123)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Spherical Chicken](https://www.amon-hen.com/science/30167)
 - [Mmmm, Spam](https://www.amon-hen.com/food/30160)
 - [MST3K 0512 – Mitchell](https://www.amon-hen.com/television/13918)
 - [Seoul Hilton](https://www.amon-hen.com/chappells-show/30089)
@@ -10,7 +11,6 @@
 - [The Lost World (1925)](https://www.amon-hen.com/movies/24214)
 - [Your Move](https://www.amon-hen.com/music/30126)
 - [RiffTrax – Gammera The Invincible](https://www.amon-hen.com/humor/30221)
-- [Crap Rice Noolde Soop](https://www.amon-hen.com/food/30228)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Men never do evil so completely and cheerfully as when they do it from a religious conviction.</em><br /> -- Blaise Pascal</p>
+<p><em>I told the doctor I broke my leg in two places. He told me to quit going to those places.</em><br /> -- Henny Youngman</p>
