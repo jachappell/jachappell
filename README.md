@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Your Move, Again](https://www.amon-hen.com/music/30123)
+- [Of Human Bondage (1934)](https://www.amon-hen.com/movies/26903)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Your Move, Again](https://www.amon-hen.com/music/30123)
 - [Spherical Chicken](https://www.amon-hen.com/science/30167)
 - [Mmmm, Spam](https://www.amon-hen.com/food/30160)
 - [MST3K 0512 – Mitchell](https://www.amon-hen.com/television/13918)
@@ -10,7 +11,6 @@
 - [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
 - [The Lost World (1925)](https://www.amon-hen.com/movies/24214)
 - [Your Move](https://www.amon-hen.com/music/30126)
-- [RiffTrax – Gammera The Invincible](https://www.amon-hen.com/humor/30221)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I told the doctor I broke my leg in two places. He told me to quit going to those places.</em><br /> -- Henny Youngman</p>
+<p><em>It is said that power corrupts, but actually it's more true that power attracts the corruptible. The sane are usually attracted by other things than power.</em><br /> -- David Brin</p>
