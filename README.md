@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Of Human Bondage (1934)](https://www.amon-hen.com/movies/26903)
+- [Reading: βehemoth: Seppuku](https://www.amon-hen.com/books/297)
+- [MST3K Short 0623 – The Days of Our Years](https://www.amon-hen.com/television/7293)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Of Human Bondage (1934)](https://www.amon-hen.com/movies/26903)
 - [Your Move, Again](https://www.amon-hen.com/music/30123)
 - [Spherical Chicken](https://www.amon-hen.com/science/30167)
 - [Mmmm, Spam](https://www.amon-hen.com/food/30160)
 - [MST3K 0512 – Mitchell](https://www.amon-hen.com/television/13918)
 - [Seoul Hilton](https://www.amon-hen.com/chappells-show/30089)
 - [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
-- [The Lost World (1925)](https://www.amon-hen.com/movies/24214)
-- [Your Move](https://www.amon-hen.com/music/30126)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – February 2023](https://www.drum-corps.net/news/2411)
 - [Bluecoats Launches Rhythm IN BLUE as SoundSport® Ensemble](https://www.drum-corps.net/news/2404)
 - [Drum Corps International CEO to retire in late 2023](https://www.drum-corps.net/news/2397)
 - [2023 rules proposal voting results](https://www.drum-corps.net/news/2394)
@@ -23,7 +24,6 @@
 - [Shadow Marching Arts to end all operations](https://www.drum-corps.net/news/2347)
 - [Bluecoats’ First Birthday](https://www.drum-corps.net/history/2324)
 - [TAMA | BERGERAULT x Bluecoats](https://www.drum-corps.net/percussion/2322)
-- [Bluecoats 50th Anniversary Alumni Corps Full Rehearsal Run – Baritone/Trombone](https://www.drum-corps.net/history/2319)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It is said that power corrupts, but actually it's more true that power attracts the corruptible. The sane are usually attracted by other things than power.</em><br /> -- David Brin</p>
+<p><em>Strippers do nothing for me... but I will take a free breakfast buffet anytime, anyplace.</em><br /> -- Ron Swanson</p>
