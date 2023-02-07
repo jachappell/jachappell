@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [The Passage of Time & the Meaning of Life](https://www.amon-hen.com/science/30107)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: βehemoth: Seppuku](https://www.amon-hen.com/books/297)
 - [MST3K Short 0623 – The Days of Our Years](https://www.amon-hen.com/television/7293)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Of Human Bondage (1934)](https://www.amon-hen.com/movies/26903)
 - [Your Move, Again](https://www.amon-hen.com/music/30123)
 - [Spherical Chicken](https://www.amon-hen.com/science/30167)
 - [Mmmm, Spam](https://www.amon-hen.com/food/30160)
 - [MST3K 0512 – Mitchell](https://www.amon-hen.com/television/13918)
 - [Seoul Hilton](https://www.amon-hen.com/chappells-show/30089)
-- [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Strippers do nothing for me... but I will take a free breakfast buffet anytime, anyplace.</em><br /> -- Ron Swanson</p>
+<p><em>The word "spine" is, of course, an anagram of "penis".  This is true in almost fifty percent of the languages of the Galaxy, and many people have attempted to explain why.  Usually these explanations get bogged down in silly puns about "standing erect".</em><br /> -- Douglas Adams (<em>The Hitchhiker's Guide to the Galaxy</em>)</p>
