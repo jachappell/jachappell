@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Passage of Time & the Meaning of Life](https://www.amon-hen.com/science/30107)
+- [MST3K 0513 – The Brain That Wouldn’t Die](https://www.amon-hen.com/television/6401)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Passage of Time & the Meaning of Life](https://www.amon-hen.com/science/30107)
 - [Reading: βehemoth: Seppuku](https://www.amon-hen.com/books/297)
 - [MST3K Short 0623 – The Days of Our Years](https://www.amon-hen.com/television/7293)
 - [Of Human Bondage (1934)](https://www.amon-hen.com/movies/26903)
@@ -10,7 +11,6 @@
 - [Spherical Chicken](https://www.amon-hen.com/science/30167)
 - [Mmmm, Spam](https://www.amon-hen.com/food/30160)
 - [MST3K 0512 – Mitchell](https://www.amon-hen.com/television/13918)
-- [Seoul Hilton](https://www.amon-hen.com/chappells-show/30089)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The word "spine" is, of course, an anagram of "penis".  This is true in almost fifty percent of the languages of the Galaxy, and many people have attempted to explain why.  Usually these explanations get bogged down in silly puns about "standing erect".</em><br /> -- Douglas Adams (<em>The Hitchhiker's Guide to the Galaxy</em>)</p>
+<p><em>You had me at meat tornado.</em><br /> -- Ron Swanson</p>
