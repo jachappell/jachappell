@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0513 – The Brain That Wouldn’t Die](https://www.amon-hen.com/television/6401)
+- [Mmmm, Cole Slolo](https://www.amon-hen.com/food/30207)
+- [Reading – The Biggest Ideas in the Universe: Space, Time, and Motion](https://www.amon-hen.com/books/297)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0513 – The Brain That Wouldn’t Die](https://www.amon-hen.com/television/6401)
 - [The Passage of Time & the Meaning of Life](https://www.amon-hen.com/science/30107)
-- [Reading: βehemoth: Seppuku](https://www.amon-hen.com/books/297)
+- [Peter Watts](https://www.amon-hen.com/books/29862)
 - [MST3K Short 0623 – The Days of Our Years](https://www.amon-hen.com/television/7293)
 - [Of Human Bondage (1934)](https://www.amon-hen.com/movies/26903)
 - [Your Move, Again](https://www.amon-hen.com/music/30123)
 - [Spherical Chicken](https://www.amon-hen.com/science/30167)
-- [Mmmm, Spam](https://www.amon-hen.com/food/30160)
-- [MST3K 0512 – Mitchell](https://www.amon-hen.com/television/13918)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You had me at meat tornado.</em><br /> -- Ron Swanson</p>
+<p><em>Anybody who watches three games of football in a row should be declared brain dead.</em><br /> -- Erma Bombeck</p>
