@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [RiffTrax – What Is A Map?](https://www.amon-hen.com/humor/30260)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Cole Slolo](https://www.amon-hen.com/food/30207)
 - [Reading – The Biggest Ideas in the Universe: Space, Time, and Motion](https://www.amon-hen.com/books/297)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0513 – The Brain That Wouldn’t Die](https://www.amon-hen.com/television/6401)
 - [The Passage of Time & the Meaning of Life](https://www.amon-hen.com/science/30107)
 - [Peter Watts](https://www.amon-hen.com/books/29862)
 - [MST3K Short 0623 – The Days of Our Years](https://www.amon-hen.com/television/7293)
 - [Of Human Bondage (1934)](https://www.amon-hen.com/movies/26903)
 - [Your Move, Again](https://www.amon-hen.com/music/30123)
-- [Spherical Chicken](https://www.amon-hen.com/science/30167)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Anybody who watches three games of football in a row should be declared brain dead.</em><br /> -- Erma Bombeck</p>
+<p><em>Of all the tall tales, I think my favorite is the one about Eli Whitney and the interchangeable parts.</em><br /> -- Jack Handey</p>
