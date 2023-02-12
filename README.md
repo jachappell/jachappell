@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Urban Circus](https://www.amon-hen.com/music/30263)
+- [Protecting Children](https://www.amon-hen.com/politics/29795)
+- [It’s just cruel](https://www.amon-hen.com/politics/29739)
+- [The Slime People (1963)](https://www.amon-hen.com/movies/30265)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Urban Circus](https://www.amon-hen.com/music/30263)
 - [RiffTrax – What Is A Map?](https://www.amon-hen.com/humor/30260)
 - [Mmmm, Cole Slolo](https://www.amon-hen.com/food/30207)
 - [Reading – The Biggest Ideas in the Universe: Space, Time, and Motion](https://www.amon-hen.com/books/297)
 - [MST3K 0513 – The Brain That Wouldn’t Die](https://www.amon-hen.com/television/6401)
 - [The Passage of Time & the Meaning of Life](https://www.amon-hen.com/science/30107)
-- [Peter Watts](https://www.amon-hen.com/books/29862)
-- [MST3K Short 0623 – The Days of Our Years](https://www.amon-hen.com/television/7293)
-- [Of Human Bondage (1934)](https://www.amon-hen.com/movies/26903)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Ambition is like a frog sitting on a Venus Flytrap. The flytrap can bite and bite, but it won't bother the frog because it only has little tiny plant teeth. But some other stuff could happen and it could be like ambition.</em><br /> -- Jack Handey</p>
+<p><em>You know what, I am gonna have that third steak after all.</em><br /> -- Ron Swanson</p>
