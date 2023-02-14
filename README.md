@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Origin of Gravity](https://www.amon-hen.com/science/30283)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Superb Owl LVII #SuperbOwl #SuperbOwlLVII](https://www.amon-hen.com/humor/30274)
 - [MST3K Short 0701 – Once Upon A Honeymoon](https://www.amon-hen.com/television/6119)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Protecting Children](https://www.amon-hen.com/politics/29795)
 - [It’s just cruel](https://www.amon-hen.com/politics/29739)
 - [The Slime People (1963)](https://www.amon-hen.com/movies/30265)
 - [Urban Circus](https://www.amon-hen.com/music/30263)
 - [RiffTrax – What Is A Map?](https://www.amon-hen.com/humor/30260)
 - [Mmmm, Cole Slolo](https://www.amon-hen.com/food/30207)
-- [Reading – The Biggest Ideas in the Universe: Space, Time, and Motion](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -27,6 +27,7 @@
 
 
 ## [Storage B](https://www.storage-b.com)
+- [Toxic Development Culture](https://www.storage-b.com/www/887)
 - [Hewlett Packard Then and Now](https://www.storage-b.com/humor/881)
 - [Absolute Nightmare](https://www.storage-b.com/www/874)
 - [Framework Comparison](https://www.storage-b.com/humor/864)
@@ -36,7 +37,6 @@
 - [Stupidity](https://www.storage-b.com/www/845)
 - [C++ in Constrained Environments](https://www.storage-b.com/c/840)
 - [Scrum](https://www.storage-b.com/humor/826)
-- [Agile and scrum are broken](https://www.storage-b.com/miscellaneous/812)
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>He was in a quandary...being devoured by the swirling cesspool of his own steaming desires... uh.. the guy was a wreck.</em><br /> -- Frank Zappa</p>
+<p><em>First love is a kind of vaccination which saves a man from catching the complaint a second time.</em><br /> -- Honore de Balzac</p>
