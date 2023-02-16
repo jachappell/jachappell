@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Mmmm, Fish Steaks](https://www.amon-hen.com/food/30288)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0514 – Teen-Age Strangler](https://www.amon-hen.com/television/13962)
 - [Happy Valentine’s Day](https://www.amon-hen.com/humor/871)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Origin of Gravity](https://www.amon-hen.com/science/30283)
 - [Superb Owl LVII #SuperbOwl #SuperbOwlLVII](https://www.amon-hen.com/humor/30274)
 - [MST3K Short 0701 – Once Upon A Honeymoon](https://www.amon-hen.com/television/6119)
 - [Protecting Children](https://www.amon-hen.com/politics/29795)
 - [It’s just cruel](https://www.amon-hen.com/politics/29739)
 - [The Slime People (1963)](https://www.amon-hen.com/movies/30265)
-- [Urban Circus](https://www.amon-hen.com/music/30263)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Sometimes when I feel like killing someone, I do a little trick to calm myself down. I'll go over to the persons house and ring the doorbell. When the person comes to the door, I'm gone, but you know what I've left on the porch? A jack-o-lantern with a knife stuck in the side of it's head with a note that says "You." After that I usually feel a lot better, and no harm done.</em><br /> -- Jack Handey</p>
+<p><em>My only official recommendations are US Army-issued mustache trimmers, Morton's Salt, and the C.R. Lawrence Fein two inch axe-style scraper oscillating knife blade.</em><br /> -- Ron Swanson</p>
