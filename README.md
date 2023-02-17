@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Fish Steaks](https://www.amon-hen.com/food/30288)
+- [RiffTrax –  More Dangerous Than Dynamite](https://www.amon-hen.com/humor/27899)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Fish Steaks](https://www.amon-hen.com/food/30288)
 - [MST3K 0514 – Teen-Age Strangler](https://www.amon-hen.com/television/13962)
 - [Happy Valentine’s Day](https://www.amon-hen.com/humor/871)
 - [Origin of Gravity](https://www.amon-hen.com/science/30283)
@@ -10,7 +11,6 @@
 - [MST3K Short 0701 – Once Upon A Honeymoon](https://www.amon-hen.com/television/6119)
 - [Protecting Children](https://www.amon-hen.com/politics/29795)
 - [It’s just cruel](https://www.amon-hen.com/politics/29739)
-- [The Slime People (1963)](https://www.amon-hen.com/movies/30265)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>My only official recommendations are US Army-issued mustache trimmers, Morton's Salt, and the C.R. Lawrence Fein two inch axe-style scraper oscillating knife blade.</em><br /> -- Ron Swanson</p>
+<p><em>Instant gratification takes too long.</em><br /> -- Carrie Fisher</p>
