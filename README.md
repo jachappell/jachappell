@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Reconciler (2015)](https://www.amon-hen.com/religion/30303)
+- [MST3K Short 0702 – The Chicken of Tomorrow](https://www.amon-hen.com/television/7498)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Reconciler (2015)](https://www.amon-hen.com/religion/30303)
 - [Little Talks](https://www.amon-hen.com/music/10295)
 - [RiffTrax –  More Dangerous Than Dynamite](https://www.amon-hen.com/humor/27899)
 - [Mmmm, Fish Steaks](https://www.amon-hen.com/food/30288)
@@ -10,7 +11,6 @@
 - [Happy Valentine’s Day](https://www.amon-hen.com/humor/871)
 - [Origin of Gravity](https://www.amon-hen.com/science/30283)
 - [Superb Owl LVII #SuperbOwl #SuperbOwlLVII](https://www.amon-hen.com/humor/30274)
-- [MST3K Short 0701 – Once Upon A Honeymoon](https://www.amon-hen.com/television/6119)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>What happens if a big asteroid hits Earth?  Judging from realistic simulations involving a sledge hammer and a common laboratory frog, we can assume it will be pretty bad.</em><br /> -- Dave Barry</p>
+<p><em>A man doesn't automatically get my respect.  He has to get down in the dirt and beg for it.</em><br /> -- Jack Handey</p>
