@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0702 – The Chicken of Tomorrow](https://www.amon-hen.com/television/7498)
+- [Psychedelic Assisted Therapy](https://www.amon-hen.com/science/30308)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0702 – The Chicken of Tomorrow](https://www.amon-hen.com/television/7498)
 - [The Reconciler (2015)](https://www.amon-hen.com/religion/30303)
 - [Little Talks](https://www.amon-hen.com/music/10295)
 - [RiffTrax –  More Dangerous Than Dynamite](https://www.amon-hen.com/humor/27899)
@@ -10,7 +11,6 @@
 - [MST3K 0514 – Teen-Age Strangler](https://www.amon-hen.com/television/13962)
 - [Happy Valentine’s Day](https://www.amon-hen.com/humor/871)
 - [Origin of Gravity](https://www.amon-hen.com/science/30283)
-- [Superb Owl LVII #SuperbOwl #SuperbOwlLVII](https://www.amon-hen.com/humor/30274)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>A man doesn't automatically get my respect.  He has to get down in the dirt and beg for it.</em><br /> -- Jack Handey</p>
+<p><em>He who hasn't hacked assembly language as a youth has no heart.  He who does as an adult has no brain.</em><br /> -- John Moore</p>
