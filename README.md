@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Psychedelic Assisted Therapy](https://www.amon-hen.com/science/30308)
+- [MST3K 0515 – The Wild World Of Batwoman](https://www.amon-hen.com/television/14000)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Law & Order in Florida](https://www.amon-hen.com/politics/30313)
+- [Psychedelic Assisted Therapy](https://www.amon-hen.com/science/30308)
 - [MST3K Short 0702 – The Chicken of Tomorrow](https://www.amon-hen.com/television/7498)
 - [The Reconciler (2015)](https://www.amon-hen.com/religion/30303)
 - [Little Talks](https://www.amon-hen.com/music/10295)
 - [RiffTrax –  More Dangerous Than Dynamite](https://www.amon-hen.com/humor/27899)
 - [Mmmm, Fish Steaks](https://www.amon-hen.com/food/30288)
 - [MST3K 0514 – Teen-Age Strangler](https://www.amon-hen.com/television/13962)
-- [Happy Valentine’s Day](https://www.amon-hen.com/humor/871)
-- [Origin of Gravity](https://www.amon-hen.com/science/30283)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -40,6 +40,7 @@
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
+- [VSTEP Further Expands to the Latin American Market with Inland Solution](https://www.mar-sim.com/news/944)
 - [VSTEP Launches Simulator That Makes Ship Simulation Easily Accessible](https://www.mar-sim.com/news/937)
 - [Kongsberg Wins Large Contract with South Metropolitan TAFE](https://www.mar-sim.com/news/904)
 - [Wärtsilä Navigational Simulator becomes first Interactive ‘instructor-led’ cloud training solution to gain new DNV Class D Certification](https://www.mar-sim.com/news/888)
@@ -49,8 +50,7 @@
 - [Thome invests in Kongsberg Digital full mission bridge simulator](https://www.mar-sim.com/news/857)
 - [Wärtsilä to supply Europe’s most modern simulator for inland shipping training](https://www.mar-sim.com/news/846)
 - [Wärtsilä upgrades the SCANTS Simulation Complex to provide advanced training at the United States Coast Guard Academy](https://www.mar-sim.com/news/838)
-- [Wärtsilä Simulator Upgrade will Enhance Le Havre Pilot Operations](https://www.mar-sim.com/news/835)
 
 
 # Quote of the Day
-<p><em>He who hasn't hacked assembly language as a youth has no heart.  He who does as an adult has no brain.</em><br /> -- John Moore</p>
+<p><em>The crisis of today is the joke of tomorrow.</em><br /> -- H.G. Wells</p>
