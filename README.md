@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0515 – The Wild World Of Batwoman](https://www.amon-hen.com/television/14000)
+- [The fake syrup isn’t racist enough](https://www.amon-hen.com/politics/30315)
+- [Cam Girl Has Ash On Forehead](https://www.amon-hen.com/religion/30322)
+- [Reading: We](https://www.amon-hen.com/books/297)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0515 – The Wild World Of Batwoman](https://www.amon-hen.com/television/14000)
 - [Law & Order in Florida](https://www.amon-hen.com/politics/30313)
 - [Psychedelic Assisted Therapy](https://www.amon-hen.com/science/30308)
 - [MST3K Short 0702 – The Chicken of Tomorrow](https://www.amon-hen.com/television/7498)
 - [The Reconciler (2015)](https://www.amon-hen.com/religion/30303)
 - [Little Talks](https://www.amon-hen.com/music/10295)
-- [RiffTrax –  More Dangerous Than Dynamite](https://www.amon-hen.com/humor/27899)
-- [Mmmm, Fish Steaks](https://www.amon-hen.com/food/30288)
-- [MST3K 0514 – Teen-Age Strangler](https://www.amon-hen.com/television/13962)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The crisis of today is the joke of tomorrow.</em><br /> -- H.G. Wells</p>
+<p><em>Pudding can't fill the emptiness inside me!  But it'll help.</em><br /> -- Captain Hazel 'Hank' Murphy</p>
