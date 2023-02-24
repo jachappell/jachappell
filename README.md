@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [RiffTrax – Giant From The Unknown](https://www.amon-hen.com/humor/30326)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The fake syrup isn’t racist enough](https://www.amon-hen.com/politics/30315)
 - [Cam Girl Has Ash On Forehead](https://www.amon-hen.com/religion/30322)
 - [Reading: We](https://www.amon-hen.com/books/297)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0515 – The Wild World Of Batwoman](https://www.amon-hen.com/television/14000)
 - [Law & Order in Florida](https://www.amon-hen.com/politics/30313)
 - [Psychedelic Assisted Therapy](https://www.amon-hen.com/science/30308)
 - [MST3K Short 0702 – The Chicken of Tomorrow](https://www.amon-hen.com/television/7498)
 - [The Reconciler (2015)](https://www.amon-hen.com/religion/30303)
-- [Little Talks](https://www.amon-hen.com/music/10295)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Pudding can't fill the emptiness inside me!  But it'll help.</em><br /> -- Captain Hazel 'Hank' Murphy</p>
+<p><em>Recently deceased blues guitarist Stevie Ray Vaughan "comes to" after his death.  He sees Jimi Hendrix sitting next to him, tuning his guitar.  "Holy cow," he thinks to himself, "this guy is my idol."  Over at the microphone, about to sing, are Jim Morrison and Janis Joplin, and the bassist is the late Barry Oakley of the Allman Brothers.  So Stevie Ray's thinking, "Oh, wow!  I've died and gone to rock and roll heaven." Just then, Karen Carpenter walks in, sits down at the drums, and says: "'Close to You'.  Hit it, boys!"</em><br /> -- Told by Penn Jillette, of magic/comedy duo Penn and Teller</p>
