@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Giant From The Unknown](https://www.amon-hen.com/humor/30326)
+- [Crybaby](https://www.amon-hen.com/music/30328)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Giant From The Unknown](https://www.amon-hen.com/humor/30326)
 - [The fake syrup isn’t racist enough](https://www.amon-hen.com/politics/30315)
 - [Cam Girl Has Ash On Forehead](https://www.amon-hen.com/religion/30322)
 - [Reading: We](https://www.amon-hen.com/books/297)
@@ -10,7 +11,6 @@
 - [Law & Order in Florida](https://www.amon-hen.com/politics/30313)
 - [Psychedelic Assisted Therapy](https://www.amon-hen.com/science/30308)
 - [MST3K Short 0702 – The Chicken of Tomorrow](https://www.amon-hen.com/television/7498)
-- [The Reconciler (2015)](https://www.amon-hen.com/religion/30303)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Recently deceased blues guitarist Stevie Ray Vaughan "comes to" after his death.  He sees Jimi Hendrix sitting next to him, tuning his guitar.  "Holy cow," he thinks to himself, "this guy is my idol."  Over at the microphone, about to sing, are Jim Morrison and Janis Joplin, and the bassist is the late Barry Oakley of the Allman Brothers.  So Stevie Ray's thinking, "Oh, wow!  I've died and gone to rock and roll heaven." Just then, Karen Carpenter walks in, sits down at the drums, and says: "'Close to You'.  Hit it, boys!"</em><br /> -- Told by Penn Jillette, of magic/comedy duo Penn and Teller</p>
+<p><em>ID badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?</em><br /> -- Dwight Kurt Schrute III</p>
