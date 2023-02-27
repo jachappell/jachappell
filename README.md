@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Time Changer (2002)](https://www.amon-hen.com/religion/30330)
+- [That Dilbert Guy](https://www.amon-hen.com/politics/30344)
+- [MST3K Short 0906 – Century 21 Calling](https://www.amon-hen.com/television/5880)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Time Changer (2002)](https://www.amon-hen.com/religion/30330)
 - [Crybaby](https://www.amon-hen.com/music/30328)
 - [RiffTrax – Giant From The Unknown](https://www.amon-hen.com/humor/30326)
 - [The fake syrup isn’t racist enough](https://www.amon-hen.com/politics/30315)
 - [Cam Girl Has Ash On Forehead](https://www.amon-hen.com/religion/30322)
 - [Reading: We](https://www.amon-hen.com/books/297)
 - [MST3K 0515 – The Wild World Of Batwoman](https://www.amon-hen.com/television/14000)
-- [Law & Order in Florida](https://www.amon-hen.com/politics/30313)
-- [Psychedelic Assisted Therapy](https://www.amon-hen.com/science/30308)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – March 2023](https://www.drum-corps.net/news/2420)
 - [The Cadets Announce Move to Erie, PA](https://www.drum-corps.net/news/2414)
 - [Drum Corps World – February 2023](https://www.drum-corps.net/news/2411)
 - [Bluecoats Launches Rhythm IN BLUE as SoundSport® Ensemble](https://www.drum-corps.net/news/2404)
@@ -23,7 +24,6 @@
 - [Drum Corps World – January 2023](https://www.drum-corps.net/news/2343)
 - [Santa Clara Vanguard Announces Cessation Of Operations for the 2023 Season](https://www.drum-corps.net/news/2339)
 - [Shadow Marching Arts to end all operations](https://www.drum-corps.net/news/2347)
-- [Bluecoats’ First Birthday](https://www.drum-corps.net/history/2324)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If life was fair, Elvis would be alive and all the impersonators would be dead.</em><br /> -- Johnny Carson</p>
+<p><em>The forceps of our minds are clumsy forceps, and crush the truth a little in taking hold of it.</em><br /> -- H.G. Wells</p>
