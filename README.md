@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Artificial Intelligence](https://www.amon-hen.com/politics/30358)
+- [MST3K 0516 – Alien from L.A.](https://www.amon-hen.com/television/3404)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Artificial Intelligence](https://www.amon-hen.com/politics/30358)
 - [That Dilbert Guy](https://www.amon-hen.com/politics/30344)
 - [MST3K Short 0906 – Century 21 Calling](https://www.amon-hen.com/television/5880)
 - [Time Changer (2002)](https://www.amon-hen.com/religion/30330)
@@ -10,7 +11,6 @@
 - [RiffTrax – Giant From The Unknown](https://www.amon-hen.com/humor/30326)
 - [The fake syrup isn’t racist enough](https://www.amon-hen.com/politics/30315)
 - [Cam Girl Has Ash On Forehead](https://www.amon-hen.com/religion/30322)
-- [Reading: We](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.</em><br /> -- Albert Einstein</p>
+<p><em>In the end, the greatest snowball isn't a snowball at all; it's fear.</em><br /> -- Dwight Kurt Schrute III</p>
