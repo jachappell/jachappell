@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Arthur Creature’s Carp & Barf](https://www.amon-hen.com/cleveland/30353)
+- [Are we alone in the Universe?](https://www.amon-hen.com/science/30363)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Arthur Creature’s Carp & Barf](https://www.amon-hen.com/cleveland/30353)
 - [MST3K 0516 – Alien from L.A.](https://www.amon-hen.com/television/3404)
 - [Artificial Intelligence](https://www.amon-hen.com/politics/30358)
 - [That Dilbert Guy](https://www.amon-hen.com/politics/30344)
@@ -10,7 +11,6 @@
 - [Time Changer (2002)](https://www.amon-hen.com/religion/30330)
 - [Crybaby](https://www.amon-hen.com/music/30328)
 - [RiffTrax – Giant From The Unknown](https://www.amon-hen.com/humor/30326)
-- [The fake syrup isn’t racist enough](https://www.amon-hen.com/politics/30315)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When a nice clean brain tumbles into the dirty street to lay among the discarded wrappers and spat-out gum wads of wickedness, you can't just pick it up and wash it off with soap and water; you have to think it clean from the inside out!</em><br /> -- The Tick</p>
+<p><em>The only way to keep your health is to eat what you don't want, drink what you don't like, and do what you'd rather not.</em><br /> -- Mark Twain</p>
