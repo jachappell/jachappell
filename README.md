@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Are we alone in the Universe?](https://www.amon-hen.com/science/30363)
+- [Labyrinth](https://www.amon-hen.com/music/30367)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Are we alone in the Universe?](https://www.amon-hen.com/science/30363)
 - [Arthur Creature’s Carp & Barf](https://www.amon-hen.com/cleveland/30353)
 - [MST3K 0516 – Alien from L.A.](https://www.amon-hen.com/television/3404)
 - [Artificial Intelligence](https://www.amon-hen.com/politics/30358)
@@ -10,7 +11,6 @@
 - [MST3K Short 0906 – Century 21 Calling](https://www.amon-hen.com/television/5880)
 - [Time Changer (2002)](https://www.amon-hen.com/religion/30330)
 - [Crybaby](https://www.amon-hen.com/music/30328)
-- [RiffTrax – Giant From The Unknown](https://www.amon-hen.com/humor/30326)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The only way to keep your health is to eat what you don't want, drink what you don't like, and do what you'd rather not.</em><br /> -- Mark Twain</p>
+<p><em>Capital punishment turns the state into a murderer. But imprisonment turns the state into a gay dungeon-master.</em><br /> -- Emo Philips </p>
