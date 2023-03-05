@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Labyrinth](https://www.amon-hen.com/music/30367)
+- [Reading: Worlds](https://www.amon-hen.com/books/297)
+- [I Believe (2017)](https://www.amon-hen.com/religion/30377)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Labyrinth](https://www.amon-hen.com/music/30367)
 - [Are we alone in the Universe?](https://www.amon-hen.com/science/30363)
 - [Arthur Creature’s Carp & Barf](https://www.amon-hen.com/cleveland/30353)
 - [MST3K 0516 – Alien from L.A.](https://www.amon-hen.com/television/3404)
 - [Artificial Intelligence](https://www.amon-hen.com/politics/30358)
 - [That Dilbert Guy](https://www.amon-hen.com/politics/30344)
 - [MST3K Short 0906 – Century 21 Calling](https://www.amon-hen.com/television/5880)
-- [Time Changer (2002)](https://www.amon-hen.com/religion/30330)
-- [Crybaby](https://www.amon-hen.com/music/30328)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Capital punishment turns the state into a murderer. But imprisonment turns the state into a gay dungeon-master.</em><br /> -- Emo Philips </p>
+<p><em>I bought a cactus. A week later it died. And I got depressed, because I thought, Damn. I am less nurturing than a desert.</em><br /> -- Demetri Martin</p>
