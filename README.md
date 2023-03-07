@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Ron DeSantis](https://www.amon-hen.com/politics/30390)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Matt Walsh is Human Garbage](https://www.amon-hen.com/politics/30388)
 - [Conservative Punditry](https://www.amon-hen.com/politics/30383)
 - [MST3K Short 0912 – Robot Rumpus](https://www.amon-hen.com/television/5816)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: Worlds](https://www.amon-hen.com/books/297)
 - [I Believe (2017)](https://www.amon-hen.com/religion/30377)
 - [Labyrinth](https://www.amon-hen.com/music/30367)
 - [Are we alone in the Universe?](https://www.amon-hen.com/science/30363)
 - [Arthur Creature’s Carp & Barf](https://www.amon-hen.com/cleveland/30353)
-- [MST3K 0516 – Alien from L.A.](https://www.amon-hen.com/television/3404)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Gravity is a habit that is hard to shake off.</em><br /> -- Terry Pratchett (<em>Small Gods</em>)</p>
+<p><em>If knowledge can create problems, it is not through ignorance that we can solve them.</em><br /> -- Isaac Asimov</p>
