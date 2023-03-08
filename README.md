@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Ron DeSantis](https://www.amon-hen.com/politics/30390)
+- [MST3K 0517 – Beginning of the End](https://www.amon-hen.com/television/14033)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Ron DeSantis](https://www.amon-hen.com/politics/30390)
 - [Matt Walsh is Human Garbage](https://www.amon-hen.com/politics/30388)
 - [Conservative Punditry](https://www.amon-hen.com/politics/30383)
 - [MST3K Short 0912 – Robot Rumpus](https://www.amon-hen.com/television/5816)
@@ -10,7 +11,6 @@
 - [I Believe (2017)](https://www.amon-hen.com/religion/30377)
 - [Labyrinth](https://www.amon-hen.com/music/30367)
 - [Are we alone in the Universe?](https://www.amon-hen.com/science/30363)
-- [Arthur Creature’s Carp & Barf](https://www.amon-hen.com/cleveland/30353)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If knowledge can create problems, it is not through ignorance that we can solve them.</em><br /> -- Isaac Asimov</p>
+<p><em>Don't mess with the volcano my man, 'cause I will go Pompeii on your... butt.</em><br /> -- Mr. Furious</p>
