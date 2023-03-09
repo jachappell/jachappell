@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0517 – Beginning of the End](https://www.amon-hen.com/television/14033)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Whiz-Burger](https://www.amon-hen.com/food/30332)
+- [MST3K 0517 – Beginning of the End](https://www.amon-hen.com/television/14033)
 - [Ron DeSantis](https://www.amon-hen.com/politics/30390)
 - [Matt Walsh is Human Garbage](https://www.amon-hen.com/politics/30388)
 - [Conservative Punditry](https://www.amon-hen.com/politics/30383)
@@ -10,7 +11,6 @@
 - [Reading: Worlds](https://www.amon-hen.com/books/297)
 - [I Believe (2017)](https://www.amon-hen.com/religion/30377)
 - [Labyrinth](https://www.amon-hen.com/music/30367)
-- [Are we alone in the Universe?](https://www.amon-hen.com/science/30363)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Don't mess with the volcano my man, 'cause I will go Pompeii on your... butt.</em><br /> -- Mr. Furious</p>
+<p><em>Tragedy is when I cut my finger, comedy is when I walk into an open sewer and die.</em><br /> -- Mel Brooks</p>
