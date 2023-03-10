@@ -1,6 +1,7 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Fox isn’t Trumpy enough anymore…](https://www.amon-hen.com/politics/30448)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Whiz-Burger](https://www.amon-hen.com/food/30332)
 - [MST3K 0517 – Beginning of the End](https://www.amon-hen.com/television/14033)
@@ -10,7 +11,6 @@
 - [MST3K Short 0912 – Robot Rumpus](https://www.amon-hen.com/television/5816)
 - [Reading: Worlds](https://www.amon-hen.com/books/297)
 - [I Believe (2017)](https://www.amon-hen.com/religion/30377)
-- [Labyrinth](https://www.amon-hen.com/music/30367)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Tragedy is when I cut my finger, comedy is when I walk into an open sewer and die.</em><br /> -- Mel Brooks</p>
+<p><em>I have a hernia. I've had it for a while. And I've been ignoring it... successfully, but this morning, I made the mistake of sneezing. But as long as I sit still and don't move my head, or torso, I'm good. I got this.</em><br /> -- Ron Swanson</p>
