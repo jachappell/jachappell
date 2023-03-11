@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Fox isn’t Trumpy enough anymore…](https://www.amon-hen.com/politics/30448)
+- [I Am Waiting](https://www.amon-hen.com/music/30456)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Fox isn’t Trumpy enough anymore…](https://www.amon-hen.com/politics/30448)
 - [Mmmm, Whiz-Burger](https://www.amon-hen.com/food/30332)
 - [MST3K 0517 – Beginning of the End](https://www.amon-hen.com/television/14033)
 - [Ron DeSantis](https://www.amon-hen.com/politics/30390)
@@ -10,10 +11,10 @@
 - [Conservative Punditry](https://www.amon-hen.com/politics/30383)
 - [MST3K Short 0912 – Robot Rumpus](https://www.amon-hen.com/television/5816)
 - [Reading: Worlds](https://www.amon-hen.com/books/297)
-- [I Believe (2017)](https://www.amon-hen.com/religion/30377)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [VMAPA Executive Director Resigns](https://www.drum-corps.net/news/2423)
 - [Drum Corps World – March 2023](https://www.drum-corps.net/news/2420)
 - [The Cadets Announce Move to Erie, PA](https://www.drum-corps.net/news/2414)
 - [Drum Corps World – February 2023](https://www.drum-corps.net/news/2411)
@@ -23,7 +24,6 @@
 - [2023 DCI Rules Congress proposals at-a-glance](https://www.drum-corps.net/news/2390)
 - [Drum Corps World – January 2023](https://www.drum-corps.net/news/2343)
 - [Santa Clara Vanguard Announces Cessation Of Operations for the 2023 Season](https://www.drum-corps.net/news/2339)
-- [Shadow Marching Arts to end all operations](https://www.drum-corps.net/news/2347)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I have a hernia. I've had it for a while. And I've been ignoring it... successfully, but this morning, I made the mistake of sneezing. But as long as I sit still and don't move my head, or torso, I'm good. I got this.</em><br /> -- Ron Swanson</p>
+<p><em>Man usually avoids attributing cleverness to somebody else -- unless it is an enemy.</em><br /> -- Albert Einstein</p>
