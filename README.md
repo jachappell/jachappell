@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [I Am Waiting](https://www.amon-hen.com/music/30456)
+- [Sox – A Family’s Best Friend (2013)](https://www.amon-hen.com/religion/30454)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [I Am Waiting](https://www.amon-hen.com/music/30456)
 - [Fox isn’t Trumpy enough anymore…](https://www.amon-hen.com/politics/30448)
 - [Mmmm, Whiz-Burger](https://www.amon-hen.com/food/30332)
 - [MST3K 0517 – Beginning of the End](https://www.amon-hen.com/television/14033)
@@ -10,7 +11,6 @@
 - [Matt Walsh is Human Garbage](https://www.amon-hen.com/politics/30388)
 - [Conservative Punditry](https://www.amon-hen.com/politics/30383)
 - [MST3K Short 0912 – Robot Rumpus](https://www.amon-hen.com/television/5816)
-- [Reading: Worlds](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Man usually avoids attributing cleverness to somebody else -- unless it is an enemy.</em><br /> -- Albert Einstein</p>
+<p><em>Less is only more where more is no good.</em><br /> -- Frank Lloyd Wright</p>
