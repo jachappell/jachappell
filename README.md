@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Sox – A Family’s Best Friend (2013)](https://www.amon-hen.com/religion/30454)
+- [MST3K Short 1012 – A Case Of Spring Fever](https://www.amon-hen.com/television/6358)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Sox – A Family’s Best Friend (2013)](https://www.amon-hen.com/religion/30454)
 - [I Am Waiting](https://www.amon-hen.com/music/30456)
 - [Fox isn’t Trumpy enough anymore…](https://www.amon-hen.com/politics/30448)
 - [Mmmm, Whiz-Burger](https://www.amon-hen.com/food/30332)
@@ -10,7 +11,6 @@
 - [Ron DeSantis](https://www.amon-hen.com/politics/30390)
 - [Matt Walsh is Human Garbage](https://www.amon-hen.com/politics/30388)
 - [Conservative Punditry](https://www.amon-hen.com/politics/30383)
-- [MST3K Short 0912 – Robot Rumpus](https://www.amon-hen.com/television/5816)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Less is only more where more is no good.</em><br /> -- Frank Lloyd Wright</p>
+<p><em>I hope, when they die, cartoon characters have to answer for their sins.</em><br /> -- Jack Handey</p>
