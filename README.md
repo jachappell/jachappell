@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [TANF](https://www.amon-hen.com/politics/30468)
+- [MST3K 0518 – The Atomic Brain](https://www.amon-hen.com/television/14073)
+- [pi Day](https://www.amon-hen.com/science/6177)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [TANF](https://www.amon-hen.com/politics/30468)
 - [MST3K Short 1012 – A Case Of Spring Fever](https://www.amon-hen.com/television/6358)
 - [Sox – A Family’s Best Friend (2013)](https://www.amon-hen.com/religion/30454)
 - [I Am Waiting](https://www.amon-hen.com/music/30456)
 - [Fox isn’t Trumpy enough anymore…](https://www.amon-hen.com/politics/30448)
 - [Mmmm, Whiz-Burger](https://www.amon-hen.com/food/30332)
 - [MST3K 0517 – Beginning of the End](https://www.amon-hen.com/television/14033)
-- [Ron DeSantis](https://www.amon-hen.com/politics/30390)
-- [Matt Walsh is Human Garbage](https://www.amon-hen.com/politics/30388)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Crying is only okay in two places: funerals and the Grand Canyon.</em><br /> -- Ron Swanson</p>
+<p><em>I bet when the neanderthal kids would make a snowman, someone would always end up saying, "Don't forget the thick, heavy brows." Then they would all get embarrassed because they remembered they had the big hunky brows too, and they'd get mad and eat the snowman.</em><br /> -- Jack Handey</p>
