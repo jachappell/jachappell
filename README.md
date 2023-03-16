@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Mmmm, Velveeta-Salmon Shortcake](https://www.amon-hen.com/food/30369)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0518 – The Atomic Brain](https://www.amon-hen.com/television/14073)
 - [pi Day](https://www.amon-hen.com/science/6177)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [TANF](https://www.amon-hen.com/politics/30468)
 - [MST3K Short 1012 – A Case Of Spring Fever](https://www.amon-hen.com/television/6358)
 - [Sox – A Family’s Best Friend (2013)](https://www.amon-hen.com/religion/30454)
 - [I Am Waiting](https://www.amon-hen.com/music/30456)
 - [Fox isn’t Trumpy enough anymore…](https://www.amon-hen.com/politics/30448)
 - [Mmmm, Whiz-Burger](https://www.amon-hen.com/food/30332)
-- [MST3K 0517 – Beginning of the End](https://www.amon-hen.com/television/14033)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Bluecoats Alumni Corps sets the stage for Rhythm IN BLUE reboot](https://www.drum-corps.net/news/2426)
 - [VMAPA Executive Director Resigns](https://www.drum-corps.net/news/2423)
 - [Drum Corps World – March 2023](https://www.drum-corps.net/news/2420)
 - [The Cadets Announce Move to Erie, PA](https://www.drum-corps.net/news/2414)
@@ -23,7 +24,6 @@
 - [2023 rules proposal voting results](https://www.drum-corps.net/news/2394)
 - [2023 DCI Rules Congress proposals at-a-glance](https://www.drum-corps.net/news/2390)
 - [Drum Corps World – January 2023](https://www.drum-corps.net/news/2343)
-- [Santa Clara Vanguard Announces Cessation Of Operations for the 2023 Season](https://www.drum-corps.net/news/2339)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I bet when the neanderthal kids would make a snowman, someone would always end up saying, "Don't forget the thick, heavy brows." Then they would all get embarrassed because they remembered they had the big hunky brows too, and they'd get mad and eat the snowman.</em><br /> -- Jack Handey</p>
+<p><em>Don't worry, son.  I'm sure he's up in heaven right now laughing it up with all the other celebrities: John Dilinger, Ty Cobb, Joseph Stalin.</em><br /> -- Homer J. Simpson</p>
