@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Velveeta-Salmon Shortcake](https://www.amon-hen.com/food/30369)
+- [Ayn Rand Memes](https://www.amon-hen.com/books/30477)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Velveeta-Salmon Shortcake](https://www.amon-hen.com/food/30369)
 - [MST3K 0518 – The Atomic Brain](https://www.amon-hen.com/television/14073)
 - [pi Day](https://www.amon-hen.com/science/6177)
 - [TANF](https://www.amon-hen.com/politics/30468)
@@ -10,7 +11,6 @@
 - [Sox – A Family’s Best Friend (2013)](https://www.amon-hen.com/religion/30454)
 - [I Am Waiting](https://www.amon-hen.com/music/30456)
 - [Fox isn’t Trumpy enough anymore…](https://www.amon-hen.com/politics/30448)
-- [Mmmm, Whiz-Burger](https://www.amon-hen.com/food/30332)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Don't worry, son.  I'm sure he's up in heaven right now laughing it up with all the other celebrities: John Dilinger, Ty Cobb, Joseph Stalin.</em><br /> -- Homer J. Simpson</p>
+<p><em>Honor: if you need it defined, you don't have it.</em><br /> -- Ron Swanson</p>
