@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Ayn Rand Memes](https://www.amon-hen.com/books/30477)
+- [Evolution of GOP coded language](https://www.amon-hen.com/politics/30509)
+- [Sweetest Thing](https://www.amon-hen.com/music/30504)
+- [Reading: Worlds Apart](https://www.amon-hen.com/books/297)
+- [Saint Patrick’s Day](https://www.amon-hen.com/miscellaneous/9105)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Ayn Rand Memes](https://www.amon-hen.com/books/30477)
 - [Mmmm, Velveeta-Salmon Shortcake](https://www.amon-hen.com/food/30369)
 - [MST3K 0518 – The Atomic Brain](https://www.amon-hen.com/television/14073)
 - [pi Day](https://www.amon-hen.com/science/6177)
 - [TANF](https://www.amon-hen.com/politics/30468)
-- [MST3K Short 1012 – A Case Of Spring Fever](https://www.amon-hen.com/television/6358)
-- [Sox – A Family’s Best Friend (2013)](https://www.amon-hen.com/religion/30454)
-- [I Am Waiting](https://www.amon-hen.com/music/30456)
-- [Fox isn’t Trumpy enough anymore…](https://www.amon-hen.com/politics/30448)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Honor: if you need it defined, you don't have it.</em><br /> -- Ron Swanson</p>
+<p><em>Science Fiction writers, I am sorry to say, really do not know anything. We can't talk about science because our knowledge of it is limited and unofficial, and usually our fiction is dreadful.</em><br /> -- Philip K. Dick</p>
