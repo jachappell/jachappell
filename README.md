@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [One Man Force (1989)](https://www.amon-hen.com/movies/30491)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Evolution of GOP coded language](https://www.amon-hen.com/politics/30509)
 - [Sweetest Thing](https://www.amon-hen.com/music/30504)
 - [Reading: Worlds Apart](https://www.amon-hen.com/books/297)
 - [Saint Patrick’s Day](https://www.amon-hen.com/miscellaneous/9105)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Ayn Rand Memes](https://www.amon-hen.com/books/30477)
 - [Mmmm, Velveeta-Salmon Shortcake](https://www.amon-hen.com/food/30369)
 - [MST3K 0518 – The Atomic Brain](https://www.amon-hen.com/television/14073)
 - [pi Day](https://www.amon-hen.com/science/6177)
-- [TANF](https://www.amon-hen.com/politics/30468)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Science Fiction writers, I am sorry to say, really do not know anything. We can't talk about science because our knowledge of it is limited and unofficial, and usually our fiction is dreadful.</em><br /> -- Philip K. Dick</p>
+<p><em>Why tip someone for a job I'm capable of doing myself? I can deliver food, I can drive a taxi, I can and do cut my own hair. I did, however, tip my urologist. Because I am unable to pulverize my own kidney stones.</em><br /> -- Dwight Kurt Schrute III</p>
