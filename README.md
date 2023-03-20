@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [One Man Force (1989)](https://www.amon-hen.com/movies/30491)
+- [GPT-4: A Vile Troll](https://www.amon-hen.com/computing/internet/30515)
+- [MST3K Short – Assignment: Venezuela](https://www.amon-hen.com/humor/2988)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [One Man Force (1989)](https://www.amon-hen.com/movies/30491)
 - [Evolution of GOP coded language](https://www.amon-hen.com/politics/30509)
 - [Sweetest Thing](https://www.amon-hen.com/music/30504)
 - [Reading: Worlds Apart](https://www.amon-hen.com/books/297)
 - [Saint Patrick’s Day](https://www.amon-hen.com/miscellaneous/9105)
 - [Ayn Rand Memes](https://www.amon-hen.com/books/30477)
 - [Mmmm, Velveeta-Salmon Shortcake](https://www.amon-hen.com/food/30369)
-- [MST3K 0518 – The Atomic Brain](https://www.amon-hen.com/television/14073)
-- [pi Day](https://www.amon-hen.com/science/6177)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Why tip someone for a job I'm capable of doing myself? I can deliver food, I can drive a taxi, I can and do cut my own hair. I did, however, tip my urologist. Because I am unable to pulverize my own kidney stones.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>... C++ offers even more flexible control over the visibility of member objects and member functions.  Specifically, members may be placed in the public, private, or protected parts of a class.  Members declared in the public parts are visible to all clients; members declared in the private parts are fully encapsulated; and members declared in the protected parts are visible only to the class itself and its subclasses.  C++ also supports the notion of *friends*: cooperative classes that are permitted to see each other's private parts.</em><br /> -- Grady Booch, "Object Oriented Design with Applications"</p>
