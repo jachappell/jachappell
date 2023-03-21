@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Timeshares](https://www.amon-hen.com/politics/30522)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [GPT-4: A Vile Troll](https://www.amon-hen.com/computing/internet/30515)
 - [MST3K Short – Assignment: Venezuela](https://www.amon-hen.com/humor/2988)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [One Man Force (1989)](https://www.amon-hen.com/movies/30491)
 - [Evolution of GOP coded language](https://www.amon-hen.com/politics/30509)
 - [Sweetest Thing](https://www.amon-hen.com/music/30504)
 - [Reading: Worlds Apart](https://www.amon-hen.com/books/297)
 - [Saint Patrick’s Day](https://www.amon-hen.com/miscellaneous/9105)
 - [Ayn Rand Memes](https://www.amon-hen.com/books/30477)
-- [Mmmm, Velveeta-Salmon Shortcake](https://www.amon-hen.com/food/30369)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>... C++ offers even more flexible control over the visibility of member objects and member functions.  Specifically, members may be placed in the public, private, or protected parts of a class.  Members declared in the public parts are visible to all clients; members declared in the private parts are fully encapsulated; and members declared in the protected parts are visible only to the class itself and its subclasses.  C++ also supports the notion of *friends*: cooperative classes that are permitted to see each other's private parts.</em><br /> -- Grady Booch, "Object Oriented Design with Applications"</p>
+<p><em>I'm a superhero, Mother. An effete British superhero.</em><br /> -- Blue Raja</p>
