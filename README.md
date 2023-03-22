@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Timeshares](https://www.amon-hen.com/politics/30522)
+- [MST3K 0519 – Outlaw of Gor](https://www.amon-hen.com/television/14108)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Timeshares](https://www.amon-hen.com/politics/30522)
 - [GPT-4: A Vile Troll](https://www.amon-hen.com/computing/internet/30515)
 - [MST3K Short – Assignment: Venezuela](https://www.amon-hen.com/humor/2988)
 - [One Man Force (1989)](https://www.amon-hen.com/movies/30491)
@@ -10,7 +11,6 @@
 - [Sweetest Thing](https://www.amon-hen.com/music/30504)
 - [Reading: Worlds Apart](https://www.amon-hen.com/books/297)
 - [Saint Patrick’s Day](https://www.amon-hen.com/miscellaneous/9105)
-- [Ayn Rand Memes](https://www.amon-hen.com/books/30477)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I'm a superhero, Mother. An effete British superhero.</em><br /> -- Blue Raja</p>
+<p><em>We Americans live in a nation where the medical-care system is second to none in the world, unless you count maybe 25 or 30 little scuzzball countries like Scotland that we could vaporize in seconds if we felt like it.</em><br /> -- Dave Barry</p>
