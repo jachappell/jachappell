@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0519 – Outlaw of Gor](https://www.amon-hen.com/television/14108)
+- [Mmmm, 7-Up and Milk](https://www.amon-hen.com/food/30525)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0519 – Outlaw of Gor](https://www.amon-hen.com/television/14108)
 - [Timeshares](https://www.amon-hen.com/politics/30522)
 - [GPT-4: A Vile Troll](https://www.amon-hen.com/computing/internet/30515)
 - [MST3K Short – Assignment: Venezuela](https://www.amon-hen.com/humor/2988)
@@ -10,7 +11,6 @@
 - [Evolution of GOP coded language](https://www.amon-hen.com/politics/30509)
 - [Sweetest Thing](https://www.amon-hen.com/music/30504)
 - [Reading: Worlds Apart](https://www.amon-hen.com/books/297)
-- [Saint Patrick’s Day](https://www.amon-hen.com/miscellaneous/9105)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>We Americans live in a nation where the medical-care system is second to none in the world, unless you count maybe 25 or 30 little scuzzball countries like Scotland that we could vaporize in seconds if we felt like it.</em><br /> -- Dave Barry</p>
+<p><em>Ah, the college roadtrip.  What better way to spread beer-fueled mayhem?</em><br /> -- Homer J. Simpson</p>
