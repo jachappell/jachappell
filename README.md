@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, 7-Up and Milk](https://www.amon-hen.com/food/30525)
+- [William Eigel](https://www.amon-hen.com/politics/30536)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, 7-Up and Milk](https://www.amon-hen.com/food/30525)
 - [MST3K 0519 – Outlaw of Gor](https://www.amon-hen.com/television/14108)
 - [Timeshares](https://www.amon-hen.com/politics/30522)
 - [GPT-4: A Vile Troll](https://www.amon-hen.com/computing/internet/30515)
@@ -10,7 +11,6 @@
 - [One Man Force (1989)](https://www.amon-hen.com/movies/30491)
 - [Evolution of GOP coded language](https://www.amon-hen.com/politics/30509)
 - [Sweetest Thing](https://www.amon-hen.com/music/30504)
-- [Reading: Worlds Apart](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Ah, the college roadtrip.  What better way to spread beer-fueled mayhem?</em><br /> -- Homer J. Simpson</p>
+<p><em>Politicians should read science fiction, not westerns and detective stories.</em><br /> -- Arthur C. Clarke</p>
