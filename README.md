@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Lay Your Hands on Me (Live)](https://www.amon-hen.com/music/30502)
+- [Missouri Republicans are doing Nazi Shit](https://www.amon-hen.com/politics/30552)
+- [Reading: Worlds Enough and Time](https://www.amon-hen.com/books/297)
+- [To Save A Life (2009)](https://www.amon-hen.com/religion/30541)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Lay Your Hands on Me (Live)](https://www.amon-hen.com/music/30502)
 - [William Eigel](https://www.amon-hen.com/politics/30536)
 - [Mmmm, 7-Up and Milk](https://www.amon-hen.com/food/30525)
 - [MST3K 0519 – Outlaw of Gor](https://www.amon-hen.com/television/14108)
 - [Timeshares](https://www.amon-hen.com/politics/30522)
 - [GPT-4: A Vile Troll](https://www.amon-hen.com/computing/internet/30515)
-- [MST3K Short – Assignment: Venezuela](https://www.amon-hen.com/humor/2988)
-- [One Man Force (1989)](https://www.amon-hen.com/movies/30491)
-- [Evolution of GOP coded language](https://www.amon-hen.com/politics/30509)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When you're riding in a time machine way far into the future, don't stick your elbow out the window, or it'll turn into a fossil.</em><br /> -- Jack Handey</p>
+<p><em>Life... is like a grapefruit. It's orange and squishy, and has a few pips in it, and some folks have half a one for breakfast.</em><br /> -- Douglas Adams</p>
