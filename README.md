@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [If you think there are “two sides” to a civil rights issue…](https://www.amon-hen.com/politics/30555)
+- [False Equivalency](https://www.amon-hen.com/books/30565)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MAGA Cult](https://www.amon-hen.com/politics/30559)
 - [MST3K Short 0102 – Radar Men from the Moon 1](https://www.amon-hen.com/television/8892)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Missouri Republicans are doing Nazi Shit](https://www.amon-hen.com/politics/30552)
 - [Reading: Worlds Enough and Time](https://www.amon-hen.com/books/297)
 - [To Save A Life (2009)](https://www.amon-hen.com/religion/30541)
 - [Lay Your Hands on Me (Live)](https://www.amon-hen.com/music/30502)
 - [William Eigel](https://www.amon-hen.com/politics/30536)
-- [Mmmm, 7-Up and Milk](https://www.amon-hen.com/food/30525)
-- [MST3K 0519 – Outlaw of Gor](https://www.amon-hen.com/television/14108)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Now we sit through Shakespeare in order to recognize the quotations.</em><br /> -- Orson Welles</p>
+<p><em>We must respect the other fellow's religion, but only in the same sense and to the same extent that we respect his theory that his wife is beautiful and his children smart.</em><br /> -- H.L. Mencken</p>
