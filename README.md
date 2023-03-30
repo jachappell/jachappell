@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0520 – Radar Secret Service](https://www.amon-hen.com/television/14146)
+- [Missouri Republicans are Awful](https://www.amon-hen.com/politics/30577)
+- [RiffTrax – This is Hormel](https://www.amon-hen.com/humor/30563)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0520 – Radar Secret Service](https://www.amon-hen.com/television/14146)
 - [If you think there are “two sides” to a civil rights issue…](https://www.amon-hen.com/politics/30555)
 - [False Equivalency](https://www.amon-hen.com/books/30565)
 - [MAGA Cult](https://www.amon-hen.com/politics/30559)
 - [MST3K Short 0102 – Radar Men from the Moon 1](https://www.amon-hen.com/television/8892)
 - [Missouri Republicans are doing Nazi Shit](https://www.amon-hen.com/politics/30552)
 - [Reading: Worlds Enough and Time](https://www.amon-hen.com/books/297)
-- [To Save A Life (2009)](https://www.amon-hen.com/religion/30541)
-- [Lay Your Hands on Me (Live)](https://www.amon-hen.com/music/30502)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Ask not what you can do for your country.  Ask what's for lunch.</em><br /> -- Orson Welles</p>
+<p><em>When it comes to humility, I'm the greatest.</em><br /> -- Bullwinkle Moose</p>
