@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [The Lamb Lies Down On Broadway](https://www.amon-hen.com/music/30574)
+- [Terrible Ex-Presidents…](https://www.amon-hen.com/politics/30588)
+- [March 31](https://www.amon-hen.com/television/25990)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Bard: A Vile Troll](https://www.amon-hen.com/computing/internet/30583)
 - [How to organize your home library](https://www.amon-hen.com/books/30567)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Missouri Republicans are Awful](https://www.amon-hen.com/politics/30577)
 - [RiffTrax – This is Hormel](https://www.amon-hen.com/humor/30563)
 - [MST3K 0520 – Radar Secret Service](https://www.amon-hen.com/television/14146)
 - [If you think there are “two sides” to a civil rights issue…](https://www.amon-hen.com/politics/30555)
-- [False Equivalency](https://www.amon-hen.com/books/30565)
-- [MAGA Cult](https://www.amon-hen.com/politics/30559)
-- [MST3K Short 0102 – Radar Men from the Moon 1](https://www.amon-hen.com/television/8892)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>America: The only country that matters. If you want to experience other "cultures," use an atlas or a ham radio.</em><br /> -- Ron Swanson</p>
+<p><em>Sometimes, when I drive across the desert in the middle of the night, with no other cars around, I start imagining: What if there were no civilization out there? No cities, no factories, no people? And then I think: No people or factories? Then who made this car? And this highway? And I get so confused I have to stick my head out the window into the driving rain---unless there's lightning, because I could get struck on the head by a bolt.</em><br /> -- Jack Handey</p>
