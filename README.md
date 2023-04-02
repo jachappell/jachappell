@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [The Lords of Magick (1989)](https://www.amon-hen.com/movies/30593)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Lamb Lies Down On Broadway](https://www.amon-hen.com/music/30574)
 - [Terrible Ex-Presidents…](https://www.amon-hen.com/politics/30588)
 - [March 31](https://www.amon-hen.com/television/25990)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Bard: A Vile Troll](https://www.amon-hen.com/computing/internet/30583)
 - [How to organize your home library](https://www.amon-hen.com/books/30567)
 - [Missouri Republicans are Awful](https://www.amon-hen.com/politics/30577)
 - [RiffTrax – This is Hormel](https://www.amon-hen.com/humor/30563)
 - [MST3K 0520 – Radar Secret Service](https://www.amon-hen.com/television/14146)
-- [If you think there are “two sides” to a civil rights issue…](https://www.amon-hen.com/politics/30555)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – April 2023](https://www.drum-corps.net/news/2436)
 - [Bluecoats Alumni Corps sets the stage for Rhythm IN BLUE reboot](https://www.drum-corps.net/news/2426)
 - [VMAPA Executive Director Resigns](https://www.drum-corps.net/news/2423)
 - [Drum Corps World – March 2023](https://www.drum-corps.net/news/2420)
@@ -23,7 +24,6 @@
 - [Drum Corps International CEO to retire in late 2023](https://www.drum-corps.net/news/2397)
 - [2023 rules proposal voting results](https://www.drum-corps.net/news/2394)
 - [2023 DCI Rules Congress proposals at-a-glance](https://www.drum-corps.net/news/2390)
-- [Drum Corps World – January 2023](https://www.drum-corps.net/news/2343)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Sometimes, when I drive across the desert in the middle of the night, with no other cars around, I start imagining: What if there were no civilization out there? No cities, no factories, no people? And then I think: No people or factories? Then who made this car? And this highway? And I get so confused I have to stick my head out the window into the driving rain---unless there's lightning, because I could get struck on the head by a bolt.</em><br /> -- Jack Handey</p>
+<p><em>Isn't pomo really one big cover-up for for the failure of the French to write a truly interesting novel ever since a sports car ate Albert Camus?</em><br /> -- John Leonard</p>
