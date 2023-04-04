@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Solitary Confinement](https://www.amon-hen.com/politics/30606)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Life Expectancy in America](https://www.amon-hen.com/science/30599)
 - [MST3K Short 0103 – Radar Men from the Moon 2](https://www.amon-hen.com/television/8940)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Lords of Magick (1989)](https://www.amon-hen.com/movies/30593)
 - [The Lamb Lies Down On Broadway](https://www.amon-hen.com/music/30574)
 - [Terrible Ex-Presidents…](https://www.amon-hen.com/politics/30588)
 - [March 31](https://www.amon-hen.com/television/25990)
 - [Bard: A Vile Troll](https://www.amon-hen.com/computing/internet/30583)
 - [How to organize your home library](https://www.amon-hen.com/books/30567)
-- [Missouri Republicans are Awful](https://www.amon-hen.com/politics/30577)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Fear can sometimes be a useful emotion. For instance, let's say you're an astronaut on the moon and you fear that your partner has been turned into Dracula.  The next time he goes out for the moon pieces, wham!, you just slam the door behind him and blast off.  He might call you on the radio and say he's not Dracula, but you just say, "Think again, bat man."</em><br /> -- Jack Handey</p>
+<p><em>Every harlot was a virgin once.</em><br /> -- William Blake</p>
