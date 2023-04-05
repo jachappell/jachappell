@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Solitary Confinement](https://www.amon-hen.com/politics/30606)
+- [MST3K 0522 – Teen-Age Crime Wave](https://www.amon-hen.com/television/24216)
+- [Donald Trump’s Fingerprints](https://www.amon-hen.com/politics/30608)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Solitary Confinement](https://www.amon-hen.com/politics/30606)
 - [Life Expectancy in America](https://www.amon-hen.com/science/30599)
 - [MST3K Short 0103 – Radar Men from the Moon 2](https://www.amon-hen.com/television/8940)
 - [The Lords of Magick (1989)](https://www.amon-hen.com/movies/30593)
 - [The Lamb Lies Down On Broadway](https://www.amon-hen.com/music/30574)
 - [Terrible Ex-Presidents…](https://www.amon-hen.com/politics/30588)
 - [March 31](https://www.amon-hen.com/television/25990)
-- [Bard: A Vile Troll](https://www.amon-hen.com/computing/internet/30583)
-- [How to organize your home library](https://www.amon-hen.com/books/30567)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Every harlot was a virgin once.</em><br /> -- William Blake</p>
+<p><em>If you don't live it, It won't come out of your horn.</em><br /> -- Charlie Parker</p>
