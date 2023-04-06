@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Mmmm, Smooth Highballs](https://www.amon-hen.com/food/24684)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0522 – Teen-Age Crime Wave](https://www.amon-hen.com/television/24216)
 - [Donald Trump’s Fingerprints](https://www.amon-hen.com/politics/30608)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Solitary Confinement](https://www.amon-hen.com/politics/30606)
 - [Life Expectancy in America](https://www.amon-hen.com/science/30599)
 - [MST3K Short 0103 – Radar Men from the Moon 2](https://www.amon-hen.com/television/8940)
 - [The Lords of Magick (1989)](https://www.amon-hen.com/movies/30593)
 - [The Lamb Lies Down On Broadway](https://www.amon-hen.com/music/30574)
 - [Terrible Ex-Presidents…](https://www.amon-hen.com/politics/30588)
-- [March 31](https://www.amon-hen.com/television/25990)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If you don't live it, It won't come out of your horn.</em><br /> -- Charlie Parker</p>
+<p><em>He was a cowboy, mister, and he loved the land. He loved it so much he made a woman out of dirt and married her. But when he kissed her, she disintegrated. Later, at the funeral, when the preacher said, "Dust to dust," some people laughed, and the cowboy shot them. At his hanging, he told the others, "I'll be waiting for you in heaven--with a gun."</em><br /> -- Jack Handey</p>
