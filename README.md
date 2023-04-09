@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Everyday Miracles (2015)](https://www.amon-hen.com/religion/30623)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Veil](https://www.amon-hen.com/music/30616)
 - [Reading: The Einstein Intersection](https://www.amon-hen.com/books/297)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [RiffTrax – Fairy King Of Ar](https://www.amon-hen.com/humor/30613)
 - [Mmmm, Smooth Highballs](https://www.amon-hen.com/food/24684)
 - [MST3K 0522 – Teen-Age Crime Wave](https://www.amon-hen.com/television/24216)
 - [Donald Trump’s Fingerprints](https://www.amon-hen.com/politics/30608)
 - [Solitary Confinement](https://www.amon-hen.com/politics/30606)
 - [Life Expectancy in America](https://www.amon-hen.com/science/30599)
-- [MST3K Short 0103 – Radar Men from the Moon 2](https://www.amon-hen.com/television/8940)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Hooray, I'm useful!</em><br /> -- Doctor John A. Zoidberg</p>
+<p><em>At the present rate of progress, it is almost impossible to imagine any technical feat that cannot be achieved - if it can be achieved at all - within the next few hundred years.</em><br /> -- Arthur C. Clarke</p>
