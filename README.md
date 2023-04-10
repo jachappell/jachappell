@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Everyday Miracles (2015)](https://www.amon-hen.com/religion/30623)
+- [Easter](https://www.amon-hen.com/religion/6429)
+- [MST3K Short 0105 – Radar Men from the Moon 3](https://www.amon-hen.com/television/8988)
+- [Easter Yeggs](https://www.amon-hen.com/religion/3278)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Everyday Miracles (2015)](https://www.amon-hen.com/religion/30623)
 - [The Veil](https://www.amon-hen.com/music/30616)
 - [Reading: The Einstein Intersection](https://www.amon-hen.com/books/297)
 - [RiffTrax – Fairy King Of Ar](https://www.amon-hen.com/humor/30613)
 - [Mmmm, Smooth Highballs](https://www.amon-hen.com/food/24684)
 - [MST3K 0522 – Teen-Age Crime Wave](https://www.amon-hen.com/television/24216)
-- [Donald Trump’s Fingerprints](https://www.amon-hen.com/politics/30608)
-- [Solitary Confinement](https://www.amon-hen.com/politics/30606)
-- [Life Expectancy in America](https://www.amon-hen.com/science/30599)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>At the present rate of progress, it is almost impossible to imagine any technical feat that cannot be achieved - if it can be achieved at all - within the next few hundred years.</em><br /> -- Arthur C. Clarke</p>
+<p><em>Why do people keep insisting that I join the twenty-first century?  I </em>live<em> in the twenty-first century! I just don't want to be bothered by the shitheads on the internet!</em><br /> -- Harlan Ellison</p>
