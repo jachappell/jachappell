@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Homeowners Associations](https://www.amon-hen.com/politics/30630)
+- [MST3K 0523 – Village of the Giants](https://www.amon-hen.com/television/14180)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Homeowners Associations](https://www.amon-hen.com/politics/30630)
 - [Easter](https://www.amon-hen.com/religion/6429)
 - [MST3K Short 0105 – Radar Men from the Moon 3](https://www.amon-hen.com/television/8988)
 - [Easter Yeggs](https://www.amon-hen.com/religion/3278)
@@ -10,7 +11,6 @@
 - [The Veil](https://www.amon-hen.com/music/30616)
 - [Reading: The Einstein Intersection](https://www.amon-hen.com/books/297)
 - [RiffTrax – Fairy King Of Ar](https://www.amon-hen.com/humor/30613)
-- [Mmmm, Smooth Highballs](https://www.amon-hen.com/food/24684)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>We scientists, whose tragic destiny it has been to make the methods of annihilation ever more gruesome and more effective, must consider it our solemn and transcendent duty to do all in our power in preventing these weapons from being used for the brutal purpose for which they were invented.</em><br /> -- Albert Einstein</p>
+<p><em>I bet it's hard to break farmers of the old superstitions like "Tornado got Old Yeller, stay in the cellar."</em><br /> -- Jack Handey</p>
