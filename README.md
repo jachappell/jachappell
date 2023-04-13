@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0523 – Village of the Giants](https://www.amon-hen.com/television/14180)
+- [Mmmm, Spam Submarine Sandwich](https://www.amon-hen.com/food/30632)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0523 – Village of the Giants](https://www.amon-hen.com/television/14180)
 - [Homeowners Associations](https://www.amon-hen.com/politics/30630)
 - [Easter](https://www.amon-hen.com/religion/6429)
 - [MST3K Short 0105 – Radar Men from the Moon 3](https://www.amon-hen.com/television/8988)
@@ -10,7 +11,6 @@
 - [Everyday Miracles (2015)](https://www.amon-hen.com/religion/30623)
 - [The Veil](https://www.amon-hen.com/music/30616)
 - [Reading: The Einstein Intersection](https://www.amon-hen.com/books/297)
-- [RiffTrax – Fairy King Of Ar](https://www.amon-hen.com/humor/30613)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I bet it's hard to break farmers of the old superstitions like "Tornado got Old Yeller, stay in the cellar."</em><br /> -- Jack Handey</p>
+<p><em>Barry, there is no hell. There is only France.</em><br /> -- Frank Zappa, "You Can't Do That On Stage Anymore"</p>
