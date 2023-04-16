@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [The Virgins (2014)](https://www.amon-hen.com/religion/30648)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Big Time (Live)](https://www.amon-hen.com/music/30639)
 - [Reading: Chocky](https://www.amon-hen.com/books/297)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [RiffTrax – Good Health Practices](https://www.amon-hen.com/humor/30636)
 - [Mmmm, Spam Submarine Sandwich](https://www.amon-hen.com/food/30632)
 - [MST3K 0523 – Village of the Giants](https://www.amon-hen.com/television/14180)
 - [Homeowners Associations](https://www.amon-hen.com/politics/30630)
 - [Easter](https://www.amon-hen.com/religion/6429)
 - [MST3K Short 0105 – Radar Men from the Moon 3](https://www.amon-hen.com/television/8988)
-- [Easter Yeggs](https://www.amon-hen.com/religion/3278)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The two symbols of the Republican Party: an elephant, and a big fat white guy who is threatened by change.</em><br /> -- Seth MacFarlane</p>
+<p><em>I'm not a bad guy.  I work hard and I love my kids.  So why should I spend half my Sunday hearing about how I'm going to Hell?</em><br /> -- Homer J. Simpson</p>
