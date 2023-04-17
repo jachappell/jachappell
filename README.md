@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Virgins (2014)](https://www.amon-hen.com/religion/30648)
+- [MST3K Short 0107 – Radar Men from the Moon 4](https://www.amon-hen.com/television/9038)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Virgins (2014)](https://www.amon-hen.com/religion/30648)
 - [Big Time (Live)](https://www.amon-hen.com/music/30639)
 - [Reading: Chocky](https://www.amon-hen.com/books/297)
 - [RiffTrax – Good Health Practices](https://www.amon-hen.com/humor/30636)
@@ -10,7 +11,6 @@
 - [MST3K 0523 – Village of the Giants](https://www.amon-hen.com/television/14180)
 - [Homeowners Associations](https://www.amon-hen.com/politics/30630)
 - [Easter](https://www.amon-hen.com/religion/6429)
-- [MST3K Short 0105 – Radar Men from the Moon 3](https://www.amon-hen.com/television/8988)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I'm not a bad guy.  I work hard and I love my kids.  So why should I spend half my Sunday hearing about how I'm going to Hell?</em><br /> -- Homer J. Simpson</p>
+<p><em>Skiing combines outdoor fun with knocking down trees with your face.</em><br /> -- Dave Barry</p>
