@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0107 – Radar Men from the Moon 4](https://www.amon-hen.com/television/9038)
+- [Farmworkers](https://www.amon-hen.com/politics/30655)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0107 – Radar Men from the Moon 4](https://www.amon-hen.com/television/9038)
 - [The Virgins (2014)](https://www.amon-hen.com/religion/30648)
 - [Big Time (Live)](https://www.amon-hen.com/music/30639)
 - [Reading: Chocky](https://www.amon-hen.com/books/297)
@@ -10,7 +11,6 @@
 - [Mmmm, Spam Submarine Sandwich](https://www.amon-hen.com/food/30632)
 - [MST3K 0523 – Village of the Giants](https://www.amon-hen.com/television/14180)
 - [Homeowners Associations](https://www.amon-hen.com/politics/30630)
-- [Easter](https://www.amon-hen.com/religion/6429)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Skiing combines outdoor fun with knocking down trees with your face.</em><br /> -- Dave Barry</p>
+<p><em>Ask yourself whether you are happy and you cease to be so.</em><br /> -- John Stuart Mill</p>
