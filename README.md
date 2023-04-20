@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [A History of Chuck E. Cheese](https://www.amon-hen.com/television/30643)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0524 – 12 to the Moon](https://www.amon-hen.com/television/14211)
 - [Tax Day](https://www.amon-hen.com/quotes/325)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Farmworkers](https://www.amon-hen.com/politics/30655)
 - [MST3K Short 0107 – Radar Men from the Moon 4](https://www.amon-hen.com/television/9038)
 - [The Virgins (2014)](https://www.amon-hen.com/religion/30648)
 - [Big Time (Live)](https://www.amon-hen.com/music/30639)
 - [Reading: Chocky](https://www.amon-hen.com/books/297)
 - [RiffTrax – Good Health Practices](https://www.amon-hen.com/humor/30636)
-- [Mmmm, Spam Submarine Sandwich](https://www.amon-hen.com/food/30632)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>An intellectual is a person who has discovered something more interesting than sex.</em><br /> -- Aldous Huxley</p>
+<p><em>What our ancestors would really be thinking, if they were alive today, is: "Why is it so dark in here?"</em><br /> -- Terry Pratchett (<em>Pyramids</em>)</p>
