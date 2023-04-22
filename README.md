@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Intruder (Live)](https://www.amon-hen.com/music/30671)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [SpaceX Starship](https://www.amon-hen.com/science/30665)
 - [Tucker Carlson’s smirking face](https://www.amon-hen.com/politics/30661)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [A History of Chuck E. Cheese](https://www.amon-hen.com/television/30643)
 - [MST3K 0524 – 12 to the Moon](https://www.amon-hen.com/television/14211)
 - [Tax Day](https://www.amon-hen.com/quotes/325)
 - [Farmworkers](https://www.amon-hen.com/politics/30655)
 - [MST3K Short 0107 – Radar Men from the Moon 4](https://www.amon-hen.com/television/9038)
 - [The Virgins (2014)](https://www.amon-hen.com/religion/30648)
-- [Big Time (Live)](https://www.amon-hen.com/music/30639)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Late to bed and late to wake will keep you long on money and short on mistakes.</em><br /> -- Aaron McGruder</p>
+<p><em>There is nothing worse than aggressive stupidity.</em><br /> -- Johann Wolfgang von Goethe</p>
