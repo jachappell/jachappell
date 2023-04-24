@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K Short 0107 – Radar Men from the Moon 5](https://www.amon-hen.com/television/9111)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading – Soonish: Ten Emerging Technologies That’ll Improve and/or Ruin Everything](https://www.amon-hen.com/books/297)
 - [Fire From Below (2009)](https://www.amon-hen.com/movies/30673)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Intruder (Live)](https://www.amon-hen.com/music/30671)
 - [SpaceX Starship](https://www.amon-hen.com/science/30665)
 - [Tucker Carlson’s smirking face](https://www.amon-hen.com/politics/30661)
 - [A History of Chuck E. Cheese](https://www.amon-hen.com/television/30643)
 - [MST3K 0524 – 12 to the Moon](https://www.amon-hen.com/television/14211)
 - [Tax Day](https://www.amon-hen.com/quotes/325)
-- [Farmworkers](https://www.amon-hen.com/politics/30655)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>An architect's first work is apt to be spare and clean.  He knows he doesn't know what he's doing, so he does it carefully and with great restraint.<br /><br /> As he designs the first work, frill after frill and embellishment after embellishment occur to him.  These get stored away to be used "next time." Sooner or later the first system is finished, and the architect, with firm confidence and a demonstrated mastery of that class of systems, is ready to build a second system.<br /><br /> This second is the most dangerous system a man ever designs.  When he does his third and later ones, his prior experiences will confirm each other as to the general characteristics of such systems, and their differences will identify those parts of his experience that are particular and not generalizable.<br /><br /> The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.  The result, as Ovid says, is a "big pile."</em><br /> -- Frederick Brooks, (<em>The Mythical Man Month</em>)</p>
+<p><em>Of all the tyrannies that affect mankind, tyranny in religion is the worst.</em><br /> -- Thomas Paine</p>
