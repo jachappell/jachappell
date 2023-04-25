@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0107 – Radar Men from the Moon 5](https://www.amon-hen.com/television/9111)
+- [Blue Tick Marks](https://www.amon-hen.com/humor/30684)
+- [Cryptocurrencies II](https://www.amon-hen.com/politics/30680)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0107 – Radar Men from the Moon 5](https://www.amon-hen.com/television/9111)
 - [Reading – Soonish: Ten Emerging Technologies That’ll Improve and/or Ruin Everything](https://www.amon-hen.com/books/297)
 - [Fire From Below (2009)](https://www.amon-hen.com/movies/30673)
 - [Intruder (Live)](https://www.amon-hen.com/music/30671)
 - [SpaceX Starship](https://www.amon-hen.com/science/30665)
 - [Tucker Carlson’s smirking face](https://www.amon-hen.com/politics/30661)
 - [A History of Chuck E. Cheese](https://www.amon-hen.com/television/30643)
-- [MST3K 0524 – 12 to the Moon](https://www.amon-hen.com/television/14211)
-- [Tax Day](https://www.amon-hen.com/quotes/325)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -27,6 +27,7 @@
 
 
 ## [Storage B](https://www.storage-b.com)
+- [Blue Tick Marks](https://www.storage-b.com/humor/896)
 - [Toxic Development Culture](https://www.storage-b.com/www/887)
 - [Hewlett Packard Then and Now](https://www.storage-b.com/humor/881)
 - [Absolute Nightmare](https://www.storage-b.com/www/874)
@@ -36,7 +37,6 @@
 - [Linux EULA](https://www.storage-b.com/linux/850)
 - [Stupidity](https://www.storage-b.com/www/845)
 - [C++ in Constrained Environments](https://www.storage-b.com/c/840)
-- [Scrum](https://www.storage-b.com/humor/826)
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Of all the tyrannies that affect mankind, tyranny in religion is the worst.</em><br /> -- Thomas Paine</p>
+<p><em>My brother sent me a postcard the other day with this big satellite photo of the entire earth on it. On the back it said: "Wish you were here".</em><br /> -- Stephen Wright</p>
