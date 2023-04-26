@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K 0601 – Girls Town](https://www.amon-hen.com/television/14253)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Blue Tick Marks](https://www.amon-hen.com/humor/30684)
 - [Cryptocurrencies II](https://www.amon-hen.com/politics/30680)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K Short 0107 – Radar Men from the Moon 5](https://www.amon-hen.com/television/9111)
 - [Reading – Soonish: Ten Emerging Technologies That’ll Improve and/or Ruin Everything](https://www.amon-hen.com/books/297)
 - [Fire From Below (2009)](https://www.amon-hen.com/movies/30673)
 - [Intruder (Live)](https://www.amon-hen.com/music/30671)
 - [SpaceX Starship](https://www.amon-hen.com/science/30665)
 - [Tucker Carlson’s smirking face](https://www.amon-hen.com/politics/30661)
-- [A History of Chuck E. Cheese](https://www.amon-hen.com/television/30643)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Bluecoats Alumni Corps Snare Cam](https://www.drum-corps.net/history/2458)
 - [Drum Corps World – April 2023](https://www.drum-corps.net/news/2436)
 - [Bluecoats Alumni Corps sets the stage for Rhythm IN BLUE reboot](https://www.drum-corps.net/news/2426)
 - [VMAPA Executive Director Resigns](https://www.drum-corps.net/news/2423)
@@ -23,7 +24,6 @@
 - [Bluecoats Launches Rhythm IN BLUE as SoundSport® Ensemble](https://www.drum-corps.net/news/2404)
 - [Drum Corps International CEO to retire in late 2023](https://www.drum-corps.net/news/2397)
 - [2023 rules proposal voting results](https://www.drum-corps.net/news/2394)
-- [2023 DCI Rules Congress proposals at-a-glance](https://www.drum-corps.net/news/2390)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>My brother sent me a postcard the other day with this big satellite photo of the entire earth on it. On the back it said: "Wish you were here".</em><br /> -- Stephen Wright</p>
+<p><em>Human beings are seventy percent water, and with some the rest is collagen.</em><br /> -- Martin Mull</p>
