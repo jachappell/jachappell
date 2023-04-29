@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Missouri Attorney General Andrew Bailey is a Fascist Sack of Shit](https://www.amon-hen.com/politics/30689)
+- [Stream of Consciousness (Live)](https://www.amon-hen.com/music/30697)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Missouri Attorney General Andrew Bailey is a Fascist Sack of Shit](https://www.amon-hen.com/politics/30689)
 - [Mmmm, Pineapple Upside-Down Cake](https://www.amon-hen.com/food/28212)
 - [MST3K 0601 – Girls Town](https://www.amon-hen.com/television/14253)
 - [Blue Tick Marks](https://www.amon-hen.com/humor/30684)
@@ -10,7 +11,6 @@
 - [MST3K Short 0107 – Radar Men from the Moon 5](https://www.amon-hen.com/television/9111)
 - [Reading – Soonish: Ten Emerging Technologies That’ll Improve and/or Ruin Everything](https://www.amon-hen.com/books/297)
 - [Fire From Below (2009)](https://www.amon-hen.com/movies/30673)
-- [Intruder (Live)](https://www.amon-hen.com/music/30671)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The universe may have a purpose, but nothing we know suggests that, if so, this purpose has any similarity to ours.</em><br /> -- Bertrand Russell</p>
+<p><em>I am very fond of the company of ladies. I like their beauty, I like their delicacy, I like their vivacity, and I like their silence.</em><br /> -- Samuel Johnson</p>
