@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Stream of Consciousness (Live)](https://www.amon-hen.com/music/30697)
+- [Meteor (1979)](https://www.amon-hen.com/movies/30708)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Stream of Consciousness (Live)](https://www.amon-hen.com/music/30697)
 - [Missouri Attorney General Andrew Bailey is a Fascist Sack of Shit](https://www.amon-hen.com/politics/30689)
 - [Mmmm, Pineapple Upside-Down Cake](https://www.amon-hen.com/food/28212)
 - [MST3K 0601 – Girls Town](https://www.amon-hen.com/television/14253)
@@ -10,10 +11,10 @@
 - [Cryptocurrencies II](https://www.amon-hen.com/politics/30680)
 - [MST3K Short 0107 – Radar Men from the Moon 5](https://www.amon-hen.com/television/9111)
 - [Reading – Soonish: Ten Emerging Technologies That’ll Improve and/or Ruin Everything](https://www.amon-hen.com/books/297)
-- [Fire From Below (2009)](https://www.amon-hen.com/movies/30673)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – May 2023](https://www.drum-corps.net/news/2461)
 - [Bluecoats Alumni Corps Snare Cam](https://www.drum-corps.net/history/2458)
 - [Drum Corps World – April 2023](https://www.drum-corps.net/news/2436)
 - [Bluecoats Alumni Corps sets the stage for Rhythm IN BLUE reboot](https://www.drum-corps.net/news/2426)
@@ -23,7 +24,6 @@
 - [Drum Corps World – February 2023](https://www.drum-corps.net/news/2411)
 - [Bluecoats Launches Rhythm IN BLUE as SoundSport® Ensemble](https://www.drum-corps.net/news/2404)
 - [Drum Corps International CEO to retire in late 2023](https://www.drum-corps.net/news/2397)
-- [2023 rules proposal voting results](https://www.drum-corps.net/news/2394)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I am very fond of the company of ladies. I like their beauty, I like their delicacy, I like their vivacity, and I like their silence.</em><br /> -- Samuel Johnson</p>
+<p><em>The National Association of Theater Concessionaires reported that in 1986, 60% of all candy sold in movie theaters was sold to Roger Ebert.</em><br /> -- David Letterman</p>
