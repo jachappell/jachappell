@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Meteor (1979)](https://www.amon-hen.com/movies/30708)
+- [Inescapable Capitalist Finger Traps](https://www.amon-hen.com/politics/30713)
+- [MST3K Short 0108 – Radar Men from the Moon 6](https://www.amon-hen.com/television/9161)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Meteor (1979)](https://www.amon-hen.com/movies/30708)
 - [Stream of Consciousness (Live)](https://www.amon-hen.com/music/30697)
 - [Missouri Attorney General Andrew Bailey is a Fascist Sack of Shit](https://www.amon-hen.com/politics/30689)
 - [Mmmm, Pineapple Upside-Down Cake](https://www.amon-hen.com/food/28212)
 - [MST3K 0601 – Girls Town](https://www.amon-hen.com/television/14253)
 - [Blue Tick Marks](https://www.amon-hen.com/humor/30684)
 - [Cryptocurrencies II](https://www.amon-hen.com/politics/30680)
-- [MST3K Short 0107 – Radar Men from the Moon 5](https://www.amon-hen.com/television/9111)
-- [Reading – Soonish: Ten Emerging Technologies That’ll Improve and/or Ruin Everything](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The National Association of Theater Concessionaires reported that in 1986, 60% of all candy sold in movie theaters was sold to Roger Ebert.</em><br /> -- David Letterman</p>
+<p><em>Risch's decision procedure for integration, not surprisingly, uses a recursion on the number and type of the extensions from the rational functions needed to represent the integrand.  Although the algorithm follows and critically depends upon the appropriate structure of the input, as in the case of multivariate factorization, we cannot claim that the algorithm is a natural one.  In fact, the creator of differential algebra, Ritt, committed suicide in the early 1950's, largely, it is claimed, because few paid attention to his work.  Probably he would have received more attention had he obtained the algorithm as well.</em><br /> -- Joel Moses, <em>Algorithms and Complexity</em>, ed. J.F. Traub</p>
