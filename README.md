@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Biden & The Border](https://www.amon-hen.com/politics/30716)
+- [First of May](https://www.amon-hen.com/humor/16088)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Inescapable Capitalist Finger Traps](https://www.amon-hen.com/politics/30713)
 - [MST3K Short 0108 – Radar Men from the Moon 6](https://www.amon-hen.com/television/9161)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Meteor (1979)](https://www.amon-hen.com/movies/30708)
 - [Stream of Consciousness (Live)](https://www.amon-hen.com/music/30697)
 - [Missouri Attorney General Andrew Bailey is a Fascist Sack of Shit](https://www.amon-hen.com/politics/30689)
 - [Mmmm, Pineapple Upside-Down Cake](https://www.amon-hen.com/food/28212)
 - [MST3K 0601 – Girls Town](https://www.amon-hen.com/television/14253)
-- [Blue Tick Marks](https://www.amon-hen.com/humor/30684)
-- [Cryptocurrencies II](https://www.amon-hen.com/politics/30680)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Risch's decision procedure for integration, not surprisingly, uses a recursion on the number and type of the extensions from the rational functions needed to represent the integrand.  Although the algorithm follows and critically depends upon the appropriate structure of the input, as in the case of multivariate factorization, we cannot claim that the algorithm is a natural one.  In fact, the creator of differential algebra, Ritt, committed suicide in the early 1950's, largely, it is claimed, because few paid attention to his work.  Probably he would have received more attention had he obtained the algorithm as well.</em><br /> -- Joel Moses, <em>Algorithms and Complexity</em>, ed. J.F. Traub</p>
+<p><em>I don't own a computer, or a modem, or anything like that; I still work on a manual typewriter, </em>by choice<em>, and to those who consider me a Luddite I say: Fuck you and yo mama. I operate at the level of technology that </em>best suits my needs<em>. And I type at 120 words per minute --two fingers --I make no mistakes, and my manuscripts are </em>real<em>. You can pick them up and hold them. My typewriter doesn't dump it's memory --I don't </em>lose<em> a book.</em><br /> -- Harlan Ellison</p>
