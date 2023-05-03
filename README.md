@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K 0602 – Invasion USA](https://www.amon-hen.com/television/4707)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Biden & The Border](https://www.amon-hen.com/politics/30716)
 - [First of May](https://www.amon-hen.com/humor/16088)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Inescapable Capitalist Finger Traps](https://www.amon-hen.com/politics/30713)
 - [MST3K Short 0108 – Radar Men from the Moon 6](https://www.amon-hen.com/television/9161)
 - [Meteor (1979)](https://www.amon-hen.com/movies/30708)
 - [Stream of Consciousness (Live)](https://www.amon-hen.com/music/30697)
 - [Missouri Attorney General Andrew Bailey is a Fascist Sack of Shit](https://www.amon-hen.com/politics/30689)
 - [Mmmm, Pineapple Upside-Down Cake](https://www.amon-hen.com/food/28212)
-- [MST3K 0601 – Girls Town](https://www.amon-hen.com/television/14253)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I don't own a computer, or a modem, or anything like that; I still work on a manual typewriter, </em>by choice<em>, and to those who consider me a Luddite I say: Fuck you and yo mama. I operate at the level of technology that </em>best suits my needs<em>. And I type at 120 words per minute --two fingers --I make no mistakes, and my manuscripts are </em>real<em>. You can pick them up and hold them. My typewriter doesn't dump it's memory --I don't </em>lose<em> a book.</em><br /> -- Harlan Ellison</p>
+<p><em>If Jesus had been killed 20 years ago, Catholic school children would be wearing little Electric Chairs around their necks instead of crosses.</em><br /> -- Lenny Bruce</p>
