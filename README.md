@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0602 – Invasion USA](https://www.amon-hen.com/television/4707)
+- [Mmmm, Pickled Meat Loaf](https://www.amon-hen.com/food/30701)
+- [6,000th Post](https://www.amon-hen.com/site-news/30718)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0602 – Invasion USA](https://www.amon-hen.com/television/4707)
 - [Biden & The Border](https://www.amon-hen.com/politics/30716)
 - [First of May](https://www.amon-hen.com/humor/16088)
 - [Inescapable Capitalist Finger Traps](https://www.amon-hen.com/politics/30713)
 - [MST3K Short 0108 – Radar Men from the Moon 6](https://www.amon-hen.com/television/9161)
 - [Meteor (1979)](https://www.amon-hen.com/movies/30708)
 - [Stream of Consciousness (Live)](https://www.amon-hen.com/music/30697)
-- [Missouri Attorney General Andrew Bailey is a Fascist Sack of Shit](https://www.amon-hen.com/politics/30689)
-- [Mmmm, Pineapple Upside-Down Cake](https://www.amon-hen.com/food/28212)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If Jesus had been killed 20 years ago, Catholic school children would be wearing little Electric Chairs around their necks instead of crosses.</em><br /> -- Lenny Bruce</p>
+<p><em>Blow ye winds, like the trumpet blows, but without that noise.</em><br /> -- Jack Handey</p>
