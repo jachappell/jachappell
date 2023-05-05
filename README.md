@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Dune: Part Two – Trailer](https://www.amon-hen.com/books/30721)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Pickled Meat Loaf](https://www.amon-hen.com/food/30701)
 - [6,000th Post](https://www.amon-hen.com/site-news/30718)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0602 – Invasion USA](https://www.amon-hen.com/television/4707)
 - [Biden & The Border](https://www.amon-hen.com/politics/30716)
 - [First of May](https://www.amon-hen.com/humor/16088)
 - [Inescapable Capitalist Finger Traps](https://www.amon-hen.com/politics/30713)
 - [MST3K Short 0108 – Radar Men from the Moon 6](https://www.amon-hen.com/television/9161)
 - [Meteor (1979)](https://www.amon-hen.com/movies/30708)
-- [Stream of Consciousness (Live)](https://www.amon-hen.com/music/30697)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Blow ye winds, like the trumpet blows, but without that noise.</em><br /> -- Jack Handey</p>
+<p><em>Give a man a fish and feed him for a day. Don't teach a man to fish... and feed yourself. He's a grown man. And fishing's not that hard.</em><br /> -- Ron Swanson</p>
