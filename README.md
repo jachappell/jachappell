@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Medieval Times Dinner Theatre](https://www.amon-hen.com/politics/30749)
+- [The Second Coming Of Christ (2018)](https://www.amon-hen.com/religion/30737)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Lie](https://www.amon-hen.com/music/30727)
 - [Cinco De Mayo](https://www.amon-hen.com/humor/6560)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Dune: Part Two – Trailer](https://www.amon-hen.com/books/30721)
 - [Mmmm, Pickled Meat Loaf](https://www.amon-hen.com/food/30701)
 - [6,000th Post](https://www.amon-hen.com/site-news/30718)
 - [MST3K 0602 – Invasion USA](https://www.amon-hen.com/television/4707)
 - [Biden & The Border](https://www.amon-hen.com/politics/30716)
-- [First of May](https://www.amon-hen.com/humor/16088)
-- [Inescapable Capitalist Finger Traps](https://www.amon-hen.com/politics/30713)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Rembrandt's first name was Beauregard, which is why he never used it.</em><br /> -- Dave Barry</p>
+<p><em>You can observe a lot just by watching.</em><br /> -- Yogi Berra</p>
