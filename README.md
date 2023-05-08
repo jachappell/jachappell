@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Acceptable Replacement for Human Imagination and Effort](https://www.amon-hen.com/computing/30770)
+- [The New York Times](https://www.amon-hen.com/politics/30763)
+- [Reading: The Thousand Earths](https://www.amon-hen.com/books/297)
+- [MST3K Short 0109 – Radar Men from the Moon 7](https://www.amon-hen.com/television/9222)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Medieval Times Dinner Theatre](https://www.amon-hen.com/politics/30749)
 - [The Second Coming Of Christ (2018)](https://www.amon-hen.com/religion/30737)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Lie](https://www.amon-hen.com/music/30727)
 - [Cinco De Mayo](https://www.amon-hen.com/humor/6560)
 - [Dune: Part Two – Trailer](https://www.amon-hen.com/books/30721)
-- [Mmmm, Pickled Meat Loaf](https://www.amon-hen.com/food/30701)
-- [6,000th Post](https://www.amon-hen.com/site-news/30718)
-- [MST3K 0602 – Invasion USA](https://www.amon-hen.com/television/4707)
-- [Biden & The Border](https://www.amon-hen.com/politics/30716)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -27,6 +27,7 @@
 
 
 ## [Storage B](https://www.storage-b.com)
+- [Enjoy Your AI-generated Work](https://www.storage-b.com/ai/901)
 - [Blue Tick Marks](https://www.storage-b.com/humor/896)
 - [Toxic Development Culture](https://www.storage-b.com/www/887)
 - [Hewlett Packard Then and Now](https://www.storage-b.com/humor/881)
@@ -36,7 +37,6 @@
 - [Mastodon](https://www.storage-b.com/www/857)
 - [Linux EULA](https://www.storage-b.com/linux/850)
 - [Stupidity](https://www.storage-b.com/www/845)
-- [C++ in Constrained Environments](https://www.storage-b.com/c/840)
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You can observe a lot just by watching.</em><br /> -- Yogi Berra</p>
+<p><em>What's the use of a good quotation if you can't change it?</em><br /> -- The Doctor</p>
