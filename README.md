@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Contracted Roji-Panty Complex](https://www.amon-hen.com/television/30766)
+- [MST3K 0603 – The Dead Talk Back](https://www.amon-hen.com/television/14278)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Contracted Roji-Panty Complex](https://www.amon-hen.com/television/30766)
 - [Acceptable Replacement for Human Imagination and Effort](https://www.amon-hen.com/computing/30770)
 - [The New York Times](https://www.amon-hen.com/politics/30763)
 - [Reading: The Thousand Earths](https://www.amon-hen.com/books/297)
@@ -10,7 +11,6 @@
 - [Medieval Times Dinner Theatre](https://www.amon-hen.com/politics/30749)
 - [The Second Coming Of Christ (2018)](https://www.amon-hen.com/religion/30737)
 - [Lie](https://www.amon-hen.com/music/30727)
-- [Cinco De Mayo](https://www.amon-hen.com/humor/6560)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The best that we can do is to be kindly and helpful toward our friends and fellow passengers who are clinging to the same speck of dirt while we are drifting side by side to our common doom.</em><br /> -- Clarence Darrow</p>
+<p><em>Be both a speaker of words and a doer of deeds.</em><br /> -- Homer</p>
