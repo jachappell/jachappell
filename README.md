@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Canned Delicious Mexican Style Foods](https://www.amon-hen.com/food/30772)
+- [CNN Trump Town Hall Recap](https://www.amon-hen.com/politics/30779)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Canned Delicious Mexican Style Foods](https://www.amon-hen.com/food/30772)
 - [MST3K 0603 – The Dead Talk Back](https://www.amon-hen.com/television/14278)
 - [Contracted Roji-Panty Complex](https://www.amon-hen.com/television/30766)
 - [Acceptable Replacement for Human Imagination and Effort](https://www.amon-hen.com/computing/30770)
@@ -10,7 +11,6 @@
 - [Reading: The Thousand Earths](https://www.amon-hen.com/books/297)
 - [MST3K Short 0109 – Radar Men from the Moon 7](https://www.amon-hen.com/television/9222)
 - [Medieval Times Dinner Theatre](https://www.amon-hen.com/politics/30749)
-- [The Second Coming Of Christ (2018)](https://www.amon-hen.com/religion/30737)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I don't have a fear of heights. I do, however, have a fear of falling from heights.</em><br /> -- George Carlin</p>
+<p><em>There is one way to find out if a man is honest -- ask him.  If he says "Yes" you know he is crooked.</em><br /> -- Groucho Marx</p>
