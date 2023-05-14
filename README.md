@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Constant Motion](https://www.amon-hen.com/music/30782)
+- [Boggy Creek II: And the Legend Continues (1984)](https://www.amon-hen.com/movies/30747)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Constant Motion](https://www.amon-hen.com/music/30782)
 - [CNN Trump Town Hall Recap](https://www.amon-hen.com/politics/30779)
 - [Mmmm, Canned Delicious Mexican Style Foods](https://www.amon-hen.com/food/30772)
 - [MST3K 0603 – The Dead Talk Back](https://www.amon-hen.com/television/14278)
@@ -10,7 +11,6 @@
 - [Acceptable Replacement for Human Imagination and Effort](https://www.amon-hen.com/computing/30770)
 - [The New York Times](https://www.amon-hen.com/politics/30763)
 - [Reading: The Thousand Earths](https://www.amon-hen.com/books/297)
-- [MST3K Short 0109 – Radar Men from the Moon 7](https://www.amon-hen.com/television/9222)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It is always preferable to visit home with a friend.  Your parents will not be pleased with this plan, because they want you all to themselves and because in the presence of your friend, they will have to act like mature human beings.<br /><br />The worst kind of friend to take home is a girl, because in that case, there is the potential that your parents will lose you not just for the duration of the visit but forever.  The worst kind of girl to take home is one of a different religion:  Not only will you be lost to your parents forever but you will be lost to a woman who is immune to their religious/moral arguments and whose example will irretrievably corrupt you.<br /><br />Let's say you've fallen in love with just such a girl and would like to take her home for the holidays.  You are aware of your parents' xenophobic response to anyone of a different religion.  How to prepare them for the shock?<br /><br />Simple.  Call them up shortly before your visit and tell them that you have gotten quite serious about somebody who is of a different religion, a different race and the same sex.  Tell them you have already invited this person to meet them.  Give the information a moment to sink in and then remark that you were only kidding, that your lover is merely of a different religion.  They will be so relieved they will welcome her with open arms.</em><br /> -- <em>Playboy</em>, January, 1983</p>
+<p><em>A quiz:  If I am my brother's brother, who am I?  (Answer:  me.)</em><br /> -- Jack Handey</p>
