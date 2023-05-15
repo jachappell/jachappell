@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Boggy Creek II: And the Legend Continues (1984)](https://www.amon-hen.com/movies/30747)
+- [Mother’s Day](https://www.amon-hen.com/music/16121)
+- [MST3K Short 0109 – Radar Men from the Moon 8](https://www.amon-hen.com/television/9258)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Boggy Creek II: And the Legend Continues (1984)](https://www.amon-hen.com/movies/30747)
 - [Constant Motion](https://www.amon-hen.com/music/30782)
 - [CNN Trump Town Hall Recap](https://www.amon-hen.com/politics/30779)
 - [Mmmm, Canned Delicious Mexican Style Foods](https://www.amon-hen.com/food/30772)
 - [MST3K 0603 – The Dead Talk Back](https://www.amon-hen.com/television/14278)
 - [Contracted Roji-Panty Complex](https://www.amon-hen.com/television/30766)
 - [Acceptable Replacement for Human Imagination and Effort](https://www.amon-hen.com/computing/30770)
-- [The New York Times](https://www.amon-hen.com/politics/30763)
-- [Reading: The Thousand Earths](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>A quiz:  If I am my brother's brother, who am I?  (Answer:  me.)</em><br /> -- Jack Handey</p>
+<p><em>The basic tool for the manipulation of reality is the manipulation of words. If you can control the meaning of words, you can control the people who must use the words.</em><br /> -- Philip K. Dick</p>
