@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [There are infinite universes](https://www.amon-hen.com/science/30792)
+- [That’s New Jersey](https://www.amon-hen.com/politics/30790)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mother’s Day](https://www.amon-hen.com/music/16121)
 - [MST3K Short 0109 – Radar Men from the Moon 8](https://www.amon-hen.com/television/9258)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Boggy Creek II: And the Legend Continues (1984)](https://www.amon-hen.com/movies/30747)
 - [Constant Motion](https://www.amon-hen.com/music/30782)
 - [CNN Trump Town Hall Recap](https://www.amon-hen.com/politics/30779)
 - [Mmmm, Canned Delicious Mexican Style Foods](https://www.amon-hen.com/food/30772)
 - [MST3K 0603 – The Dead Talk Back](https://www.amon-hen.com/television/14278)
-- [Contracted Roji-Panty Complex](https://www.amon-hen.com/television/30766)
-- [Acceptable Replacement for Human Imagination and Effort](https://www.amon-hen.com/computing/30770)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The basic tool for the manipulation of reality is the manipulation of words. If you can control the meaning of words, you can control the people who must use the words.</em><br /> -- Philip K. Dick</p>
+<p><em>You live and learn.  At any rate, you live.</em><br /> -- Douglas Adams</p>
