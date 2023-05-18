@@ -1,2 +1,56 @@
 # Updates
 
+## [Yet Another Website](https://www.amon-hen.com)
+- [Mmmm, Calf Head Soup](https://www.amon-hen.com/food/30796)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0604 – Zombie Nightmare](https://www.amon-hen.com/television/3851)
+- [There are infinite universes](https://www.amon-hen.com/science/30792)
+- [That’s New Jersey](https://www.amon-hen.com/politics/30790)
+- [Mother’s Day](https://www.amon-hen.com/music/16121)
+- [MST3K Short 0109 – Radar Men from the Moon 8](https://www.amon-hen.com/television/9258)
+- [Boggy Creek II: And the Legend Continues (1984)](https://www.amon-hen.com/movies/30747)
+- [Constant Motion](https://www.amon-hen.com/music/30782)
+- [CNN Trump Town Hall Recap](https://www.amon-hen.com/politics/30779)
+
+
+## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – May 2023](https://www.drum-corps.net/news/2461)
+- [Bluecoats Alumni Corps Snare Cam](https://www.drum-corps.net/history/2458)
+- [Drum Corps World – April 2023](https://www.drum-corps.net/news/2436)
+- [Bluecoats Alumni Corps sets the stage for Rhythm IN BLUE reboot](https://www.drum-corps.net/news/2426)
+- [VMAPA Executive Director Resigns](https://www.drum-corps.net/news/2423)
+- [Drum Corps World – March 2023](https://www.drum-corps.net/news/2420)
+- [The Cadets Announce Move to Erie, PA](https://www.drum-corps.net/news/2414)
+- [Drum Corps World – February 2023](https://www.drum-corps.net/news/2411)
+- [Bluecoats Launches Rhythm IN BLUE as SoundSport® Ensemble](https://www.drum-corps.net/news/2404)
+- [Drum Corps International CEO to retire in late 2023](https://www.drum-corps.net/news/2397)
+
+
+## [Storage B](https://www.storage-b.com)
+- [We’re Safe](https://www.storage-b.com/ai/904)
+- [Enjoy Your AI-generated Work](https://www.storage-b.com/ai/901)
+- [Blue Tick Marks](https://www.storage-b.com/humor/896)
+- [Toxic Development Culture](https://www.storage-b.com/www/887)
+- [Hewlett Packard Then and Now](https://www.storage-b.com/humor/881)
+- [Absolute Nightmare](https://www.storage-b.com/www/874)
+- [Framework Comparison](https://www.storage-b.com/humor/864)
+- [More Stupidity](https://www.storage-b.com/www/859)
+- [Mastodon](https://www.storage-b.com/www/857)
+- [Linux EULA](https://www.storage-b.com/linux/850)
+
+
+## [Maritime Simulation News](https://www.mar-sim.com)
+- [VSTEP Further Expands to the Latin American Market with Inland Solution](https://www.mar-sim.com/news/944)
+- [VSTEP Launches Simulator That Makes Ship Simulation Easily Accessible](https://www.mar-sim.com/news/937)
+- [Kongsberg Wins Large Contract with South Metropolitan TAFE](https://www.mar-sim.com/news/904)
+- [Wärtsilä Navigational Simulator becomes first Interactive ‘instructor-led’ cloud training solution to gain new DNV Class D Certification](https://www.mar-sim.com/news/888)
+- [Panama Canal Authority Taps Kongsberg for New Navigation Simulators](https://www.mar-sim.com/news/882)
+- [NAUTIS will start integrating innovative autodidactic tools within maritime simulation industry](https://www.mar-sim.com/news/877)
+- [Brand new NAUTIS Simulators will cruise to South Korea](https://www.mar-sim.com/news/866)
+- [Thome invests in Kongsberg Digital full mission bridge simulator](https://www.mar-sim.com/news/857)
+- [Wärtsilä to supply Europe’s most modern simulator for inland shipping training](https://www.mar-sim.com/news/846)
+- [Wärtsilä upgrades the SCANTS Simulation Complex to provide advanced training at the United States Coast Guard Academy](https://www.mar-sim.com/news/838)
+
+
+# Quote of the Day
+<p><em>Congratulations!  You have purchased an extremely fine device that would give you thousands of years of trouble-free service, except that you undoubtably will destroy it via some typical bonehead consumer maneuver.  Which is why we ask you to PLEASE FOR GOD'S SAKE READ THIS OWNER'S MANUAL CAREFULLY BEFORE YOU UNPACK THE DEVICE.  YOU ALREADY UNPACKED IT, DIDN'T YOU?  YOU UNPACKED IT AND PLUGGED IT IN AND TURNED IT ON AND FIDDLED WITH THE KNOBS, AND NOW YOUR CHILD, THE SAME CHILD WHO ONCE SHOVED A POLISH SAUSAGE INTO YOUR VIDEOCASSETTE RECORDER AND SET IT ON "FAST FORWARD", THIS CHILD ALSO IS FIDDLING WITH THE KNOBS, RIGHT?  AND YOU'RE JUST NOW STARTING TO READ THE INSTRUCTIONS, RIGHT???  WE MIGHT AS WELL JUST BREAK THESE DEVICES RIGHT AT THE FACTORY BEFORE WE SHIP THEM OUT, YOU KNOW THAT?</em><br /> -- Dave Barry</p>
