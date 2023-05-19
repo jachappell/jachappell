@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Calf Head Soup](https://www.amon-hen.com/food/30796)
+- [The Mads – Mr. B Natural](https://www.amon-hen.com/humor/30802)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Calf Head Soup](https://www.amon-hen.com/food/30796)
 - [MST3K 0604 – Zombie Nightmare](https://www.amon-hen.com/television/3851)
 - [There are infinite universes](https://www.amon-hen.com/science/30792)
 - [That’s New Jersey](https://www.amon-hen.com/politics/30790)
@@ -10,7 +11,6 @@
 - [MST3K Short 0109 – Radar Men from the Moon 8](https://www.amon-hen.com/television/9258)
 - [Boggy Creek II: And the Legend Continues (1984)](https://www.amon-hen.com/movies/30747)
 - [Constant Motion](https://www.amon-hen.com/music/30782)
-- [CNN Trump Town Hall Recap](https://www.amon-hen.com/politics/30779)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Congratulations!  You have purchased an extremely fine device that would give you thousands of years of trouble-free service, except that you undoubtably will destroy it via some typical bonehead consumer maneuver.  Which is why we ask you to PLEASE FOR GOD'S SAKE READ THIS OWNER'S MANUAL CAREFULLY BEFORE YOU UNPACK THE DEVICE.  YOU ALREADY UNPACKED IT, DIDN'T YOU?  YOU UNPACKED IT AND PLUGGED IT IN AND TURNED IT ON AND FIDDLED WITH THE KNOBS, AND NOW YOUR CHILD, THE SAME CHILD WHO ONCE SHOVED A POLISH SAUSAGE INTO YOUR VIDEOCASSETTE RECORDER AND SET IT ON "FAST FORWARD", THIS CHILD ALSO IS FIDDLING WITH THE KNOBS, RIGHT?  AND YOU'RE JUST NOW STARTING TO READ THE INSTRUCTIONS, RIGHT???  WE MIGHT AS WELL JUST BREAK THESE DEVICES RIGHT AT THE FACTORY BEFORE WE SHIP THEM OUT, YOU KNOW THAT?</em><br /> -- Dave Barry</p>
+<p><em>In an ideal world I would have all ten fingers on my left hand so my right hand could just be a fist for punching.</em><br /> -- Dwight Kurt Schrute III</p>
