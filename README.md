@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Mads – Mr. B Natural](https://www.amon-hen.com/humor/30802)
+- [Another Day](https://www.amon-hen.com/music/10188)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Mads – Mr. B Natural](https://www.amon-hen.com/humor/30802)
 - [Mmmm, Calf Head Soup](https://www.amon-hen.com/food/30796)
 - [MST3K 0604 – Zombie Nightmare](https://www.amon-hen.com/television/3851)
 - [There are infinite universes](https://www.amon-hen.com/science/30792)
@@ -10,7 +11,6 @@
 - [Mother’s Day](https://www.amon-hen.com/music/16121)
 - [MST3K Short 0109 – Radar Men from the Moon 8](https://www.amon-hen.com/television/9258)
 - [Boggy Creek II: And the Legend Continues (1984)](https://www.amon-hen.com/movies/30747)
-- [Constant Motion](https://www.amon-hen.com/music/30782)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>In an ideal world I would have all ten fingers on my left hand so my right hand could just be a fist for punching.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>God made food; the devil the cooks.</em><br /> -- James Joyce</p>
