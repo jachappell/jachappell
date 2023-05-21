@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Another Day](https://www.amon-hen.com/music/10188)
+- [The Trump Prophecy (2018)](https://www.amon-hen.com/politics/30810)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Another Day](https://www.amon-hen.com/music/10188)
 - [The Mads – Mr. B Natural](https://www.amon-hen.com/humor/30802)
 - [Mmmm, Calf Head Soup](https://www.amon-hen.com/food/30796)
 - [MST3K 0604 – Zombie Nightmare](https://www.amon-hen.com/television/3851)
@@ -10,7 +11,6 @@
 - [That’s New Jersey](https://www.amon-hen.com/politics/30790)
 - [Mother’s Day](https://www.amon-hen.com/music/16121)
 - [MST3K Short 0109 – Radar Men from the Moon 8](https://www.amon-hen.com/television/9258)
-- [Boggy Creek II: And the Legend Continues (1984)](https://www.amon-hen.com/movies/30747)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>God made food; the devil the cooks.</em><br /> -- James Joyce</p>
+<p><em>Baseball has the great advantage over cricket of being sooner ended.</em><br /> -- George Bernard Shaw</p>
