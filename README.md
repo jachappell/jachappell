@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Trump Prophecy (2018)](https://www.amon-hen.com/politics/30810)
+- [MST3K Short 0110 – Radar Men from the Moon 9](https://www.amon-hen.com/television/9299)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Trump Prophecy (2018)](https://www.amon-hen.com/politics/30810)
 - [Another Day](https://www.amon-hen.com/music/10188)
 - [The Mads – Mr. B Natural](https://www.amon-hen.com/humor/30802)
 - [Mmmm, Calf Head Soup](https://www.amon-hen.com/food/30796)
@@ -10,7 +11,6 @@
 - [There are infinite universes](https://www.amon-hen.com/science/30792)
 - [That’s New Jersey](https://www.amon-hen.com/politics/30790)
 - [Mother’s Day](https://www.amon-hen.com/music/16121)
-- [MST3K Short 0109 – Radar Men from the Moon 8](https://www.amon-hen.com/television/9258)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Baseball has the great advantage over cricket of being sooner ended.</em><br /> -- George Bernard Shaw</p>
+<p><em>Today's public figures can no longer write their own speeches or books, and there is some evidence that they can't read them either.</em><br /> -- Gore Vidal</p>
