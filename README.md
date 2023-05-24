@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K 0605 – Colossus and the Headhunters](https://www.amon-hen.com/television/14305)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Manhood: A Misguided and Disingenuous Manifesto](https://www.amon-hen.com/books/30826)
 - [100% rooted in racism](https://www.amon-hen.com/politics/30822)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K Short 0110 – Radar Men from the Moon 9](https://www.amon-hen.com/television/9299)
 - [The Trump Prophecy (2018)](https://www.amon-hen.com/politics/30810)
 - [Another Day](https://www.amon-hen.com/music/10188)
 - [The Mads – Mr. B Natural](https://www.amon-hen.com/humor/30802)
 - [Mmmm, Calf Head Soup](https://www.amon-hen.com/food/30796)
 - [MST3K 0604 – Zombie Nightmare](https://www.amon-hen.com/television/3851)
-- [There are infinite universes](https://www.amon-hen.com/science/30792)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I gained nothing at all from Supreme Enlightenment, and for that very reason it is called Supreme Enlightenment.</em><br /> -- Gotama Buddha</p>
+<p><em>Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius -- and a lot of courage -- to move in the opposite direction.</em><br /> -- Albert Einstein</p>
