@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0605 – Colossus and the Headhunters](https://www.amon-hen.com/television/14305)
+- [Mmmm, “Dinner-Quality” Meat](https://www.amon-hen.com/food/30817)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0605 – Colossus and the Headhunters](https://www.amon-hen.com/television/14305)
 - [Manhood: A Misguided and Disingenuous Manifesto](https://www.amon-hen.com/books/30826)
 - [100% rooted in racism](https://www.amon-hen.com/politics/30822)
 - [MST3K Short 0110 – Radar Men from the Moon 9](https://www.amon-hen.com/television/9299)
@@ -10,10 +11,10 @@
 - [Another Day](https://www.amon-hen.com/music/10188)
 - [The Mads – Mr. B Natural](https://www.amon-hen.com/humor/30802)
 - [Mmmm, Calf Head Soup](https://www.amon-hen.com/food/30796)
-- [MST3K 0604 – Zombie Nightmare](https://www.amon-hen.com/television/3851)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [2023 Drum Corps Associates Tour Schedule](https://www.drum-corps.net/news/2469)
 - [Drum Corps World – May 2023](https://www.drum-corps.net/news/2461)
 - [Bluecoats Alumni Corps Snare Cam](https://www.drum-corps.net/history/2458)
 - [Drum Corps World – April 2023](https://www.drum-corps.net/news/2436)
@@ -23,7 +24,6 @@
 - [The Cadets Announce Move to Erie, PA](https://www.drum-corps.net/news/2414)
 - [Drum Corps World – February 2023](https://www.drum-corps.net/news/2411)
 - [Bluecoats Launches Rhythm IN BLUE as SoundSport® Ensemble](https://www.drum-corps.net/news/2404)
-- [Drum Corps International CEO to retire in late 2023](https://www.drum-corps.net/news/2397)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius -- and a lot of courage -- to move in the opposite direction.</em><br /> -- Albert Einstein</p>
+<p><em>If it weren't for Philo T. Farnsworth, inventor of television, we'd still be eating frozen radio dinners.</em><br /> -- Johnny Carson</p>
