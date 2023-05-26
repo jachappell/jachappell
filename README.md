@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, “Dinner-Quality” Meat](https://www.amon-hen.com/food/30817)
+- [RiffTrax – Farm Family In Spring](https://www.amon-hen.com/humor/30842)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, “Dinner-Quality” Meat](https://www.amon-hen.com/food/30817)
 - [MST3K 0605 – Colossus and the Headhunters](https://www.amon-hen.com/television/14305)
 - [Manhood: A Misguided and Disingenuous Manifesto](https://www.amon-hen.com/books/30826)
 - [100% rooted in racism](https://www.amon-hen.com/politics/30822)
@@ -10,7 +11,6 @@
 - [The Trump Prophecy (2018)](https://www.amon-hen.com/politics/30810)
 - [Another Day](https://www.amon-hen.com/music/10188)
 - [The Mads – Mr. B Natural](https://www.amon-hen.com/humor/30802)
-- [Mmmm, Calf Head Soup](https://www.amon-hen.com/food/30796)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If it weren't for Philo T. Farnsworth, inventor of television, we'd still be eating frozen radio dinners.</em><br /> -- Johnny Carson</p>
+<p><em>The new millennium sucks! What a disappointment!  What's the difference between the old millennium and the new millennium? Nothing!  It's the same load of crap with a "2" in the front. When I was a kid, I am old enough so that when I was a kid, I looked forward to the new millennium.  When I was young, I said, "I'm gonna live through a change! A massive change! Things are gonna be different! Things are gonna be great!"  Screwed again!  No flying cars!  No flying cars!</em><br /> -- Lewis Black</p>
