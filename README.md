@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Farm Family In Spring](https://www.amon-hen.com/humor/30842)
+- [No Way Out](https://www.amon-hen.com/music/30844)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Farm Family In Spring](https://www.amon-hen.com/humor/30842)
 - [Mmmm, “Dinner-Quality” Meat](https://www.amon-hen.com/food/30817)
 - [MST3K 0605 – Colossus and the Headhunters](https://www.amon-hen.com/television/14305)
 - [Manhood: A Misguided and Disingenuous Manifesto](https://www.amon-hen.com/books/30826)
@@ -10,10 +11,11 @@
 - [MST3K Short 0110 – Radar Men from the Moon 9](https://www.amon-hen.com/television/9299)
 - [The Trump Prophecy (2018)](https://www.amon-hen.com/politics/30810)
 - [Another Day](https://www.amon-hen.com/music/10188)
-- [The Mads – Mr. B Natural](https://www.amon-hen.com/humor/30802)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – June 2023](https://www.drum-corps.net/news/2490)
+- [Bluecoats returning to Stark County to train in Alliance for 2023 season](https://www.drum-corps.net/news/2483)
 - [2023 Drum Corps Associates Tour Schedule](https://www.drum-corps.net/news/2469)
 - [Drum Corps World – May 2023](https://www.drum-corps.net/news/2461)
 - [Bluecoats Alumni Corps Snare Cam](https://www.drum-corps.net/history/2458)
@@ -22,8 +24,6 @@
 - [VMAPA Executive Director Resigns](https://www.drum-corps.net/news/2423)
 - [Drum Corps World – March 2023](https://www.drum-corps.net/news/2420)
 - [The Cadets Announce Move to Erie, PA](https://www.drum-corps.net/news/2414)
-- [Drum Corps World – February 2023](https://www.drum-corps.net/news/2411)
-- [Bluecoats Launches Rhythm IN BLUE as SoundSport® Ensemble](https://www.drum-corps.net/news/2404)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The new millennium sucks! What a disappointment!  What's the difference between the old millennium and the new millennium? Nothing!  It's the same load of crap with a "2" in the front. When I was a kid, I am old enough so that when I was a kid, I looked forward to the new millennium.  When I was young, I said, "I'm gonna live through a change! A massive change! Things are gonna be different! Things are gonna be great!"  Screwed again!  No flying cars!  No flying cars!</em><br /> -- Lewis Black</p>
+<p><em>Just because swans mate for life, I don't think its that big a deal. First of all, if you're a swan, you're probably not going to find a swan that looks much better than the one you've got, so why not mate for life?</em><br /> -- Jack Handey</p>
