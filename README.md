@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K Short 0203 – The Phantom Creeps 1](https://www.amon-hen.com/television/12906)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: The Day of the Triffids](https://www.amon-hen.com/books/297)
 - [God’s Compass (2016)](https://www.amon-hen.com/religion/30807)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [No Way Out](https://www.amon-hen.com/music/30844)
 - [RiffTrax – Farm Family In Spring](https://www.amon-hen.com/humor/30842)
 - [Mmmm, “Dinner-Quality” Meat](https://www.amon-hen.com/food/30817)
 - [MST3K 0605 – Colossus and the Headhunters](https://www.amon-hen.com/television/14305)
 - [Manhood: A Misguided and Disingenuous Manifesto](https://www.amon-hen.com/books/30826)
 - [100% rooted in racism](https://www.amon-hen.com/politics/30822)
-- [MST3K Short 0110 – Radar Men from the Moon 9](https://www.amon-hen.com/television/9299)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It is common sense to take a method and try it.  If it fails, admit it frankly and try another.  But above all, try something.</em><br /> -- Franklin D. Roosevelt</p>
+<p><em>Go to Heaven for the climate, Hell for the company.</em><br /> -- Mark Twain</p>
