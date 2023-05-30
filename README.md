@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0203 – The Phantom Creeps 1](https://www.amon-hen.com/television/12906)
+- [Multiverse Version Quantum Mechanics](https://www.amon-hen.com/science/30847)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0203 – The Phantom Creeps 1](https://www.amon-hen.com/television/12906)
 - [Reading: The Day of the Triffids](https://www.amon-hen.com/books/297)
 - [God’s Compass (2016)](https://www.amon-hen.com/religion/30807)
 - [No Way Out](https://www.amon-hen.com/music/30844)
@@ -10,7 +11,6 @@
 - [Mmmm, “Dinner-Quality” Meat](https://www.amon-hen.com/food/30817)
 - [MST3K 0605 – Colossus and the Headhunters](https://www.amon-hen.com/television/14305)
 - [Manhood: A Misguided and Disingenuous Manifesto](https://www.amon-hen.com/books/30826)
-- [100% rooted in racism](https://www.amon-hen.com/politics/30822)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -27,6 +27,7 @@
 
 
 ## [Storage B](https://www.storage-b.com)
+- [Nightmare Fuel from Bing Image Creator](https://www.storage-b.com/ai/908)
 - [We’re Safe](https://www.storage-b.com/ai/904)
 - [Enjoy Your AI-generated Work](https://www.storage-b.com/ai/901)
 - [Blue Tick Marks](https://www.storage-b.com/humor/896)
@@ -36,7 +37,6 @@
 - [Framework Comparison](https://www.storage-b.com/humor/864)
 - [More Stupidity](https://www.storage-b.com/www/859)
 - [Mastodon](https://www.storage-b.com/www/857)
-- [Linux EULA](https://www.storage-b.com/linux/850)
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Go to Heaven for the climate, Hell for the company.</em><br /> -- Mark Twain</p>
+<p><em>God gave man two ears and one tongue so that we listen twice as much as we speak.</em><br /> -- Arab proverb</p>
