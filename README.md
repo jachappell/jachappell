@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Multiverse Version Quantum Mechanics](https://www.amon-hen.com/science/30847)
+- [MST3K 0606 – The Creeping Terror](https://www.amon-hen.com/television/14353)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Multiverse Version Quantum Mechanics](https://www.amon-hen.com/science/30847)
 - [MST3K Short 0203 – The Phantom Creeps 1](https://www.amon-hen.com/television/12906)
 - [Reading: The Day of the Triffids](https://www.amon-hen.com/books/297)
 - [God’s Compass (2016)](https://www.amon-hen.com/religion/30807)
@@ -10,7 +11,6 @@
 - [RiffTrax – Farm Family In Spring](https://www.amon-hen.com/humor/30842)
 - [Mmmm, “Dinner-Quality” Meat](https://www.amon-hen.com/food/30817)
 - [MST3K 0605 – Colossus and the Headhunters](https://www.amon-hen.com/television/14305)
-- [Manhood: A Misguided and Disingenuous Manifesto](https://www.amon-hen.com/books/30826)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>God gave man two ears and one tongue so that we listen twice as much as we speak.</em><br /> -- Arab proverb</p>
+<p><em>I woke up this morning with a bloody nose.  I thought, "how did this get into bed with me?"</em><br /> -- Emo Philips</p>
