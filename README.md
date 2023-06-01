@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0606 – The Creeping Terror](https://www.amon-hen.com/television/14353)
+- [Mmmm, life-essential proteins](https://www.amon-hen.com/food/30861)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0606 – The Creeping Terror](https://www.amon-hen.com/television/14353)
 - [Multiverse Version Quantum Mechanics](https://www.amon-hen.com/science/30847)
 - [MST3K Short 0203 – The Phantom Creeps 1](https://www.amon-hen.com/television/12906)
 - [Reading: The Day of the Triffids](https://www.amon-hen.com/books/297)
@@ -10,10 +11,11 @@
 - [No Way Out](https://www.amon-hen.com/music/30844)
 - [RiffTrax – Farm Family In Spring](https://www.amon-hen.com/humor/30842)
 - [Mmmm, “Dinner-Quality” Meat](https://www.amon-hen.com/food/30817)
-- [MST3K 0605 – Colossus and the Headhunters](https://www.amon-hen.com/television/14305)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCA & DCI announce partnership agreement for organizations’ 2024 and 2025 competitive seasons](https://www.drum-corps.net/news/2508)
+- [DCA Announcement Regarding ’24-’25 Seasons](https://www.drum-corps.net/news/2503)
 - [Drum Corps World – June 2023](https://www.drum-corps.net/news/2490)
 - [Bluecoats returning to Stark County to train in Alliance for 2023 season](https://www.drum-corps.net/news/2483)
 - [2023 Drum Corps Associates Tour Schedule](https://www.drum-corps.net/news/2469)
@@ -22,8 +24,6 @@
 - [Drum Corps World – April 2023](https://www.drum-corps.net/news/2436)
 - [Bluecoats Alumni Corps sets the stage for Rhythm IN BLUE reboot](https://www.drum-corps.net/news/2426)
 - [VMAPA Executive Director Resigns](https://www.drum-corps.net/news/2423)
-- [Drum Corps World – March 2023](https://www.drum-corps.net/news/2420)
-- [The Cadets Announce Move to Erie, PA](https://www.drum-corps.net/news/2414)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I woke up this morning with a bloody nose.  I thought, "how did this get into bed with me?"</em><br /> -- Emo Philips</p>
+<p><em>Tourist, Rincewind decided, meant "idiot".</em><br /> -- Terry Pratchett (<em>The Colour of Magic</em>)</p>
