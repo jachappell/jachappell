@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Guilty](https://www.amon-hen.com/politics/30865)
+- [Mercy Street (Live)](https://www.amon-hen.com/music/30869)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Guilty](https://www.amon-hen.com/politics/30865)
 - [Mmmm, life-essential proteins](https://www.amon-hen.com/food/30861)
 - [MST3K 0606 – The Creeping Terror](https://www.amon-hen.com/television/14353)
 - [Multiverse Version Quantum Mechanics](https://www.amon-hen.com/science/30847)
@@ -10,7 +11,6 @@
 - [Reading: The Day of the Triffids](https://www.amon-hen.com/books/297)
 - [God’s Compass (2016)](https://www.amon-hen.com/religion/30807)
 - [No Way Out](https://www.amon-hen.com/music/30844)
-- [RiffTrax – Farm Family In Spring](https://www.amon-hen.com/humor/30842)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Let's not be too tough on our own ignorance.  It's the thing that makes America great.  If America weren't incomparably ignorant, how could we have tolerated the last eight years?</em><br /> -- Frank Zappa</p>
+<p><em>The last time somebody said, "I find I can write much better with a word processor.", I replied, "They used to say the same thing about drugs."</em><br /> -- Roy Blount, Jr.</p>
