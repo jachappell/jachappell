@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mercy Street (Live)](https://www.amon-hen.com/music/30869)
+- [Reading – The Big Myth: How American Business Taught Us to Loathe Government and Love the Free Market](https://www.amon-hen.com/books/297)
+- [Chosen (2021)](https://www.amon-hen.com/religion/30871)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mercy Street (Live)](https://www.amon-hen.com/music/30869)
 - [Guilty](https://www.amon-hen.com/politics/30865)
 - [Mmmm, life-essential proteins](https://www.amon-hen.com/food/30861)
 - [MST3K 0606 – The Creeping Terror](https://www.amon-hen.com/television/14353)
 - [Multiverse Version Quantum Mechanics](https://www.amon-hen.com/science/30847)
 - [MST3K Short 0203 – The Phantom Creeps 1](https://www.amon-hen.com/television/12906)
-- [Reading: The Day of the Triffids](https://www.amon-hen.com/books/297)
-- [God’s Compass (2016)](https://www.amon-hen.com/religion/30807)
-- [No Way Out](https://www.amon-hen.com/music/30844)
+- [John Wyndham](https://www.amon-hen.com/books/29048)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The last time somebody said, "I find I can write much better with a word processor.", I replied, "They used to say the same thing about drugs."</em><br /> -- Roy Blount, Jr.</p>
+<p><em>...I don't think music turns people into social liabilities. Because you hear a lyric -- there's no medical proof that a person hearing a lyric is going to act out the lyric. There's also no medical proof that if you hear any collection of vowels and consonants, that the hearing of that collection is going to send you to Hell.</em><br /> -- Frank Zappa</p>
