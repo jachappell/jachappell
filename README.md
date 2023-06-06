@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0205 – The Phantom Creeps 2](https://www.amon-hen.com/television/12945)
+- [The Paradoxes of Time Travel](https://www.amon-hen.com/science/30857)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0205 – The Phantom Creeps 2](https://www.amon-hen.com/television/12945)
 - [Reading – The Big Myth: How American Business Taught Us to Loathe Government and Love the Free Market](https://www.amon-hen.com/books/297)
 - [Chosen (2021)](https://www.amon-hen.com/religion/30871)
 - [Mercy Street (Live)](https://www.amon-hen.com/music/30869)
@@ -10,7 +11,6 @@
 - [Mmmm, life-essential proteins](https://www.amon-hen.com/food/30861)
 - [MST3K 0606 – The Creeping Terror](https://www.amon-hen.com/television/14353)
 - [Multiverse Version Quantum Mechanics](https://www.amon-hen.com/science/30847)
-- [MST3K Short 0203 – The Phantom Creeps 1](https://www.amon-hen.com/television/12906)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>To alcohol! The cause of, and solution to, all of life's problems.</em><br /> -- Homer J. Simpson</p>
+<p><em>I wish outer space guys would conquer the Earth and make people their pets, because I'd like to have one of those little beds with my name on it.</em><br /> -- Jack Handey</p>
