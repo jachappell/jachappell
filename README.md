@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Paradoxes of Time Travel](https://www.amon-hen.com/science/30857)
+- [MST3K 0607 – Bloodlust!](https://www.amon-hen.com/television/14397)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Paradoxes of Time Travel](https://www.amon-hen.com/science/30857)
 - [MST3K Short 0205 – The Phantom Creeps 2](https://www.amon-hen.com/television/12945)
 - [Reading – The Big Myth: How American Business Taught Us to Loathe Government and Love the Free Market](https://www.amon-hen.com/books/297)
 - [Chosen (2021)](https://www.amon-hen.com/religion/30871)
@@ -10,7 +11,6 @@
 - [Guilty](https://www.amon-hen.com/politics/30865)
 - [Mmmm, life-essential proteins](https://www.amon-hen.com/food/30861)
 - [MST3K 0606 – The Creeping Terror](https://www.amon-hen.com/television/14353)
-- [Multiverse Version Quantum Mechanics](https://www.amon-hen.com/science/30847)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I wish outer space guys would conquer the Earth and make people their pets, because I'd like to have one of those little beds with my name on it.</em><br /> -- Jack Handey</p>
+<p><em>O! Wanderers in the shadowed land <br /> despair not!  For though dark they stand, <br /> all woods there be must end at last, <br /> and see the open sun go past: <br /> the setting sun, the rising sun, <br /> the day's end, or the day begun. <br /> For east or west all woods must fail ...</em><br /> -- J. R. R. Tolkien</p>
