@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0607 – Bloodlust!](https://www.amon-hen.com/television/14397)
+- [Mmmm, Grog](https://www.amon-hen.com/food/30875)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0607 – Bloodlust!](https://www.amon-hen.com/television/14397)
 - [The Paradoxes of Time Travel](https://www.amon-hen.com/science/30857)
 - [MST3K Short 0205 – The Phantom Creeps 2](https://www.amon-hen.com/television/12945)
 - [Reading – The Big Myth: How American Business Taught Us to Loathe Government and Love the Free Market](https://www.amon-hen.com/books/297)
@@ -10,7 +11,6 @@
 - [Mercy Street (Live)](https://www.amon-hen.com/music/30869)
 - [Guilty](https://www.amon-hen.com/politics/30865)
 - [Mmmm, life-essential proteins](https://www.amon-hen.com/food/30861)
-- [MST3K 0606 – The Creeping Terror](https://www.amon-hen.com/television/14353)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>O! Wanderers in the shadowed land <br /> despair not!  For though dark they stand, <br /> all woods there be must end at last, <br /> and see the open sun go past: <br /> the setting sun, the rising sun, <br /> the day's end, or the day begun. <br /> For east or west all woods must fail ...</em><br /> -- J. R. R. Tolkien</p>
+<p><em>When you die, if you get a choice between going to regular heaven or pie heaven, choose pie heaven.  It might be a trick, but if it's not, ummmm, boy.</em><br /> -- Jack Handey</p>
