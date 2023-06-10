@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Midnight Line](https://www.amon-hen.com/music/30888)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Radical cleric Pat Robertson is Dead](https://www.amon-hen.com/politics/30892)
 - [RiffTrax – Don’t Get Angry](https://www.amon-hen.com/humor/30890)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Grog](https://www.amon-hen.com/food/30875)
 - [MST3K 0607 – Bloodlust!](https://www.amon-hen.com/television/14397)
 - [The Paradoxes of Time Travel](https://www.amon-hen.com/science/30857)
 - [MST3K Short 0205 – The Phantom Creeps 2](https://www.amon-hen.com/television/12945)
 - [Reading – The Big Myth: How American Business Taught Us to Loathe Government and Love the Free Market](https://www.amon-hen.com/books/297)
 - [Chosen (2021)](https://www.amon-hen.com/religion/30871)
-- [Mercy Street (Live)](https://www.amon-hen.com/music/30869)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If you live long enough, the venerability factor creeps in; first, you get accused of things you never did, and later, credited for virtues you never had.</em><br /> -- I. F. Stone</p>
+<p><em>Swerve me?  The path to my fixed purpose is laid with iron rails, whereon my soul is grooved to run.  Over unsounded gorges, through the rifled hearts of mountains, under torrents' beds, unerringly I rush!</em><br /> -- Captain Ahab (<em>Moby Dick</em>)</p>
