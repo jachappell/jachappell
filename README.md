@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Midnight Line](https://www.amon-hen.com/music/30888)
+- [Ouija Shark (2020)](https://www.amon-hen.com/movies/30902)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Midnight Line](https://www.amon-hen.com/music/30888)
 - [Radical cleric Pat Robertson is Dead](https://www.amon-hen.com/politics/30892)
 - [RiffTrax – Don’t Get Angry](https://www.amon-hen.com/humor/30890)
 - [Mmmm, Grog](https://www.amon-hen.com/food/30875)
@@ -10,7 +11,6 @@
 - [The Paradoxes of Time Travel](https://www.amon-hen.com/science/30857)
 - [MST3K Short 0205 – The Phantom Creeps 2](https://www.amon-hen.com/television/12945)
 - [Reading – The Big Myth: How American Business Taught Us to Loathe Government and Love the Free Market](https://www.amon-hen.com/books/297)
-- [Chosen (2021)](https://www.amon-hen.com/religion/30871)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Swerve me?  The path to my fixed purpose is laid with iron rails, whereon my soul is grooved to run.  Over unsounded gorges, through the rifled hearts of mountains, under torrents' beds, unerringly I rush!</em><br /> -- Captain Ahab (<em>Moby Dick</em>)</p>
+<p><em>Listen, not a year goes by, not a year, that I don't hear about some escalator accident involving some bastard kid which could have easily been avoided had some parent - I don't care which one - but some parent conditioned him to fear and respect that escalator.</em><br /> -- Brodie Bruce</p>
