@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Marrying Quantum Physics & General Relativity](https://www.amon-hen.com/science/30911)
+- [MST3K 0608 – Code Name Diamond Head](https://www.amon-hen.com/television/14430)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Marrying Quantum Physics & General Relativity](https://www.amon-hen.com/science/30911)
 - [MST3K Short 0206 – The Phantom Creeps 3](https://www.amon-hen.com/television/12987)
 - [Ouija Shark (2020)](https://www.amon-hen.com/movies/30902)
 - [Midnight Line](https://www.amon-hen.com/music/30888)
@@ -10,7 +11,6 @@
 - [RiffTrax – Don’t Get Angry](https://www.amon-hen.com/humor/30890)
 - [Mmmm, Grog](https://www.amon-hen.com/food/30875)
 - [MST3K 0607 – Bloodlust!](https://www.amon-hen.com/television/14397)
-- [The Paradoxes of Time Travel](https://www.amon-hen.com/science/30857)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>There's nothing wrong with murder, just as long as you let Bender whet his beak.</em><br /> -- Bender Unit 22</p>
+<p><em>Any dog under fifty pounds is a cat and cats are pointless.</em><br /> -- Ron Swanson</p>
