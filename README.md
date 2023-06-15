@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0608 – Code Name Diamond Head](https://www.amon-hen.com/television/14430)
+- [Why Trump Is Being Prosecuted For Crimes](https://www.amon-hen.com/politics/30921)
+- [Mmmm, Not Spam](https://www.amon-hen.com/food/30913)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0608 – Code Name Diamond Head](https://www.amon-hen.com/television/14430)
 - [Marrying Quantum Physics & General Relativity](https://www.amon-hen.com/science/30911)
 - [MST3K Short 0206 – The Phantom Creeps 3](https://www.amon-hen.com/television/12987)
 - [Ouija Shark (2020)](https://www.amon-hen.com/movies/30902)
 - [Midnight Line](https://www.amon-hen.com/music/30888)
 - [Radical cleric Pat Robertson is Dead](https://www.amon-hen.com/politics/30892)
 - [RiffTrax – Don’t Get Angry](https://www.amon-hen.com/humor/30890)
-- [Mmmm, Grog](https://www.amon-hen.com/food/30875)
-- [MST3K 0607 – Bloodlust!](https://www.amon-hen.com/television/14397)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Any dog under fifty pounds is a cat and cats are pointless.</em><br /> -- Ron Swanson</p>
+<p><em>I hope life isn't a big joke, because I don't get it.</em><br /> -- Jack Handey</p>
