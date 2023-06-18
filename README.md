@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [The Trip (1967)](https://www.amon-hen.com/movies/30904)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Brand New Special And Unique](https://www.amon-hen.com/music/30927)
 - [Bloomsday](https://www.amon-hen.com/books/9720)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [RiffTrax – Sorcerer’s Apprentice](https://www.amon-hen.com/humor/30919)
 - [Why Trump Is Being Prosecuted For Crimes](https://www.amon-hen.com/politics/30921)
 - [Mmmm, Not Spam](https://www.amon-hen.com/food/30913)
 - [MST3K 0608 – Code Name Diamond Head](https://www.amon-hen.com/television/14430)
 - [Marrying Quantum Physics & General Relativity](https://www.amon-hen.com/science/30911)
 - [MST3K Short 0206 – The Phantom Creeps 3](https://www.amon-hen.com/television/12987)
-- [Ouija Shark (2020)](https://www.amon-hen.com/movies/30902)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I was gratified to be able to answer promptly, and I did. I said I didn't know.</em><br /> -- Mark Twain</p>
+<p><em>Oh, there will be a day of reckoning for you, non-believer! A totalling of sums and a snapping of necks, and you will count yourself among the damned!</em><br /> -- Jodene Sparks</p>
