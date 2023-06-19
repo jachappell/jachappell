@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Trip (1967)](https://www.amon-hen.com/movies/30904)
+- [MST3K Short 0210 – X Marks the Spot](https://www.amon-hen.com/television/6290)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Trip (1967)](https://www.amon-hen.com/movies/30904)
 - [Brand New Special And Unique](https://www.amon-hen.com/music/30927)
 - [Bloomsday](https://www.amon-hen.com/books/9720)
 - [RiffTrax – Sorcerer’s Apprentice](https://www.amon-hen.com/humor/30919)
@@ -10,7 +11,6 @@
 - [Mmmm, Not Spam](https://www.amon-hen.com/food/30913)
 - [MST3K 0608 – Code Name Diamond Head](https://www.amon-hen.com/television/14430)
 - [Marrying Quantum Physics & General Relativity](https://www.amon-hen.com/science/30911)
-- [MST3K Short 0206 – The Phantom Creeps 3](https://www.amon-hen.com/television/12987)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Oh, there will be a day of reckoning for you, non-believer! A totalling of sums and a snapping of necks, and you will count yourself among the damned!</em><br /> -- Jodene Sparks</p>
+<p><em>When Gary told me he had found Jesus, I thought, Yahoo!  We're rich! But it turned out to be something different.</em><br /> -- Jack Handey</p>
