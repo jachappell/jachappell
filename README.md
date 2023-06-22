@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0609 – The Skydivers](https://www.amon-hen.com/television/3341)
+- [Mmmm, Beanee Weenees](https://www.amon-hen.com/food/30940)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0609 – The Skydivers](https://www.amon-hen.com/television/3341)
 - [Cities Predate Commutes](https://www.amon-hen.com/politics/30934)
 - [MST3K Short 0210 – X Marks the Spot](https://www.amon-hen.com/television/6290)
 - [The Trip (1967)](https://www.amon-hen.com/movies/30904)
@@ -10,7 +11,6 @@
 - [Bloomsday](https://www.amon-hen.com/books/9720)
 - [RiffTrax – Sorcerer’s Apprentice](https://www.amon-hen.com/humor/30919)
 - [Why Trump Is Being Prosecuted For Crimes](https://www.amon-hen.com/politics/30921)
-- [Mmmm, Not Spam](https://www.amon-hen.com/food/30913)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Maybe in order to understand mankind, we have to look at the word itself: "Mankind". Basically, it's made up of two separate words - "mank" and "ind". What do these words mean? It's a mystery, and that's why so is mankind.</em><br /> -- Jack Handey</p>
+<p><em>As I bit into the nectarine, it had a crisp juiciness about it that was very pleasurable - until I realized it wasn't a nectarine at all, but A HUMAN HEAD!!</em><br /> -- Jack Handey</p>
