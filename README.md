@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Beanee Weenees](https://www.amon-hen.com/food/30940)
+- [The Free Speech Platform](https://www.amon-hen.com/politics/30945)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Beanee Weenees](https://www.amon-hen.com/food/30940)
 - [MST3K 0609 – The Skydivers](https://www.amon-hen.com/television/3341)
 - [Cities Predate Commutes](https://www.amon-hen.com/politics/30934)
 - [MST3K Short 0210 – X Marks the Spot](https://www.amon-hen.com/television/6290)
@@ -10,7 +11,6 @@
 - [Brand New Special And Unique](https://www.amon-hen.com/music/30927)
 - [Bloomsday](https://www.amon-hen.com/books/9720)
 - [RiffTrax – Sorcerer’s Apprentice](https://www.amon-hen.com/humor/30919)
-- [Why Trump Is Being Prosecuted For Crimes](https://www.amon-hen.com/politics/30921)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>As I bit into the nectarine, it had a crisp juiciness about it that was very pleasurable - until I realized it wasn't a nectarine at all, but A HUMAN HEAD!!</em><br /> -- Jack Handey</p>
+<p><em>You can tell Buddha was never married.  Otherwise his wife would have always been saying, "What are you gonna do, sit around like that all day?"</em><br /> -- Garry Shandling</p>
