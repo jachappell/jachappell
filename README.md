@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Free Speech Platform](https://www.amon-hen.com/politics/30945)
+- [Answering the Call](https://www.amon-hen.com/music/30949)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Free Speech Platform](https://www.amon-hen.com/politics/30945)
 - [Mmmm, Beanee Weenees](https://www.amon-hen.com/food/30940)
 - [MST3K 0609 – The Skydivers](https://www.amon-hen.com/television/3341)
 - [Cities Predate Commutes](https://www.amon-hen.com/politics/30934)
@@ -10,7 +11,6 @@
 - [The Trip (1967)](https://www.amon-hen.com/movies/30904)
 - [Brand New Special And Unique](https://www.amon-hen.com/music/30927)
 - [Bloomsday](https://www.amon-hen.com/books/9720)
-- [RiffTrax – Sorcerer’s Apprentice](https://www.amon-hen.com/humor/30919)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -40,6 +40,8 @@
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
+- [Wärtsilä to supply simulator to NSB Group](https://www.mar-sim.com/news/959)
+- [Rajnath Singh inaugurates Integrated Simulator Complex ‘Dhruv’](https://www.mar-sim.com/news/954)
 - [VSTEP Further Expands to the Latin American Market with Inland Solution](https://www.mar-sim.com/news/944)
 - [VSTEP Launches Simulator That Makes Ship Simulation Easily Accessible](https://www.mar-sim.com/news/937)
 - [Kongsberg Wins Large Contract with South Metropolitan TAFE](https://www.mar-sim.com/news/904)
@@ -48,9 +50,7 @@
 - [NAUTIS will start integrating innovative autodidactic tools within maritime simulation industry](https://www.mar-sim.com/news/877)
 - [Brand new NAUTIS Simulators will cruise to South Korea](https://www.mar-sim.com/news/866)
 - [Thome invests in Kongsberg Digital full mission bridge simulator](https://www.mar-sim.com/news/857)
-- [Wärtsilä to supply Europe’s most modern simulator for inland shipping training](https://www.mar-sim.com/news/846)
-- [Wärtsilä upgrades the SCANTS Simulation Complex to provide advanced training at the United States Coast Guard Academy](https://www.mar-sim.com/news/838)
 
 
 # Quote of the Day
-<p><em>You can tell Buddha was never married.  Otherwise his wife would have always been saying, "What are you gonna do, sit around like that all day?"</em><br /> -- Garry Shandling</p>
+<p><em>Cannibals prefer those who have no spines.</em><br /> -- Stanislaw Lem</p>
