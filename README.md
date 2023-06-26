@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Panic in Year Zero! (1962)](https://www.amon-hen.com/movies/30954)
+- [MST3K Short 0307 – Alphabet Antics](https://www.amon-hen.com/television/6272)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Panic in Year Zero! (1962)](https://www.amon-hen.com/movies/30954)
 - [Answering the Call](https://www.amon-hen.com/music/30949)
 - [The Free Speech Platform](https://www.amon-hen.com/politics/30945)
 - [Mmmm, Beanee Weenees](https://www.amon-hen.com/food/30940)
@@ -10,7 +11,6 @@
 - [Cities Predate Commutes](https://www.amon-hen.com/politics/30934)
 - [MST3K Short 0210 – X Marks the Spot](https://www.amon-hen.com/television/6290)
 - [The Trip (1967)](https://www.amon-hen.com/movies/30904)
-- [Brand New Special And Unique](https://www.amon-hen.com/music/30927)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I love deadlines. I like the whooshing sound they make as they fly by.</em><br /> -- Douglas Adams</p>
+<p><em>We got somewhere in the neighborhood of 50 states. We could lose a few. I mean, do we really need two Dakotas? And NEW Hampshire? I'm sure the old one's fine.</em><br /> -- Stephen Colbert</p>
