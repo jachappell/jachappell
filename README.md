@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0307 – Alphabet Antics](https://www.amon-hen.com/television/6272)
+- [Reading: The Dancers at the End of Time](https://www.amon-hen.com/books/297)
+- [Debate in vaccine science](https://www.amon-hen.com/science/30958)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0307 – Alphabet Antics](https://www.amon-hen.com/television/6272)
 - [Panic in Year Zero! (1962)](https://www.amon-hen.com/movies/30954)
 - [Answering the Call](https://www.amon-hen.com/music/30949)
 - [The Free Speech Platform](https://www.amon-hen.com/politics/30945)
 - [Mmmm, Beanee Weenees](https://www.amon-hen.com/food/30940)
 - [MST3K 0609 – The Skydivers](https://www.amon-hen.com/television/3341)
 - [Cities Predate Commutes](https://www.amon-hen.com/politics/30934)
-- [MST3K Short 0210 – X Marks the Spot](https://www.amon-hen.com/television/6290)
-- [The Trip (1967)](https://www.amon-hen.com/movies/30904)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>We got somewhere in the neighborhood of 50 states. We could lose a few. I mean, do we really need two Dakotas? And NEW Hampshire? I'm sure the old one's fine.</em><br /> -- Stephen Colbert</p>
+<p><em>The devil can cite Scripture for his purpose.</em><br /> -- William Shakespeare (<em>The Merchant of Venice</em>)</p>
