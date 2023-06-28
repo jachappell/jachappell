@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K 0610 – The Violent Years](https://www.amon-hen.com/television/14492)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: The Dancers at the End of Time](https://www.amon-hen.com/books/297)
 - [Debate in vaccine science](https://www.amon-hen.com/science/30958)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K Short 0307 – Alphabet Antics](https://www.amon-hen.com/television/6272)
 - [Panic in Year Zero! (1962)](https://www.amon-hen.com/movies/30954)
 - [Answering the Call](https://www.amon-hen.com/music/30949)
 - [The Free Speech Platform](https://www.amon-hen.com/politics/30945)
 - [Mmmm, Beanee Weenees](https://www.amon-hen.com/food/30940)
 - [MST3K 0609 – The Skydivers](https://www.amon-hen.com/television/3341)
-- [Cities Predate Commutes](https://www.amon-hen.com/politics/30934)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The devil can cite Scripture for his purpose.</em><br /> -- William Shakespeare (<em>The Merchant of Venice</em>)</p>
+<p><em>That young man fills me with hope.  Plus some other emotions which are weird and deeply confusing.</em><br /> -- Captain Zapp Brannigan</p>
