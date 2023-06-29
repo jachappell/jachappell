@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0610 – The Violent Years](https://www.amon-hen.com/television/14492)
+- [Mmmm, Mail Order Beanee Weenees](https://www.amon-hen.com/food/30964)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0610 – The Violent Years](https://www.amon-hen.com/television/14492)
 - [Reading: The Dancers at the End of Time](https://www.amon-hen.com/books/297)
 - [Debate in vaccine science](https://www.amon-hen.com/science/30958)
 - [MST3K Short 0307 – Alphabet Antics](https://www.amon-hen.com/television/6272)
@@ -10,10 +11,10 @@
 - [Answering the Call](https://www.amon-hen.com/music/30949)
 - [The Free Speech Platform](https://www.amon-hen.com/politics/30945)
 - [Mmmm, Beanee Weenees](https://www.amon-hen.com/food/30940)
-- [MST3K 0609 – The Skydivers](https://www.amon-hen.com/television/3341)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Midwest Premiere (2023)](https://www.drum-corps.net/scores/dci/2517)
 - [DCA & DCI announce partnership agreement for organizations’ 2024 and 2025 competitive seasons](https://www.drum-corps.net/news/2508)
 - [DCA Announcement Regarding ’24-’25 Seasons](https://www.drum-corps.net/news/2503)
 - [Drum Corps World – June 2023](https://www.drum-corps.net/news/2490)
@@ -23,7 +24,6 @@
 - [Bluecoats Alumni Corps Snare Cam](https://www.drum-corps.net/history/2458)
 - [Drum Corps World – April 2023](https://www.drum-corps.net/news/2436)
 - [Bluecoats Alumni Corps sets the stage for Rhythm IN BLUE reboot](https://www.drum-corps.net/news/2426)
-- [VMAPA Executive Director Resigns](https://www.drum-corps.net/news/2423)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>That young man fills me with hope.  Plus some other emotions which are weird and deeply confusing.</em><br /> -- Captain Zapp Brannigan</p>
+<p><em>No! No! NO! We're not watching the bloody Good Life! Bloody bloody bloody! I hate it! It's so bloody nice! Felicity "Treacle" Kendall and Richard "Sugar-Flavored-Snot" Briars! What do they do now? Chocolate bloody Button ads, that's what! They're just a couple of reactionary stereotypes, confirming the myth that everyone in Britain is a lovable, middle-class eccentric - and I - HATE - THEM!</em><br /> -- Vyvyan Basterd </p>
