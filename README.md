@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Mail Order Beanee Weenees](https://www.amon-hen.com/food/30964)
+- [Dune: Part Two – Trailer 2](https://www.amon-hen.com/books/30971)
+- [RiffTrax – Harry The Dirty Dog](https://www.amon-hen.com/humor/30969)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Mail Order Beanee Weenee](https://www.amon-hen.com/food/30964)
 - [MST3K 0610 – The Violent Years](https://www.amon-hen.com/television/14492)
 - [Reading: The Dancers at the End of Time](https://www.amon-hen.com/books/297)
 - [Debate in vaccine science](https://www.amon-hen.com/science/30958)
 - [MST3K Short 0307 – Alphabet Antics](https://www.amon-hen.com/television/6272)
 - [Panic in Year Zero! (1962)](https://www.amon-hen.com/movies/30954)
 - [Answering the Call](https://www.amon-hen.com/music/30949)
-- [The Free Speech Platform](https://www.amon-hen.com/politics/30945)
-- [Mmmm, Beanee Weenees](https://www.amon-hen.com/food/30940)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>No! No! NO! We're not watching the bloody Good Life! Bloody bloody bloody! I hate it! It's so bloody nice! Felicity "Treacle" Kendall and Richard "Sugar-Flavored-Snot" Briars! What do they do now? Chocolate bloody Button ads, that's what! They're just a couple of reactionary stereotypes, confirming the myth that everyone in Britain is a lovable, middle-class eccentric - and I - HATE - THEM!</em><br /> -- Vyvyan Basterd </p>
+<p><em>Go not to the elves for counsel, for they will say both no and yes.</em><br /> -- J.R.R. Tolkien</p>
