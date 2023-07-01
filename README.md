@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Gates of Delirium](https://www.amon-hen.com/music/30973)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Dune: Part Two – Trailer 2](https://www.amon-hen.com/books/30971)
 - [RiffTrax – Harry The Dirty Dog](https://www.amon-hen.com/humor/30969)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Mail Order Beanee Weenee](https://www.amon-hen.com/food/30964)
 - [MST3K 0610 – The Violent Years](https://www.amon-hen.com/television/14492)
 - [Reading: The Dancers at the End of Time](https://www.amon-hen.com/books/297)
 - [Debate in vaccine science](https://www.amon-hen.com/science/30958)
 - [MST3K Short 0307 – Alphabet Antics](https://www.amon-hen.com/television/6272)
 - [Panic in Year Zero! (1962)](https://www.amon-hen.com/movies/30954)
-- [Answering the Call](https://www.amon-hen.com/music/30949)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Central Indiana (2023)](https://www.drum-corps.net/scores/dci/2522)
 - [Midwest Premiere (2023)](https://www.drum-corps.net/scores/dci/2517)
 - [DCA & DCI announce partnership agreement for organizations’ 2024 and 2025 competitive seasons](https://www.drum-corps.net/news/2508)
 - [DCA Announcement Regarding ’24-’25 Seasons](https://www.drum-corps.net/news/2503)
@@ -23,7 +24,6 @@
 - [Drum Corps World – May 2023](https://www.drum-corps.net/news/2461)
 - [Bluecoats Alumni Corps Snare Cam](https://www.drum-corps.net/history/2458)
 - [Drum Corps World – April 2023](https://www.drum-corps.net/news/2436)
-- [Bluecoats Alumni Corps sets the stage for Rhythm IN BLUE reboot](https://www.drum-corps.net/news/2426)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Go not to the elves for counsel, for they will say both no and yes.</em><br /> -- J.R.R. Tolkien</p>
+<p><em>It takes a big man to cry, but it takes an even bigger man to laugh at that man.</em><br /> -- Jack Handey</p>
