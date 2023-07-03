@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Vampire Assassin (2005)](https://www.amon-hen.com/movies/30975)
+- [MST3K Short 0311 – Snow Thrills](https://www.amon-hen.com/television/9535)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Vampire Assassin (2005)](https://www.amon-hen.com/movies/30975)
 - [Gates of Delirium](https://www.amon-hen.com/music/30973)
 - [Dune: Part Two – Trailer 2](https://www.amon-hen.com/books/30971)
 - [RiffTrax – Harry The Dirty Dog](https://www.amon-hen.com/humor/30969)
@@ -10,10 +11,12 @@
 - [MST3K 0610 – The Violent Years](https://www.amon-hen.com/television/14492)
 - [Reading: The Dancers at the End of Time](https://www.amon-hen.com/books/297)
 - [Debate in vaccine science](https://www.amon-hen.com/science/30958)
-- [MST3K Short 0307 – Alphabet Antics](https://www.amon-hen.com/television/6272)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI East Coast Showcase – Quincy (2023)](https://www.drum-corps.net/scores/dci/2545)
+- [Drum Corps World – July 2023](https://www.drum-corps.net/news/2542)
+- [Corps at the Crest – San Diego (2023)](https://www.drum-corps.net/scores/dci/2536)
 - [Drums on Parade (2023)](https://www.drum-corps.net/scores/dci/2533)
 - [The Beanpot (2023)](https://www.drum-corps.net/scores/dci/2529)
 - [Barnum Festival (2023)](https://www.drum-corps.net/scores/dca/2527)
@@ -21,9 +24,6 @@
 - [Midwest Premiere (2023)](https://www.drum-corps.net/scores/dci/2517)
 - [DCA & DCI announce partnership agreement for organizations’ 2024 and 2025 competitive seasons](https://www.drum-corps.net/news/2508)
 - [DCA Announcement Regarding ’24-’25 Seasons](https://www.drum-corps.net/news/2503)
-- [Drum Corps World – June 2023](https://www.drum-corps.net/news/2490)
-- [Bluecoats returning to Stark County to train in Alliance for 2023 season](https://www.drum-corps.net/news/2483)
-- [2023 Drum Corps Associates Tour Schedule](https://www.drum-corps.net/news/2469)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I hope I didn't brain my damage.</em><br /> -- Homer J. Simpson</p>
+<p><em>Then you have to say one or other of two things.  Either God only speaks to a very small percentage of mankind--which happens to include yourself--or He deliberately says things are not true in talking to the consciences of savages.</em><br /> -- Bertrand Russell </p>
