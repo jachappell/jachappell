@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The joy of abstract mathematical thinking](https://www.amon-hen.com/science/30982)
+- [MST3K 0611 – Last of the Wild Horses](https://www.amon-hen.com/television/6952)
+- [4th of July](https://www.amon-hen.com/miscellaneous/26402)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The joy of abstract mathematical thinking](https://www.amon-hen.com/science/30982)
 - [MST3K Short 0311 – Snow Thrills](https://www.amon-hen.com/television/9535)
+- [#Bloo23](https://www.amon-hen.com/music/drum-and-bugle-corps/30986)
 - [Vampire Assassin (2005)](https://www.amon-hen.com/movies/30975)
 - [Gates of Delirium](https://www.amon-hen.com/music/30973)
 - [Dune: Part Two – Trailer 2](https://www.amon-hen.com/books/30971)
 - [RiffTrax – Harry The Dirty Dog](https://www.amon-hen.com/humor/30969)
-- [Mmmm, Mail Order Beanee Weenee](https://www.amon-hen.com/food/30964)
-- [MST3K 0610 – The Violent Years](https://www.amon-hen.com/television/14492)
-- [Reading: The Dancers at the End of Time](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drums Across the Desert (2023)](https://www.drum-corps.net/scores/dci/2559)
 - [Rotary Music Festival (2023)](https://www.drum-corps.net/scores/dci/2555)
 - [Western Corps Connection (2023)](https://www.drum-corps.net/scores/dci/2551)
 - [Cavalcade of Brass (2023)](https://www.drum-corps.net/scores/dci/2548)
@@ -23,7 +24,6 @@
 - [Drums on Parade (2023)](https://www.drum-corps.net/scores/dci/2533)
 - [The Beanpot (2023)](https://www.drum-corps.net/scores/dci/2529)
 - [Barnum Festival (2023)](https://www.drum-corps.net/scores/dca/2527)
-- [DCI Central Indiana (2023)](https://www.drum-corps.net/scores/dci/2522)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Things aren't as happy as they used to be down here at the unemployment office. Joblessness is no longer just for philosophy majors. Useful people are starting to feel the pinch.</em><br /> -- Kent Brockman</p>
+<p><em>I remember when I was a kid I used to come home from Sunday School and my mother would get drunk and try to make pancakes.</em><br /> -- George Carlin</p>
