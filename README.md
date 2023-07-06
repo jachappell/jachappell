@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Mmmm, Soup on the Rocks](https://www.amon-hen.com/food/30991)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0611 – Last of the Wild Horses](https://www.amon-hen.com/television/6952)
 - [4th of July](https://www.amon-hen.com/miscellaneous/26402)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The joy of abstract mathematical thinking](https://www.amon-hen.com/science/30982)
 - [MST3K Short 0311 – Snow Thrills](https://www.amon-hen.com/television/9535)
 - [#Bloo23](https://www.amon-hen.com/music/drum-and-bugle-corps/30986)
 - [Vampire Assassin (2005)](https://www.amon-hen.com/movies/30975)
 - [Gates of Delirium](https://www.amon-hen.com/music/30973)
 - [Dune: Part Two – Trailer 2](https://www.amon-hen.com/books/30971)
-- [RiffTrax – Harry The Dirty Dog](https://www.amon-hen.com/humor/30969)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Summer Music Games in Cincinnati (2023)](https://www.drum-corps.net/scores/dci/2568)
 - [Drums Across the Desert (2023)](https://www.drum-corps.net/scores/dci/2559)
 - [Rotary Music Festival (2023)](https://www.drum-corps.net/scores/dci/2555)
 - [Western Corps Connection (2023)](https://www.drum-corps.net/scores/dci/2551)
@@ -23,7 +24,6 @@
 - [Corps at the Crest – San Diego (2023)](https://www.drum-corps.net/scores/dci/2536)
 - [Drums on Parade (2023)](https://www.drum-corps.net/scores/dci/2533)
 - [The Beanpot (2023)](https://www.drum-corps.net/scores/dci/2529)
-- [Barnum Festival (2023)](https://www.drum-corps.net/scores/dca/2527)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I remember when I was a kid I used to come home from Sunday School and my mother would get drunk and try to make pancakes.</em><br /> -- George Carlin</p>
+<p><em>Calling you stupid is an insult to stupid people!</em><br /> -- Wanda Gershwitz (<em>A Fish Called Wanda</em>)</p>
