@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Soup on the Rocks](https://www.amon-hen.com/food/30991)
+- [Controlled by a right-winger who hates real journalism](https://www.amon-hen.com/politics/31004)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Soup on the Rocks](https://www.amon-hen.com/food/30991)
 - [MST3K 0611 – Last of the Wild Horses](https://www.amon-hen.com/television/6952)
 - [4th of July](https://www.amon-hen.com/miscellaneous/26402)
 - [The joy of abstract mathematical thinking](https://www.amon-hen.com/science/30982)
@@ -10,7 +11,6 @@
 - [#Bloo23](https://www.amon-hen.com/music/drum-and-bugle-corps/30986)
 - [Vampire Assassin (2005)](https://www.amon-hen.com/movies/30975)
 - [Gates of Delirium](https://www.amon-hen.com/music/30973)
-- [Dune: Part Two – Trailer 2](https://www.amon-hen.com/books/30971)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Calling you stupid is an insult to stupid people!</em><br /> -- Wanda Gershwitz (<em>A Fish Called Wanda</em>)</p>
+<p><em>I think one way the cops could make money would be to hold a murder weapons sale. Many people could really use used ice picks.</em><br /> -- Jack Handey</p>
