@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Eleven](https://www.amon-hen.com/music/31011)
+- [The Amazing Colossal Man (1957)](https://www.amon-hen.com/movies/31019)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Eleven](https://www.amon-hen.com/music/31011)
 - [Controlled by a right-winger who hates real journalism](https://www.amon-hen.com/politics/31004)
 - [Mmmm, Soup on the Rocks](https://www.amon-hen.com/food/30991)
 - [MST3K 0611 – Last of the Wild Horses](https://www.amon-hen.com/television/6952)
@@ -10,20 +11,19 @@
 - [The joy of abstract mathematical thinking](https://www.amon-hen.com/science/30982)
 - [MST3K Short 0311 – Snow Thrills](https://www.amon-hen.com/television/9535)
 - [#Bloo23](https://www.amon-hen.com/music/drum-and-bugle-corps/30986)
-- [Vampire Assassin (2005)](https://www.amon-hen.com/movies/30975)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Whitewater Classic (2023)](https://www.drum-corps.net/scores/dci/2593)
+- [Drum Corps Grand Prix (2023)](https://www.drum-corps.net/scores/dca/2589)
+- [CrownBEAT (2023)](https://www.drum-corps.net/scores/dci/2586)
+- [MidCal Champions Showcase (2023)](https://www.drum-corps.net/scores/dci/2578)
+- [Drum Corps World – July 7, 2023](https://www.drum-corps.net/news/2580)
 - [Midwest Classic (2023)](https://www.drum-corps.net/scores/dci/2575)
 - [Summer Music Games in Cincinnati (2023)](https://www.drum-corps.net/scores/dci/2568)
 - [Drums Across the Desert (2023)](https://www.drum-corps.net/scores/dci/2559)
 - [Rotary Music Festival (2023)](https://www.drum-corps.net/scores/dci/2555)
 - [Western Corps Connection (2023)](https://www.drum-corps.net/scores/dci/2551)
-- [Cavalcade of Brass (2023)](https://www.drum-corps.net/scores/dci/2548)
-- [DCI East Coast Showcase – Quincy (2023)](https://www.drum-corps.net/scores/dci/2545)
-- [Drum Corps World – July 2023](https://www.drum-corps.net/news/2542)
-- [Corps at the Crest – San Diego (2023)](https://www.drum-corps.net/scores/dci/2536)
-- [Drums on Parade (2023)](https://www.drum-corps.net/scores/dci/2533)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You have exactly ten seconds to change that look of disgusting pity into one of enormous respect!</em><br /> -- Max Bialystock</p>
+<p><em>Sometimes glass glitters more than diamonds because it has more to prove.</em><br /> -- Terry Pratchett</p>
