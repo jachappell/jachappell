@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Amazing Colossal Man (1957)](https://www.amon-hen.com/movies/31019)
+- [MST3K Short 0313 – Speech: Using Your Voice](https://www.amon-hen.com/television/7145)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Amazing Colossal Man (1957)](https://www.amon-hen.com/movies/31019)
 - [Eleven](https://www.amon-hen.com/music/31011)
 - [Controlled by a right-winger who hates real journalism](https://www.amon-hen.com/politics/31004)
 - [Mmmm, Soup on the Rocks](https://www.amon-hen.com/food/30991)
@@ -10,10 +11,11 @@
 - [4th of July](https://www.amon-hen.com/miscellaneous/26402)
 - [The joy of abstract mathematical thinking](https://www.amon-hen.com/science/30982)
 - [MST3K Short 0311 – Snow Thrills](https://www.amon-hen.com/television/9535)
-- [#Bloo23](https://www.amon-hen.com/music/drum-and-bugle-corps/30986)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Macon (2023)](https://www.drum-corps.net/scores/dci/2599)
+- [Drum Corps at the Rose Bowl (2023)](https://www.drum-corps.net/scores/dci/2596)
 - [Whitewater Classic (2023)](https://www.drum-corps.net/scores/dci/2593)
 - [Drum Corps Grand Prix (2023)](https://www.drum-corps.net/scores/dca/2589)
 - [CrownBEAT (2023)](https://www.drum-corps.net/scores/dci/2586)
@@ -22,8 +24,6 @@
 - [Midwest Classic (2023)](https://www.drum-corps.net/scores/dci/2575)
 - [Summer Music Games in Cincinnati (2023)](https://www.drum-corps.net/scores/dci/2568)
 - [Drums Across the Desert (2023)](https://www.drum-corps.net/scores/dci/2559)
-- [Rotary Music Festival (2023)](https://www.drum-corps.net/scores/dci/2555)
-- [Western Corps Connection (2023)](https://www.drum-corps.net/scores/dci/2551)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Sometimes glass glitters more than diamonds because it has more to prove.</em><br /> -- Terry Pratchett</p>
+<p><em>... of course, this probably only happens for tcsh which uses wait4(), which is why I never saw it.  Serves people who use that abomination right 8^)</em><br /> -- Linus Torvalds, about a patch that fixes getrusage for 1.3.26</p>
