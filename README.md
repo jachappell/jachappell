@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0313 – Speech: Using Your Voice](https://www.amon-hen.com/television/7145)
+- [How code has changed the world](https://www.amon-hen.com/computing/31025)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0313 – Speech: Using Your Voice](https://www.amon-hen.com/television/7145)
 - [The Amazing Colossal Man (1957)](https://www.amon-hen.com/movies/31019)
 - [Eleven](https://www.amon-hen.com/music/31011)
 - [Controlled by a right-winger who hates real journalism](https://www.amon-hen.com/politics/31004)
@@ -10,10 +11,11 @@
 - [MST3K 0611 – Last of the Wild Horses](https://www.amon-hen.com/television/6952)
 - [4th of July](https://www.amon-hen.com/miscellaneous/26402)
 - [The joy of abstract mathematical thinking](https://www.amon-hen.com/science/30982)
-- [MST3K Short 0311 – Snow Thrills](https://www.amon-hen.com/television/9535)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI West (2023)](https://www.drum-corps.net/scores/dci/2604)
+- [River City Rhapsody – La Crosse (2023)](https://www.drum-corps.net/scores/dci/2602)
 - [DCI Macon (2023)](https://www.drum-corps.net/scores/dci/2599)
 - [Drum Corps at the Rose Bowl (2023)](https://www.drum-corps.net/scores/dci/2596)
 - [Whitewater Classic (2023)](https://www.drum-corps.net/scores/dci/2593)
@@ -22,8 +24,6 @@
 - [MidCal Champions Showcase (2023)](https://www.drum-corps.net/scores/dci/2578)
 - [Drum Corps World – July 7, 2023](https://www.drum-corps.net/news/2580)
 - [Midwest Classic (2023)](https://www.drum-corps.net/scores/dci/2575)
-- [Summer Music Games in Cincinnati (2023)](https://www.drum-corps.net/scores/dci/2568)
-- [Drums Across the Desert (2023)](https://www.drum-corps.net/scores/dci/2559)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>... of course, this probably only happens for tcsh which uses wait4(), which is why I never saw it.  Serves people who use that abomination right 8^)</em><br /> -- Linus Torvalds, about a patch that fixes getrusage for 1.3.26</p>
+<p><em>If you shoot at mimes, should you use a silencer?</em><br /> -- Stephen Wright</p>
