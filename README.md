@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [How code has changed the world](https://www.amon-hen.com/computing/31025)
+- [MST3K 0612 – The Starfighters](https://www.amon-hen.com/television/4444)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [How code has changed the world](https://www.amon-hen.com/computing/31025)
 - [MST3K Short 0313 – Speech: Using Your Voice](https://www.amon-hen.com/television/7145)
 - [The Amazing Colossal Man (1957)](https://www.amon-hen.com/movies/31019)
 - [Eleven](https://www.amon-hen.com/music/31011)
@@ -10,10 +11,10 @@
 - [Mmmm, Soup on the Rocks](https://www.amon-hen.com/food/30991)
 - [MST3K 0611 – Last of the Wild Horses](https://www.amon-hen.com/television/6952)
 - [4th of July](https://www.amon-hen.com/miscellaneous/26402)
-- [The joy of abstract mathematical thinking](https://www.amon-hen.com/science/30982)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Capital Classic (2023)](https://www.drum-corps.net/scores/dci/2607)
 - [DCI West (2023)](https://www.drum-corps.net/scores/dci/2604)
 - [River City Rhapsody – La Crosse (2023)](https://www.drum-corps.net/scores/dci/2602)
 - [DCI Macon (2023)](https://www.drum-corps.net/scores/dci/2599)
@@ -23,7 +24,6 @@
 - [CrownBEAT (2023)](https://www.drum-corps.net/scores/dci/2586)
 - [MidCal Champions Showcase (2023)](https://www.drum-corps.net/scores/dci/2578)
 - [Drum Corps World – July 7, 2023](https://www.drum-corps.net/news/2580)
-- [Midwest Classic (2023)](https://www.drum-corps.net/scores/dci/2575)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If you shoot at mimes, should you use a silencer?</em><br /> -- Stephen Wright</p>
+<p><em>The think tanks that incubated the Iraq war have lofty names like the Heritage Foundation and the Project for a New American Century.  Whatever.  They've been wrong so often, I'm surprised they're not my broker.</em><br /> -- Bill Maher</p>
