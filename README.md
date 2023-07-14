@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Platter Full of Protein](https://www.amon-hen.com/food/31028)
+- [RiffTrax – The Hothead and the Forgetter](https://www.amon-hen.com/movies/31036)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Platter Full of Protein](https://www.amon-hen.com/food/31028)
 - [MST3K 0612 – The Starfighters](https://www.amon-hen.com/television/4444)
 - [How code has changed the world](https://www.amon-hen.com/computing/31025)
 - [MST3K Short 0313 – Speech: Using Your Voice](https://www.amon-hen.com/television/7145)
@@ -10,10 +11,12 @@
 - [Eleven](https://www.amon-hen.com/music/31011)
 - [Controlled by a right-winger who hates real journalism](https://www.amon-hen.com/politics/31004)
 - [Mmmm, Soup on the Rocks](https://www.amon-hen.com/food/30991)
-- [MST3K 0611 – Last of the Wild Horses](https://www.amon-hen.com/television/6952)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Corps Encore (2023)](https://www.drum-corps.net/scores/dci/2628)
+- [Drums on the Chippewa (2023)](https://www.drum-corps.net/scores/dci/2625)
+- [Celebration in Brass (2023)](https://www.drum-corps.net/scores/dci/2622)
 - [Resound (2023)](https://www.drum-corps.net/scores/dci/2618)
 - [The Kiwanis Thunder of Drums (2023)](https://www.drum-corps.net/scores/dci/2615)
 - [Drums Across America (2023)](https://www.drum-corps.net/scores/dci/2611)
@@ -21,9 +24,6 @@
 - [DCI West (2023)](https://www.drum-corps.net/scores/dci/2604)
 - [River City Rhapsody – La Crosse (2023)](https://www.drum-corps.net/scores/dci/2602)
 - [DCI Macon (2023)](https://www.drum-corps.net/scores/dci/2599)
-- [Drum Corps at the Rose Bowl (2023)](https://www.drum-corps.net/scores/dci/2596)
-- [Whitewater Classic (2023)](https://www.drum-corps.net/scores/dci/2593)
-- [Drum Corps Grand Prix (2023)](https://www.drum-corps.net/scores/dca/2589)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Once he had one leg in the White House and the nation trembled under his roars.  Now he is a tinpot pope in the Coca-Cola belt and a brother to the forlorn pastors who belabor halfwits in galvanized iron tabernacles behind the railroad yards.</em><br /> -- H. L. Mencken, writing of William Jennings Bryan, counsel for the supporters of Tennessee's anti-evolution law at the Scopes "Monkey Trial" in 1925.</p>
+<p><em>Forget your stupid theme park!  I'm gonna make my own!  With hookers!  And blackjack!  In fact, forget the theme park!</em><br /> -- Bender Unit 22</p>
