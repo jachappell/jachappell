@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – The Hothead and the Forgetter](https://www.amon-hen.com/movies/31036)
+- [The Garden of Love](https://www.amon-hen.com/music/31039)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – The Hothead and the Forgetter](https://www.amon-hen.com/movies/31036)
 - [Mmmm, Platter Full of Protein](https://www.amon-hen.com/food/31028)
 - [MST3K 0612 – The Starfighters](https://www.amon-hen.com/television/4444)
 - [How code has changed the world](https://www.amon-hen.com/computing/31025)
@@ -10,20 +11,19 @@
 - [The Amazing Colossal Man (1957)](https://www.amon-hen.com/movies/31019)
 - [Eleven](https://www.amon-hen.com/music/31011)
 - [Controlled by a right-winger who hates real journalism](https://www.amon-hen.com/politics/31004)
-- [Mmmm, Soup on the Rocks](https://www.amon-hen.com/food/30991)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Riverside Open (2023)](https://www.drum-corps.net/scores/dci/2641)
+- [Music on the March (2023)](https://www.drum-corps.net/scores/dci/2638)
+- [Drums Along the Rockies – Cheyenne Edition (2023)](https://www.drum-corps.net/scores/dci/2634)
+- [DCI Tupelo (2023)](https://www.drum-corps.net/scores/dci/2631)
 - [Corps Encore (2023)](https://www.drum-corps.net/scores/dci/2628)
 - [Drums on the Chippewa (2023)](https://www.drum-corps.net/scores/dci/2625)
 - [Celebration in Brass (2023)](https://www.drum-corps.net/scores/dci/2622)
 - [Resound (2023)](https://www.drum-corps.net/scores/dci/2618)
 - [The Kiwanis Thunder of Drums (2023)](https://www.drum-corps.net/scores/dci/2615)
 - [Drums Across America (2023)](https://www.drum-corps.net/scores/dci/2611)
-- [DCI Capital Classic (2023)](https://www.drum-corps.net/scores/dci/2607)
-- [DCI West (2023)](https://www.drum-corps.net/scores/dci/2604)
-- [River City Rhapsody – La Crosse (2023)](https://www.drum-corps.net/scores/dci/2602)
-- [DCI Macon (2023)](https://www.drum-corps.net/scores/dci/2599)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Forget your stupid theme park!  I'm gonna make my own!  With hookers!  And blackjack!  In fact, forget the theme park!</em><br /> -- Bender Unit 22</p>
+<p><em>I had just received my degree in Calcium Anthropology...  the study of milkmen.</em><br /> -- Steven Wright</p>
