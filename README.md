@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Garden of Love](https://www.amon-hen.com/music/31039)
+- [The Lost Missile (1958)](https://www.amon-hen.com/movies/31041)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Garden of Love](https://www.amon-hen.com/music/31039)
 - [RiffTrax – The Hothead and the Forgetter](https://www.amon-hen.com/movies/31036)
 - [Mmmm, Platter Full of Protein](https://www.amon-hen.com/food/31028)
 - [MST3K 0612 – The Starfighters](https://www.amon-hen.com/television/4444)
@@ -10,20 +11,19 @@
 - [MST3K Short 0313 – Speech: Using Your Voice](https://www.amon-hen.com/television/7145)
 - [The Amazing Colossal Man (1957)](https://www.amon-hen.com/movies/31019)
 - [Eleven](https://www.amon-hen.com/music/31011)
-- [Controlled by a right-winger who hates real journalism](https://www.amon-hen.com/politics/31004)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Gold Showcase (2023)](https://www.drum-corps.net/scores/dci/2666)
+- [Drums Along the Rockies (2023)](https://www.drum-corps.net/scores/dci/2663)
+- [Show of Shows (2023)](https://www.drum-corps.net/scores/dci/2660)
+- [DCI Little Rock (2023)](https://www.drum-corps.net/scores/dci/2656)
+- [Buccaneer Classic (2023)](https://www.drum-corps.net/scores/dca/2653)
+- [Drums Across the River Region (2023)](https://www.drum-corps.net/scores/dci/2650)
+- [Sky Ryders alumni found performing arts organization, eye return to DCI](https://www.drum-corps.net/news/2645)
 - [Riverside Open (2023)](https://www.drum-corps.net/scores/dci/2641)
 - [Music on the March (2023)](https://www.drum-corps.net/scores/dci/2638)
 - [Drums Along the Rockies – Cheyenne Edition (2023)](https://www.drum-corps.net/scores/dci/2634)
-- [DCI Tupelo (2023)](https://www.drum-corps.net/scores/dci/2631)
-- [Corps Encore (2023)](https://www.drum-corps.net/scores/dci/2628)
-- [Drums on the Chippewa (2023)](https://www.drum-corps.net/scores/dci/2625)
-- [Celebration in Brass (2023)](https://www.drum-corps.net/scores/dci/2622)
-- [Resound (2023)](https://www.drum-corps.net/scores/dci/2618)
-- [The Kiwanis Thunder of Drums (2023)](https://www.drum-corps.net/scores/dci/2615)
-- [Drums Across America (2023)](https://www.drum-corps.net/scores/dci/2611)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I had just received my degree in Calcium Anthropology...  the study of milkmen.</em><br /> -- Steven Wright</p>
+<p><em>Nationalism is an infantile sickness.  It is the measles of the human race.</em><br /> -- Albert Einstein</p>
