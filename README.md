@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Lost Missile (1958)](https://www.amon-hen.com/movies/31041)
+- [MST3K Short 0315 – Aquatic Wizards](https://www.amon-hen.com/television/6520)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Lost Missile (1958)](https://www.amon-hen.com/movies/31041)
 - [The Garden of Love](https://www.amon-hen.com/music/31039)
 - [RiffTrax – The Hothead and the Forgetter](https://www.amon-hen.com/movies/31036)
 - [Mmmm, Platter Full of Protein](https://www.amon-hen.com/food/31028)
@@ -10,7 +11,6 @@
 - [How code has changed the world](https://www.amon-hen.com/computing/31025)
 - [MST3K Short 0313 – Speech: Using Your Voice](https://www.amon-hen.com/television/7145)
 - [The Amazing Colossal Man (1957)](https://www.amon-hen.com/movies/31019)
-- [Eleven](https://www.amon-hen.com/music/31011)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Nationalism is an infantile sickness.  It is the measles of the human race.</em><br /> -- Albert Einstein</p>
+<p><em>Laurie got offended that I used the word "puke", but to me, that's what her dinner tasted like.</em><br /> -- Jack Handey</p>
