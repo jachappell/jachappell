@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0315 – Aquatic Wizards](https://www.amon-hen.com/television/6520)
+- [On the origin of time](https://www.amon-hen.com/science/31045)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0315 – Aquatic Wizards](https://www.amon-hen.com/television/6520)
 - [The Lost Missile (1958)](https://www.amon-hen.com/movies/31041)
 - [The Garden of Love](https://www.amon-hen.com/music/31039)
 - [RiffTrax – The Hothead and the Forgetter](https://www.amon-hen.com/movies/31036)
@@ -10,10 +11,12 @@
 - [MST3K 0612 – The Starfighters](https://www.amon-hen.com/television/4444)
 - [How code has changed the world](https://www.amon-hen.com/computing/31025)
 - [MST3K Short 0313 – Speech: Using Your Voice](https://www.amon-hen.com/television/7145)
-- [The Amazing Colossal Man (1957)](https://www.amon-hen.com/movies/31019)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Brass Impact (2023)](https://www.drum-corps.net/scores/dci/2677)
+- [West Texas Drums (2023)](https://www.drum-corps.net/scores/dci/2673)
+- [So Cal Classic (2023)](https://www.drum-corps.net/scores/dci/2671)
 - [Gold Showcase (2023)](https://www.drum-corps.net/scores/dci/2666)
 - [Drums Along the Rockies (2023)](https://www.drum-corps.net/scores/dci/2663)
 - [Show of Shows (2023)](https://www.drum-corps.net/scores/dci/2660)
@@ -21,9 +24,6 @@
 - [Buccaneer Classic (2023)](https://www.drum-corps.net/scores/dca/2653)
 - [Drums Across the River Region (2023)](https://www.drum-corps.net/scores/dci/2650)
 - [Sky Ryders alumni found performing arts organization, eye return to DCI](https://www.drum-corps.net/news/2645)
-- [Riverside Open (2023)](https://www.drum-corps.net/scores/dci/2641)
-- [Music on the March (2023)](https://www.drum-corps.net/scores/dci/2638)
-- [Drums Along the Rockies – Cheyenne Edition (2023)](https://www.drum-corps.net/scores/dci/2634)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Laurie got offended that I used the word "puke", but to me, that's what her dinner tasted like.</em><br /> -- Jack Handey</p>
+<p><em>Never hurts to have a second set of prints on a gun.</em><br /> -- Nelson Muntz</p>
