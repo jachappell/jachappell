@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [On the origin of time](https://www.amon-hen.com/science/31045)
+- [MST3K 0613 – The Sinister Urge](https://www.amon-hen.com/television/14517)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [On the origin of time](https://www.amon-hen.com/science/31045)
 - [MST3K Short 0315 – Aquatic Wizards](https://www.amon-hen.com/television/6520)
 - [The Lost Missile (1958)](https://www.amon-hen.com/movies/31041)
 - [The Garden of Love](https://www.amon-hen.com/music/31039)
@@ -10,7 +11,6 @@
 - [Mmmm, Platter Full of Protein](https://www.amon-hen.com/food/31028)
 - [MST3K 0612 – The Starfighters](https://www.amon-hen.com/television/4444)
 - [How code has changed the world](https://www.amon-hen.com/computing/31025)
-- [MST3K Short 0313 – Speech: Using Your Voice](https://www.amon-hen.com/television/7145)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Never hurts to have a second set of prints on a gun.</em><br /> -- Nelson Muntz</p>
+<p><em>Remember there's a big difference between kneeling down and bending over.</em><br /> -- Frank Zappa</p>
