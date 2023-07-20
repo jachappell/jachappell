@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0613 – The Sinister Urge](https://www.amon-hen.com/television/14517)
+- [The Bavarian Restaurant Sketch](https://www.amon-hen.com/television/31052)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0613 – The Sinister Urge](https://www.amon-hen.com/television/14517)
 - [On the origin of time](https://www.amon-hen.com/science/31045)
 - [MST3K Short 0315 – Aquatic Wizards](https://www.amon-hen.com/television/6520)
 - [The Lost Missile (1958)](https://www.amon-hen.com/movies/31041)
@@ -10,10 +11,11 @@
 - [RiffTrax – The Hothead and the Forgetter](https://www.amon-hen.com/movies/31036)
 - [Mmmm, Platter Full of Protein](https://www.amon-hen.com/food/31028)
 - [MST3K 0612 – The Starfighters](https://www.amon-hen.com/television/4444)
-- [How code has changed the world](https://www.amon-hen.com/computing/31025)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Broken Arrow (2023)](https://www.drum-corps.net/scores/dci/2683)
+- [DCI Abilene (2023)](https://www.drum-corps.net/scores/dci/2680)
 - [Brass Impact (2023)](https://www.drum-corps.net/scores/dci/2677)
 - [West Texas Drums (2023)](https://www.drum-corps.net/scores/dci/2673)
 - [So Cal Classic (2023)](https://www.drum-corps.net/scores/dci/2671)
@@ -22,8 +24,6 @@
 - [Show of Shows (2023)](https://www.drum-corps.net/scores/dci/2660)
 - [DCI Little Rock (2023)](https://www.drum-corps.net/scores/dci/2656)
 - [Buccaneer Classic (2023)](https://www.drum-corps.net/scores/dca/2653)
-- [Drums Across the River Region (2023)](https://www.drum-corps.net/scores/dci/2650)
-- [Sky Ryders alumni found performing arts organization, eye return to DCI](https://www.drum-corps.net/news/2645)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Remember there's a big difference between kneeling down and bending over.</em><br /> -- Frank Zappa</p>
+<p><em>In a mad world only the mad are sane.</em><br /> -- Akira Kurosawa</p>
