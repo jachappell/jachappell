@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Bavarian Restaurant Sketch](https://www.amon-hen.com/television/31052)
+- [First Moon Landing](https://www.amon-hen.com/science/3871)
+- [The Garden of Love Ballad](https://www.amon-hen.com/music/drum-and-bugle-corps/31060)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Bavarian Restaurant Sketch](https://www.amon-hen.com/television/31052)
 - [MST3K 0613 – The Sinister Urge](https://www.amon-hen.com/television/14517)
 - [On the origin of time](https://www.amon-hen.com/science/31045)
 - [MST3K Short 0315 – Aquatic Wizards](https://www.amon-hen.com/television/6520)
 - [The Lost Missile (1958)](https://www.amon-hen.com/movies/31041)
 - [The Garden of Love](https://www.amon-hen.com/music/31039)
 - [RiffTrax – The Hothead and the Forgetter](https://www.amon-hen.com/movies/31036)
-- [Mmmm, Platter Full of Protein](https://www.amon-hen.com/food/31028)
-- [MST3K 0612 – The Starfighters](https://www.amon-hen.com/television/4444)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Virtual Show 1 (2023)](https://www.drum-corps.net/scores/dca/2689)
 - [DCI Broken Arrow (2023)](https://www.drum-corps.net/scores/dci/2683)
 - [DCI Abilene (2023)](https://www.drum-corps.net/scores/dci/2680)
 - [Brass Impact (2023)](https://www.drum-corps.net/scores/dci/2677)
@@ -23,7 +24,6 @@
 - [Drums Along the Rockies (2023)](https://www.drum-corps.net/scores/dci/2663)
 - [Show of Shows (2023)](https://www.drum-corps.net/scores/dci/2660)
 - [DCI Little Rock (2023)](https://www.drum-corps.net/scores/dci/2656)
-- [Buccaneer Classic (2023)](https://www.drum-corps.net/scores/dca/2653)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>In a mad world only the mad are sane.</em><br /> -- Akira Kurosawa</p>
+<p><em>Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.</em><br /> -- Douglas Adams</p>
