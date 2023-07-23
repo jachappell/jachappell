@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Woods](https://www.amon-hen.com/music/31062)
+- [Phantom from Space (1953)](https://www.amon-hen.com/movies/31069)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Woods](https://www.amon-hen.com/music/31062)
 - [First Moon Landing](https://www.amon-hen.com/science/3871)
 - [The Garden of Love Ballad](https://www.amon-hen.com/music/drum-and-bugle-corps/31060)
 - [The Bavarian Restaurant Sketch](https://www.amon-hen.com/television/31052)
@@ -10,10 +11,12 @@
 - [On the origin of time](https://www.amon-hen.com/science/31045)
 - [MST3K Short 0315 – Aquatic Wizards](https://www.amon-hen.com/television/6520)
 - [The Lost Missile (1958)](https://www.amon-hen.com/movies/31041)
-- [The Garden of Love](https://www.amon-hen.com/music/31039)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Southwestern Championship (2023)](https://www.drum-corps.net/scores/dci/2715)
+- [Summer Thunder (2023)](https://www.drum-corps.net/scores/dci/2710)
+- [DCI Houston (2023)](https://www.drum-corps.net/scores/dci/2707)
 - [White Rose Classic (2023)](https://www.drum-corps.net/scores/dci/2704)
 - [Drum Corps World – July 21, 2023](https://www.drum-corps.net/news/2702)
 - [DCI Austin (2023)](https://www.drum-corps.net/scores/dci/2697)
@@ -21,9 +24,6 @@
 - [Virtual Show 1 (2023)](https://www.drum-corps.net/scores/dca/2689)
 - [DCI Broken Arrow (2023)](https://www.drum-corps.net/scores/dci/2683)
 - [DCI Abilene (2023)](https://www.drum-corps.net/scores/dci/2680)
-- [Brass Impact (2023)](https://www.drum-corps.net/scores/dci/2677)
-- [West Texas Drums (2023)](https://www.drum-corps.net/scores/dci/2673)
-- [So Cal Classic (2023)](https://www.drum-corps.net/scores/dci/2671)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>All you need in this life is ignorance and confidence; then success is sure.</em><br /> -- Mark Twain</p>
+<p><em>It looks just like a Telefunken U-47!</em><br /> -- Frank Zappa</p>
