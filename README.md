@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Phantom from Space (1953)](https://www.amon-hen.com/movies/31069)
+- [MST3K Short 0315 – Catching Trouble](https://www.amon-hen.com/television/6237)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Phantom from Space (1953)](https://www.amon-hen.com/movies/31069)
 - [The Woods](https://www.amon-hen.com/music/31062)
 - [First Moon Landing](https://www.amon-hen.com/science/3871)
 - [The Garden of Love Ballad](https://www.amon-hen.com/music/drum-and-bugle-corps/31060)
@@ -10,10 +11,10 @@
 - [MST3K 0613 – The Sinister Urge](https://www.amon-hen.com/television/14517)
 - [On the origin of time](https://www.amon-hen.com/science/31045)
 - [MST3K Short 0315 – Aquatic Wizards](https://www.amon-hen.com/television/6520)
-- [The Lost Missile (1958)](https://www.amon-hen.com/movies/31041)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Connecticut (2023)](https://www.drum-corps.net/scores/dci/2718)
 - [DCI Southwestern Championship (2023)](https://www.drum-corps.net/scores/dci/2715)
 - [Summer Thunder (2023)](https://www.drum-corps.net/scores/dci/2710)
 - [DCI Houston (2023)](https://www.drum-corps.net/scores/dci/2707)
@@ -23,7 +24,6 @@
 - [DCI Denton (2023)](https://www.drum-corps.net/scores/dci/2695)
 - [Virtual Show 1 (2023)](https://www.drum-corps.net/scores/dca/2689)
 - [DCI Broken Arrow (2023)](https://www.drum-corps.net/scores/dci/2683)
-- [DCI Abilene (2023)](https://www.drum-corps.net/scores/dci/2680)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It looks just like a Telefunken U-47!</em><br /> -- Frank Zappa</p>
+<p><em>Sex without love is an empty experience, but, as empty experiences go, it's one of the best.</em><br /> -- Woody Allen</p>
