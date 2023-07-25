@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0315 – Catching Trouble](https://www.amon-hen.com/television/6237)
+- [Booster of extremism and enemies of democracy](https://www.amon-hen.com/politics/31074)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0315 – Catching Trouble](https://www.amon-hen.com/television/6237)
 - [Phantom from Space (1953)](https://www.amon-hen.com/movies/31069)
 - [The Woods](https://www.amon-hen.com/music/31062)
 - [First Moon Landing](https://www.amon-hen.com/science/3871)
@@ -10,7 +11,6 @@
 - [The Bavarian Restaurant Sketch](https://www.amon-hen.com/television/31052)
 - [MST3K 0613 – The Sinister Urge](https://www.amon-hen.com/television/14517)
 - [On the origin of time](https://www.amon-hen.com/science/31045)
-- [MST3K Short 0315 – Aquatic Wizards](https://www.amon-hen.com/television/6520)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Sex without love is an empty experience, but, as empty experiences go, it's one of the best.</em><br /> -- Woody Allen</p>
+<p><em>I hope this has taught you kids a lesson: kids never learn.</em><br /> -- Police Chief Clancy Wiggum</p>
