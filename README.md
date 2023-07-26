@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Booster of extremism and enemies of democracy](https://www.amon-hen.com/politics/31074)
+- [MST3K 0614 – San Francisco International](https://www.amon-hen.com/television/7079)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Booster of extremism and enemies of democracy](https://www.amon-hen.com/politics/31074)
 - [MST3K Short 0315 – Catching Trouble](https://www.amon-hen.com/television/6237)
 - [Phantom from Space (1953)](https://www.amon-hen.com/movies/31069)
 - [The Woods](https://www.amon-hen.com/music/31062)
@@ -10,10 +11,10 @@
 - [The Garden of Love Ballad](https://www.amon-hen.com/music/drum-and-bugle-corps/31060)
 - [The Bavarian Restaurant Sketch](https://www.amon-hen.com/television/31052)
 - [MST3K 0613 – The Sinister Urge](https://www.amon-hen.com/television/14517)
-- [On the origin of time](https://www.amon-hen.com/science/31045)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Mesquite (2023)](https://www.drum-corps.net/scores/dci/2722)
 - [DCI Connecticut (2023)](https://www.drum-corps.net/scores/dci/2718)
 - [DCI Southwestern Championship (2023)](https://www.drum-corps.net/scores/dci/2715)
 - [Summer Thunder (2023)](https://www.drum-corps.net/scores/dci/2710)
@@ -23,7 +24,6 @@
 - [DCI Austin (2023)](https://www.drum-corps.net/scores/dci/2697)
 - [DCI Denton (2023)](https://www.drum-corps.net/scores/dci/2695)
 - [Virtual Show 1 (2023)](https://www.drum-corps.net/scores/dca/2689)
-- [DCI Broken Arrow (2023)](https://www.drum-corps.net/scores/dci/2683)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I hope this has taught you kids a lesson: kids never learn.</em><br /> -- Police Chief Clancy Wiggum</p>
+<p><em>It was a sin to want to feel up Ellen. It was a sin to plan to feel up Ellen. It was a sin to figure out a place to feel up Ellen. It was a sin to take Ellen to the place to be felt up. It was a sin to try to feel up Ellen, and it was a sin to feel her up. There were six sins involved in one feel, man!</em><br /> -- George Carlin</p>
