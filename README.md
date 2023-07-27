@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0614 – San Francisco International](https://www.amon-hen.com/television/7079)
+- [Mmmm, Plant Based Beer](https://www.amon-hen.com/politics/31081)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0614 – San Francisco International](https://www.amon-hen.com/television/7079)
 - [Booster of extremism and enemies of democracy](https://www.amon-hen.com/politics/31074)
 - [MST3K Short 0315 – Catching Trouble](https://www.amon-hen.com/television/6237)
 - [Phantom from Space (1953)](https://www.amon-hen.com/movies/31069)
@@ -10,10 +11,12 @@
 - [First Moon Landing](https://www.amon-hen.com/science/3871)
 - [The Garden of Love Ballad](https://www.amon-hen.com/music/drum-and-bugle-corps/31060)
 - [The Bavarian Restaurant Sketch](https://www.amon-hen.com/television/31052)
-- [MST3K 0613 – The Sinister Urge](https://www.amon-hen.com/television/14517)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Brigadier’s Pageant of Drums (2023)](https://www.drum-corps.net/scores/dci/2739)
+- [DCI McKinney (2023)](https://www.drum-corps.net/scores/dci/2733)
+- [DCI New Hampshire (2023)](https://www.drum-corps.net/scores/dci/2730)
 - [DCI Mesquite (2023)](https://www.drum-corps.net/scores/dci/2722)
 - [DCI Connecticut (2023)](https://www.drum-corps.net/scores/dci/2718)
 - [DCI Southwestern Championship (2023)](https://www.drum-corps.net/scores/dci/2715)
@@ -21,9 +24,6 @@
 - [DCI Houston (2023)](https://www.drum-corps.net/scores/dci/2707)
 - [White Rose Classic (2023)](https://www.drum-corps.net/scores/dci/2704)
 - [Drum Corps World – July 21, 2023](https://www.drum-corps.net/news/2702)
-- [DCI Austin (2023)](https://www.drum-corps.net/scores/dci/2697)
-- [DCI Denton (2023)](https://www.drum-corps.net/scores/dci/2695)
-- [Virtual Show 1 (2023)](https://www.drum-corps.net/scores/dca/2689)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It was a sin to want to feel up Ellen. It was a sin to plan to feel up Ellen. It was a sin to figure out a place to feel up Ellen. It was a sin to take Ellen to the place to be felt up. It was a sin to try to feel up Ellen, and it was a sin to feel her up. There were six sins involved in one feel, man!</em><br /> -- George Carlin</p>
+<p><em>One of the great attractions of patriotism - it fulfills our worst wishes. In the person of our nation we are able, vicariously, to bully and cheat. Bully and cheat, what's more, with a feeling that we are profoundly virtuous.</em><br /> -- Aldous Huxley</p>
