@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Plant Based Beer](https://www.amon-hen.com/politics/31081)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Till’s story is not ancient history](https://www.amon-hen.com/politics/31084)
+- [Mmmm, Plant Based Beer](https://www.amon-hen.com/politics/31081)
 - [MST3K 0614 – San Francisco International](https://www.amon-hen.com/television/7079)
 - [Booster of extremism and enemies of democracy](https://www.amon-hen.com/politics/31074)
 - [MST3K Short 0315 – Catching Trouble](https://www.amon-hen.com/television/6237)
@@ -10,10 +11,11 @@
 - [The Woods](https://www.amon-hen.com/music/31062)
 - [First Moon Landing](https://www.amon-hen.com/science/3871)
 - [The Garden of Love Ballad](https://www.amon-hen.com/music/drum-and-bugle-corps/31060)
-- [The Bavarian Restaurant Sketch](https://www.amon-hen.com/television/31052)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Southern Mississippi (2023)](https://www.drum-corps.net/scores/dci/2745)
+- [DCI Monroe (2023)](https://www.drum-corps.net/scores/dci/2742)
 - [Brigadier’s Pageant of Drums (2023)](https://www.drum-corps.net/scores/dci/2739)
 - [DCI McKinney (2023)](https://www.drum-corps.net/scores/dci/2733)
 - [DCI New Hampshire (2023)](https://www.drum-corps.net/scores/dci/2730)
@@ -22,8 +24,6 @@
 - [DCI Southwestern Championship (2023)](https://www.drum-corps.net/scores/dci/2715)
 - [Summer Thunder (2023)](https://www.drum-corps.net/scores/dci/2710)
 - [DCI Houston (2023)](https://www.drum-corps.net/scores/dci/2707)
-- [White Rose Classic (2023)](https://www.drum-corps.net/scores/dci/2704)
-- [Drum Corps World – July 21, 2023](https://www.drum-corps.net/news/2702)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>One of the great attractions of patriotism - it fulfills our worst wishes. In the person of our nation we are able, vicariously, to bully and cheat. Bully and cheat, what's more, with a feeling that we are profoundly virtuous.</em><br /> -- Aldous Huxley</p>
+<p><em>Give a man a fish and he will eat for a day.  Teach him how to fish, and he will sit in a boat and drink beer all day.</em><br /> -- George Carlin</p>
