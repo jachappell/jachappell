@@ -1,6 +1,7 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Finding and Believing](https://www.amon-hen.com/music/31100)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Till’s story is not ancient history](https://www.amon-hen.com/politics/31084)
 - [Mmmm, Plant Based Beer](https://www.amon-hen.com/politics/31081)
@@ -10,20 +11,19 @@
 - [Phantom from Space (1953)](https://www.amon-hen.com/movies/31069)
 - [The Woods](https://www.amon-hen.com/music/31062)
 - [First Moon Landing](https://www.amon-hen.com/science/3871)
-- [The Garden of Love Ballad](https://www.amon-hen.com/music/drum-and-bugle-corps/31060)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – July 28, 2023](https://www.drum-corps.net/news/2763)
+- [The Masters of the Summer Music Games (2023)](https://www.drum-corps.net/scores/dci/2760)
+- [DCI Birmingham (2023)](https://www.drum-corps.net/scores/dci/2757)
+- [Canton’s Bluecoats showcase evolution of competitive drum corps](https://www.drum-corps.net/news/2748)
 - [DCI Southern Mississippi (2023)](https://www.drum-corps.net/scores/dci/2745)
 - [DCI Monroe (2023)](https://www.drum-corps.net/scores/dci/2742)
 - [Brigadier’s Pageant of Drums (2023)](https://www.drum-corps.net/scores/dci/2739)
 - [DCI McKinney (2023)](https://www.drum-corps.net/scores/dci/2733)
 - [DCI New Hampshire (2023)](https://www.drum-corps.net/scores/dci/2730)
 - [DCI Mesquite (2023)](https://www.drum-corps.net/scores/dci/2722)
-- [DCI Connecticut (2023)](https://www.drum-corps.net/scores/dci/2718)
-- [DCI Southwestern Championship (2023)](https://www.drum-corps.net/scores/dci/2715)
-- [Summer Thunder (2023)](https://www.drum-corps.net/scores/dci/2710)
-- [DCI Houston (2023)](https://www.drum-corps.net/scores/dci/2707)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Give a man a fish and he will eat for a day.  Teach him how to fish, and he will sit in a boat and drink beer all day.</em><br /> -- George Carlin</p>
+<p><em>When Han Solo returns to the Death Star in the </em>Millennium Falcon<em>, and shoots down the TIE fighters and saves the Rebel cause, do you think he does so for a free beer?</em><br /> -- Dwight Kurt Schrute III</p>
