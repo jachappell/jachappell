@@ -1,19 +1,21 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K Short 0317 – The Home Economics Story](https://www.amon-hen.com/television/8481)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading – Doctor Who: Harvest of Time](https://www.amon-hen.com/books/297)
 - [T-Bird Gang (1959)](https://www.amon-hen.com/movies/31103)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Finding and Believing](https://www.amon-hen.com/music/31100)
 - [Till’s story is not ancient history](https://www.amon-hen.com/politics/31084)
 - [Mmmm, Plant Based Beer](https://www.amon-hen.com/politics/31081)
 - [MST3K 0614 – San Francisco International](https://www.amon-hen.com/television/7079)
 - [Booster of extremism and enemies of democracy](https://www.amon-hen.com/politics/31074)
 - [MST3K Short 0315 – Catching Trouble](https://www.amon-hen.com/television/6237)
-- [Phantom from Space (1953)](https://www.amon-hen.com/movies/31069)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [NightBEAT (2023)](https://www.drum-corps.net/scores/dci/2776)
+- [Williamsport, PA (2023)](https://www.drum-corps.net/scores/dca/2773)
 - [DCI Southeastern Championship (2023)](https://www.drum-corps.net/scores/dci/2768)
 - [Beats in the Brook (2023)](https://www.drum-corps.net/scores/dci/2765)
 - [Drum Corps World – July 28, 2023](https://www.drum-corps.net/news/2763)
@@ -22,8 +24,6 @@
 - [Canton’s Bluecoats showcase evolution of competitive drum corps](https://www.drum-corps.net/news/2748)
 - [DCI Southern Mississippi (2023)](https://www.drum-corps.net/scores/dci/2745)
 - [DCI Monroe (2023)](https://www.drum-corps.net/scores/dci/2742)
-- [Brigadier’s Pageant of Drums (2023)](https://www.drum-corps.net/scores/dci/2739)
-- [DCI McKinney (2023)](https://www.drum-corps.net/scores/dci/2733)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Your manuscript is both good and original, but the part that is good is not original and the part that is original is not good.</em><br /> -- Samuel Johnson</p>
+<p><em>I regard monotheism as the greatest disaster ever to befall the human race. I see no good in Judaism, Christianity, or Islam -- good people, yes, but any religion based on a single, well, frenzied and virulent god, is not as useful to the human race as, say, Confucianism, which is not a religion but an ethical and educational system.</em><br /> -- Gore Vidal</p>
