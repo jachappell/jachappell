@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0317 – The Home Economics Story](https://www.amon-hen.com/television/8481)
+- [Dune: Part Two – Final Trailer](https://www.amon-hen.com/books/31123)
+- [The Meaning of Spacetime](https://www.amon-hen.com/science/31116)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0317 – The Home Economics Story](https://www.amon-hen.com/television/8481)
 - [Reading – Doctor Who: Harvest of Time](https://www.amon-hen.com/books/297)
 - [T-Bird Gang (1959)](https://www.amon-hen.com/movies/31103)
 - [Finding and Believing](https://www.amon-hen.com/music/31100)
 - [Till’s story is not ancient history](https://www.amon-hen.com/politics/31084)
 - [Mmmm, Plant Based Beer](https://www.amon-hen.com/politics/31081)
 - [MST3K 0614 – San Francisco International](https://www.amon-hen.com/television/7079)
-- [Booster of extremism and enemies of democracy](https://www.amon-hen.com/politics/31074)
-- [MST3K Short 0315 – Catching Trouble](https://www.amon-hen.com/television/6237)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Huntington (2023)](https://www.drum-corps.net/scores/dci/2779)
 - [NightBEAT (2023)](https://www.drum-corps.net/scores/dci/2776)
 - [Williamsport, PA (2023)](https://www.drum-corps.net/scores/dca/2773)
 - [DCI Southeastern Championship (2023)](https://www.drum-corps.net/scores/dci/2768)
@@ -23,7 +24,6 @@
 - [DCI Birmingham (2023)](https://www.drum-corps.net/scores/dci/2757)
 - [Canton’s Bluecoats showcase evolution of competitive drum corps](https://www.drum-corps.net/news/2748)
 - [DCI Southern Mississippi (2023)](https://www.drum-corps.net/scores/dci/2745)
-- [DCI Monroe (2023)](https://www.drum-corps.net/scores/dci/2742)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I regard monotheism as the greatest disaster ever to befall the human race. I see no good in Judaism, Christianity, or Islam -- good people, yes, but any religion based on a single, well, frenzied and virulent god, is not as useful to the human race as, say, Confucianism, which is not a religion but an ethical and educational system.</em><br /> -- Gore Vidal</p>
+<p><em>Oh my God!  Space aliens!  Don't eat me, I have a wife and kids!  Eat them.</em><br /> -- Homer J. Simpson</p>
