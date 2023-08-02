@@ -1,19 +1,22 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K 0615 – Kitten with a Whip](https://www.amon-hen.com/television/14547)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Dune: Part Two – Final Trailer](https://www.amon-hen.com/books/31123)
 - [The Meaning of Spacetime](https://www.amon-hen.com/science/31116)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K Short 0317 – The Home Economics Story](https://www.amon-hen.com/television/8481)
 - [Reading – Doctor Who: Harvest of Time](https://www.amon-hen.com/books/297)
 - [T-Bird Gang (1959)](https://www.amon-hen.com/movies/31103)
 - [Finding and Believing](https://www.amon-hen.com/music/31100)
 - [Till’s story is not ancient history](https://www.amon-hen.com/politics/31084)
 - [Mmmm, Plant Based Beer](https://www.amon-hen.com/politics/31081)
-- [MST3K 0614 – San Francisco International](https://www.amon-hen.com/television/7079)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drums Across the Smokies (2023)](https://www.drum-corps.net/scores/dci/2791)
+- [Summer Music Games of Southwest Virginia (2023)](https://www.drum-corps.net/scores/dci/2788)
+- [Drum Corps: An American Tradition (2023)](https://www.drum-corps.net/scores/dci/2784)
 - [DCI Huntington (2023)](https://www.drum-corps.net/scores/dci/2779)
 - [NightBEAT (2023)](https://www.drum-corps.net/scores/dci/2776)
 - [Williamsport, PA (2023)](https://www.drum-corps.net/scores/dca/2773)
@@ -21,9 +24,6 @@
 - [Beats in the Brook (2023)](https://www.drum-corps.net/scores/dci/2765)
 - [Drum Corps World – July 28, 2023](https://www.drum-corps.net/news/2763)
 - [The Masters of the Summer Music Games (2023)](https://www.drum-corps.net/scores/dci/2760)
-- [DCI Birmingham (2023)](https://www.drum-corps.net/scores/dci/2757)
-- [Canton’s Bluecoats showcase evolution of competitive drum corps](https://www.drum-corps.net/news/2748)
-- [DCI Southern Mississippi (2023)](https://www.drum-corps.net/scores/dci/2745)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Oh my God!  Space aliens!  Don't eat me, I have a wife and kids!  Eat them.</em><br /> -- Homer J. Simpson</p>
+<p><em>When women love us, they forgive us everything, even our crimes; when they do not love us, they give us credit for nothing, not even our virtues.</em><br /> -- Honore de Balzac</p>
