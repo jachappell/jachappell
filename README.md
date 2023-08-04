@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Monosodium Glutamate](https://www.amon-hen.com/food/31125)
+- [RiffTrax – The Boy In The Plastic Bubble](https://www.amon-hen.com/humor/31135)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Monosodium Glutamate](https://www.amon-hen.com/food/31125)
 - [MST3K 0615 – Kitten with a Whip](https://www.amon-hen.com/television/14547)
 - [Dune: Part Two – Final Trailer](https://www.amon-hen.com/books/31123)
 - [The Meaning of Spacetime](https://www.amon-hen.com/science/31116)
@@ -10,10 +11,10 @@
 - [Reading – Doctor Who: Harvest of Time](https://www.amon-hen.com/books/297)
 - [T-Bird Gang (1959)](https://www.amon-hen.com/movies/31103)
 - [Finding and Believing](https://www.amon-hen.com/music/31100)
-- [Till’s story is not ancient history](https://www.amon-hen.com/politics/31084)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI East Coast Showcase – Lawrence (2023)](https://www.drum-corps.net/scores/dci/2804)
 - [March On! (2023)](https://www.drum-corps.net/scores/dci/2801)
 - [Soaring Sounds (2023)](https://www.drum-corps.net/scores/dci/2798)
 - [DCI Glassboro (2023)](https://www.drum-corps.net/scores/dci/2794)
@@ -23,7 +24,6 @@
 - [DCI Huntington (2023)](https://www.drum-corps.net/scores/dci/2779)
 - [NightBEAT (2023)](https://www.drum-corps.net/scores/dci/2776)
 - [Williamsport, PA (2023)](https://www.drum-corps.net/scores/dca/2773)
-- [DCI Southeastern Championship (2023)](https://www.drum-corps.net/scores/dci/2768)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It's very unusual for Michael not to show up to work. My guess, he's either deeply depressed or an icicle has snapped off his roof and impaled his brain. He has this terrible habit of standing directly underneath them and staring up at them. And I always say, "Michael, take two steps back and stare at the icicle from the side." And he's like, "No, I like the way they look from standing directly underneath them." It was only a matter of time.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>Most people can't bear to sit in church for an hour on Sundays. How are they supposed to live somewhere very similar to it for eternity?</em><br /> -- Mark Twain</p>
