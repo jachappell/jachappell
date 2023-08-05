@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – The Boy In The Plastic Bubble](https://www.amon-hen.com/humor/31135)
+- [____45_____](https://www.amon-hen.com/music/31137)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – The Boy In The Plastic Bubble](https://www.amon-hen.com/humor/31135)
 - [Mmmm, Monosodium Glutamate](https://www.amon-hen.com/food/31125)
 - [MST3K 0615 – Kitten with a Whip](https://www.amon-hen.com/television/14547)
 - [Dune: Part Two – Final Trailer](https://www.amon-hen.com/books/31123)
@@ -10,10 +11,12 @@
 - [MST3K Short 0317 – The Home Economics Story](https://www.amon-hen.com/television/8481)
 - [Reading – Doctor Who: Harvest of Time](https://www.amon-hen.com/books/297)
 - [T-Bird Gang (1959)](https://www.amon-hen.com/movies/31103)
-- [Finding and Believing](https://www.amon-hen.com/music/31100)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Eastern Classic (2023)](https://www.drum-corps.net/scores/dci/2815)
+- [Tournament of Drums (2023)](https://www.drum-corps.net/scores/dci/2812)
+- [Drums In the Heartland (2023)](https://www.drum-corps.net/scores/dci/2807)
 - [DCI East Coast Showcase – Lawrence (2023)](https://www.drum-corps.net/scores/dci/2804)
 - [March On! (2023)](https://www.drum-corps.net/scores/dci/2801)
 - [Soaring Sounds (2023)](https://www.drum-corps.net/scores/dci/2798)
@@ -21,9 +24,6 @@
 - [Drums Across the Smokies (2023)](https://www.drum-corps.net/scores/dci/2791)
 - [Summer Music Games of Southwest Virginia (2023)](https://www.drum-corps.net/scores/dci/2788)
 - [Drum Corps: An American Tradition (2023)](https://www.drum-corps.net/scores/dci/2784)
-- [DCI Huntington (2023)](https://www.drum-corps.net/scores/dci/2779)
-- [NightBEAT (2023)](https://www.drum-corps.net/scores/dci/2776)
-- [Williamsport, PA (2023)](https://www.drum-corps.net/scores/dca/2773)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Most people can't bear to sit in church for an hour on Sundays. How are they supposed to live somewhere very similar to it for eternity?</em><br /> -- Mark Twain</p>
+<p><em>Trying is the first step toward failure.</em><br /> -- Homer J. Simpson</p>
