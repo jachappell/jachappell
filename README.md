@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [____45_____](https://www.amon-hen.com/music/31137)
+- [The Yesterday Machine (1963)](https://www.amon-hen.com/movies/31154)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [____45_____](https://www.amon-hen.com/music/31137)
 - [RiffTrax – The Boy In The Plastic Bubble](https://www.amon-hen.com/humor/31135)
 - [Mmmm, Monosodium Glutamate](https://www.amon-hen.com/food/31125)
 - [MST3K 0615 – Kitten with a Whip](https://www.amon-hen.com/television/14547)
@@ -10,20 +11,19 @@
 - [The Meaning of Spacetime](https://www.amon-hen.com/science/31116)
 - [MST3K Short 0317 – The Home Economics Story](https://www.amon-hen.com/television/8481)
 - [Reading – Doctor Who: Harvest of Time](https://www.amon-hen.com/books/297)
-- [T-Bird Gang (1959)](https://www.amon-hen.com/movies/31103)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
-- [DCI Eastern Classic (2023)](https://www.drum-corps.net/scores/dci/2815)
+- [DCI Eastern Classic – Saturday (2023)](https://www.drum-corps.net/scores/dci/2833)
+- [DCI Eastern Illinois (2023)](https://www.drum-corps.net/scores/dci/2829)
+- [Shoremen Brass Classic (2023)](https://www.drum-corps.net/scores/dci/2825)
+- [Drum Corps World – August 2023](https://www.drum-corps.net/news/2822)
+- [DCI Eastern Classic – Friday (2023)](https://www.drum-corps.net/scores/dci/2815)
 - [Tournament of Drums (2023)](https://www.drum-corps.net/scores/dci/2812)
 - [Drums In the Heartland (2023)](https://www.drum-corps.net/scores/dci/2807)
 - [DCI East Coast Showcase – Lawrence (2023)](https://www.drum-corps.net/scores/dci/2804)
 - [March On! (2023)](https://www.drum-corps.net/scores/dci/2801)
 - [Soaring Sounds (2023)](https://www.drum-corps.net/scores/dci/2798)
-- [DCI Glassboro (2023)](https://www.drum-corps.net/scores/dci/2794)
-- [Drums Across the Smokies (2023)](https://www.drum-corps.net/scores/dci/2791)
-- [Summer Music Games of Southwest Virginia (2023)](https://www.drum-corps.net/scores/dci/2788)
-- [Drum Corps: An American Tradition (2023)](https://www.drum-corps.net/scores/dci/2784)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Trying is the first step toward failure.</em><br /> -- Homer J. Simpson</p>
+<p><em>Mathematics, rightly viewed, possesses not only truth but supreme beauty -- a beauty cold and austere, like that of a sculpture, without appeal to any part of our weaker nature, without the gorgeous trapping of painting or music, yet sublimely pure, and capable of a stern perfection such as only the greatest art can show.  The true spirit of delight, the exaltation, the sense of being more than man, which is the touchstone of the highest excellence, is to be found in mathematics as surely as in poetry.</em><br /> -- Bertrand Russell</p>
