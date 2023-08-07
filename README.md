@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Yesterday Machine (1963)](https://www.amon-hen.com/movies/31154)
+- [MST3K Short 0319 – Mr. B Natural](https://www.amon-hen.com/television/646)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Yesterday Machine (1963)](https://www.amon-hen.com/movies/31154)
 - [____45_____](https://www.amon-hen.com/music/31137)
 - [RiffTrax – The Boy In The Plastic Bubble](https://www.amon-hen.com/humor/31135)
 - [Mmmm, Monosodium Glutamate](https://www.amon-hen.com/food/31125)
@@ -10,10 +11,10 @@
 - [Dune: Part Two – Final Trailer](https://www.amon-hen.com/books/31123)
 - [The Meaning of Spacetime](https://www.amon-hen.com/science/31116)
 - [MST3K Short 0317 – The Home Economics Story](https://www.amon-hen.com/television/8481)
-- [Reading – Doctor Who: Harvest of Time](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Pittsburgh (2023)](https://www.drum-corps.net/scores/dci/2837)
 - [DCI Eastern Classic – Saturday (2023)](https://www.drum-corps.net/scores/dci/2833)
 - [DCI Eastern Illinois (2023)](https://www.drum-corps.net/scores/dci/2829)
 - [Shoremen Brass Classic (2023)](https://www.drum-corps.net/scores/dci/2825)
@@ -23,7 +24,6 @@
 - [Drums In the Heartland (2023)](https://www.drum-corps.net/scores/dci/2807)
 - [DCI East Coast Showcase – Lawrence (2023)](https://www.drum-corps.net/scores/dci/2804)
 - [March On! (2023)](https://www.drum-corps.net/scores/dci/2801)
-- [Soaring Sounds (2023)](https://www.drum-corps.net/scores/dci/2798)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Mathematics, rightly viewed, possesses not only truth but supreme beauty -- a beauty cold and austere, like that of a sculpture, without appeal to any part of our weaker nature, without the gorgeous trapping of painting or music, yet sublimely pure, and capable of a stern perfection such as only the greatest art can show.  The true spirit of delight, the exaltation, the sense of being more than man, which is the touchstone of the highest excellence, is to be found in mathematics as surely as in poetry.</em><br /> -- Bertrand Russell</p>
+<p><em>I can't understand why people are frightened of new ideas. I'm frightened of the old ones.</em><br /> -- John Cage</p>
