@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0319 – Mr. B Natural](https://www.amon-hen.com/television/646)
+- [The geopolitical space race](https://www.amon-hen.com/science/31184)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0319 – Mr. B Natural](https://www.amon-hen.com/television/646)
 - [The Yesterday Machine (1963)](https://www.amon-hen.com/movies/31154)
 - [____45_____](https://www.amon-hen.com/music/31137)
 - [RiffTrax – The Boy In The Plastic Bubble](https://www.amon-hen.com/humor/31135)
@@ -10,10 +11,11 @@
 - [MST3K 0615 – Kitten with a Whip](https://www.amon-hen.com/television/14547)
 - [Dune: Part Two – Final Trailer](https://www.amon-hen.com/books/31123)
 - [The Meaning of Spacetime](https://www.amon-hen.com/science/31116)
-- [MST3K Short 0317 – The Home Economics Story](https://www.amon-hen.com/television/8481)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [2023 DCI World Championship Open Class Prelims](https://www.drum-corps.net/scores/dci/2843)
+- [DCI Cincinnati (2023)](https://www.drum-corps.net/scores/dci/2840)
 - [DCI Pittsburgh (2023)](https://www.drum-corps.net/scores/dci/2837)
 - [DCI Eastern Classic – Saturday (2023)](https://www.drum-corps.net/scores/dci/2833)
 - [DCI Eastern Illinois (2023)](https://www.drum-corps.net/scores/dci/2829)
@@ -22,8 +24,6 @@
 - [DCI Eastern Classic – Friday (2023)](https://www.drum-corps.net/scores/dci/2815)
 - [Tournament of Drums (2023)](https://www.drum-corps.net/scores/dci/2812)
 - [Drums In the Heartland (2023)](https://www.drum-corps.net/scores/dci/2807)
-- [DCI East Coast Showcase – Lawrence (2023)](https://www.drum-corps.net/scores/dci/2804)
-- [March On! (2023)](https://www.drum-corps.net/scores/dci/2801)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I can't understand why people are frightened of new ideas. I'm frightened of the old ones.</em><br /> -- John Cage</p>
+<p><em>[The pamphlet] was very patriotic. That is, it talked about killing foreigners.</em><br /> -- Terry Pratchett (<em>Monstrous Regiment</em>)</p>
