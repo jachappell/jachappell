@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The geopolitical space race](https://www.amon-hen.com/science/31184)
+- [MST3K 0616 – Racket Girls](https://www.amon-hen.com/television/14581)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The geopolitical space race](https://www.amon-hen.com/science/31184)
 - [MST3K Short 0319 – Mr. B Natural](https://www.amon-hen.com/television/646)
 - [The Yesterday Machine (1963)](https://www.amon-hen.com/movies/31154)
 - [____45_____](https://www.amon-hen.com/music/31137)
@@ -10,10 +11,10 @@
 - [Mmmm, Monosodium Glutamate](https://www.amon-hen.com/food/31125)
 - [MST3K 0615 – Kitten with a Whip](https://www.amon-hen.com/television/14547)
 - [Dune: Part Two – Final Trailer](https://www.amon-hen.com/books/31123)
-- [The Meaning of Spacetime](https://www.amon-hen.com/science/31116)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [2023 DCI World Championship Open Class Finals](https://www.drum-corps.net/scores/dci/2848)
 - [2023 DCI World Championship Open Class Prelims](https://www.drum-corps.net/scores/dci/2843)
 - [DCI Cincinnati (2023)](https://www.drum-corps.net/scores/dci/2840)
 - [DCI Pittsburgh (2023)](https://www.drum-corps.net/scores/dci/2837)
@@ -23,7 +24,6 @@
 - [Drum Corps World – August 2023](https://www.drum-corps.net/news/2822)
 - [DCI Eastern Classic – Friday (2023)](https://www.drum-corps.net/scores/dci/2815)
 - [Tournament of Drums (2023)](https://www.drum-corps.net/scores/dci/2812)
-- [Drums In the Heartland (2023)](https://www.drum-corps.net/scores/dci/2807)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>[The pamphlet] was very patriotic. That is, it talked about killing foreigners.</em><br /> -- Terry Pratchett (<em>Monstrous Regiment</em>)</p>
+<p><em>Americans like to talk about (or be told about) Democracy but, when put to the test, usually find it to be an 'inconvenience.'  We have opted instead for an authoritarian system </em>disguised<em> as a Democracy.  We pay through the nose for an enormous joke-of-a-government, let it push us around, and then wonder how all those assholes got in there.</em><br /> -- Frank Zappa</p>
