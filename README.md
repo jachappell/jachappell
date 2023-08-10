@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0616 – Racket Girls](https://www.amon-hen.com/television/14581)
+- [Mmmm, Fucking Crazy Hot Noodle](https://www.amon-hen.com/food/31190)
+- [2023 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/31194)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0616 – Racket Girls](https://www.amon-hen.com/television/14581)
 - [The geopolitical space race](https://www.amon-hen.com/science/31184)
 - [MST3K Short 0319 – Mr. B Natural](https://www.amon-hen.com/television/646)
 - [The Yesterday Machine (1963)](https://www.amon-hen.com/movies/31154)
 - [____45_____](https://www.amon-hen.com/music/31137)
 - [RiffTrax – The Boy In The Plastic Bubble](https://www.amon-hen.com/humor/31135)
 - [Mmmm, Monosodium Glutamate](https://www.amon-hen.com/food/31125)
-- [MST3K 0615 – Kitten with a Whip](https://www.amon-hen.com/television/14547)
-- [Dune: Part Two – Final Trailer](https://www.amon-hen.com/books/31123)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Americans like to talk about (or be told about) Democracy but, when put to the test, usually find it to be an 'inconvenience.'  We have opted instead for an authoritarian system </em>disguised<em> as a Democracy.  We pay through the nose for an enormous joke-of-a-government, let it push us around, and then wonder how all those assholes got in there.</em><br /> -- Frank Zappa</p>
+<p><em>I think I might wear my MC Hammer trousers today. They enable me to move sideways at alarming speeds and provide commodious ball comfort.</em><br /> -- Simon Pegg (via Twitter)</p>
