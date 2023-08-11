@@ -1,19 +1,21 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [How should I read the Dune series?](https://www.amon-hen.com/books/31201)
+- [2020](https://www.amon-hen.com/politics/31188)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Fucking Crazy Hot Noodle](https://www.amon-hen.com/food/31190)
 - [2023 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/31194)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0616 – Racket Girls](https://www.amon-hen.com/television/14581)
 - [The geopolitical space race](https://www.amon-hen.com/science/31184)
 - [MST3K Short 0319 – Mr. B Natural](https://www.amon-hen.com/television/646)
 - [The Yesterday Machine (1963)](https://www.amon-hen.com/movies/31154)
 - [____45_____](https://www.amon-hen.com/music/31137)
-- [RiffTrax – The Boy In The Plastic Bubble](https://www.amon-hen.com/humor/31135)
-- [Mmmm, Monosodium Glutamate](https://www.amon-hen.com/food/31125)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps International and Visit Indy announce multi-year contract extension](https://www.drum-corps.net/news/2858)
+- [2023 DCI World Championship World Class Prelims](https://www.drum-corps.net/scores/dci/2854)
 - [2023 DCI World Championship Open Class Finals](https://www.drum-corps.net/scores/dci/2848)
 - [2023 DCI World Championship Open Class Prelims](https://www.drum-corps.net/scores/dci/2843)
 - [DCI Cincinnati (2023)](https://www.drum-corps.net/scores/dci/2840)
@@ -22,8 +24,6 @@
 - [DCI Eastern Illinois (2023)](https://www.drum-corps.net/scores/dci/2829)
 - [Shoremen Brass Classic (2023)](https://www.drum-corps.net/scores/dci/2825)
 - [Drum Corps World – August 2023](https://www.drum-corps.net/news/2822)
-- [DCI Eastern Classic – Friday (2023)](https://www.drum-corps.net/scores/dci/2815)
-- [Tournament of Drums (2023)](https://www.drum-corps.net/scores/dci/2812)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I think I might wear my MC Hammer trousers today. They enable me to move sideways at alarming speeds and provide commodious ball comfort.</em><br /> -- Simon Pegg (via Twitter)</p>
+<p><em>When the going gets weird, the weird turn pro.</em><br /> -- Hunter S. Thompson</p>
