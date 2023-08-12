@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Bump](https://www.amon-hen.com/music/31139)
+- [2023 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/31194)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [How should I read the Dune series?](https://www.amon-hen.com/books/31201)
 - [2020](https://www.amon-hen.com/politics/31188)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Fucking Crazy Hot Noodle](https://www.amon-hen.com/food/31190)
-- [2023 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/31194)
 - [MST3K 0616 – Racket Girls](https://www.amon-hen.com/television/14581)
 - [The geopolitical space race](https://www.amon-hen.com/science/31184)
 - [MST3K Short 0319 – Mr. B Natural](https://www.amon-hen.com/television/646)
 - [The Yesterday Machine (1963)](https://www.amon-hen.com/movies/31154)
-- [____45_____](https://www.amon-hen.com/music/31137)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [2023 DCI World Championship World Class Semifinals](https://www.drum-corps.net/scores/dci/2860)
 - [Drum Corps International and Visit Indy announce multi-year contract extension](https://www.drum-corps.net/news/2858)
 - [2023 DCI World Championship World Class Prelims](https://www.drum-corps.net/scores/dci/2854)
 - [2023 DCI World Championship Open Class Finals](https://www.drum-corps.net/scores/dci/2848)
@@ -23,7 +24,6 @@
 - [DCI Eastern Classic – Saturday (2023)](https://www.drum-corps.net/scores/dci/2833)
 - [DCI Eastern Illinois (2023)](https://www.drum-corps.net/scores/dci/2829)
 - [Shoremen Brass Classic (2023)](https://www.drum-corps.net/scores/dci/2825)
-- [Drum Corps World – August 2023](https://www.drum-corps.net/news/2822)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When the going gets weird, the weird turn pro.</em><br /> -- Hunter S. Thompson</p>
+<p><em>Orthodoxy means not thinking - not needing to think. Orthodoxy is unconsciousness.</em><br /> -- George Orwell</p>
