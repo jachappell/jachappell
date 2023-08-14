@@ -2,15 +2,15 @@
 
 ## [Yet Another Website](https://www.amon-hen.com)
 - [2023 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/31194)
-- [The Brain from Planet Arous (1957)](https://www.amon-hen.com/movies/31214)
+- [MST3K Short 0621 – Money Talks!](https://www.amon-hen.com/television/7110)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Brain from Planet Arous (1957)](https://www.amon-hen.com/movies/31214)
 - [Bump](https://www.amon-hen.com/music/31139)
 - [How should I read the Dune series?](https://www.amon-hen.com/books/31201)
 - [2020](https://www.amon-hen.com/politics/31188)
 - [Mmmm, Fucking Crazy Hot Noodle](https://www.amon-hen.com/food/31190)
 - [MST3K 0616 – Racket Girls](https://www.amon-hen.com/television/14581)
 - [The geopolitical space race](https://www.amon-hen.com/science/31184)
-- [MST3K Short 0319 – Mr. B Natural](https://www.amon-hen.com/television/646)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>In Italy for thirty years under the Borgias they had warfare, terror, murder, bloodshed; they produced Michelangelo, Leonardo da Vinci and the Renaissance. In Switzerland they had brotherly love, five hundred years of democracy and peace, and what did they produce?  The cuckoo clock!</em><br /> -- Orson Welles</p>
+<p><em>If fifty million people say a foolish thing, it's still a foolish thing.</em><br /> -- Anatole France</p>
