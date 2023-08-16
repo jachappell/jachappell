@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K 0617 – The Sword and the Dragon](https://www.amon-hen.com/television/7116)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [No, It’s Not](https://www.amon-hen.com/movies/31229)
 - [Reading – Armageddon: What the Bible Really Says about the End](https://www.amon-hen.com/books/297)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [2023 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/31194)
 - [MST3K Short 0621 – Money Talks!](https://www.amon-hen.com/television/7110)
 - [The Brain from Planet Arous (1957)](https://www.amon-hen.com/movies/31214)
 - [Bump](https://www.amon-hen.com/music/31139)
 - [How should I read the Dune series?](https://www.amon-hen.com/books/31201)
 - [2020](https://www.amon-hen.com/politics/31188)
-- [Mmmm, Fucking Crazy Hot Noodle](https://www.amon-hen.com/food/31190)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Troopers Legacy Corps (2023)](https://www.drum-corps.net/history/2873)
 - [2023 DCI World Championship World Class Finals](https://www.drum-corps.net/scores/dci/2864)
 - [2023 SoundSport International Music & Food Festival](https://www.drum-corps.net/news/2869)
 - [2023 DCI World Championship World Class Semifinals](https://www.drum-corps.net/scores/dci/2860)
@@ -23,7 +24,6 @@
 - [2023 DCI World Championship Open Class Prelims](https://www.drum-corps.net/scores/dci/2843)
 - [DCI Cincinnati (2023)](https://www.drum-corps.net/scores/dci/2840)
 - [DCI Pittsburgh (2023)](https://www.drum-corps.net/scores/dci/2837)
-- [DCI Eastern Classic – Saturday (2023)](https://www.drum-corps.net/scores/dci/2833)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Only fools are positive.</em><br /> -- Moe Howard</p>
+<p><em>Frank knew that no man had ever crossed the desert on foot and lived to  tell about it.  So, he decided to get back in his car and keep driving.</em><br /> -- Jack Handey</p>
