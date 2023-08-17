@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0617 – The Sword and the Dragon](https://www.amon-hen.com/television/7116)
+- [Mmmm, Hum Cheese Crepe](https://www.amon-hen.com/food/31231)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0617 – The Sword and the Dragon](https://www.amon-hen.com/television/7116)
 - [No, It’s Not](https://www.amon-hen.com/movies/31229)
 - [Reading – Armageddon: What the Bible Really Says about the End](https://www.amon-hen.com/books/297)
 - [2023 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/31194)
@@ -10,7 +11,6 @@
 - [The Brain from Planet Arous (1957)](https://www.amon-hen.com/movies/31214)
 - [Bump](https://www.amon-hen.com/music/31139)
 - [How should I read the Dune series?](https://www.amon-hen.com/books/31201)
-- [2020](https://www.amon-hen.com/politics/31188)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Frank knew that no man had ever crossed the desert on foot and lived to  tell about it.  So, he decided to get back in his car and keep driving.</em><br /> -- Jack Handey</p>
+<p><em>We are using Linux daily to UP our productivity - so UP yours!</em><br /> -- Adapted from Pat Paulsen by Joe Sloan</p>
