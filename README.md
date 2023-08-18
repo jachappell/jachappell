@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Hum Cheese Crepe](https://www.amon-hen.com/food/31231)
+- [More filmmakers today should study Kurosawa](https://www.amon-hen.com/movies/31237)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Hum Cheese Crepe](https://www.amon-hen.com/food/31231)
 - [MST3K 0617 – The Sword and the Dragon](https://www.amon-hen.com/television/7116)
 - [No, It’s Not](https://www.amon-hen.com/movies/31229)
 - [Reading – Armageddon: What the Bible Really Says about the End](https://www.amon-hen.com/books/297)
@@ -10,7 +11,6 @@
 - [MST3K Short 0621 – Money Talks!](https://www.amon-hen.com/television/7110)
 - [The Brain from Planet Arous (1957)](https://www.amon-hen.com/movies/31214)
 - [Bump](https://www.amon-hen.com/music/31139)
-- [How should I read the Dune series?](https://www.amon-hen.com/books/31201)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -27,6 +27,7 @@
 
 
 ## [Storage B](https://www.storage-b.com)
+- [How To Regex](https://www.storage-b.com/humor/951)
 - [Nightmare Fuel from Bing Image Creator](https://www.storage-b.com/ai/908)
 - [We’re Safe](https://www.storage-b.com/ai/904)
 - [Enjoy Your AI-generated Work](https://www.storage-b.com/ai/901)
@@ -36,7 +37,6 @@
 - [Absolute Nightmare](https://www.storage-b.com/www/874)
 - [Framework Comparison](https://www.storage-b.com/humor/864)
 - [More Stupidity](https://www.storage-b.com/www/859)
-- [Mastodon](https://www.storage-b.com/www/857)
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>We are using Linux daily to UP our productivity - so UP yours!</em><br /> -- Adapted from Pat Paulsen by Joe Sloan</p>
+<p><em>There's an old saying about those who forget history. I don't remember it, but it's good.</em><br /> -- Stephen Colbert</p>
