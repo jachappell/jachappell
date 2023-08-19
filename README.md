@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [More filmmakers today should study Kurosawa](https://www.amon-hen.com/movies/31237)
+- [So Many Layers of Colour Become a Deep Purple Heart (To Steve Reich)](https://www.amon-hen.com/music/31141)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [More filmmakers today should study Kurosawa](https://www.amon-hen.com/movies/31237)
 - [Mmmm, Hum Cheese Crepe](https://www.amon-hen.com/food/31231)
 - [MST3K 0617 – The Sword and the Dragon](https://www.amon-hen.com/television/7116)
 - [No, It’s Not](https://www.amon-hen.com/movies/31229)
@@ -10,7 +11,6 @@
 - [2023 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/31194)
 - [MST3K Short 0621 – Money Talks!](https://www.amon-hen.com/television/7110)
 - [The Brain from Planet Arous (1957)](https://www.amon-hen.com/movies/31214)
-- [Bump](https://www.amon-hen.com/music/31139)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>There's an old saying about those who forget history. I don't remember it, but it's good.</em><br /> -- Stephen Colbert</p>
+<p><em>In my land, women are for advancing the race, not for fighting man's battles.</em><br /> -- Eros (<em>Plan 9 from Outer Space</em>)</p>
