@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Galaxy Invader (1985)](https://www.amon-hen.com/movies/31246)
+- [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Galaxy Invader (1985)](https://www.amon-hen.com/movies/31246)
 - [So Many Layers of Colour Become a Deep Purple Heart (To Steve Reich)](https://www.amon-hen.com/music/31141)
 - [More filmmakers today should study Kurosawa](https://www.amon-hen.com/movies/31237)
 - [Mmmm, Hum Cheese Crepe](https://www.amon-hen.com/food/31231)
@@ -10,7 +11,6 @@
 - [No, It’s Not](https://www.amon-hen.com/movies/31229)
 - [Reading – Armageddon: What the Bible Really Says about the End](https://www.amon-hen.com/books/297)
 - [2023 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/31194)
-- [MST3K Short 0621 – Money Talks!](https://www.amon-hen.com/television/7110)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I saw </em>Wedding Crashers<em> accidentally. I bought a ticket for </em>Grizzly Man<em> and went into the wrong theater. After an hour, I figured I was in the wrong theater, but I kept waiting. Because that's the thing about bear attacks, they come when you least expect it.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>A banker is a fellow who lends you his umbrella when the sun is shining and wants it back the minute it begins to rain.</em><br /> -- Mark Twain</p>
