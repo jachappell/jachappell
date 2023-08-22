@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
+- [A Quantum Fields Uber-Theory](https://www.amon-hen.com/science/31250)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
 - [Galaxy Invader (1985)](https://www.amon-hen.com/movies/31246)
 - [So Many Layers of Colour Become a Deep Purple Heart (To Steve Reich)](https://www.amon-hen.com/music/31141)
 - [More filmmakers today should study Kurosawa](https://www.amon-hen.com/movies/31237)
@@ -10,12 +11,12 @@
 - [MST3K 0617 – The Sword and the Dragon](https://www.amon-hen.com/television/7116)
 - [No, It’s Not](https://www.amon-hen.com/movies/31229)
 - [Reading – Armageddon: What the Bible Really Says about the End](https://www.amon-hen.com/books/297)
-- [2023 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/31194)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
 - [Mount Vernon, OH (2023)](https://www.drum-corps.net/scores/dca/2878)
 - [Bushwackers Invitational (2023)](https://www.drum-corps.net/scores/dca/2876)
+- [Drum Corps World – August 18, 2023](https://www.drum-corps.net/news/2883)
 - [Troopers Legacy Corps (2023)](https://www.drum-corps.net/history/2873)
 - [2023 DCI World Championship World Class Finals](https://www.drum-corps.net/scores/dci/2864)
 - [2023 SoundSport International Music & Food Festival](https://www.drum-corps.net/news/2869)
@@ -23,7 +24,6 @@
 - [Drum Corps International and Visit Indy announce multi-year contract extension](https://www.drum-corps.net/news/2858)
 - [2023 DCI World Championship World Class Prelims](https://www.drum-corps.net/scores/dci/2854)
 - [2023 DCI World Championship Open Class Finals](https://www.drum-corps.net/scores/dci/2848)
-- [2023 DCI World Championship Open Class Prelims](https://www.drum-corps.net/scores/dci/2843)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>A banker is a fellow who lends you his umbrella when the sun is shining and wants it back the minute it begins to rain.</em><br /> -- Mark Twain</p>
+<p><em>We're not your classic heros.  We're the other guys.</em><br /> -- The Shoveler</p>
