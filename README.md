@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [A Quantum Fields Uber-Theory](https://www.amon-hen.com/science/31250)
+- [MST3K 0618 – High School Big Shot](https://www.amon-hen.com/television/14609)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [A Quantum Fields Uber-Theory](https://www.amon-hen.com/science/31250)
 - [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
 - [Galaxy Invader (1985)](https://www.amon-hen.com/movies/31246)
 - [So Many Layers of Colour Become a Deep Purple Heart (To Steve Reich)](https://www.amon-hen.com/music/31141)
@@ -10,11 +11,10 @@
 - [Mmmm, Hum Cheese Crepe](https://www.amon-hen.com/food/31231)
 - [MST3K 0617 – The Sword and the Dragon](https://www.amon-hen.com/television/7116)
 - [No, It’s Not](https://www.amon-hen.com/movies/31229)
-- [Reading – Armageddon: What the Bible Really Says about the End](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
-- [Mount Vernon, OH (2023)](https://www.drum-corps.net/scores/dca/2878)
+- [Saints Showcase (2023)](https://www.drum-corps.net/scores/dca/2878)
 - [Bushwackers Invitational (2023)](https://www.drum-corps.net/scores/dca/2876)
 - [Drum Corps World – August 18, 2023](https://www.drum-corps.net/news/2883)
 - [Troopers Legacy Corps (2023)](https://www.drum-corps.net/history/2873)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>We're not your classic heros.  We're the other guys.</em><br /> -- The Shoveler</p>
+<p><em>For animals, the entire universe has been neatly divided into things to (a) mate with, (b) eat, (c) run away from, and (d) rocks.</em><br /> -- Terry Pratchett (<em>Equal Rites</em>)</p>
