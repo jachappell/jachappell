@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0618 – High School Big Shot](https://www.amon-hen.com/television/14609)
+- [Mmmm, Blandy](https://www.amon-hen.com/food/31258)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0618 – High School Big Shot](https://www.amon-hen.com/television/14609)
 - [A Quantum Fields Uber-Theory](https://www.amon-hen.com/science/31250)
 - [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
 - [Galaxy Invader (1985)](https://www.amon-hen.com/movies/31246)
@@ -10,7 +11,6 @@
 - [More filmmakers today should study Kurosawa](https://www.amon-hen.com/movies/31237)
 - [Mmmm, Hum Cheese Crepe](https://www.amon-hen.com/food/31231)
 - [MST3K 0617 – The Sword and the Dragon](https://www.amon-hen.com/television/7116)
-- [No, It’s Not](https://www.amon-hen.com/movies/31229)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>For animals, the entire universe has been neatly divided into things to (a) mate with, (b) eat, (c) run away from, and (d) rocks.</em><br /> -- Terry Pratchett (<em>Equal Rites</em>)</p>
+<p><em>I went home with a waitress,<br /> The way I always do.<br /> How I was I to know?<br /> She was with the Russians too.<br /><br /> I was gambling in Havana,<br /> I took a little risk.<br /> Send lawyers, guns, and money,<br /> Dad, get me out of this.</em><br /> -- Warren Zevon, "Lawyers, Guns and Money"</p>
