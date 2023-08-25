@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Blandy](https://www.amon-hen.com/food/31258)
+- [A quick reminder](https://www.amon-hen.com/politics/31264)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Blandy](https://www.amon-hen.com/food/31258)
 - [MST3K 0618 – High School Big Shot](https://www.amon-hen.com/television/14609)
 - [A Quantum Fields Uber-Theory](https://www.amon-hen.com/science/31250)
 - [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
@@ -10,7 +11,6 @@
 - [So Many Layers of Colour Become a Deep Purple Heart (To Steve Reich)](https://www.amon-hen.com/music/31141)
 - [More filmmakers today should study Kurosawa](https://www.amon-hen.com/movies/31237)
 - [Mmmm, Hum Cheese Crepe](https://www.amon-hen.com/food/31231)
-- [MST3K 0617 – The Sword and the Dragon](https://www.amon-hen.com/television/7116)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I went home with a waitress,<br /> The way I always do.<br /> How I was I to know?<br /> She was with the Russians too.<br /><br /> I was gambling in Havana,<br /> I took a little risk.<br /> Send lawyers, guns, and money,<br /> Dad, get me out of this.</em><br /> -- Warren Zevon, "Lawyers, Guns and Money"</p>
+<p><em>Let's face it, comedy is a dead art form.  Now tragedy, ha ha ha, that's funny!</em><br /> -- Bender Unit 22</p>
