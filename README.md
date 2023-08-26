@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [A quick reminder](https://www.amon-hen.com/politics/31264)
+- [Wuthering Heights](https://www.amon-hen.com/music/20368)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [A quick reminder](https://www.amon-hen.com/politics/31264)
 - [Mmmm, Blandy](https://www.amon-hen.com/food/31258)
 - [MST3K 0618 – High School Big Shot](https://www.amon-hen.com/television/14609)
 - [A Quantum Fields Uber-Theory](https://www.amon-hen.com/science/31250)
@@ -10,7 +11,6 @@
 - [Galaxy Invader (1985)](https://www.amon-hen.com/movies/31246)
 - [So Many Layers of Colour Become a Deep Purple Heart (To Steve Reich)](https://www.amon-hen.com/music/31141)
 - [More filmmakers today should study Kurosawa](https://www.amon-hen.com/movies/31237)
-- [Mmmm, Hum Cheese Crepe](https://www.amon-hen.com/food/31231)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Let's face it, comedy is a dead art form.  Now tragedy, ha ha ha, that's funny!</em><br /> -- Bender Unit 22</p>
+<p><em>Adventure is just bad planning.</em><br /> -- Roald Amundsen</p>
