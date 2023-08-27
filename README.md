@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Wuthering Heights](https://www.amon-hen.com/music/20368)
+- [The Beach Girls and the Monster (1965)](https://www.amon-hen.com/movies/31270)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Wuthering Heights](https://www.amon-hen.com/music/20368)
 - [A quick reminder](https://www.amon-hen.com/politics/31264)
 - [Mmmm, Blandy](https://www.amon-hen.com/food/31258)
 - [MST3K 0618 – High School Big Shot](https://www.amon-hen.com/television/14609)
@@ -10,10 +11,10 @@
 - [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
 - [Galaxy Invader (1985)](https://www.amon-hen.com/movies/31246)
 - [So Many Layers of Colour Become a Deep Purple Heart (To Steve Reich)](https://www.amon-hen.com/music/31141)
-- [More filmmakers today should study Kurosawa](https://www.amon-hen.com/movies/31237)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Reading Show (2023)](https://www.drum-corps.net/scores/dca/2887)
 - [Saints Showcase (2023)](https://www.drum-corps.net/scores/dca/2878)
 - [Bushwackers Invitational (2023)](https://www.drum-corps.net/scores/dca/2876)
 - [Drum Corps World – August 18, 2023](https://www.drum-corps.net/news/2883)
@@ -23,7 +24,6 @@
 - [2023 DCI World Championship World Class Semifinals](https://www.drum-corps.net/scores/dci/2860)
 - [Drum Corps International and Visit Indy announce multi-year contract extension](https://www.drum-corps.net/news/2858)
 - [2023 DCI World Championship World Class Prelims](https://www.drum-corps.net/scores/dci/2854)
-- [2023 DCI World Championship Open Class Finals](https://www.drum-corps.net/scores/dci/2848)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Adventure is just bad planning.</em><br /> -- Roald Amundsen</p>
+<p><em>It is important that students bring a certain ragamuffin, barefoot, irreverence to their studies; they are not here to worship what is known, but to question it.</em><br /> -- Jacob Bronowski</p>
