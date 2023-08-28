@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Beach Girls and the Monster (1965)](https://www.amon-hen.com/movies/31270)
+- [Reading: 11/22/63](https://www.amon-hen.com/books/297)
+- [MST3K Short 0320 – Appreciating Our Parents](https://www.amon-hen.com/television/7405)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Beach Girls and the Monster (1965)](https://www.amon-hen.com/movies/31270)
 - [Wuthering Heights](https://www.amon-hen.com/music/20368)
 - [A quick reminder](https://www.amon-hen.com/politics/31264)
 - [Mmmm, Blandy](https://www.amon-hen.com/food/31258)
 - [MST3K 0618 – High School Big Shot](https://www.amon-hen.com/television/14609)
 - [A Quantum Fields Uber-Theory](https://www.amon-hen.com/science/31250)
 - [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
-- [Galaxy Invader (1985)](https://www.amon-hen.com/movies/31246)
-- [So Many Layers of Colour Become a Deep Purple Heart (To Steve Reich)](https://www.amon-hen.com/music/31141)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It is important that students bring a certain ragamuffin, barefoot, irreverence to their studies; they are not here to worship what is known, but to question it.</em><br /> -- Jacob Bronowski</p>
+<p><em>I think it's wrong that only one company makes the game Monopoly.</em><br /> -- Steven Wright</p>
