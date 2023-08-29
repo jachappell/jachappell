@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [How do mathematical models help predict the future?](https://www.amon-hen.com/science/31293)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: 11/22/63](https://www.amon-hen.com/books/297)
 - [MST3K Short 0320 – Appreciating Our Parents](https://www.amon-hen.com/television/7405)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Beach Girls and the Monster (1965)](https://www.amon-hen.com/movies/31270)
 - [Wuthering Heights](https://www.amon-hen.com/music/20368)
 - [A quick reminder](https://www.amon-hen.com/politics/31264)
 - [Mmmm, Blandy](https://www.amon-hen.com/food/31258)
 - [MST3K 0618 – High School Big Shot](https://www.amon-hen.com/television/14609)
 - [A Quantum Fields Uber-Theory](https://www.amon-hen.com/science/31250)
-- [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I think it's wrong that only one company makes the game Monopoly.</em><br /> -- Steven Wright</p>
+<p><em>What's another word for </em>thesaurus<em>?</em><br /> -- Stephen Wright</p>
