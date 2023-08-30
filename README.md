@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [How do mathematical models help predict the future?](https://www.amon-hen.com/science/31293)
+- [MST3K 0619 – Red Zone Cuba](https://www.amon-hen.com/television/3373)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [How do mathematical models help predict the future?](https://www.amon-hen.com/science/31293)
 - [Reading: 11/22/63](https://www.amon-hen.com/books/297)
 - [MST3K Short 0320 – Appreciating Our Parents](https://www.amon-hen.com/television/7405)
 - [The Beach Girls and the Monster (1965)](https://www.amon-hen.com/movies/31270)
@@ -10,7 +11,6 @@
 - [A quick reminder](https://www.amon-hen.com/politics/31264)
 - [Mmmm, Blandy](https://www.amon-hen.com/food/31258)
 - [MST3K 0618 – High School Big Shot](https://www.amon-hen.com/television/14609)
-- [A Quantum Fields Uber-Theory](https://www.amon-hen.com/science/31250)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>What's another word for </em>thesaurus<em>?</em><br /> -- Stephen Wright</p>
+<p><em>OK, but I don't want anyone thinking we're robosexuals.</em><br /> -- Bender Unit 22</p>
