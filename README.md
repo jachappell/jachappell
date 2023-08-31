@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0619 – Red Zone Cuba](https://www.amon-hen.com/television/3373)
+- [Mmmm, Healthful Vegetable Foods](https://www.amon-hen.com/food/31274)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0619 – Red Zone Cuba](https://www.amon-hen.com/television/3373)
 - [How do mathematical models help predict the future?](https://www.amon-hen.com/science/31293)
 - [Reading: 11/22/63](https://www.amon-hen.com/books/297)
 - [MST3K Short 0320 – Appreciating Our Parents](https://www.amon-hen.com/television/7405)
@@ -10,10 +11,10 @@
 - [Wuthering Heights](https://www.amon-hen.com/music/20368)
 - [A quick reminder](https://www.amon-hen.com/politics/31264)
 - [Mmmm, Blandy](https://www.amon-hen.com/food/31258)
-- [MST3K 0618 – High School Big Shot](https://www.amon-hen.com/television/14609)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Virtual Show 2 (2023)](https://www.drum-corps.net/scores/dca/2894)
 - [Reading Show (2023)](https://www.drum-corps.net/scores/dca/2887)
 - [Saints Showcase (2023)](https://www.drum-corps.net/scores/dca/2878)
 - [Bushwackers Invitational (2023)](https://www.drum-corps.net/scores/dca/2876)
@@ -23,7 +24,6 @@
 - [2023 SoundSport International Music & Food Festival](https://www.drum-corps.net/news/2869)
 - [2023 DCI World Championship World Class Semifinals](https://www.drum-corps.net/scores/dci/2860)
 - [Drum Corps International and Visit Indy announce multi-year contract extension](https://www.drum-corps.net/news/2858)
-- [2023 DCI World Championship World Class Prelims](https://www.drum-corps.net/scores/dci/2854)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>OK, but I don't want anyone thinking we're robosexuals.</em><br /> -- Bender Unit 22</p>
+<p><em>Several years ago, some smart businessmen had an idea: Why not build a big store where a do-it-yourselfer could get everything he needed at reasonable prices?  Then they decided, nah, the hell with that, let's build a home center.  And before long home centers were springing up like crabgrass all over the United States.</em><br /> -- Dave Barry</p>
