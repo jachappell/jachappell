@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Healthful Vegetable Foods](https://www.amon-hen.com/food/31274)
+- [Abortion in a later stage of pregnancy](https://www.amon-hen.com/politics/31297)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Healthful Vegetable Foods](https://www.amon-hen.com/food/31274)
 - [MST3K 0619 – Red Zone Cuba](https://www.amon-hen.com/television/3373)
 - [How do mathematical models help predict the future?](https://www.amon-hen.com/science/31293)
 - [Reading: 11/22/63](https://www.amon-hen.com/books/297)
@@ -10,7 +11,6 @@
 - [The Beach Girls and the Monster (1965)](https://www.amon-hen.com/movies/31270)
 - [Wuthering Heights](https://www.amon-hen.com/music/20368)
 - [A quick reminder](https://www.amon-hen.com/politics/31264)
-- [Mmmm, Blandy](https://www.amon-hen.com/food/31258)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Several years ago, some smart businessmen had an idea: Why not build a big store where a do-it-yourselfer could get everything he needed at reasonable prices?  Then they decided, nah, the hell with that, let's build a home center.  And before long home centers were springing up like crabgrass all over the United States.</em><br /> -- Dave Barry</p>
+<p><em>You see?  You see?  Your stupid minds!  Stupid!  Stupid!</em><br /> -- Eros (<em>Plan 9 from Outer Space</em>)</p>
