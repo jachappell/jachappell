@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Spill](https://www.amon-hen.com/music/31151)
+- [The Blob (1958)](https://www.amon-hen.com/movies/31198)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Spill](https://www.amon-hen.com/music/31151)
 - [Abortion in a later stage of pregnancy](https://www.amon-hen.com/politics/31297)
 - [Mmmm, Healthful Vegetable Foods](https://www.amon-hen.com/food/31274)
 - [MST3K 0619 – Red Zone Cuba](https://www.amon-hen.com/television/3373)
@@ -10,10 +11,10 @@
 - [Reading: 11/22/63](https://www.amon-hen.com/books/297)
 - [MST3K Short 0320 – Appreciating Our Parents](https://www.amon-hen.com/television/7405)
 - [The Beach Girls and the Monster (1965)](https://www.amon-hen.com/movies/31270)
-- [Wuthering Heights](https://www.amon-hen.com/music/20368)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [2023 DCA World Championships Prelims](https://www.drum-corps.net/scores/dca/2899)
 - [Virtual Show 2 (2023)](https://www.drum-corps.net/scores/dca/2894)
 - [Reading Show (2023)](https://www.drum-corps.net/scores/dca/2887)
 - [Saints Showcase (2023)](https://www.drum-corps.net/scores/dca/2878)
@@ -23,7 +24,6 @@
 - [2023 DCI World Championship World Class Finals](https://www.drum-corps.net/scores/dci/2864)
 - [2023 SoundSport International Music & Food Festival](https://www.drum-corps.net/news/2869)
 - [2023 DCI World Championship World Class Semifinals](https://www.drum-corps.net/scores/dci/2860)
-- [Drum Corps International and Visit Indy announce multi-year contract extension](https://www.drum-corps.net/news/2858)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You must've torn out the "Q" section in my dictionary, because I don't know the meaning of the word "quit"!</em><br /> -- Mr. Furious</p>
+<p><em>A funny thing to do is, if you're out hiking and your friend gets bitten by a poisonous snake, tell him you're going to go for help, then go about ten feet and pretend that *you* got bit by a snake. Then start an argument with him about who's going to go get help. A lot of guys will start crying. That's why it makes you feel good when you tell them it was just a joke.</em><br /> -- Jack Handey</p>
