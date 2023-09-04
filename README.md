@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Blob (1958)](https://www.amon-hen.com/movies/31198)
+- [MST3K Short 0320 – Posture Pals](https://www.amon-hen.com/television/6108)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Blob (1958)](https://www.amon-hen.com/movies/31198)
 - [Spill](https://www.amon-hen.com/music/31151)
 - [Abortion in a later stage of pregnancy](https://www.amon-hen.com/politics/31297)
 - [Mmmm, Healthful Vegetable Foods](https://www.amon-hen.com/food/31274)
@@ -10,7 +11,6 @@
 - [How do mathematical models help predict the future?](https://www.amon-hen.com/science/31293)
 - [Reading: 11/22/63](https://www.amon-hen.com/books/297)
 - [MST3K Short 0320 – Appreciating Our Parents](https://www.amon-hen.com/television/7405)
-- [The Beach Girls and the Monster (1965)](https://www.amon-hen.com/movies/31270)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>A funny thing to do is, if you're out hiking and your friend gets bitten by a poisonous snake, tell him you're going to go for help, then go about ten feet and pretend that *you* got bit by a snake. Then start an argument with him about who's going to go get help. A lot of guys will start crying. That's why it makes you feel good when you tell them it was just a joke.</em><br /> -- Jack Handey</p>
+<p><em>The more I study religions the more I am convinced that man never worshipped anything but himself.</em><br /> -- Sir Richard F. Burton</p>
