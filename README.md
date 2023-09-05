@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0320 – Posture Pals](https://www.amon-hen.com/television/6108)
+- [2023 DCA World Championships – Rochester, NY](https://www.amon-hen.com/chappells-show/31304)
+- [The physics of music](https://www.amon-hen.com/science/31165)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0320 – Posture Pals](https://www.amon-hen.com/television/6108)
 - [The Blob (1958)](https://www.amon-hen.com/movies/31198)
 - [Spill](https://www.amon-hen.com/music/31151)
 - [Abortion in a later stage of pregnancy](https://www.amon-hen.com/politics/31297)
 - [Mmmm, Healthful Vegetable Foods](https://www.amon-hen.com/food/31274)
 - [MST3K 0619 – Red Zone Cuba](https://www.amon-hen.com/television/3373)
 - [How do mathematical models help predict the future?](https://www.amon-hen.com/science/31293)
-- [Reading: 11/22/63](https://www.amon-hen.com/books/297)
-- [MST3K Short 0320 – Appreciating Our Parents](https://www.amon-hen.com/television/7405)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [2023 DCA World Championships Finals](https://www.drum-corps.net/scores/dca/2901)
 - [2023 DCA World Championships Prelims](https://www.drum-corps.net/scores/dca/2899)
 - [Virtual Show 2 (2023)](https://www.drum-corps.net/scores/dca/2894)
 - [Reading Show (2023)](https://www.drum-corps.net/scores/dca/2887)
@@ -23,7 +24,6 @@
 - [Troopers Legacy Corps (2023)](https://www.drum-corps.net/history/2873)
 - [2023 DCI World Championship World Class Finals](https://www.drum-corps.net/scores/dci/2864)
 - [2023 SoundSport International Music & Food Festival](https://www.drum-corps.net/news/2869)
-- [2023 DCI World Championship World Class Semifinals](https://www.drum-corps.net/scores/dci/2860)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The more I study religions the more I am convinced that man never worshipped anything but himself.</em><br /> -- Sir Richard F. Burton</p>
+<p><em>May the forces of evil become confused on the way to your house.</em><br /> -- George Carlin</p>
