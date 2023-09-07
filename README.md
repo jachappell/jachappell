@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0620 – Danger!! Death Ray](https://www.amon-hen.com/television/14641)
+- [Mmmm, Hot an egg yolk parties](https://www.amon-hen.com/food/31168)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0620 – Danger!! Death Ray](https://www.amon-hen.com/television/14641)
 - [2023 DCA World Championships – Rochester, NY](https://www.amon-hen.com/music/drum-and-bugle-corps/31304)
 - [The physics of music](https://www.amon-hen.com/science/31165)
 - [MST3K Short 0320 – Posture Pals](https://www.amon-hen.com/television/6108)
@@ -10,7 +11,6 @@
 - [Spill](https://www.amon-hen.com/music/31151)
 - [Abortion in a later stage of pregnancy](https://www.amon-hen.com/politics/31297)
 - [Mmmm, Healthful Vegetable Foods](https://www.amon-hen.com/food/31274)
-- [MST3K 0619 – Red Zone Cuba](https://www.amon-hen.com/television/3373)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Whenever you find yourself on the side of the majority, it is time to pause and reflect.</em><br /> -- Mark Twain</p>
+<p><em>There's a fine line between fishing and just standing on the shore like an idiot.</em><br /> -- Stephen Wright</p>
