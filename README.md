@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Galaxy Invader](https://www.amon-hen.com/movies/31272)
+- [Big Mistakes](https://www.amon-hen.com/music/31149)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Galaxy Invader](https://www.amon-hen.com/movies/31272)
 - [Mmmm, Hot an egg yolk parties](https://www.amon-hen.com/food/31168)
 - [MST3K 0620 – Danger!! Death Ray](https://www.amon-hen.com/television/14641)
 - [2023 DCA World Championships – Rochester, NY](https://www.amon-hen.com/music/drum-and-bugle-corps/31304)
@@ -10,7 +11,6 @@
 - [MST3K Short 0320 – Posture Pals](https://www.amon-hen.com/television/6108)
 - [The Blob (1958)](https://www.amon-hen.com/movies/31198)
 - [Spill](https://www.amon-hen.com/music/31151)
-- [Abortion in a later stage of pregnancy](https://www.amon-hen.com/politics/31297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The only function of economic forecasting is to make astrology look respectable.</em><br /> -- John Kenneth Galbraith</p>
+<p><em>Brought to you by the Booze Council - because Booze really satisfies.</em><br /> -- Tom Servo</p>
