@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Big Mistakes](https://www.amon-hen.com/music/31149)
+- [Stargames (1997)](https://www.amon-hen.com/movies/31235)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Big Mistakes](https://www.amon-hen.com/music/31149)
 - [RiffTrax – Galaxy Invader](https://www.amon-hen.com/movies/31272)
 - [Mmmm, Hot an egg yolk parties](https://www.amon-hen.com/food/31168)
 - [MST3K 0620 – Danger!! Death Ray](https://www.amon-hen.com/television/14641)
@@ -10,10 +11,10 @@
 - [The physics of music](https://www.amon-hen.com/science/31165)
 - [MST3K Short 0320 – Posture Pals](https://www.amon-hen.com/television/6108)
 - [The Blob (1958)](https://www.amon-hen.com/movies/31198)
-- [Spill](https://www.amon-hen.com/music/31151)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [VMAPA Announces New CEO and Plan for Return of the Santa Clara Vanguard in 2024](https://www.drum-corps.net/news/2909)
 - [2023 DCA World Championships Finals](https://www.drum-corps.net/scores/dca/2901)
 - [2023 DCA World Championships Prelims](https://www.drum-corps.net/scores/dca/2899)
 - [Virtual Show 2 (2023)](https://www.drum-corps.net/scores/dca/2894)
@@ -23,7 +24,6 @@
 - [Drum Corps World – August 18, 2023](https://www.drum-corps.net/news/2883)
 - [Troopers Legacy Corps (2023)](https://www.drum-corps.net/history/2873)
 - [2023 DCI World Championship World Class Finals](https://www.drum-corps.net/scores/dci/2864)
-- [2023 SoundSport International Music & Food Festival](https://www.drum-corps.net/news/2869)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Brought to you by the Booze Council - because Booze really satisfies.</em><br /> -- Tom Servo</p>
+<p><em>Don't try to outweird me, three-eyes.  I get stranger things than you free with my breakfast cereal.</em><br /> -- Zaphod Beeblebrox</p>
