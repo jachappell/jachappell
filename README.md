@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0406 – Undersea Kingdom 1](https://www.amon-hen.com/television/9714)
+- [Reading: American Prometheus](https://www.amon-hen.com/books/297)
+- [Conservative Activists Worked Together to Exploit Citizens United Ruling](https://www.amon-hen.com/politics/31313)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0406 – Undersea Kingdom 1](https://www.amon-hen.com/television/9714)
 - [Stargames (1997)](https://www.amon-hen.com/movies/31235)
 - [Big Mistakes](https://www.amon-hen.com/music/31149)
 - [RiffTrax – Galaxy Invader](https://www.amon-hen.com/movies/31272)
 - [Mmmm, Hot an egg yolk parties](https://www.amon-hen.com/food/31168)
 - [MST3K 0620 – Danger!! Death Ray](https://www.amon-hen.com/television/14641)
 - [2023 DCA World Championships – Rochester, NY](https://www.amon-hen.com/music/drum-and-bugle-corps/31304)
-- [The physics of music](https://www.amon-hen.com/science/31165)
-- [MST3K Short 0320 – Posture Pals](https://www.amon-hen.com/television/6108)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>We tend to scoff at the beliefs of the ancients.  But we can't scoff at them personally, to their faces, and this is what annoys me.</em><br /> -- Jack Handey</p>
+<p><em>Consistently separating words by spaces became a general custom about the tenth century, and lasted until about 1957, when FORTRAN abandoned the practise.</em><br /> -- Sun FORTRAN Reference Manual</p>
