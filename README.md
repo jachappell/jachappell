@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K 0621 – The Beast Of Yucca Flats](https://www.amon-hen.com/television/3303)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: American Prometheus](https://www.amon-hen.com/books/297)
 - [Conservative Activists Worked Together to Exploit Citizens United Ruling](https://www.amon-hen.com/politics/31313)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K Short 0406 – Undersea Kingdom 1](https://www.amon-hen.com/television/9714)
 - [Stargames (1997)](https://www.amon-hen.com/movies/31235)
 - [Big Mistakes](https://www.amon-hen.com/music/31149)
 - [RiffTrax – Galaxy Invader](https://www.amon-hen.com/movies/31272)
 - [Mmmm, Hot an egg yolk parties](https://www.amon-hen.com/food/31168)
 - [MST3K 0620 – Danger!! Death Ray](https://www.amon-hen.com/television/14641)
-- [2023 DCA World Championships – Rochester, NY](https://www.amon-hen.com/music/drum-and-bugle-corps/31304)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Consistently separating words by spaces became a general custom about the tenth century, and lasted until about 1957, when FORTRAN abandoned the practise.</em><br /> -- Sun FORTRAN Reference Manual</p>
+<p><em>What does it mean to pre-board? Do you get on before you get on?</em><br /> -- George Carlin</p>
