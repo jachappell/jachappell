@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Rubbish Fish](https://www.amon-hen.com/food/31333)
+- [Drum Corps’ Tribute to Chuck Mangione](https://www.amon-hen.com/music/drum-and-bugle-corps/31337)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Rubbish Fish](https://www.amon-hen.com/food/31333)
 - [MST3K 0621 – The Beast Of Yucca Flats](https://www.amon-hen.com/television/3303)
 - [Reading: American Prometheus](https://www.amon-hen.com/books/297)
 - [Conservative Activists Worked Together to Exploit Citizens United Ruling](https://www.amon-hen.com/politics/31313)
@@ -10,10 +11,10 @@
 - [Stargames (1997)](https://www.amon-hen.com/movies/31235)
 - [Big Mistakes](https://www.amon-hen.com/music/31149)
 - [RiffTrax – Galaxy Invader](https://www.amon-hen.com/movies/31272)
-- [Mmmm, Hot an egg yolk parties](https://www.amon-hen.com/food/31168)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps’ Tribute to Chuck Mangione](https://www.drum-corps.net/history/2915)
 - [VMAPA Announces New CEO and Plan for Return of the Santa Clara Vanguard in 2024](https://www.drum-corps.net/news/2909)
 - [2023 DCA World Championships Finals](https://www.drum-corps.net/scores/dca/2901)
 - [2023 DCA World Championships Prelims](https://www.drum-corps.net/scores/dca/2899)
@@ -23,7 +24,6 @@
 - [Bushwackers Invitational (2023)](https://www.drum-corps.net/scores/dca/2876)
 - [Drum Corps World – August 18, 2023](https://www.drum-corps.net/news/2883)
 - [Troopers Legacy Corps (2023)](https://www.drum-corps.net/history/2873)
-- [2023 DCI World Championship World Class Finals](https://www.drum-corps.net/scores/dci/2864)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You can't crush ideas by suppressing them. You can only crush them by ignoring them.</em><br /> -- Ursula K. Le Guin</p>
+<p><em>The priests used to say that faith can move mountains, and nobody believed them. Today the scientists say that they can level mountains, and nobody doubts them.</em><br /> -- Joseph Campbell</p>
