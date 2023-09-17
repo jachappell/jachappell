@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Push](https://www.amon-hen.com/music/31344)
+- [I Accuse My Parents (1944)](https://www.amon-hen.com/movies/31347)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Push](https://www.amon-hen.com/music/31344)
 - [Drum Corps’ Tribute to Chuck Mangione](https://www.amon-hen.com/music/drum-and-bugle-corps/31337)
 - [Mmmm, Rubbish Fish](https://www.amon-hen.com/food/31333)
 - [MST3K 0621 – The Beast Of Yucca Flats](https://www.amon-hen.com/television/3303)
@@ -10,7 +11,6 @@
 - [Conservative Activists Worked Together to Exploit Citizens United Ruling](https://www.amon-hen.com/politics/31313)
 - [MST3K Short 0406 – Undersea Kingdom 1](https://www.amon-hen.com/television/9714)
 - [Stargames (1997)](https://www.amon-hen.com/movies/31235)
-- [Big Mistakes](https://www.amon-hen.com/music/31149)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -27,6 +27,7 @@
 
 
 ## [Storage B](https://www.storage-b.com)
+- [Full Interview With the Creator of C++](https://www.storage-b.com/c/962)
 - [How To Regex](https://www.storage-b.com/humor/951)
 - [Nightmare Fuel from Bing Image Creator](https://www.storage-b.com/ai/908)
 - [We’re Safe](https://www.storage-b.com/ai/904)
@@ -36,7 +37,6 @@
 - [Hewlett Packard Then and Now](https://www.storage-b.com/humor/881)
 - [Absolute Nightmare](https://www.storage-b.com/www/874)
 - [Framework Comparison](https://www.storage-b.com/humor/864)
-- [More Stupidity](https://www.storage-b.com/www/859)
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>At first I thought, if I were Superman, a perfect secret identity would be "Clark Kent, Dentist," because you could save money on tooth X-rays. But then I thought, if a patient said, "How's my back tooth?" and you just looked at it with your X-ray vision and said, "Oh it's okay," then the patient would probably say, "Aren't you going to take an X-ray, stupid?" and you'd say, "Aw fuck you, get outta here," and then he probably wouldn't even pay his bill.</em><br /> -- Jack Handey</p>
+<p><em>Traffic signals in New York are just rough guidelines.</em><br /> -- David Letterman</p>
