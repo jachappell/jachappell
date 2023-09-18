@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [I Accuse My Parents (1944)](https://www.amon-hen.com/movies/31347)
+- [MST3K Short 0407 – Junior Rodeo Daredevils](https://www.amon-hen.com/television/7246)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [I Accuse My Parents (1944)](https://www.amon-hen.com/movies/31347)
 - [Push](https://www.amon-hen.com/music/31344)
 - [Drum Corps’ Tribute to Chuck Mangione](https://www.amon-hen.com/music/drum-and-bugle-corps/31337)
 - [Mmmm, Rubbish Fish](https://www.amon-hen.com/food/31333)
@@ -10,7 +11,6 @@
 - [Reading: American Prometheus](https://www.amon-hen.com/books/297)
 - [Conservative Activists Worked Together to Exploit Citizens United Ruling](https://www.amon-hen.com/politics/31313)
 - [MST3K Short 0406 – Undersea Kingdom 1](https://www.amon-hen.com/television/9714)
-- [Stargames (1997)](https://www.amon-hen.com/movies/31235)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Traffic signals in New York are just rough guidelines.</em><br /> -- David Letterman</p>
+<p><em>Science is like sex: sometimes something useful comes out, but that is not the reason we are doing it.</em><br /> -- Richard P. Feynman</p>
