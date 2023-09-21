@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Mmmm, Ham and  Banana Hollandaise](https://www.amon-hen.com/food/31360)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0622 – Angels Revenge](https://www.amon-hen.com/television/14658)
 - [Talk Like a Pirate Day](https://www.amon-hen.com/weirdness/1025)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [What has the James Webb Space Telescope discovered in its first year?](https://www.amon-hen.com/science/31350)
 - [MST3K Short 0407 – Junior Rodeo Daredevils](https://www.amon-hen.com/television/7246)
 - [I Accuse My Parents (1944)](https://www.amon-hen.com/movies/31347)
 - [Push](https://www.amon-hen.com/music/31344)
 - [Drum Corps’ Tribute to Chuck Mangione](https://www.amon-hen.com/music/drum-and-bugle-corps/31337)
 - [Mmmm, Rubbish Fish](https://www.amon-hen.com/food/31333)
-- [MST3K 0621 – The Beast Of Yucca Flats](https://www.amon-hen.com/television/3303)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Art is making something out of nothing and selling it.</em><br /> -- Frank Zappa</p>
+<p><em>The whole point of this country is if you wanna eat garbage, balloon up to 600 pounds and die of a heart attack at 43, you can! You are free to do so! To me, that's beautiful.</em><br /> -- Ron Swanson</p>
