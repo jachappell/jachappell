@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Ham and  Banana Hollandaise](https://www.amon-hen.com/food/31360)
+- [If Elon wasn’t on Twitter…](https://www.amon-hen.com/politics/31371)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Ham and  Banana Hollandaise](https://www.amon-hen.com/food/31360)
 - [MST3K 0622 – Angels Revenge](https://www.amon-hen.com/television/14658)
 - [Talk Like a Pirate Day](https://www.amon-hen.com/weirdness/1025)
 - [What has the James Webb Space Telescope discovered in its first year?](https://www.amon-hen.com/science/31350)
@@ -10,7 +11,6 @@
 - [I Accuse My Parents (1944)](https://www.amon-hen.com/movies/31347)
 - [Push](https://www.amon-hen.com/music/31344)
 - [Drum Corps’ Tribute to Chuck Mangione](https://www.amon-hen.com/music/drum-and-bugle-corps/31337)
-- [Mmmm, Rubbish Fish](https://www.amon-hen.com/food/31333)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The whole point of this country is if you wanna eat garbage, balloon up to 600 pounds and die of a heart attack at 43, you can! You are free to do so! To me, that's beautiful.</em><br /> -- Ron Swanson</p>
+<p><em>As great scientists have said and as all children know, it is above all by the imagination that we achieve perception, and compassion, and hope.</em><br /> -- Ursula K. Le Guin</p>
