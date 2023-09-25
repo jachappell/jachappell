@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Dogma (1999)](https://www.amon-hen.com/religion/31387)
+- [MST3K Short 0409 – Undersea Kingdom 2](https://www.amon-hen.com/television/9774)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Dogma (1999)](https://www.amon-hen.com/religion/31387)
 - [Shine](https://www.amon-hen.com/music/15890)
 - [If Elon wasn’t on Twitter…](https://www.amon-hen.com/politics/31371)
 - [Mmmm, Ham and  Banana Hollandaise](https://www.amon-hen.com/food/31360)
@@ -10,7 +11,6 @@
 - [Talk Like a Pirate Day](https://www.amon-hen.com/weirdness/1025)
 - [What has the James Webb Space Telescope discovered in its first year?](https://www.amon-hen.com/science/31350)
 - [MST3K Short 0407 – Junior Rodeo Daredevils](https://www.amon-hen.com/television/7246)
-- [I Accuse My Parents (1944)](https://www.amon-hen.com/movies/31347)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Pudding can't fill the emptiness inside me!  But it'll help.</em><br /> -- Captain Hazel 'Hank' Murphy</p>
+<p><em>Way to go Sparks, you broke the monitor and you're dead. Happy?</em><br /> -- Captain Hazel 'Hank' Murphy</p>
