@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Polarization](https://www.amon-hen.com/politics/31397)
+- [MST3K 0623 – The Amazing Transparent Man](https://www.amon-hen.com/television/7254)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Polarization](https://www.amon-hen.com/politics/31397)
 - [MST3K Short 0409 – Undersea Kingdom 2](https://www.amon-hen.com/television/9774)
 - [Dogma (1999)](https://www.amon-hen.com/religion/31387)
 - [Shine](https://www.amon-hen.com/music/15890)
@@ -10,7 +11,6 @@
 - [Mmmm, Ham and  Banana Hollandaise](https://www.amon-hen.com/food/31360)
 - [MST3K 0622 – Angels Revenge](https://www.amon-hen.com/television/14658)
 - [Talk Like a Pirate Day](https://www.amon-hen.com/weirdness/1025)
-- [What has the James Webb Space Telescope discovered in its first year?](https://www.amon-hen.com/science/31350)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I bet a fun thing would be to go way back in time to where there was going to be an eclipse and tell the cave men, "If I have come to destroy you, may the sun be blotted out from the sky." Just then the eclipse would start, and they'd probably try to kill you or something, but then you could explain about the rotation of the moon and all, and everyone would get a good laugh.</em><br /> -- Jack Handey</p>
+<p><em>The future ain't what it used to be.</em><br /> -- Yogi Berra</p>
