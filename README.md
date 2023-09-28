@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0623 – The Amazing Transparent Man](https://www.amon-hen.com/television/7254)
+- [Mmmm, Full of Health from Milk](https://www.amon-hen.com/food/31401)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0623 – The Amazing Transparent Man](https://www.amon-hen.com/television/7254)
 - [Polarization](https://www.amon-hen.com/politics/31397)
 - [MST3K Short 0409 – Undersea Kingdom 2](https://www.amon-hen.com/television/9774)
 - [Dogma (1999)](https://www.amon-hen.com/religion/31387)
@@ -10,7 +11,6 @@
 - [If Elon wasn’t on Twitter…](https://www.amon-hen.com/politics/31371)
 - [Mmmm, Ham and  Banana Hollandaise](https://www.amon-hen.com/food/31360)
 - [MST3K 0622 – Angels Revenge](https://www.amon-hen.com/television/14658)
-- [Talk Like a Pirate Day](https://www.amon-hen.com/weirdness/1025)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The future ain't what it used to be.</em><br /> -- Yogi Berra</p>
+<p><em>He hoped and prayed that there wasn't an afterlife. Then he realized there was a contradiction involved here and merely hoped that there wasn't an afterlife.</em><br /> -- Douglas Adams</p>
