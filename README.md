@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Full of Health from Milk](https://www.amon-hen.com/food/31401)
+- [RiffTrax – Glasses For Susan](https://www.amon-hen.com/humor/31408)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Full of Health from Milk](https://www.amon-hen.com/food/31401)
 - [MST3K 0623 – The Amazing Transparent Man](https://www.amon-hen.com/television/7254)
 - [Polarization](https://www.amon-hen.com/politics/31397)
 - [MST3K Short 0409 – Undersea Kingdom 2](https://www.amon-hen.com/television/9774)
@@ -10,7 +11,6 @@
 - [Shine](https://www.amon-hen.com/music/15890)
 - [If Elon wasn’t on Twitter…](https://www.amon-hen.com/politics/31371)
 - [Mmmm, Ham and  Banana Hollandaise](https://www.amon-hen.com/food/31360)
-- [MST3K 0622 – Angels Revenge](https://www.amon-hen.com/television/14658)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>He hoped and prayed that there wasn't an afterlife. Then he realized there was a contradiction involved here and merely hoped that there wasn't an afterlife.</em><br /> -- Douglas Adams</p>
+<p><em>Meetings are an addictive, highly self indulgent activity that corporations and other large organizations habitually engage in only becuase they cannot actually masturbate.</em><br /> -- Dave Barry</p>
