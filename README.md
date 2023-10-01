@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Bajo Del Sol](https://www.amon-hen.com/music/31410)
+- [Zachariah (1971)](https://www.amon-hen.com/movies/31412)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Bajo Del Sol](https://www.amon-hen.com/music/31410)
 - [RiffTrax – Glasses For Susan](https://www.amon-hen.com/humor/31408)
 - [Mmmm, Full of Health from Milk](https://www.amon-hen.com/food/31401)
 - [MST3K 0623 – The Amazing Transparent Man](https://www.amon-hen.com/television/7254)
@@ -10,7 +11,6 @@
 - [MST3K Short 0409 – Undersea Kingdom 2](https://www.amon-hen.com/television/9774)
 - [Dogma (1999)](https://www.amon-hen.com/religion/31387)
 - [Shine](https://www.amon-hen.com/music/15890)
-- [If Elon wasn’t on Twitter…](https://www.amon-hen.com/politics/31371)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You see, boy?  The real money's in bootlegging!  Not in your childish vandalism.</em><br /> -- Homer J. Simpson</p>
+<p><em>The right to be heard does not automatically include the right to be taken seriously.</em><br /> -- Hubert H. Humphrey</p>
