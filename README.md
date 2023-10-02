@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Zachariah (1971)](https://www.amon-hen.com/movies/31412)
+- [MST3K Short 0413 – General Hospital 1](https://www.amon-hen.com/television/8717)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Zachariah (1971)](https://www.amon-hen.com/movies/31412)
 - [Bajo Del Sol](https://www.amon-hen.com/music/31410)
 - [RiffTrax – Glasses For Susan](https://www.amon-hen.com/humor/31408)
 - [Mmmm, Full of Health from Milk](https://www.amon-hen.com/food/31401)
@@ -10,10 +11,10 @@
 - [Polarization](https://www.amon-hen.com/politics/31397)
 - [MST3K Short 0409 – Undersea Kingdom 2](https://www.amon-hen.com/television/9774)
 - [Dogma (1999)](https://www.amon-hen.com/religion/31387)
-- [Shine](https://www.amon-hen.com/music/15890)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – October 2023](https://www.drum-corps.net/news/2934)
 - [Robert W. Smith, pioneer of “original” drum corps compositions, dies at 64](https://www.drum-corps.net/news/2921)
 - [Drum Corps World – September 2023](https://www.drum-corps.net/news/2918)
 - [Drum Corps’ Tribute to Chuck Mangione](https://www.drum-corps.net/history/2915)
@@ -23,7 +24,6 @@
 - [Virtual Show 2 (2023)](https://www.drum-corps.net/scores/dca/2894)
 - [Reading Show (2023)](https://www.drum-corps.net/scores/dca/2887)
 - [Saints Showcase (2023)](https://www.drum-corps.net/scores/dca/2878)
-- [Bushwackers Invitational (2023)](https://www.drum-corps.net/scores/dca/2876)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The right to be heard does not automatically include the right to be taken seriously.</em><br /> -- Hubert H. Humphrey</p>
+<p><em>Someday, I want to go to a site that proclaims a miracle and see a real miracle, like a pie miraculously floating above my keyboard, or a MySpace page that doesn't look like technicolor vomit.</em><br /> -- PZ Myers</p>
