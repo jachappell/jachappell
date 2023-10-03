@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0413 – General Hospital 1](https://www.amon-hen.com/television/8717)
+- [Prison Health Care](https://www.amon-hen.com/politics/31422)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0413 – General Hospital 1](https://www.amon-hen.com/television/8717)
 - [Zachariah (1971)](https://www.amon-hen.com/movies/31412)
 - [Bajo Del Sol](https://www.amon-hen.com/music/31410)
 - [RiffTrax – Glasses For Susan](https://www.amon-hen.com/humor/31408)
@@ -10,7 +11,6 @@
 - [MST3K 0623 – The Amazing Transparent Man](https://www.amon-hen.com/television/7254)
 - [Polarization](https://www.amon-hen.com/politics/31397)
 - [MST3K Short 0409 – Undersea Kingdom 2](https://www.amon-hen.com/television/9774)
-- [Dogma (1999)](https://www.amon-hen.com/religion/31387)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Someday, I want to go to a site that proclaims a miracle and see a real miracle, like a pie miraculously floating above my keyboard, or a MySpace page that doesn't look like technicolor vomit.</em><br /> -- PZ Myers</p>
+<p><em>Substitute 'damn' every time you're inclined to write 'very'; your editor will delete it and the writing will be just as it should be.</em><br /> -- Mark Twain</p>
