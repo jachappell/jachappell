@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0624 – Samson vs. the Vampire Women](https://www.amon-hen.com/television/3483)
+- [Ass Cream Cake](https://www.amon-hen.com/food/31428)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0624 – Samson vs. the Vampire Women](https://www.amon-hen.com/television/3483)
 - [Prison Health Care](https://www.amon-hen.com/politics/31422)
 - [MST3K Short 0413 – General Hospital 1](https://www.amon-hen.com/television/8717)
 - [Zachariah (1971)](https://www.amon-hen.com/movies/31412)
@@ -10,7 +11,6 @@
 - [RiffTrax – Glasses For Susan](https://www.amon-hen.com/humor/31408)
 - [Mmmm, Full of Health from Milk](https://www.amon-hen.com/food/31401)
 - [MST3K 0623 – The Amazing Transparent Man](https://www.amon-hen.com/television/7254)
-- [Polarization](https://www.amon-hen.com/politics/31397)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Under my tutelage, you will grow from boys to men. From men into gladiators. And from gladiators into Swansons.</em><br /> -- Ron Swanson</p>
+<p><em>The five main kinds of electricity are alternating current, direct current, lightning, static, and European.  Most American homes have alternating current, which means that the electricity goes in one direction for a while, then goes in the other direction.  This prevents harmful electron buildup in the wires.</em><br /> -- Dave Barry</p>
