@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Voting At 18](https://www.amon-hen.com/politics/31438)
+- [Your Move / I’ve Seen All Good People (Live 1989)](https://www.amon-hen.com/music/31441)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Voting At 18](https://www.amon-hen.com/politics/31438)
 - [Ass Cream Cake](https://www.amon-hen.com/food/31428)
 - [MST3K 0624 – Samson vs. the Vampire Women](https://www.amon-hen.com/television/3483)
 - [Prison Health Care](https://www.amon-hen.com/politics/31422)
@@ -10,7 +11,6 @@
 - [Zachariah (1971)](https://www.amon-hen.com/movies/31412)
 - [Bajo Del Sol](https://www.amon-hen.com/music/31410)
 - [RiffTrax – Glasses For Susan](https://www.amon-hen.com/humor/31408)
-- [Mmmm, Full of Health from Milk](https://www.amon-hen.com/food/31401)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Blasphemy is an epithet bestowed by superstition upon common sense.</em><br /> -- Robert G. Ingersoll</p>
+<p><em>If you're at a Thanksgiving dinner, but you don't like the stuffing or the cranberry sauce or anything else, just pretend like you're eating it, but instead, put it all in your lap and form it into a big mushy ball. Then, later, when you're out back having cigars with the boys, let out a big fake cough and throw the ball to the ground. Then say, "Boy, these are good cigars!"</em><br /> -- Jack Handey</p>
