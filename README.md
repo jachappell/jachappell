@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Your Move / I’ve Seen All Good People (Live 1989)](https://www.amon-hen.com/music/31441)
+- [Dementia 13 (1963)](https://www.amon-hen.com/movies/25557)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Your Move / I’ve Seen All Good People (Live 1989)](https://www.amon-hen.com/music/31441)
 - [RiffTrax – Voting At 18](https://www.amon-hen.com/politics/31438)
 - [Ass Cream Cake](https://www.amon-hen.com/food/31428)
 - [MST3K 0624 – Samson vs. the Vampire Women](https://www.amon-hen.com/television/3483)
@@ -10,7 +11,6 @@
 - [MST3K Short 0413 – General Hospital 1](https://www.amon-hen.com/television/8717)
 - [Zachariah (1971)](https://www.amon-hen.com/movies/31412)
 - [Bajo Del Sol](https://www.amon-hen.com/music/31410)
-- [RiffTrax – Glasses For Susan](https://www.amon-hen.com/humor/31408)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If you're at a Thanksgiving dinner, but you don't like the stuffing or the cranberry sauce or anything else, just pretend like you're eating it, but instead, put it all in your lap and form it into a big mushy ball. Then, later, when you're out back having cigars with the boys, let out a big fake cough and throw the ball to the ground. Then say, "Boy, these are good cigars!"</em><br /> -- Jack Handey</p>
+<p><em>Noise proves nothing.  Often a hen who has merely laid an egg cackles as if she laid an asteroid.</em><br /> -- Mark Twain</p>
