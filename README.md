@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Dementia 13 (1963)](https://www.amon-hen.com/movies/25557)
+- [MST3K Short 0415 – General Hospital 2](https://www.amon-hen.com/television/8781)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Dementia 13 (1963)](https://www.amon-hen.com/movies/25557)
 - [Your Move / I’ve Seen All Good People (Live 1989)](https://www.amon-hen.com/music/31441)
 - [RiffTrax – Voting At 18](https://www.amon-hen.com/politics/31438)
 - [Ass Cream Cake](https://www.amon-hen.com/food/31428)
@@ -10,7 +11,6 @@
 - [Prison Health Care](https://www.amon-hen.com/politics/31422)
 - [MST3K Short 0413 – General Hospital 1](https://www.amon-hen.com/television/8717)
 - [Zachariah (1971)](https://www.amon-hen.com/movies/31412)
-- [Bajo Del Sol](https://www.amon-hen.com/music/31410)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Noise proves nothing.  Often a hen who has merely laid an egg cackles as if she laid an asteroid.</em><br /> -- Mark Twain</p>
+<p><em>We are Sex Bob-omb. We are here to sell out and make money and stuff.</em><br /> -- Kim Pine</p>
