@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0415 – General Hospital 2](https://www.amon-hen.com/television/8781)
+- [Homeschooling](https://www.amon-hen.com/politics/31458)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0415 – General Hospital 2](https://www.amon-hen.com/television/8781)
 - [Dementia 13 (1963)](https://www.amon-hen.com/movies/25557)
 - [Your Move / I’ve Seen All Good People (Live 1989)](https://www.amon-hen.com/music/31441)
 - [RiffTrax – Voting At 18](https://www.amon-hen.com/politics/31438)
@@ -10,7 +11,6 @@
 - [MST3K 0624 – Samson vs. the Vampire Women](https://www.amon-hen.com/television/3483)
 - [Prison Health Care](https://www.amon-hen.com/politics/31422)
 - [MST3K Short 0413 – General Hospital 1](https://www.amon-hen.com/television/8717)
-- [Zachariah (1971)](https://www.amon-hen.com/movies/31412)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>We are Sex Bob-omb. We are here to sell out and make money and stuff.</em><br /> -- Kim Pine</p>
+<p><em>All of the books in the world contain no more information than is broadcast as video in a single large American city in a single year. Not all bits have equal value.</em><br /> -- Carl Sagan</p>
