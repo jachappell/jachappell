@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Homeschooling](https://www.amon-hen.com/politics/31458)
+- [MST3K 0701 –  Night of the Blood Beast](https://www.amon-hen.com/television/7311)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Homeschooling](https://www.amon-hen.com/politics/31458)
 - [MST3K Short 0415 – General Hospital 2](https://www.amon-hen.com/television/8781)
 - [Dementia 13 (1963)](https://www.amon-hen.com/movies/25557)
 - [Your Move / I’ve Seen All Good People (Live 1989)](https://www.amon-hen.com/music/31441)
@@ -10,7 +11,6 @@
 - [Ass Cream Cake](https://www.amon-hen.com/food/31428)
 - [MST3K 0624 – Samson vs. the Vampire Women](https://www.amon-hen.com/television/3483)
 - [Prison Health Care](https://www.amon-hen.com/politics/31422)
-- [MST3K Short 0413 – General Hospital 1](https://www.amon-hen.com/television/8717)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>All of the books in the world contain no more information than is broadcast as video in a single large American city in a single year. Not all bits have equal value.</em><br /> -- Carl Sagan</p>
+<p><em>I wonder what the Shroud Of Turin tastes like.</em><br /> -- Doctor John A. Zoidberg</p>
