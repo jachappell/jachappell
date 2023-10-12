@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0701 –  Night of the Blood Beast](https://www.amon-hen.com/television/7311)
+- [Mmmm, Protein Foods](https://www.amon-hen.com/food/31461)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0701 –  Night of the Blood Beast](https://www.amon-hen.com/television/7311)
 - [Homeschooling](https://www.amon-hen.com/politics/31458)
 - [MST3K Short 0415 – General Hospital 2](https://www.amon-hen.com/television/8781)
 - [Dementia 13 (1963)](https://www.amon-hen.com/movies/25557)
@@ -10,7 +11,6 @@
 - [RiffTrax – Voting At 18](https://www.amon-hen.com/politics/31438)
 - [Ass Cream Cake](https://www.amon-hen.com/food/31428)
 - [MST3K 0624 – Samson vs. the Vampire Women](https://www.amon-hen.com/television/3483)
-- [Prison Health Care](https://www.amon-hen.com/politics/31422)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I wonder what the Shroud Of Turin tastes like.</em><br /> -- Doctor John A. Zoidberg</p>
+<p><em>Gravity is a habit that is hard to shake off.</em><br /> -- Terry Pratchett (<em>Small Gods</em>)</p>
