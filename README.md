@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Protein Foods](https://www.amon-hen.com/food/31461)
+- [RiffTrax – Victory Squad](https://www.amon-hen.com/politics/31465)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Protein Foods](https://www.amon-hen.com/food/31461)
 - [MST3K 0701 –  Night of the Blood Beast](https://www.amon-hen.com/television/7311)
 - [Homeschooling](https://www.amon-hen.com/politics/31458)
 - [MST3K Short 0415 – General Hospital 2](https://www.amon-hen.com/television/8781)
@@ -10,10 +11,10 @@
 - [Your Move / I’ve Seen All Good People (Live 1989)](https://www.amon-hen.com/music/31441)
 - [RiffTrax – Voting At 18](https://www.amon-hen.com/politics/31438)
 - [Ass Cream Cake](https://www.amon-hen.com/food/31428)
-- [MST3K 0624 – Samson vs. the Vampire Women](https://www.amon-hen.com/television/3483)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Southwind Drum and Bugle Corps to Cease Operations](https://www.drum-corps.net/news/2937)
 - [Drum Corps World – October 2023](https://www.drum-corps.net/news/2934)
 - [Robert W. Smith, pioneer of “original” drum corps compositions, dies at 64](https://www.drum-corps.net/news/2921)
 - [Drum Corps World – September 2023](https://www.drum-corps.net/news/2918)
@@ -23,7 +24,6 @@
 - [2023 DCA World Championships Prelims](https://www.drum-corps.net/scores/dca/2899)
 - [Virtual Show 2 (2023)](https://www.drum-corps.net/scores/dca/2894)
 - [Reading Show (2023)](https://www.drum-corps.net/scores/dca/2887)
-- [Saints Showcase (2023)](https://www.drum-corps.net/scores/dca/2878)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Gravity is a habit that is hard to shake off.</em><br /> -- Terry Pratchett (<em>Small Gods</em>)</p>
+<p><em>I wouldn't recommend sex, drugs, or insanity for everyone, but they've always worked for me.</em><br /> -- Hunter Thompson</p>
