@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Victory Squad](https://www.amon-hen.com/politics/31465)
+- [Oklahoma](https://www.amon-hen.com/music/31467)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Victory Squad](https://www.amon-hen.com/politics/31465)
 - [Mmmm, Protein Foods](https://www.amon-hen.com/food/31461)
 - [MST3K 0701 –  Night of the Blood Beast](https://www.amon-hen.com/television/7311)
 - [Homeschooling](https://www.amon-hen.com/politics/31458)
@@ -10,10 +11,10 @@
 - [Dementia 13 (1963)](https://www.amon-hen.com/movies/25557)
 - [Your Move / I’ve Seen All Good People (Live 1989)](https://www.amon-hen.com/music/31441)
 - [RiffTrax – Voting At 18](https://www.amon-hen.com/politics/31438)
-- [Ass Cream Cake](https://www.amon-hen.com/food/31428)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [The Cadets Suspend Competition for 2024](https://www.drum-corps.net/news/2939)
 - [Southwind Drum and Bugle Corps to Cease Operations](https://www.drum-corps.net/news/2937)
 - [Drum Corps World – October 2023](https://www.drum-corps.net/news/2934)
 - [Robert W. Smith, pioneer of “original” drum corps compositions, dies at 64](https://www.drum-corps.net/news/2921)
@@ -23,7 +24,6 @@
 - [2023 DCA World Championships Finals](https://www.drum-corps.net/scores/dca/2901)
 - [2023 DCA World Championships Prelims](https://www.drum-corps.net/scores/dca/2899)
 - [Virtual Show 2 (2023)](https://www.drum-corps.net/scores/dca/2894)
-- [Reading Show (2023)](https://www.drum-corps.net/scores/dca/2887)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I wouldn't recommend sex, drugs, or insanity for everyone, but they've always worked for me.</em><br /> -- Hunter Thompson</p>
+<p><em>It is said that power corrupts, but actually it's more true that power attracts the corruptible. The sane are usually attracted by other things than power.</em><br /> -- David Brin</p>
