@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Oklahoma](https://www.amon-hen.com/music/31467)
+- [13 Ghosts (1960)](https://www.amon-hen.com/movies/31448)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Oklahoma](https://www.amon-hen.com/music/31467)
 - [RiffTrax – Victory Squad](https://www.amon-hen.com/politics/31465)
 - [Mmmm, Protein Foods](https://www.amon-hen.com/food/31461)
 - [MST3K 0701 –  Night of the Blood Beast](https://www.amon-hen.com/television/7311)
@@ -10,7 +11,6 @@
 - [MST3K Short 0415 – General Hospital 2](https://www.amon-hen.com/television/8781)
 - [Dementia 13 (1963)](https://www.amon-hen.com/movies/25557)
 - [Your Move / I’ve Seen All Good People (Live 1989)](https://www.amon-hen.com/music/31441)
-- [RiffTrax – Voting At 18](https://www.amon-hen.com/politics/31438)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It is said that power corrupts, but actually it's more true that power attracts the corruptible. The sane are usually attracted by other things than power.</em><br /> -- David Brin</p>
+<p><em>After the game the king and the pawn go in the same box.</em><br /> -- Italian proverb</p>
