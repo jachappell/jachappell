@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0417 – General Hospital 3](https://www.amon-hen.com/television/8838)
+- [Food Safety](https://www.amon-hen.com/politics/31511)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0417 – General Hospital 3](https://www.amon-hen.com/television/8838)
 - [13 Ghosts (1960)](https://www.amon-hen.com/movies/31448)
 - [Oklahoma](https://www.amon-hen.com/music/31467)
 - [RiffTrax – Victory Squad](https://www.amon-hen.com/politics/31465)
@@ -10,7 +11,6 @@
 - [MST3K 0701 –  Night of the Blood Beast](https://www.amon-hen.com/television/7311)
 - [Homeschooling](https://www.amon-hen.com/politics/31458)
 - [MST3K Short 0415 – General Hospital 2](https://www.amon-hen.com/television/8781)
-- [Dementia 13 (1963)](https://www.amon-hen.com/movies/25557)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You look like a woman who appreciates the finer things in life. Come over here and feel my velour bedspread.</em><br /> -- Captain Zapp Brannigan</p>
+<p><em>Perhaps if you know you are insane then you are not insane.</em><br /> -- Philip K. Dick</p>
