@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Food Safety](https://www.amon-hen.com/politics/31511)
+- [MST3K 0702 – The Brute Man](https://www.amon-hen.com/television/14689)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Food Safety](https://www.amon-hen.com/politics/31511)
 - [MST3K Short 0417 – General Hospital 3](https://www.amon-hen.com/television/8838)
 - [13 Ghosts (1960)](https://www.amon-hen.com/movies/31448)
 - [Oklahoma](https://www.amon-hen.com/music/31467)
@@ -10,7 +11,6 @@
 - [Mmmm, Protein Foods](https://www.amon-hen.com/food/31461)
 - [MST3K 0701 –  Night of the Blood Beast](https://www.amon-hen.com/television/7311)
 - [Homeschooling](https://www.amon-hen.com/politics/31458)
-- [MST3K Short 0415 – General Hospital 2](https://www.amon-hen.com/television/8781)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Perhaps if you know you are insane then you are not insane.</em><br /> -- Philip K. Dick</p>
+<p><em>And so, may Evil beware and may Good dress warmly and eat lots of fresh vegetables.</em><br /> -- The Tick</p>
