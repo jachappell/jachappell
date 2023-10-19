@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0702 – The Brute Man](https://www.amon-hen.com/television/14689)
+- [Mmmm, Golden Grahams](https://www.amon-hen.com/food/31478)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0702 – The Brute Man](https://www.amon-hen.com/television/14689)
 - [Food Safety](https://www.amon-hen.com/politics/31511)
 - [MST3K Short 0417 – General Hospital 3](https://www.amon-hen.com/television/8838)
 - [13 Ghosts (1960)](https://www.amon-hen.com/movies/31448)
@@ -10,7 +11,6 @@
 - [RiffTrax – Victory Squad](https://www.amon-hen.com/politics/31465)
 - [Mmmm, Protein Foods](https://www.amon-hen.com/food/31461)
 - [MST3K 0701 –  Night of the Blood Beast](https://www.amon-hen.com/television/7311)
-- [Homeschooling](https://www.amon-hen.com/politics/31458)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>And so, may Evil beware and may Good dress warmly and eat lots of fresh vegetables.</em><br /> -- The Tick</p>
+<p><em>The people in the village were real poor, so none of the children had any toys. But this one little boy had gotten an old enema bag and filled it with rocks, and he would go around and whap the other children across the face with it. Man, I think my heart almost broke. Later the boy came up and offered to give me the toy. This was too much! I reached out my hand, but then he ran away. I chased him down and took the enema bag. He cried a little, but that's the way of these people.</em><br /> -- Jack Handey</p>
