@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax: U.S. Elections – How We Vote](https://www.amon-hen.com/politics/31514)
+- [Revel Without A Pause](https://www.amon-hen.com/music/31518)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax: U.S. Elections – How We Vote](https://www.amon-hen.com/politics/31514)
 - [Mmmm, Golden Grahams](https://www.amon-hen.com/food/31478)
 - [MST3K 0702 – The Brute Man](https://www.amon-hen.com/television/14689)
 - [Food Safety](https://www.amon-hen.com/politics/31511)
@@ -10,7 +11,6 @@
 - [13 Ghosts (1960)](https://www.amon-hen.com/movies/31448)
 - [Oklahoma](https://www.amon-hen.com/music/31467)
 - [RiffTrax – Victory Squad](https://www.amon-hen.com/politics/31465)
-- [Mmmm, Protein Foods](https://www.amon-hen.com/food/31461)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>We must respect the other fellow's religion, but only in the same sense and to the same extent that we respect his theory that his wife is beautiful and his children smart.</em><br /> -- H.L. Mencken</p>
+<p><em>Illegal aliens have always been a problem in the United States.  Ask any Indian.</em><br /> -- Robert Orben</p>
