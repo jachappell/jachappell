@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Revel Without A Pause](https://www.amon-hen.com/music/31518)
+- [The Devil’s Sleep (1949)](https://www.amon-hen.com/movies/25080)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Revel Without A Pause](https://www.amon-hen.com/music/31518)
 - [RiffTrax: U.S. Elections – How We Vote](https://www.amon-hen.com/politics/31514)
 - [Mmmm, Golden Grahams](https://www.amon-hen.com/food/31478)
 - [MST3K 0702 – The Brute Man](https://www.amon-hen.com/television/14689)
@@ -10,7 +11,6 @@
 - [MST3K Short 0417 – General Hospital 3](https://www.amon-hen.com/television/8838)
 - [13 Ghosts (1960)](https://www.amon-hen.com/movies/31448)
 - [Oklahoma](https://www.amon-hen.com/music/31467)
-- [RiffTrax – Victory Squad](https://www.amon-hen.com/politics/31465)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Illegal aliens have always been a problem in the United States.  Ask any Indian.</em><br /> -- Robert Orben</p>
+<p><em>I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living. It's a way of looking at life through the wrong end of a telescope and that enables you to laugh at all of life's realities.</em><br /> -- Theodore Seuss Geisel</p>
