@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [McKinsey](https://www.amon-hen.com/politics/31527)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: The Coming](https://www.amon-hen.com/books/297)
 - [MST3K Short 0419 – Johnny at the Fair](https://www.amon-hen.com/television/8596)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Devil’s Sleep (1949)](https://www.amon-hen.com/movies/25080)
 - [Revel Without A Pause](https://www.amon-hen.com/music/31518)
 - [RiffTrax: U.S. Elections – How We Vote](https://www.amon-hen.com/politics/31514)
 - [Mmmm, Golden Grahams](https://www.amon-hen.com/food/31478)
 - [MST3K 0702 – The Brute Man](https://www.amon-hen.com/television/14689)
 - [Food Safety](https://www.amon-hen.com/politics/31511)
-- [MST3K Short 0417 – General Hospital 3](https://www.amon-hen.com/television/8838)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Nobody in the game of football should be called a genius.  A genius is somebody like Norman Einstein.</em><br /> -- Joe Theismann</p>
+<p><em>Booze makes you popular and heals all wounds!</em><br /> -- Tom Servo</p>
