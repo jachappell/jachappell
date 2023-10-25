@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [McKinsey](https://www.amon-hen.com/politics/31527)
+- [MST3K 0703 – Deathstalker and The Warriors From Hell](https://www.amon-hen.com/television/3156)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [McKinsey](https://www.amon-hen.com/politics/31527)
 - [Reading: The Coming](https://www.amon-hen.com/books/297)
 - [MST3K Short 0419 – Johnny at the Fair](https://www.amon-hen.com/television/8596)
 - [The Devil’s Sleep (1949)](https://www.amon-hen.com/movies/25080)
@@ -10,7 +11,6 @@
 - [RiffTrax: U.S. Elections – How We Vote](https://www.amon-hen.com/politics/31514)
 - [Mmmm, Golden Grahams](https://www.amon-hen.com/food/31478)
 - [MST3K 0702 – The Brute Man](https://www.amon-hen.com/television/14689)
-- [Food Safety](https://www.amon-hen.com/politics/31511)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Booze makes you popular and heals all wounds!</em><br /> -- Tom Servo</p>
+<p><em>It isn't necessary to have relatives in Kansas City in order to be unhappy.</em><br /> -- Groucho Marx</p>
