@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0703 – Deathstalker and The Warriors From Hell](https://www.amon-hen.com/television/3156)
+- [Mmmm, Nutritious Monsters](https://www.amon-hen.com/food/31424)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0703 – Deathstalker and The Warriors From Hell](https://www.amon-hen.com/television/3156)
 - [McKinsey](https://www.amon-hen.com/politics/31527)
 - [Reading: The Coming](https://www.amon-hen.com/books/297)
 - [MST3K Short 0419 – Johnny at the Fair](https://www.amon-hen.com/television/8596)
@@ -10,7 +11,6 @@
 - [Revel Without A Pause](https://www.amon-hen.com/music/31518)
 - [RiffTrax: U.S. Elections – How We Vote](https://www.amon-hen.com/politics/31514)
 - [Mmmm, Golden Grahams](https://www.amon-hen.com/food/31478)
-- [MST3K 0702 – The Brute Man](https://www.amon-hen.com/television/14689)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It isn't necessary to have relatives in Kansas City in order to be unhappy.</em><br /> -- Groucho Marx</p>
+<p><em>My Grandmother is over eighty and still doesn't need glasses.  Drinks right out of the bottle.</em><br /> -- Henny Youngman</p>
