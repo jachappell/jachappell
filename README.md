@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Nutritious Monsters](https://www.amon-hen.com/food/31424)
+- [Reading: Frigate Commander](https://www.amon-hen.com/books/297)
+- [The Interesting Physics of Robert Oppenheimer](https://www.amon-hen.com/science/31352)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Nutritious Monsters](https://www.amon-hen.com/food/31424)
 - [MST3K 0703 – Deathstalker and The Warriors From Hell](https://www.amon-hen.com/television/3156)
 - [McKinsey](https://www.amon-hen.com/politics/31527)
-- [Reading: The Coming](https://www.amon-hen.com/books/297)
+- [Joe Haldeman](https://www.amon-hen.com/books/14340)
 - [MST3K Short 0419 – Johnny at the Fair](https://www.amon-hen.com/television/8596)
 - [The Devil’s Sleep (1949)](https://www.amon-hen.com/movies/25080)
 - [Revel Without A Pause](https://www.amon-hen.com/music/31518)
-- [RiffTrax: U.S. Elections – How We Vote](https://www.amon-hen.com/politics/31514)
-- [Mmmm, Golden Grahams](https://www.amon-hen.com/food/31478)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>My Grandmother is over eighty and still doesn't need glasses.  Drinks right out of the bottle.</em><br /> -- Henny Youngman</p>
+<p><em>Diamonds on velvets on goldens on vixen<br />On comet &amp; cupid on donner &amp; blitzen<br />On up &amp; away &amp; afar &amp; a go-go<br />Escape from the weight of your corporate logo!</em><br /> -- Frank Zappa</p>
