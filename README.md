@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [It Is What It Is](https://www.amon-hen.com/music/31443)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: Frigate Commander](https://www.amon-hen.com/books/297)
 - [The Interesting Physics of Robert Oppenheimer](https://www.amon-hen.com/science/31352)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Nutritious Monsters](https://www.amon-hen.com/food/31424)
 - [MST3K 0703 – Deathstalker and The Warriors From Hell](https://www.amon-hen.com/television/3156)
 - [McKinsey](https://www.amon-hen.com/politics/31527)
 - [Joe Haldeman](https://www.amon-hen.com/books/14340)
 - [MST3K Short 0419 – Johnny at the Fair](https://www.amon-hen.com/television/8596)
 - [The Devil’s Sleep (1949)](https://www.amon-hen.com/movies/25080)
-- [Revel Without A Pause](https://www.amon-hen.com/music/31518)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Diamonds on velvets on goldens on vixen<br />On comet &amp; cupid on donner &amp; blitzen<br />On up &amp; away &amp; afar &amp; a go-go<br />Escape from the weight of your corporate logo!</em><br /> -- Frank Zappa</p>
+<p><em>We tune bacause we care.</em><br /> -- Stan Ridgway (<em>Tuff Sheds and Carrot Cake</em>)</p>
