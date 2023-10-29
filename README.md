@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [It Is What It Is](https://www.amon-hen.com/music/31443)
+- [Halloween Movies](https://www.amon-hen.com/movies/4743)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [It Is What It Is](https://www.amon-hen.com/music/31443)
 - [Reading: Frigate Commander](https://www.amon-hen.com/books/297)
 - [The Interesting Physics of Robert Oppenheimer](https://www.amon-hen.com/science/31352)
 - [Mmmm, Nutritious Monsters](https://www.amon-hen.com/food/31424)
@@ -10,10 +11,10 @@
 - [McKinsey](https://www.amon-hen.com/politics/31527)
 - [Joe Haldeman](https://www.amon-hen.com/books/14340)
 - [MST3K Short 0419 – Johnny at the Fair](https://www.amon-hen.com/television/8596)
-- [The Devil’s Sleep (1949)](https://www.amon-hen.com/movies/25080)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – November 2023](https://www.drum-corps.net/news/2946)
 - [The Cadets Suspend Competition for 2024](https://www.drum-corps.net/news/2939)
 - [Southwind Drum and Bugle Corps to Cease Operations](https://www.drum-corps.net/news/2937)
 - [Drum Corps World – October 2023](https://www.drum-corps.net/news/2934)
@@ -23,7 +24,6 @@
 - [VMAPA Announces New CEO and Plan for Return of the Santa Clara Vanguard in 2024](https://www.drum-corps.net/news/2909)
 - [2023 DCA World Championships Finals](https://www.drum-corps.net/scores/dca/2901)
 - [2023 DCA World Championships Prelims](https://www.drum-corps.net/scores/dca/2899)
-- [Virtual Show 2 (2023)](https://www.drum-corps.net/scores/dca/2894)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>We tune bacause we care.</em><br /> -- Stan Ridgway (<em>Tuff Sheds and Carrot Cake</em>)</p>
+<p><em>It says he made us all to be just like him. So if we're dumb, then god is dumb, and maybe even a little ugly on the side.</em><br /> -- Frank Zappa</p>
