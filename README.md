@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Chocolate](https://www.amon-hen.com/politics/31533)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Paul Lynde Halloween Special](https://www.amon-hen.com/television/16893)
 - [MST3K Short 0421 – Circus on Ice](https://www.amon-hen.com/television/9354)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Halloween Movies](https://www.amon-hen.com/movies/4743)
 - [It Is What It Is](https://www.amon-hen.com/music/31443)
 - [Reading: Frigate Commander](https://www.amon-hen.com/books/297)
 - [The Interesting Physics of Robert Oppenheimer](https://www.amon-hen.com/science/31352)
 - [Mmmm, Nutritious Monsters](https://www.amon-hen.com/food/31424)
 - [MST3K 0703 – Deathstalker and The Warriors From Hell](https://www.amon-hen.com/television/3156)
-- [McKinsey](https://www.amon-hen.com/politics/31527)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>ID badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve.</em><br /> -- J.R.R. Tolkien</p>
