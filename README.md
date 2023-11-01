@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Chocolate](https://www.amon-hen.com/politics/31533)
+- [MST3K 0704 – The Incredible Melting Man](https://www.amon-hen.com/television/6746)
+- [Halloween should be a day…](https://www.amon-hen.com/television/18445)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Chocolate](https://www.amon-hen.com/politics/31533)
 - [The Paul Lynde Halloween Special](https://www.amon-hen.com/television/16893)
 - [MST3K Short 0421 – Circus on Ice](https://www.amon-hen.com/television/9354)
 - [Halloween Movies](https://www.amon-hen.com/movies/4743)
 - [It Is What It Is](https://www.amon-hen.com/music/31443)
 - [Reading: Frigate Commander](https://www.amon-hen.com/books/297)
 - [The Interesting Physics of Robert Oppenheimer](https://www.amon-hen.com/science/31352)
-- [Mmmm, Nutritious Monsters](https://www.amon-hen.com/food/31424)
-- [MST3K 0703 – Deathstalker and The Warriors From Hell](https://www.amon-hen.com/television/3156)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve.</em><br /> -- J.R.R. Tolkien</p>
+<p><em>It's Dr. Evil, I didn't spend six years in Evil Medical School to be called "mister," thank you very much.</em><br /> -- Dr. Evil</p>
