@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Mmmm, Blatz](https://www.amon-hen.com/food/31365)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0704 – The Incredible Melting Man](https://www.amon-hen.com/television/6746)
 - [Halloween should be a day…](https://www.amon-hen.com/television/18445)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Chocolate](https://www.amon-hen.com/politics/31533)
 - [The Paul Lynde Halloween Special](https://www.amon-hen.com/television/16893)
 - [MST3K Short 0421 – Circus on Ice](https://www.amon-hen.com/television/9354)
 - [Halloween Movies](https://www.amon-hen.com/movies/4743)
 - [It Is What It Is](https://www.amon-hen.com/music/31443)
 - [Reading: Frigate Commander](https://www.amon-hen.com/books/297)
-- [The Interesting Physics of Robert Oppenheimer](https://www.amon-hen.com/science/31352)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It's Dr. Evil, I didn't spend six years in Evil Medical School to be called "mister," thank you very much.</em><br /> -- Dr. Evil</p>
+<p><em>Why don't you listen to something really classical like Mozart, Mendelsohn or Motorhead?</em><br /> -- Arnold Judas Rimmer</p>
