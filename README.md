@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Blatz](https://www.amon-hen.com/food/31365)
+- [Quantum to the Cosmos: A Brief Tour of Everything](https://www.amon-hen.com/science/31354)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Blatz](https://www.amon-hen.com/food/31365)
 - [MST3K 0704 – The Incredible Melting Man](https://www.amon-hen.com/television/6746)
 - [Halloween should be a day…](https://www.amon-hen.com/television/18445)
 - [Chocolate](https://www.amon-hen.com/politics/31533)
@@ -10,7 +11,6 @@
 - [MST3K Short 0421 – Circus on Ice](https://www.amon-hen.com/television/9354)
 - [Halloween Movies](https://www.amon-hen.com/movies/4743)
 - [It Is What It Is](https://www.amon-hen.com/music/31443)
-- [Reading: Frigate Commander](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Why don't you listen to something really classical like Mozart, Mendelsohn or Motorhead?</em><br /> -- Arnold Judas Rimmer</p>
+<p><em>He was in a quandary...being devoured by the swirling cesspool of his own steaming desires... uh.. the guy was a wreck.</em><br /> -- Frank Zappa</p>
