@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Quantum to the Cosmos: A Brief Tour of Everything](https://www.amon-hen.com/science/31354)
+- [I Want It Faster](https://www.amon-hen.com/music/31445)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Quantum to the Cosmos: A Brief Tour of Everything](https://www.amon-hen.com/science/31354)
 - [Mmmm, Blatz](https://www.amon-hen.com/food/31365)
 - [MST3K 0704 – The Incredible Melting Man](https://www.amon-hen.com/television/6746)
 - [Halloween should be a day…](https://www.amon-hen.com/television/18445)
@@ -10,7 +11,6 @@
 - [The Paul Lynde Halloween Special](https://www.amon-hen.com/television/16893)
 - [MST3K Short 0421 – Circus on Ice](https://www.amon-hen.com/television/9354)
 - [Halloween Movies](https://www.amon-hen.com/movies/4743)
-- [It Is What It Is](https://www.amon-hen.com/music/31443)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>He was in a quandary...being devoured by the swirling cesspool of his own steaming desires... uh.. the guy was a wreck.</em><br /> -- Frank Zappa</p>
+<p><em>That seems to point up a significant difference between Europeans and Americans. A European says: "I can't understand this, what's wrong with me?" An American says: "I can't understand this, what's wrong with him?"</em><br /> -- Terry Pratchett</p>
