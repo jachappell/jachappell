@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [I Want It Faster](https://www.amon-hen.com/music/31445)
+- [Finding Jesus (2020)](https://www.amon-hen.com/religion/31418)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [I Want It Faster](https://www.amon-hen.com/music/31445)
 - [Quantum to the Cosmos: A Brief Tour of Everything](https://www.amon-hen.com/science/31354)
 - [Mmmm, Blatz](https://www.amon-hen.com/food/31365)
 - [MST3K 0704 – The Incredible Melting Man](https://www.amon-hen.com/television/6746)
@@ -10,7 +11,6 @@
 - [Chocolate](https://www.amon-hen.com/politics/31533)
 - [The Paul Lynde Halloween Special](https://www.amon-hen.com/television/16893)
 - [MST3K Short 0421 – Circus on Ice](https://www.amon-hen.com/television/9354)
-- [Halloween Movies](https://www.amon-hen.com/movies/4743)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>That seems to point up a significant difference between Europeans and Americans. A European says: "I can't understand this, what's wrong with me?" An American says: "I can't understand this, what's wrong with him?"</em><br /> -- Terry Pratchett</p>
+<p><em>As long as there's, you know, sex and drugs, I can do without the rock and roll.</em><br /> -- Mick Shrimpton</p>
