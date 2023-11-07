@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0422 – Here Comes The Circus](https://www.amon-hen.com/television/6082)
+- [Abortion Rights](https://www.amon-hen.com/politics/31544)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0422 – Here Comes The Circus](https://www.amon-hen.com/television/6082)
 - [Finding Jesus (2020)](https://www.amon-hen.com/religion/31418)
 - [I Want It Faster](https://www.amon-hen.com/music/31445)
 - [Quantum to the Cosmos: A Brief Tour of Everything](https://www.amon-hen.com/science/31354)
@@ -10,7 +11,6 @@
 - [MST3K 0704 – The Incredible Melting Man](https://www.amon-hen.com/television/6746)
 - [Halloween should be a day…](https://www.amon-hen.com/television/18445)
 - [Chocolate](https://www.amon-hen.com/politics/31533)
-- [The Paul Lynde Halloween Special](https://www.amon-hen.com/television/16893)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Sometimes I think the surest sign that intelligent life exists elsewhere in the universe is that none of it has tried to contact us.</em><br /> -- Bill Watterson (<em>Calvin and Hobbes</em>)</p>
+<p><em>Marriage is the only adventure open to the cowardly.</em><br /> -- Voltaire</p>
