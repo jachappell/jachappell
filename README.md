@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Abortion Rights](https://www.amon-hen.com/politics/31544)
+- [MST3K 0705 – Escape 2000](https://www.amon-hen.com/television/6245)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Abortion Rights](https://www.amon-hen.com/politics/31544)
 - [MST3K Short 0422 – Here Comes The Circus](https://www.amon-hen.com/television/6082)
 - [Finding Jesus (2020)](https://www.amon-hen.com/religion/31418)
 - [I Want It Faster](https://www.amon-hen.com/music/31445)
@@ -10,7 +11,6 @@
 - [Mmmm, Blatz](https://www.amon-hen.com/food/31365)
 - [MST3K 0704 – The Incredible Melting Man](https://www.amon-hen.com/television/6746)
 - [Halloween should be a day…](https://www.amon-hen.com/television/18445)
-- [Chocolate](https://www.amon-hen.com/politics/31533)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Marriage is the only adventure open to the cowardly.</em><br /> -- Voltaire</p>
+<p><em>Honesty may be the best policy, but it's important to remember that apparently, by elimination, dishonesty is the second-best policy.</em><br /> -- George Carlin</p>
