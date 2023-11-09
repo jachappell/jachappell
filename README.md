@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0705 – Escape 2000](https://www.amon-hen.com/television/6245)
+- [Mmmm, 20-year-old Spider-Man Cake](https://www.amon-hen.com/humor/31406)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0705 – Escape 2000](https://www.amon-hen.com/television/6245)
 - [Abortion Rights](https://www.amon-hen.com/politics/31544)
 - [MST3K Short 0422 – Here Comes The Circus](https://www.amon-hen.com/television/6082)
 - [Finding Jesus (2020)](https://www.amon-hen.com/religion/31418)
@@ -10,7 +11,6 @@
 - [Quantum to the Cosmos: A Brief Tour of Everything](https://www.amon-hen.com/science/31354)
 - [Mmmm, Blatz](https://www.amon-hen.com/food/31365)
 - [MST3K 0704 – The Incredible Melting Man](https://www.amon-hen.com/television/6746)
-- [Halloween should be a day…](https://www.amon-hen.com/television/18445)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Honesty may be the best policy, but it's important to remember that apparently, by elimination, dishonesty is the second-best policy.</em><br /> -- George Carlin</p>
+<p><em>Unix is hard to learn. The process of learning it is one of multiple small epiphanies. Typically you are just on the verge of inventing some necessary tool or utility when you realize that someone else has already invented it, and built it in, and this explains some odd file or directory or command that you have noticed but never really understood before.</em><br /> -- Neal Stephenson</p>
