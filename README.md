@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Longtermism](https://www.amon-hen.com/humor/31504)
+- [Owner of a Lonely Heart (2004)](https://www.amon-hen.com/music/31476)
+- [The Gales of November](https://www.amon-hen.com/music/2651)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Longtermism](https://www.amon-hen.com/humor/31504)
 - [Mmmm, 20-year-old Spider-Man Cake](https://www.amon-hen.com/humor/31406)
 - [MST3K 0705 – Escape 2000](https://www.amon-hen.com/television/6245)
 - [Abortion Rights](https://www.amon-hen.com/politics/31544)
 - [MST3K Short 0422 – Here Comes The Circus](https://www.amon-hen.com/television/6082)
 - [Finding Jesus (2020)](https://www.amon-hen.com/religion/31418)
 - [I Want It Faster](https://www.amon-hen.com/music/31445)
-- [Quantum to the Cosmos: A Brief Tour of Everything](https://www.amon-hen.com/science/31354)
-- [Mmmm, Blatz](https://www.amon-hen.com/food/31365)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>There is a tragic flaw in our precious Constitution, and I don't know what can be done to fix it. This is it: Only nut cases want to be president.</em><br /> -- Kurt Vonnegut Jr.</p>
+<p><em>Communism doesn't work because people like to own stuff.</em><br /> -- Frank Zappa</p>
