@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Reading: Time’s Eye](https://www.amon-hen.com/books/297)
+- [The Choppers (1961)](https://www.amon-hen.com/movies/31497)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Owner of a Lonely Heart (2004)](https://www.amon-hen.com/music/31476)
 - [The Gales of November](https://www.amon-hen.com/music/2651)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Longtermism](https://www.amon-hen.com/humor/31504)
 - [Mmmm, 20-year-old Spider-Man Cake](https://www.amon-hen.com/humor/31406)
 - [MST3K 0705 – Escape 2000](https://www.amon-hen.com/television/6245)
 - [Abortion Rights](https://www.amon-hen.com/politics/31544)
 - [MST3K Short 0422 – Here Comes The Circus](https://www.amon-hen.com/television/6082)
-- [Finding Jesus (2020)](https://www.amon-hen.com/religion/31418)
-- [I Want It Faster](https://www.amon-hen.com/music/31445)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Communism doesn't work because people like to own stuff.</em><br /> -- Frank Zappa</p>
+<p><em>God does not play dice with the universe; He plays an ineffable game of his own devising, which might be compared, from the perspective of any of the other players, to being involved in an obscure and complex version of poker in a pitch dark room, with blank cards, for infinite stakes, with a dealer who won't tell you the rules, and who smiles all the time.</em><br /> -- Terry Pratchett (<em>Good Omens</em>)</p>
