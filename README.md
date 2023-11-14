@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0423 – Hired! 1](https://www.amon-hen.com/television/7070)
+- [Israel-Hamas War](https://www.amon-hen.com/politics/31560)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0423 – Hired! 1](https://www.amon-hen.com/television/7070)
 - [Reading: Time’s Eye](https://www.amon-hen.com/books/297)
 - [The Choppers (1961)](https://www.amon-hen.com/movies/31497)
 - [Owner of a Lonely Heart (2004)](https://www.amon-hen.com/music/31476)
@@ -10,7 +11,6 @@
 - [Longtermism](https://www.amon-hen.com/humor/31504)
 - [Mmmm, 20-year-old Spider-Man Cake](https://www.amon-hen.com/humor/31406)
 - [MST3K 0705 – Escape 2000](https://www.amon-hen.com/television/6245)
-- [Abortion Rights](https://www.amon-hen.com/politics/31544)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>We are number one! All others are number two, or lower.</em><br /> -- The Sphinx</p>
+<p><em>I'm not impressed by what college your kid is going to. George Bush went to Yale. The End.</em><br /> -- Bill Maher</p>
