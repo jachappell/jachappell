@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Israel-Hamas War](https://www.amon-hen.com/politics/31560)
+- [MST3K 0706 – Laserblast](https://www.amon-hen.com/television/14727)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Israel-Hamas War](https://www.amon-hen.com/politics/31560)
 - [MST3K Short 0423 – Hired! 1](https://www.amon-hen.com/television/7070)
 - [Reading: Time’s Eye](https://www.amon-hen.com/books/297)
 - [The Choppers (1961)](https://www.amon-hen.com/movies/31497)
@@ -10,7 +11,6 @@
 - [The Gales of November](https://www.amon-hen.com/music/2651)
 - [Longtermism](https://www.amon-hen.com/humor/31504)
 - [Mmmm, 20-year-old Spider-Man Cake](https://www.amon-hen.com/humor/31406)
-- [MST3K 0705 – Escape 2000](https://www.amon-hen.com/television/6245)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I'm not impressed by what college your kid is going to. George Bush went to Yale. The End.</em><br /> -- Bill Maher</p>
+<p><em>We owe it to ourselves as respectable human beings, as thinking human beings, to do what we can to make humanity more rational...Humanists recognize that it is only when people feel free to think for themselves, using reason as their guide, that they are best capable of developing values that succeed in satisfying human needs and serving human interests.</em><br /> -- Isaac Asimov</p>
