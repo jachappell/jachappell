@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0706 – Laserblast](https://www.amon-hen.com/television/14727)
+- [Mmmm, Pre-Digested  Foods](https://www.amon-hen.com/humor/31499)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0706 – Laserblast](https://www.amon-hen.com/television/14727)
 - [Israel-Hamas War](https://www.amon-hen.com/politics/31560)
+- [Happy Diwali from Chennai (2023)](https://www.amon-hen.com/religion/31563)
 - [MST3K Short 0423 – Hired! 1](https://www.amon-hen.com/television/7070)
 - [Reading: Time’s Eye](https://www.amon-hen.com/books/297)
 - [The Choppers (1961)](https://www.amon-hen.com/movies/31497)
 - [Owner of a Lonely Heart (2004)](https://www.amon-hen.com/music/31476)
 - [The Gales of November](https://www.amon-hen.com/music/2651)
-- [Longtermism](https://www.amon-hen.com/humor/31504)
-- [Mmmm, 20-year-old Spider-Man Cake](https://www.amon-hen.com/humor/31406)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>We owe it to ourselves as respectable human beings, as thinking human beings, to do what we can to make humanity more rational...Humanists recognize that it is only when people feel free to think for themselves, using reason as their guide, that they are best capable of developing values that succeed in satisfying human needs and serving human interests.</em><br /> -- Isaac Asimov</p>
+<p><em>I hope if dogs ever take over the world, and they chose a king, they don't just go by size, because I bet there are some Chihuahuas with some good ideas.</em><br /> -- Jack Handey</p>
