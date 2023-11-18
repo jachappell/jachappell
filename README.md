@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Stitches](https://www.amon-hen.com/humor/31571)
+- [In the Mood](https://www.amon-hen.com/music/17788)
+- [The Star Wars Holiday Special](https://www.amon-hen.com/television/1787)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Stitches](https://www.amon-hen.com/humor/31571)
 - [Mmmm, Pre-Digested  Foods](https://www.amon-hen.com/humor/31499)
 - [MST3K 0706 – Laserblast](https://www.amon-hen.com/television/14727)
 - [Israel-Hamas War](https://www.amon-hen.com/politics/31560)
 - [Happy Diwali from Chennai (2023)](https://www.amon-hen.com/religion/31563)
 - [MST3K Short 0423 – Hired! 1](https://www.amon-hen.com/television/7070)
 - [Reading: Time’s Eye](https://www.amon-hen.com/books/297)
-- [The Choppers (1961)](https://www.amon-hen.com/movies/31497)
-- [Owner of a Lonely Heart (2004)](https://www.amon-hen.com/music/31476)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>In restaurants where they serve frog's legs, what do they do with the rest of the frog?  Do they just throw it away?  You never see "frog torsos" on the menu.  Is there actually a garbage can full of frog bodies in the alley?  I wouldn't want to be the homeless guy looking for an unfinished cheeseburger and open the lid on that.</em><br /> -- George Carlin</p>
+<p><em>Progress isn't made by early risers. It's made by lazy men trying to find easier ways to do something.</em><br /> -- Robert Heinlein</p>
