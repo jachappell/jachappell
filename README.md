@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Walk The Dark Street (1956)](https://www.amon-hen.com/movies/31581)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [In the Mood](https://www.amon-hen.com/music/17788)
 - [The Star Wars Holiday Special](https://www.amon-hen.com/television/1787)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [RiffTrax – Stitches](https://www.amon-hen.com/humor/31571)
 - [Mmmm, Pre-Digested  Foods](https://www.amon-hen.com/humor/31499)
 - [MST3K 0706 – Laserblast](https://www.amon-hen.com/television/14727)
 - [Israel-Hamas War](https://www.amon-hen.com/politics/31560)
 - [Happy Diwali from Chennai (2023)](https://www.amon-hen.com/religion/31563)
 - [MST3K Short 0423 – Hired! 1](https://www.amon-hen.com/television/7070)
-- [Reading: Time’s Eye](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Progress isn't made by early risers. It's made by lazy men trying to find easier ways to do something.</em><br /> -- Robert Heinlein</p>
+<p><em>I believe in making the world safe for our children, but not our children's children, because I don't think children should be having sex.</em><br /> -- Jack Handey</p>
