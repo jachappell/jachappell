@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Walk The Dark Street (1956)](https://www.amon-hen.com/movies/31581)
+- [MST3K Short 0424 – Hired! 2](https://www.amon-hen.com/television/12858)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Walk The Dark Street (1956)](https://www.amon-hen.com/movies/31581)
 - [In the Mood](https://www.amon-hen.com/music/17788)
 - [The Star Wars Holiday Special](https://www.amon-hen.com/television/1787)
 - [RiffTrax – Stitches](https://www.amon-hen.com/humor/31571)
@@ -10,7 +11,6 @@
 - [MST3K 0706 – Laserblast](https://www.amon-hen.com/television/14727)
 - [Israel-Hamas War](https://www.amon-hen.com/politics/31560)
 - [Happy Diwali from Chennai (2023)](https://www.amon-hen.com/religion/31563)
-- [MST3K Short 0423 – Hired! 1](https://www.amon-hen.com/television/7070)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I believe in making the world safe for our children, but not our children's children, because I don't think children should be having sex.</em><br /> -- Jack Handey</p>
+<p><em>If thought corrupts language, language can also corrupt thought.</em><br /> -- George Orwell</p>
