@@ -1,6 +1,7 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K 0801 – Revenge of the Creature](https://www.amon-hen.com/television/3229)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Dollar Stores](https://www.amon-hen.com/politics/31583)
 - [MST3K Short 0424 – Hired! 2](https://www.amon-hen.com/television/12858)
@@ -10,7 +11,6 @@
 - [RiffTrax – Stitches](https://www.amon-hen.com/humor/31571)
 - [Mmmm, Pre-Digested  Foods](https://www.amon-hen.com/humor/31499)
 - [MST3K 0706 – Laserblast](https://www.amon-hen.com/television/14727)
-- [Israel-Hamas War](https://www.amon-hen.com/politics/31560)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If all else fails, immortality can always be assured by spectacular error.</em><br /> -- John Kenneth Galbraith</p>
+<p><em>Mmmm, purple.</em><br /> -- Homer J. Simpson</p>
