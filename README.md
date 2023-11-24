@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [RiffTrax – The Star Wars Holiday Special](https://www.amon-hen.com/television/28367)
+- [Messy’s Thanksgiving Day Parade](https://www.amon-hen.com/humor/31603)
+- [Happy Thanksgiving](https://www.amon-hen.com/humor/792)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: The Theoretical Minimum](https://www.amon-hen.com/books/297)
 - [Mmmm, Mail Order Turkey](https://www.amon-hen.com/food/8053)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0801 – Revenge of the Creature](https://www.amon-hen.com/television/3229)
 - [Dollar Stores](https://www.amon-hen.com/politics/31583)
 - [MST3K Short 0424 – Hired! 2](https://www.amon-hen.com/television/12858)
 - [Walk The Dark Street (1956)](https://www.amon-hen.com/movies/31581)
-- [In the Mood](https://www.amon-hen.com/music/17788)
-- [The Star Wars Holiday Special](https://www.amon-hen.com/television/1787)
-- [RiffTrax – Stitches](https://www.amon-hen.com/humor/31571)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em><strong>Percy, Duke of Northumberland</strong>: You know, they do say that the Infanta's eyes are more beautiful than the famous Stone of Galveston.<br /><strong>Prince Edmund, the Black Adder</strong>: Mm! ... What?<br /><strong>Percy</strong>: The famous Stone of Galveston, My Lord.<br /><strong>Edmund</strong>: And what's that, exactly?<br /><strong>Percy</strong>: Well, it's a famous blue stone, and it comes [points dramatically] from Galveston.<br /><strong>Edmund</strong>: I see. And what about it?<br /><strong>Percy</strong>: Well, My Lord, the Infanta's eyes are bluer than it, for a start.<br /><strong>Edmund</strong>: I see. And have you ever seen this stone?<br /><strong>Percy</strong>: [nods] No, not as such, My Lord, but I know a couple of people who have, and they say it's very very blue indeed.<br /><strong>Edmund</strong>: And have these people seen the Infanta's eyes?<br /><strong>Percy</strong>: No, I shouldn't think so, My Lord.<br /><strong>Edmund</strong>: And neither have you, presumably.<br /><strong>Percy</strong>: No, My Lord.<br /><strong>Edmund</strong>: So, what you're telling me, Percy, is that something you have never seen is slightly less blue than something else you have never seen.<br /><strong>Percy</strong>: [finally begins to grasp] Yes, My Lord.<br /><strong>Edmund</strong>: Percy, in the end, you are about as much use to me as an hole in the head...</em><br /> -- Prince Edmund, the Black Adder and Percy, Duke of Northumberland (<em>The Black Adder</em>)</p>
+<p><em>Ah, beer, my one weakness.  My Achilles' heel, if you will.</em><br /> -- Homer J. Simpson</p>
