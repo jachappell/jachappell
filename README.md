@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [One Time](https://www.amon-hen.com/music/31601)
+- [Happy Holidays](https://www.amon-hen.com/quotes/248)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [RiffTrax – The Star Wars Holiday Special](https://www.amon-hen.com/television/28367)
 - [Messy’s Thanksgiving Day Parade](https://www.amon-hen.com/humor/31603)
 - [Happy Thanksgiving](https://www.amon-hen.com/humor/792)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: The Theoretical Minimum](https://www.amon-hen.com/books/297)
 - [Mmmm, Mail Order Turkey](https://www.amon-hen.com/food/8053)
 - [MST3K 0801 – Revenge of the Creature](https://www.amon-hen.com/television/3229)
 - [Dollar Stores](https://www.amon-hen.com/politics/31583)
-- [MST3K Short 0424 – Hired! 2](https://www.amon-hen.com/television/12858)
-- [Walk The Dark Street (1956)](https://www.amon-hen.com/movies/31581)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Ah, beer, my one weakness.  My Achilles' heel, if you will.</em><br /> -- Homer J. Simpson</p>
+<p><em>Today's public figures can no longer write their own speeches or books, and there is some evidence that they can't read them either.</em><br /> -- Gore Vidal</p>
