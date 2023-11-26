@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Dimension 5 (1966)](https://www.amon-hen.com/movies/31616)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [One Time](https://www.amon-hen.com/music/31601)
 - [Happy Holidays](https://www.amon-hen.com/quotes/248)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [RiffTrax – The Star Wars Holiday Special](https://www.amon-hen.com/television/28367)
 - [Messy’s Thanksgiving Day Parade](https://www.amon-hen.com/humor/31603)
 - [Happy Thanksgiving](https://www.amon-hen.com/humor/792)
 - [Reading: The Theoretical Minimum](https://www.amon-hen.com/books/297)
 - [Mmmm, Mail Order Turkey](https://www.amon-hen.com/food/8053)
 - [MST3K 0801 – Revenge of the Creature](https://www.amon-hen.com/television/3229)
-- [Dollar Stores](https://www.amon-hen.com/politics/31583)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -27,6 +27,7 @@
 
 
 ## [Storage B](https://www.storage-b.com)
+- [Delivering Safe C++](https://www.storage-b.com/c/969)
 - [Full Interview With the Creator of C++](https://www.storage-b.com/c/962)
 - [How To Regex](https://www.storage-b.com/humor/951)
 - [Nightmare Fuel from Bing Image Creator](https://www.storage-b.com/ai/908)
@@ -36,7 +37,6 @@
 - [Toxic Development Culture](https://www.storage-b.com/www/887)
 - [Hewlett Packard Then and Now](https://www.storage-b.com/humor/881)
 - [Absolute Nightmare](https://www.storage-b.com/www/874)
-- [Framework Comparison](https://www.storage-b.com/humor/864)
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Today's public figures can no longer write their own speeches or books, and there is some evidence that they can't read them either.</em><br /> -- Gore Vidal</p>
+<p><em>Indoor electric illumination is often referred to as "artificial light." How can it be artificial?  The way I look at it is this: If I can read by it, see myself in the mirror, and recognize my friends, it's probably as real as I'm ever going to need it to be.</em><br /> -- George Carlin</p>
