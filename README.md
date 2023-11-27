@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Dimension 5 (1966)](https://www.amon-hen.com/movies/31616)
+- [MST3K Short 0503 – What to Do on a Date](https://www.amon-hen.com/television/6024)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Dimension 5 (1966)](https://www.amon-hen.com/movies/31616)
 - [One Time](https://www.amon-hen.com/music/31601)
 - [Happy Holidays](https://www.amon-hen.com/quotes/248)
 - [RiffTrax – The Star Wars Holiday Special](https://www.amon-hen.com/television/28367)
@@ -10,7 +11,6 @@
 - [Happy Thanksgiving](https://www.amon-hen.com/humor/792)
 - [Reading: The Theoretical Minimum](https://www.amon-hen.com/books/297)
 - [Mmmm, Mail Order Turkey](https://www.amon-hen.com/food/8053)
-- [MST3K 0801 – Revenge of the Creature](https://www.amon-hen.com/television/3229)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Indoor electric illumination is often referred to as "artificial light." How can it be artificial?  The way I look at it is this: If I can read by it, see myself in the mirror, and recognize my friends, it's probably as real as I'm ever going to need it to be.</em><br /> -- George Carlin</p>
+<p><em>Drama is life with the dull bits cut out.</em><br /> -- Alfred Hitchcock</p>
