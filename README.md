@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0503 – What to Do on a Date](https://www.amon-hen.com/television/6024)
+- [What is a white hole?](https://www.amon-hen.com/science/31623)
+- [Cyber Monday](https://www.amon-hen.com/humor/5023)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0503 – What to Do on a Date](https://www.amon-hen.com/television/6024)
 - [Dimension 5 (1966)](https://www.amon-hen.com/movies/31616)
 - [One Time](https://www.amon-hen.com/music/31601)
 - [Happy Holidays](https://www.amon-hen.com/quotes/248)
 - [RiffTrax – The Star Wars Holiday Special](https://www.amon-hen.com/television/28367)
 - [Messy’s Thanksgiving Day Parade](https://www.amon-hen.com/humor/31603)
 - [Happy Thanksgiving](https://www.amon-hen.com/humor/792)
-- [Reading: The Theoretical Minimum](https://www.amon-hen.com/books/297)
-- [Mmmm, Mail Order Turkey](https://www.amon-hen.com/food/8053)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Drama is life with the dull bits cut out.</em><br /> -- Alfred Hitchcock</p>
+<p><em>Human beings are seventy percent water, and with some the rest is collagen.</em><br /> -- Martin Mull</p>
