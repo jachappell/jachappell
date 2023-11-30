@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0802 – The Leech Woman](https://www.amon-hen.com/television/14755)
+- [Mmmm, Kraft Barbecue Sauce and Spam](https://www.amon-hen.com/food/31626)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0802 – The Leech Woman](https://www.amon-hen.com/television/14755)
 - [What is a white hole?](https://www.amon-hen.com/science/31623)
 - [Cyber Monday](https://www.amon-hen.com/humor/5023)
 - [MST3K Short 0503 – What to Do on a Date](https://www.amon-hen.com/television/6024)
@@ -10,7 +11,6 @@
 - [One Time](https://www.amon-hen.com/music/31601)
 - [Happy Holidays](https://www.amon-hen.com/quotes/248)
 - [RiffTrax – The Star Wars Holiday Special](https://www.amon-hen.com/television/28367)
-- [Messy’s Thanksgiving Day Parade](https://www.amon-hen.com/humor/31603)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The two most beautiful words in the English language are "Cheque Enclosed."</em><br /> -- Dorothy Parker</p>
+<p><em>Too many of us look upon Americans as dollar chasers. This is a cruel libel, even if it is reiterated thoughtlessly by the Americans themselves.</em><br /> -- Albert Einstein</p>
