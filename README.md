@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Rifftrax – MANOS: The Hands Of Fate](https://www.amon-hen.com/humor/31636)
+- [Fairytale of New York](https://www.amon-hen.com/music/31645)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Rifftrax – MANOS: The Hands Of Fate](https://www.amon-hen.com/humor/31636)
 - [Mmmm, Kraft Barbecue Sauce and Spam](https://www.amon-hen.com/food/31626)
 - [MST3K 0802 – The Leech Woman](https://www.amon-hen.com/television/14755)
 - [What is a white hole?](https://www.amon-hen.com/science/31623)
@@ -10,7 +11,6 @@
 - [MST3K Short 0503 – What to Do on a Date](https://www.amon-hen.com/television/6024)
 - [Dimension 5 (1966)](https://www.amon-hen.com/movies/31616)
 - [One Time](https://www.amon-hen.com/music/31601)
-- [Happy Holidays](https://www.amon-hen.com/quotes/248)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>What our ancestors would really be thinking, if they were alive today, is: "Why is it so dark in here?"</em><br /> -- Terry Pratchett (<em>Pyramids</em>)</p>
+<p><em>Instant gratification takes too long.</em><br /> -- Carrie Fisher</p>
