@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Fairytale of New York](https://www.amon-hen.com/music/31645)
+- [The Great Rupert (1950)](https://www.amon-hen.com/movies/31647)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Fairytale of New York](https://www.amon-hen.com/music/31645)
 - [Rifftrax – MANOS: The Hands Of Fate](https://www.amon-hen.com/humor/31636)
 - [Mmmm, Kraft Barbecue Sauce and Spam](https://www.amon-hen.com/food/31626)
 - [MST3K 0802 – The Leech Woman](https://www.amon-hen.com/television/14755)
@@ -10,10 +11,10 @@
 - [Cyber Monday](https://www.amon-hen.com/humor/5023)
 - [MST3K Short 0503 – What to Do on a Date](https://www.amon-hen.com/television/6024)
 - [Dimension 5 (1966)](https://www.amon-hen.com/movies/31616)
-- [One Time](https://www.amon-hen.com/music/31601)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – December 2023](https://www.drum-corps.net/news/2968)
 - [2024 Drum Corps International Tour Schedule](https://www.drum-corps.net/news/2951)
 - [Drum Corps World – November 2023](https://www.drum-corps.net/news/2946)
 - [The Cadets Suspend Competition for 2024](https://www.drum-corps.net/news/2939)
@@ -23,7 +24,6 @@
 - [Drum Corps World – September 2023](https://www.drum-corps.net/news/2918)
 - [Drum Corps’ Tribute to Chuck Mangione](https://www.drum-corps.net/history/2915)
 - [VMAPA Announces New CEO and Plan for Return of the Santa Clara Vanguard in 2024](https://www.drum-corps.net/news/2909)
-- [2023 DCA World Championships Finals](https://www.drum-corps.net/scores/dca/2901)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Instant gratification takes too long.</em><br /> -- Carrie Fisher</p>
+<p><em>He that breaks a thing to find out what it is has left the path of wisdom.</em><br /> -- J.R.R. Tolkien</p>
