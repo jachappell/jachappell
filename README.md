@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Organ & Body Donations](https://www.amon-hen.com/science/31651)
+- [MST3K 0803 – The Mole People](https://www.amon-hen.com/television/7506)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Organ & Body Donations](https://www.amon-hen.com/science/31651)
 - [MST3K Short 0507 – The Truck Farmer](https://www.amon-hen.com/television/6061)
 - [The Great Rupert (1950)](https://www.amon-hen.com/movies/31647)
 - [Fairytale of New York](https://www.amon-hen.com/music/31645)
@@ -10,7 +11,6 @@
 - [Mmmm, Kraft Barbecue Sauce and Spam](https://www.amon-hen.com/food/31626)
 - [MST3K 0802 – The Leech Woman](https://www.amon-hen.com/television/14755)
 - [What is a white hole?](https://www.amon-hen.com/science/31623)
-- [Cyber Monday](https://www.amon-hen.com/humor/5023)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Barry, there is no hell. There is only France.</em><br /> -- Frank Zappa, "You Can't Do That On Stage Anymore"</p>
+<p><em>Not one hundred percent efficient, of course ... but nothing ever is.</em><br /> -- James T. Kirk, "Metamorphosis", stardate 3219.8</p>
