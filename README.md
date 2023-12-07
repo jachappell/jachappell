@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0803 – The Mole People](https://www.amon-hen.com/television/7506)
+- [Mmmm, Mystery Fruitcake](https://www.amon-hen.com/food/31653)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0803 – The Mole People](https://www.amon-hen.com/television/7506)
 - [Organ & Body Donations](https://www.amon-hen.com/science/31651)
 - [MST3K Short 0507 – The Truck Farmer](https://www.amon-hen.com/television/6061)
 - [The Great Rupert (1950)](https://www.amon-hen.com/movies/31647)
@@ -10,7 +11,6 @@
 - [Rifftrax – MANOS: The Hands Of Fate](https://www.amon-hen.com/humor/31636)
 - [Mmmm, Kraft Barbecue Sauce and Spam](https://www.amon-hen.com/food/31626)
 - [MST3K 0802 – The Leech Woman](https://www.amon-hen.com/television/14755)
-- [What is a white hole?](https://www.amon-hen.com/science/31623)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Not one hundred percent efficient, of course ... but nothing ever is.</em><br /> -- James T. Kirk, "Metamorphosis", stardate 3219.8</p>
+<p><em>Mistakes are a part of being human. Appreciate your mistakes for what they are: precious life lessons that can only be learned the hard way. Unless it's a fatal mistake, which, at least, others can learn from.</em><br /> -- Al Franken</p>
