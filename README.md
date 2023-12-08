@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Mystery Fruitcake](https://www.amon-hen.com/food/31653)
+- [Dutch Christmas](https://www.amon-hen.com/quotes/233)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Mystery Fruitcake](https://www.amon-hen.com/food/31653)
 - [MST3K 0803 – The Mole People](https://www.amon-hen.com/television/7506)
 - [Organ & Body Donations](https://www.amon-hen.com/science/31651)
 - [MST3K Short 0507 – The Truck Farmer](https://www.amon-hen.com/television/6061)
@@ -10,7 +11,6 @@
 - [Fairytale of New York](https://www.amon-hen.com/music/31645)
 - [Rifftrax – MANOS: The Hands Of Fate](https://www.amon-hen.com/humor/31636)
 - [Mmmm, Kraft Barbecue Sauce and Spam](https://www.amon-hen.com/food/31626)
-- [MST3K 0802 – The Leech Woman](https://www.amon-hen.com/television/14755)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Mistakes are a part of being human. Appreciate your mistakes for what they are: precious life lessons that can only be learned the hard way. Unless it's a fatal mistake, which, at least, others can learn from.</em><br /> -- Al Franken</p>
+<p><em>You can't say that civilization don't advance, however, for in every war they kill you in a new way.</em><br /> -- Will Rogers</p>
