@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Dutch Christmas](https://www.amon-hen.com/quotes/233)
+- [Reading: Sunstorm](https://www.amon-hen.com/books/297)
+- [Love Is Still The Light](https://www.amon-hen.com/music/31659)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Dutch Christmas](https://www.amon-hen.com/quotes/233)
 - [Mmmm, Mystery Fruitcake](https://www.amon-hen.com/food/31653)
 - [MST3K 0803 – The Mole People](https://www.amon-hen.com/television/7506)
 - [Organ & Body Donations](https://www.amon-hen.com/science/31651)
 - [MST3K Short 0507 – The Truck Farmer](https://www.amon-hen.com/television/6061)
 - [The Great Rupert (1950)](https://www.amon-hen.com/movies/31647)
 - [Fairytale of New York](https://www.amon-hen.com/music/31645)
-- [Rifftrax – MANOS: The Hands Of Fate](https://www.amon-hen.com/humor/31636)
-- [Mmmm, Kraft Barbecue Sauce and Spam](https://www.amon-hen.com/food/31626)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You can't say that civilization don't advance, however, for in every war they kill you in a new way.</em><br /> -- Will Rogers</p>
+<p><em>Ah, this is obviously some strange usage of the word 'safe' that I wasn't previously aware of.</em><br /> -- Douglas Adams</p>
