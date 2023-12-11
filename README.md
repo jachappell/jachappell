@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Miracle on 34th Street (1955)](https://www.amon-hen.com/television/31661)
+- [MST3K Short 0510 – Body Care And Grooming](https://www.amon-hen.com/television/13676)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Miracle on 34th Street (1955)](https://www.amon-hen.com/television/31661)
 - [Reading: Sunstorm](https://www.amon-hen.com/books/297)
 - [Love Is Still The Light](https://www.amon-hen.com/music/31659)
 - [Dutch Christmas](https://www.amon-hen.com/quotes/233)
@@ -10,7 +11,6 @@
 - [MST3K 0803 – The Mole People](https://www.amon-hen.com/television/7506)
 - [Organ & Body Donations](https://www.amon-hen.com/science/31651)
 - [MST3K Short 0507 – The Truck Farmer](https://www.amon-hen.com/television/6061)
-- [The Great Rupert (1950)](https://www.amon-hen.com/movies/31647)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>No home is complete without a proper toolbox. Here's April and Andy's: A hammer, a half eaten pretzel, a baseball card, some cartridge that says Sonic and Hedgehog, a scissor half, a flashlight filled with jellybeans.</em><br /> -- Ron Swanson</p>
+<p><em>Talent is cheap, and many talents treat themselves cheaply.</em><br /> -- Bill Evans</p>
