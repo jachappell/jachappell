@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0510 – Body Care And Grooming](https://www.amon-hen.com/television/13676)
+- [Freight Trains](https://www.amon-hen.com/politics/31684)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0510 – Body Care And Grooming](https://www.amon-hen.com/television/13676)
 - [Miracle on 34th Street (1955)](https://www.amon-hen.com/television/31661)
 - [Reading: Sunstorm](https://www.amon-hen.com/books/297)
 - [Love Is Still The Light](https://www.amon-hen.com/music/31659)
@@ -10,7 +11,6 @@
 - [Mmmm, Mystery Fruitcake](https://www.amon-hen.com/food/31653)
 - [MST3K 0803 – The Mole People](https://www.amon-hen.com/television/7506)
 - [Organ & Body Donations](https://www.amon-hen.com/science/31651)
-- [MST3K Short 0507 – The Truck Farmer](https://www.amon-hen.com/television/6061)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Talent is cheap, and many talents treat themselves cheaply.</em><br /> -- Bill Evans</p>
+<p><em>The day will come when the mystical generation of Jesus will be classed with the fable of the generation of Minerva in the brain of Jupiter.</em><br /> -- Thomas Jefferson</p>
