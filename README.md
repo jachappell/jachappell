@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Freight Trains](https://www.amon-hen.com/politics/31684)
+- [Dune: Part Two – Trailer 3](https://www.amon-hen.com/books/31687)
+- [MST3K 0321 – Santa Claus Conquers the Martians](https://www.amon-hen.com/television/5079)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Freight Trains](https://www.amon-hen.com/politics/31684)
 - [MST3K Short 0510 – Body Care And Grooming](https://www.amon-hen.com/television/13676)
 - [Miracle on 34th Street (1955)](https://www.amon-hen.com/television/31661)
 - [Reading: Sunstorm](https://www.amon-hen.com/books/297)
 - [Love Is Still The Light](https://www.amon-hen.com/music/31659)
 - [Dutch Christmas](https://www.amon-hen.com/quotes/233)
 - [Mmmm, Mystery Fruitcake](https://www.amon-hen.com/food/31653)
-- [MST3K 0803 – The Mole People](https://www.amon-hen.com/television/7506)
-- [Organ & Body Donations](https://www.amon-hen.com/science/31651)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The day will come when the mystical generation of Jesus will be classed with the fable of the generation of Minerva in the brain of Jupiter.</em><br /> -- Thomas Jefferson</p>
+<p><em>In the begining there was nothing, and it exploded.</em><br /> -- Terry Pratchett</p>
