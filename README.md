@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Mmmm,  Hanukkah Ham](https://www.amon-hen.com/religion/2893)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Dune: Part Two – Trailer 3](https://www.amon-hen.com/books/31687)
 - [MST3K 0321 – Santa Claus Conquers the Martians](https://www.amon-hen.com/television/5079)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Freight Trains](https://www.amon-hen.com/politics/31684)
 - [MST3K Short 0510 – Body Care And Grooming](https://www.amon-hen.com/television/13676)
 - [Miracle on 34th Street (1955)](https://www.amon-hen.com/television/31661)
 - [Reading: Sunstorm](https://www.amon-hen.com/books/297)
 - [Love Is Still The Light](https://www.amon-hen.com/music/31659)
 - [Dutch Christmas](https://www.amon-hen.com/quotes/233)
-- [Mmmm, Mystery Fruitcake](https://www.amon-hen.com/food/31653)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>In the begining there was nothing, and it exploded.</em><br /> -- Terry Pratchett</p>
+<p><em>It is a truism that almost any sect, cult, or religion will legislate its creed into law if it acquires the political power to do so.</em><br /> -- Arthur C. Clarke</p>
