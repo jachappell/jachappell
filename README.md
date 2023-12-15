@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm,  Hanukkah Ham](https://www.amon-hen.com/religion/2893)
+- [RiffTrax – The Shoemaker And The Elves](https://www.amon-hen.com/movies/31690)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm,  Hanukkah Ham](https://www.amon-hen.com/religion/2893)
 - [Dune: Part Two – Trailer 3](https://www.amon-hen.com/books/31687)
 - [MST3K 0321 – Santa Claus Conquers the Martians](https://www.amon-hen.com/television/5079)
 - [Freight Trains](https://www.amon-hen.com/politics/31684)
@@ -10,7 +11,6 @@
 - [Miracle on 34th Street (1955)](https://www.amon-hen.com/television/31661)
 - [Reading: Sunstorm](https://www.amon-hen.com/books/297)
 - [Love Is Still The Light](https://www.amon-hen.com/music/31659)
-- [Dutch Christmas](https://www.amon-hen.com/quotes/233)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It is a truism that almost any sect, cult, or religion will legislate its creed into law if it acquires the political power to do so.</em><br /> -- Arthur C. Clarke</p>
+<p><em>Work was impossible.  The geeks had broken my spirit.  They had done too many things wrong.  It was never like this for Mencken.  He lived like a Prussian gambler -- sweating worse than Bryan on some nights and drunker than Judas on others.  It was all a dehumanized nightmare...and these raddled cretins have the gall to complain about my deadlines.</em><br /> -- Hunter Thompson, "Bad Nerves in Fat City" (<em>Generation of Swine</em>)</p>
