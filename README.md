@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Run with the Fox](https://www.amon-hen.com/music/22308)
+- [Miracle on 34th Street (1994)](https://www.amon-hen.com/movies/31679)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Run with the Fox](https://www.amon-hen.com/music/22308)
 - [RiffTrax – The Shoemaker And The Elves](https://www.amon-hen.com/movies/31690)
 - [Mmmm,  Hanukkah Ham](https://www.amon-hen.com/religion/2893)
 - [Dune: Part Two – Trailer 3](https://www.amon-hen.com/books/31687)
@@ -10,7 +11,6 @@
 - [Freight Trains](https://www.amon-hen.com/politics/31684)
 - [MST3K Short 0510 – Body Care And Grooming](https://www.amon-hen.com/television/13676)
 - [Miracle on 34th Street (1955)](https://www.amon-hen.com/television/31661)
-- [Reading: Sunstorm](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I guess I kinda lost control, because in the middle of the play I ran up and lit the evil puppet villain on fire. No, I didn't. Just kidding. I just said that to help illustrate one of the human emotions, which is freaking out. Another emotion is greed, as when you kill someone for money, or something like that. Another emotion is generosity, as when you pay someone double what he paid for his stupid puppet.</em><br /> -- Jack Handey</p>
+<p><em>Life... is like a grapefruit. It's orange and squishy, and has a few pips in it, and some folks have half a one for breakfast.</em><br /> -- Douglas Adams</p>
