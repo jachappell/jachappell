@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Miracle on 34th Street (1994)](https://www.amon-hen.com/movies/31679)
+- [Reading: Firstborn](https://www.amon-hen.com/books/297)
+- [MST3K Short 0514 – Is This Love?](https://www.amon-hen.com/television/8667)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Miracle on 34th Street (1994)](https://www.amon-hen.com/movies/31679)
 - [Run with the Fox](https://www.amon-hen.com/music/22308)
 - [RiffTrax – The Shoemaker And The Elves](https://www.amon-hen.com/movies/31690)
 - [Mmmm,  Hanukkah Ham](https://www.amon-hen.com/religion/2893)
 - [Dune: Part Two – Trailer 3](https://www.amon-hen.com/books/31687)
 - [MST3K 0321 – Santa Claus Conquers the Martians](https://www.amon-hen.com/television/5079)
 - [Freight Trains](https://www.amon-hen.com/politics/31684)
-- [MST3K Short 0510 – Body Care And Grooming](https://www.amon-hen.com/television/13676)
-- [Miracle on 34th Street (1955)](https://www.amon-hen.com/television/31661)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Life... is like a grapefruit. It's orange and squishy, and has a few pips in it, and some folks have half a one for breakfast.</em><br /> -- Douglas Adams</p>
+<p><em>Crying is only okay in two places: funerals and the Grand Canyon.</em><br /> -- Ron Swanson</p>
