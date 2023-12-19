@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Elon Musk](https://www.amon-hen.com/politics/31710)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: Firstborn](https://www.amon-hen.com/books/297)
 - [MST3K Short 0514 – Is This Love?](https://www.amon-hen.com/television/8667)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Miracle on 34th Street (1994)](https://www.amon-hen.com/movies/31679)
 - [Run with the Fox](https://www.amon-hen.com/music/22308)
 - [RiffTrax – The Shoemaker And The Elves](https://www.amon-hen.com/movies/31690)
 - [Mmmm,  Hanukkah Ham](https://www.amon-hen.com/religion/2893)
 - [Dune: Part Two – Trailer 3](https://www.amon-hen.com/books/31687)
 - [MST3K 0321 – Santa Claus Conquers the Martians](https://www.amon-hen.com/television/5079)
-- [Freight Trains](https://www.amon-hen.com/politics/31684)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Crying is only okay in two places: funerals and the Grand Canyon.</em><br /> -- Ron Swanson</p>
+<p><em>I was in ROTC in college.  One day the commander came up to me and said, "Emo, I haven't seen you in camouflage class in six weeks."  I replied, "I'm getting good, aren't I?"</em><br /> -- Emo Philips</p>
