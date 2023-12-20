@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Elon Musk](https://www.amon-hen.com/politics/31710)
+- [MST3K 0521 – Santa Claus](https://www.amon-hen.com/television/5073)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Elon Musk](https://www.amon-hen.com/politics/31710)
 - [Reading: Firstborn](https://www.amon-hen.com/books/297)
 - [MST3K Short 0514 – Is This Love?](https://www.amon-hen.com/television/8667)
 - [Miracle on 34th Street (1994)](https://www.amon-hen.com/movies/31679)
@@ -10,7 +11,6 @@
 - [RiffTrax – The Shoemaker And The Elves](https://www.amon-hen.com/movies/31690)
 - [Mmmm,  Hanukkah Ham](https://www.amon-hen.com/religion/2893)
 - [Dune: Part Two – Trailer 3](https://www.amon-hen.com/books/31687)
-- [MST3K 0321 – Santa Claus Conquers the Martians](https://www.amon-hen.com/television/5079)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I was in ROTC in college.  One day the commander came up to me and said, "Emo, I haven't seen you in camouflage class in six weeks."  I replied, "I'm getting good, aren't I?"</em><br /> -- Emo Philips</p>
+<p><em>The 'Net is a waste of time, and that's exactly what's right about it.</em><br /> -- William Gibson</p>
