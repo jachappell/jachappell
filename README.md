@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0521 – Santa Claus](https://www.amon-hen.com/television/5073)
+- [Mmmm, Yule Log](https://www.amon-hen.com/food/31667)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0521 – Santa Claus](https://www.amon-hen.com/television/5073)
 - [Elon Musk](https://www.amon-hen.com/politics/31710)
 - [Reading: Firstborn](https://www.amon-hen.com/books/297)
 - [MST3K Short 0514 – Is This Love?](https://www.amon-hen.com/television/8667)
@@ -10,7 +11,6 @@
 - [Run with the Fox](https://www.amon-hen.com/music/22308)
 - [RiffTrax – The Shoemaker And The Elves](https://www.amon-hen.com/movies/31690)
 - [Mmmm,  Hanukkah Ham](https://www.amon-hen.com/religion/2893)
-- [Dune: Part Two – Trailer 3](https://www.amon-hen.com/books/31687)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The 'Net is a waste of time, and that's exactly what's right about it.</em><br /> -- William Gibson</p>
+<p><em>Friends: one to three is sufficient.</em><br /> -- Ron Swanson</p>
