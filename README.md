@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Yule Log](https://www.amon-hen.com/food/31667)
+- [National Flashlight Day](https://www.amon-hen.com/miscellaneous/1766)
+- [RiffTrax –  A Christmas Carol](https://www.amon-hen.com/television/31713)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Yule Log](https://www.amon-hen.com/food/31667)
 - [MST3K 0521 – Santa Claus](https://www.amon-hen.com/television/5073)
 - [Elon Musk](https://www.amon-hen.com/politics/31710)
 - [Reading: Firstborn](https://www.amon-hen.com/books/297)
 - [MST3K Short 0514 – Is This Love?](https://www.amon-hen.com/television/8667)
 - [Miracle on 34th Street (1994)](https://www.amon-hen.com/movies/31679)
 - [Run with the Fox](https://www.amon-hen.com/music/22308)
-- [RiffTrax – The Shoemaker And The Elves](https://www.amon-hen.com/movies/31690)
-- [Mmmm,  Hanukkah Ham](https://www.amon-hen.com/religion/2893)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Friends: one to three is sufficient.</em><br /> -- Ron Swanson</p>
+<p><em>It was the Law of the Sea, they said.  Civilization ends at the waterline.  Beyond that, we all enter the food chain, and not always right at the top.</em><br /> -- Hunter S. Thompson</p>
