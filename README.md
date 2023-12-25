@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [RiffTrax – Charlie’s Christmas Secret](https://www.amon-hen.com/humor/31742)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [RiffTrax – A Song For Santa](https://www.amon-hen.com/humor/31727)
 - [Happy Festivus!](https://www.amon-hen.com/humor/18780)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Linus and Lucy](https://www.amon-hen.com/music/31695)
 - [Festivus is Coming](https://www.amon-hen.com/humor/5249)
 - [National Flashlight Day](https://www.amon-hen.com/miscellaneous/1766)
 - [RiffTrax –  A Christmas Carol](https://www.amon-hen.com/television/31713)
 - [Mmmm, Yule Log](https://www.amon-hen.com/food/31667)
 - [MST3K 0521 – Santa Claus](https://www.amon-hen.com/television/5073)
-- [Elon Musk](https://www.amon-hen.com/politics/31710)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>First secure an independent income, then practice virtue.</em><br /> -- Lenny Bruce</p>
+<p><em>I can't live the button-down life like you.  I want it all!  The terrifying lows, the dizzying highs, the creamy middles!</em><br /> -- Homer J. Simpson</p>
