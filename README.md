@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K 0804 – The Deadly Mantis](https://www.amon-hen.com/television/3806)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Newtonian Swag: 2023](https://www.amon-hen.com/books/31753)
 - [War on Christmas 2023](https://www.amon-hen.com/politics/31751)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [RiffTrax – Charlie’s Christmas Secret](https://www.amon-hen.com/humor/31742)
 - [RiffTrax – A Song For Santa](https://www.amon-hen.com/humor/31727)
 - [Happy Festivus!](https://www.amon-hen.com/humor/18780)
 - [Linus and Lucy](https://www.amon-hen.com/music/31695)
 - [Festivus is Coming](https://www.amon-hen.com/humor/5249)
 - [National Flashlight Day](https://www.amon-hen.com/miscellaneous/1766)
-- [RiffTrax –  A Christmas Carol](https://www.amon-hen.com/television/31713)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It's not easy to juggle a pregnant wife and a troubled child, but somehow I managed to squeeze in 8 hours of TV a day.</em><br /> -- Homer J. Simpson</p>
+<p><em>In West Virginia I never stop for gas, because I'm afraid I'll be caught and made someone's mountain wife. And then I'll probably grow to like the guy and end up with ten scrawny, filthy kids named Shane who always ask, "Momma, how come you don't talk like us?"</em><br /> -- Kathleen Madigan</p>
