@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Passionately Rimmed](https://www.amon-hen.com/food/31768)
+- [Secrets of the Universe](https://www.amon-hen.com/science/31773)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Passionately Rimmed](https://www.amon-hen.com/food/31768)
 - [MST3K 0804 – The Deadly Mantis](https://www.amon-hen.com/television/3806)
 - [Newtonian Swag: 2023](https://www.amon-hen.com/books/31753)
 - [War on Christmas 2023](https://www.amon-hen.com/politics/31751)
@@ -10,7 +11,6 @@
 - [RiffTrax – A Song For Santa](https://www.amon-hen.com/humor/31727)
 - [Happy Festivus!](https://www.amon-hen.com/humor/18780)
 - [Linus and Lucy](https://www.amon-hen.com/music/31695)
-- [Festivus is Coming](https://www.amon-hen.com/humor/5249)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>No house should ever be on any hill or on anything.  It should be of the hill, belonging to it.</em><br /> -- Frank Lloyd Wright</p>
+<p><em>It's such a fine line between stupid, and clever.</em><br /> -- David St. Hubbins</p>
