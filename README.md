@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Secrets of the Universe](https://www.amon-hen.com/science/31773)
+- [The Sheltering Sky](https://www.amon-hen.com/music/24579)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Secrets of the Universe](https://www.amon-hen.com/science/31773)
 - [Passionately Rimmed](https://www.amon-hen.com/food/31768)
 - [MST3K 0804 – The Deadly Mantis](https://www.amon-hen.com/television/3806)
 - [Newtonian Swag: 2023](https://www.amon-hen.com/books/31753)
@@ -10,10 +11,10 @@
 - [RiffTrax – Charlie’s Christmas Secret](https://www.amon-hen.com/humor/31742)
 - [RiffTrax – A Song For Santa](https://www.amon-hen.com/humor/31727)
 - [Happy Festivus!](https://www.amon-hen.com/humor/18780)
-- [Linus and Lucy](https://www.amon-hen.com/music/31695)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – January 2024](https://www.drum-corps.net/news/2972)
 - [Drum Corps World – December 2023](https://www.drum-corps.net/news/2968)
 - [2024 Drum Corps International Tour Schedule](https://www.drum-corps.net/news/2951)
 - [Drum Corps World – November 2023](https://www.drum-corps.net/news/2946)
@@ -23,7 +24,6 @@
 - [Robert W. Smith, pioneer of “original” drum corps compositions, dies at 64](https://www.drum-corps.net/news/2921)
 - [Drum Corps World – September 2023](https://www.drum-corps.net/news/2918)
 - [Drum Corps’ Tribute to Chuck Mangione](https://www.drum-corps.net/history/2915)
-- [VMAPA Announces New CEO and Plan for Return of the Santa Clara Vanguard in 2024](https://www.drum-corps.net/news/2909)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It's such a fine line between stupid, and clever.</em><br /> -- David St. Hubbins</p>
+<p><em>I find it rather easy to portray a businessman. Being bland, rather cruel and incompetent comes naturally to me.</em><br /> -- John Cleese</p>
