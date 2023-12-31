@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Sheltering Sky](https://www.amon-hen.com/music/24579)
+- [Reading: The Cosmic Puppets](https://www.amon-hen.com/books/297)
+- [The Incredible Petrified World (1959)](https://www.amon-hen.com/movies/31777)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Sheltering Sky](https://www.amon-hen.com/music/24579)
 - [Secrets of the Universe](https://www.amon-hen.com/science/31773)
 - [Passionately Rimmed](https://www.amon-hen.com/food/31768)
 - [MST3K 0804 – The Deadly Mantis](https://www.amon-hen.com/television/3806)
 - [Newtonian Swag: 2023](https://www.amon-hen.com/books/31753)
 - [War on Christmas 2023](https://www.amon-hen.com/politics/31751)
 - [RiffTrax – Charlie’s Christmas Secret](https://www.amon-hen.com/humor/31742)
-- [RiffTrax – A Song For Santa](https://www.amon-hen.com/humor/31727)
-- [Happy Festivus!](https://www.amon-hen.com/humor/18780)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I find it rather easy to portray a businessman. Being bland, rather cruel and incompetent comes naturally to me.</em><br /> -- John Cleese</p>
+<p><em>When a nice clean brain tumbles into the dirty street to lay among the discarded wrappers and spat-out gum wads of wickedness, you can't just pick it up and wash it off with soap and water; you have to think it clean from the inside out!</em><br /> -- The Tick</p>
