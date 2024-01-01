@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K Short 0515 – Cheating](https://www.amon-hen.com/television/7352)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: The Cosmic Puppets](https://www.amon-hen.com/books/297)
 - [The Incredible Petrified World (1959)](https://www.amon-hen.com/movies/31777)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Sheltering Sky](https://www.amon-hen.com/music/24579)
 - [Secrets of the Universe](https://www.amon-hen.com/science/31773)
 - [Passionately Rimmed](https://www.amon-hen.com/food/31768)
 - [MST3K 0804 – The Deadly Mantis](https://www.amon-hen.com/television/3806)
 - [Newtonian Swag: 2023](https://www.amon-hen.com/books/31753)
 - [War on Christmas 2023](https://www.amon-hen.com/politics/31751)
-- [RiffTrax – Charlie’s Christmas Secret](https://www.amon-hen.com/humor/31742)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When a nice clean brain tumbles into the dirty street to lay among the discarded wrappers and spat-out gum wads of wickedness, you can't just pick it up and wash it off with soap and water; you have to think it clean from the inside out!</em><br /> -- The Tick</p>
+<p><em>Why did this have to happen now, during prime time, when TV's brightest stars come out to shine?</em><br /> -- Homer J. Simpson</p>
