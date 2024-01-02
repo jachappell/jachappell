@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0515 – Cheating](https://www.amon-hen.com/television/7352)
+- [Summary of 2023](https://www.amon-hen.com/site-news/31790)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [2023: Yet Another Year in Review](https://www.amon-hen.com/chappells-show/31765)
+- [MST3K Short 0515 – Cheating](https://www.amon-hen.com/television/7352)
 - [Reading: The Cosmic Puppets](https://www.amon-hen.com/books/297)
 - [The Incredible Petrified World (1959)](https://www.amon-hen.com/movies/31777)
 - [The Sheltering Sky](https://www.amon-hen.com/music/24579)
 - [Secrets of the Universe](https://www.amon-hen.com/science/31773)
 - [Passionately Rimmed](https://www.amon-hen.com/food/31768)
 - [MST3K 0804 – The Deadly Mantis](https://www.amon-hen.com/television/3806)
-- [Newtonian Swag: 2023](https://www.amon-hen.com/books/31753)
-- [War on Christmas 2023](https://www.amon-hen.com/politics/31751)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Why did this have to happen now, during prime time, when TV's brightest stars come out to shine?</em><br /> -- Homer J. Simpson</p>
+<p><em>It ain't supposed to make sense; it's faith.  Faith is something that you believe that nobody in his right mind would believe.</em><br /> -- Archie Bunker</p>
