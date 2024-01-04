@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0805 – The Thing that Couldn’t Die](https://www.amon-hen.com/television/7626)
+- [Mmmm, Ice Cleam](https://www.amon-hen.com/food/31792)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0805 – The Thing that Couldn’t Die](https://www.amon-hen.com/television/7626)
 - [Summary of 2023](https://www.amon-hen.com/site-news/31790)
 - [2023: Yet Another Year in Review](https://www.amon-hen.com/chappells-show/31765)
 - [MST3K Short 0515 – Cheating](https://www.amon-hen.com/television/7352)
@@ -10,7 +11,6 @@
 - [The Incredible Petrified World (1959)](https://www.amon-hen.com/movies/31777)
 - [The Sheltering Sky](https://www.amon-hen.com/music/24579)
 - [Secrets of the Universe](https://www.amon-hen.com/science/31773)
-- [Passionately Rimmed](https://www.amon-hen.com/food/31768)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When you die, if you get a choice between going to regular heaven or pie heaven, choose pie heaven.  It might be a trick, but if it's not, ummmm, boy.</em><br /> -- Jack Handey</p>
+<p><em>You must lash out with every limb, like the octopus who plays the drums.</em><br /> -- The Sphinx</p>
