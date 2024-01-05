@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Ice Cleam](https://www.amon-hen.com/food/31792)
+- [APPLAUSE  – Canton’s Bluecoats](https://www.amon-hen.com/music/drum-and-bugle-corps/31797)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Ice Cleam](https://www.amon-hen.com/food/31792)
 - [MST3K 0805 – The Thing that Couldn’t Die](https://www.amon-hen.com/television/7626)
 - [Summary of 2023](https://www.amon-hen.com/site-news/31790)
 - [2023: Yet Another Year in Review](https://www.amon-hen.com/chappells-show/31765)
@@ -10,7 +11,6 @@
 - [Reading: The Cosmic Puppets](https://www.amon-hen.com/books/297)
 - [The Incredible Petrified World (1959)](https://www.amon-hen.com/movies/31777)
 - [The Sheltering Sky](https://www.amon-hen.com/music/24579)
-- [Secrets of the Universe](https://www.amon-hen.com/science/31773)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You must lash out with every limb, like the octopus who plays the drums.</em><br /> -- The Sphinx</p>
+<p><em>The greater the difficulty, the greater the glory.</em><br /> -- Cicero</p>
