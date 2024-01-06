@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [APPLAUSE  – Canton’s Bluecoats](https://www.amon-hen.com/music/drum-and-bugle-corps/31797)
+- [Indiscipline](https://www.amon-hen.com/music/31799)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [APPLAUSE  – Canton’s Bluecoats](https://www.amon-hen.com/music/drum-and-bugle-corps/31797)
 - [Mmmm, Ice Cleam](https://www.amon-hen.com/food/31792)
 - [MST3K 0805 – The Thing that Couldn’t Die](https://www.amon-hen.com/television/7626)
 - [Summary of 2023](https://www.amon-hen.com/site-news/31790)
@@ -10,7 +11,6 @@
 - [MST3K Short 0515 – Cheating](https://www.amon-hen.com/television/7352)
 - [Reading: The Cosmic Puppets](https://www.amon-hen.com/books/297)
 - [The Incredible Petrified World (1959)](https://www.amon-hen.com/movies/31777)
-- [The Sheltering Sky](https://www.amon-hen.com/music/24579)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The greater the difficulty, the greater the glory.</em><br /> -- Cicero</p>
+<p><em>There is one way to find out if a man is honest -- ask him.  If he says "Yes" you know he is crooked.</em><br /> -- Groucho Marx</p>
