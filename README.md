@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Indiscipline](https://www.amon-hen.com/music/31799)
+- [Teenage Zombies (1959)](https://www.amon-hen.com/movies/31803)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Indiscipline](https://www.amon-hen.com/music/31799)
 - [APPLAUSE  – Canton’s Bluecoats](https://www.amon-hen.com/music/drum-and-bugle-corps/31797)
 - [Mmmm, Ice Cleam](https://www.amon-hen.com/food/31792)
 - [MST3K 0805 – The Thing that Couldn’t Die](https://www.amon-hen.com/television/7626)
@@ -10,7 +11,6 @@
 - [2023: Yet Another Year in Review](https://www.amon-hen.com/chappells-show/31765)
 - [MST3K Short 0515 – Cheating](https://www.amon-hen.com/television/7352)
 - [Reading: The Cosmic Puppets](https://www.amon-hen.com/books/297)
-- [The Incredible Petrified World (1959)](https://www.amon-hen.com/movies/31777)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>There is one way to find out if a man is honest -- ask him.  If he says "Yes" you know he is crooked.</em><br /> -- Groucho Marx</p>
+<p><em>To learn my teachings, I must first teach you how to learn.</em><br /> -- The Sphinx</p>
