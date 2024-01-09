@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [The secrets of Einstein’s unknown equation](https://www.amon-hen.com/science/31848)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Donald Trump is a big fucking baby who can’t deal with being a loser](https://www.amon-hen.com/politics/31839)
 - [Reading: Anaximander: And the Birth of Science](https://www.amon-hen.com/books/297)
 - [MST3K Short 0518 – What About Juvenile Delinquency?](https://www.amon-hen.com/television/8316)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Teenage Zombies (1959)](https://www.amon-hen.com/movies/31803)
 - [Indiscipline](https://www.amon-hen.com/music/31799)
 - [APPLAUSE  – Canton’s Bluecoats](https://www.amon-hen.com/music/drum-and-bugle-corps/31797)
 - [Mmmm, Ice Cleam](https://www.amon-hen.com/food/31792)
 - [MST3K 0805 – The Thing that Couldn’t Die](https://www.amon-hen.com/television/7626)
-- [Summary of 2023](https://www.amon-hen.com/site-news/31790)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When belief in a god dies, the god dies.</em><br /> -- Harlan Ellison (<em>Deathbird Stories</em>)</p>
+<p><em>The National Association of Theater Concessionaires reported that in 1986, 60% of all candy sold in movie theaters was sold to Roger Ebert.</em><br /> -- David Letterman</p>
