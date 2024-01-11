@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0806 – The Undead](https://www.amon-hen.com/television/3534)
+- [Mmmm, Cheez Whiz](https://www.amon-hen.com/food/31853)
+- [Jolly Sluzzle Tag!](https://www.amon-hen.com/television/17252)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Night Before Sluzzle Tag](https://www.amon-hen.com/television/17245)
+- [MST3K 0806 – The Undead](https://www.amon-hen.com/television/3534)
 - [The secrets of Einstein’s unknown equation](https://www.amon-hen.com/science/31848)
 - [Donald Trump is a big fucking baby who can’t deal with being a loser](https://www.amon-hen.com/politics/31839)
 - [Reading: Anaximander: And the Birth of Science](https://www.amon-hen.com/books/297)
 - [MST3K Short 0518 – What About Juvenile Delinquency?](https://www.amon-hen.com/television/8316)
 - [Teenage Zombies (1959)](https://www.amon-hen.com/movies/31803)
-- [Indiscipline](https://www.amon-hen.com/music/31799)
-- [APPLAUSE  – Canton’s Bluecoats](https://www.amon-hen.com/music/drum-and-bugle-corps/31797)
-- [Mmmm, Ice Cleam](https://www.amon-hen.com/food/31792)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>This is like deja vu all over again.</em><br /> -- Yogi Berra</p>
+<p><em>When the music changes, so does the dance.</em><br /> -- African proverb</p>
