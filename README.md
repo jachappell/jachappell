@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Rifftrax – Feeders](https://www.amon-hen.com/humor/31861)
+- [This Is Why](https://www.amon-hen.com/music/31863)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Rifftrax – Feeders](https://www.amon-hen.com/humor/31861)
 - [Mmmm, Cheez Whiz](https://www.amon-hen.com/food/31853)
 - [Jolly Sluzzle Tag!](https://www.amon-hen.com/television/17252)
 - [The Night Before Sluzzle Tag](https://www.amon-hen.com/television/17245)
@@ -10,7 +11,6 @@
 - [The secrets of Einstein’s unknown equation](https://www.amon-hen.com/science/31848)
 - [Donald Trump is a big fucking baby who can’t deal with being a loser](https://www.amon-hen.com/politics/31839)
 - [Reading: Anaximander: And the Birth of Science](https://www.amon-hen.com/books/297)
-- [MST3K Short 0518 – What About Juvenile Delinquency?](https://www.amon-hen.com/television/8316)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Even though I was their captive, the Indians allowed me quite a bit of freedom. I could walk freely, make my own meals, and even hurl large rocks at their heads. It was only later that I discovered that they were not Indians at all but only dirty-clothes hampers.</em><br /> -- Jack Handey</p>
+<p><em>John Bolton is like that dickish junior manager at an Applebee's.</em><br /> -- Jon Stewart</p>
