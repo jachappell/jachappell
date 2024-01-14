@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [This Is Why](https://www.amon-hen.com/music/31863)
+- [Earth vs. the Flying Saucers (1956)](https://www.amon-hen.com/movies/31887)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [This Is Why](https://www.amon-hen.com/music/31863)
 - [Rifftrax – Feeders](https://www.amon-hen.com/humor/31861)
 - [Mmmm, Cheez Whiz](https://www.amon-hen.com/food/31853)
 - [Jolly Sluzzle Tag!](https://www.amon-hen.com/television/17252)
@@ -10,7 +11,6 @@
 - [MST3K 0806 – The Undead](https://www.amon-hen.com/television/3534)
 - [The secrets of Einstein’s unknown equation](https://www.amon-hen.com/science/31848)
 - [Donald Trump is a big fucking baby who can’t deal with being a loser](https://www.amon-hen.com/politics/31839)
-- [Reading: Anaximander: And the Birth of Science](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>John Bolton is like that dickish junior manager at an Applebee's.</em><br /> -- Jon Stewart</p>
+<p><em>I signed with the Milwaukee Braves for three-thousand dollars.  That bothered my dad at the time because he didn't have that kind of dough.  But he eventually scraped it up.</em><br /> -- Bob Uecker</p>
