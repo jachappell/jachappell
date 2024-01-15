@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Earth vs. the Flying Saucers (1956)](https://www.amon-hen.com/movies/31887)
+- [MST3K Short 0520 – Last Clear Chance](https://www.amon-hen.com/television/5967)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Earth vs. the Flying Saucers (1956)](https://www.amon-hen.com/movies/31887)
 - [This Is Why](https://www.amon-hen.com/music/31863)
 - [Rifftrax – Feeders](https://www.amon-hen.com/humor/31861)
 - [Mmmm, Cheez Whiz](https://www.amon-hen.com/food/31853)
@@ -10,7 +11,6 @@
 - [The Night Before Sluzzle Tag](https://www.amon-hen.com/television/17245)
 - [MST3K 0806 – The Undead](https://www.amon-hen.com/television/3534)
 - [The secrets of Einstein’s unknown equation](https://www.amon-hen.com/science/31848)
-- [Donald Trump is a big fucking baby who can’t deal with being a loser](https://www.amon-hen.com/politics/31839)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I signed with the Milwaukee Braves for three-thousand dollars.  That bothered my dad at the time because he didn't have that kind of dough.  But he eventually scraped it up.</em><br /> -- Bob Uecker</p>
+<p><em>This man is costing my health plan five thousand dollars a day! I demand he die with dignity.</em><br /> -- Charles Montgomery Burns</p>
