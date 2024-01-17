@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Mads – A Case of Spring Fever](https://www.amon-hen.com/humor/31895)
+- [MST3K 0807 – Terror from the Year 5000](https://www.amon-hen.com/television/7365)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Mads – A Case of Spring Fever](https://www.amon-hen.com/humor/31895)
 - [MST3K Short 0520 – Last Clear Chance](https://www.amon-hen.com/television/5967)
 - [Earth vs. the Flying Saucers (1956)](https://www.amon-hen.com/movies/31887)
 - [This Is Why](https://www.amon-hen.com/music/31863)
@@ -10,7 +11,6 @@
 - [Mmmm, Cheez Whiz](https://www.amon-hen.com/food/31853)
 - [Jolly Sluzzle Tag!](https://www.amon-hen.com/television/17252)
 - [The Night Before Sluzzle Tag](https://www.amon-hen.com/television/17245)
-- [MST3K 0806 – The Undead](https://www.amon-hen.com/television/3534)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I got kicked out of ballet class because I pulled a groin muscle. It wasn't mine.</em><br /> -- Rita Rudner</p>
+<p><em>All I wanted was to make the world a better place... and to make an assload of money.</em><br /> -- Jodene Sparks</p>
