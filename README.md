@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0807 – Terror from the Year 5000](https://www.amon-hen.com/television/7365)
+- [Mmmm, Beef Tea](https://www.amon-hen.com/food/31906)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0807 – Terror from the Year 5000](https://www.amon-hen.com/television/7365)
 - [The Mads – A Case of Spring Fever](https://www.amon-hen.com/humor/31895)
 - [MST3K Short 0520 – Last Clear Chance](https://www.amon-hen.com/television/5967)
 - [Earth vs. the Flying Saucers (1956)](https://www.amon-hen.com/movies/31887)
@@ -10,7 +11,6 @@
 - [Rifftrax – Feeders](https://www.amon-hen.com/humor/31861)
 - [Mmmm, Cheez Whiz](https://www.amon-hen.com/food/31853)
 - [Jolly Sluzzle Tag!](https://www.amon-hen.com/television/17252)
-- [The Night Before Sluzzle Tag](https://www.amon-hen.com/television/17245)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>All I wanted was to make the world a better place... and to make an assload of money.</em><br /> -- Jodene Sparks</p>
+<p><em>I don't want to paint with a broad brush here, but every single contractor in the world is a miserable, incompetent thief.</em><br /> -- Ron Swanson</p>
