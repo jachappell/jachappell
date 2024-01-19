@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Beef Tea](https://www.amon-hen.com/food/31906)
+- [RiffTrax – Ator, The Fighting Eagle](https://www.amon-hen.com/humor/31913)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Beef Tea](https://www.amon-hen.com/food/31906)
 - [MST3K 0807 – Terror from the Year 5000](https://www.amon-hen.com/television/7365)
 - [The Mads – A Case of Spring Fever](https://www.amon-hen.com/humor/31895)
 - [MST3K Short 0520 – Last Clear Chance](https://www.amon-hen.com/television/5967)
@@ -10,7 +11,6 @@
 - [This Is Why](https://www.amon-hen.com/music/31863)
 - [Rifftrax – Feeders](https://www.amon-hen.com/humor/31861)
 - [Mmmm, Cheez Whiz](https://www.amon-hen.com/food/31853)
-- [Jolly Sluzzle Tag!](https://www.amon-hen.com/television/17252)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I don't want to paint with a broad brush here, but every single contractor in the world is a miserable, incompetent thief.</em><br /> -- Ron Swanson</p>
+<p><em>Women: You can't live with them, and you can't get them to dress up in a skimpy Nazi costume and beat you with a warm squash.</em><br /> -- Emo Philips</p>
