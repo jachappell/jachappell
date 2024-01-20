@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Ator, The Fighting Eagle](https://www.amon-hen.com/humor/31913)
+- [Walking On Air](https://www.amon-hen.com/music/31922)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Ator, The Fighting Eagle](https://www.amon-hen.com/humor/31913)
 - [Mmmm, Beef Tea](https://www.amon-hen.com/food/31906)
 - [MST3K 0807 – Terror from the Year 5000](https://www.amon-hen.com/television/7365)
 - [The Mads – A Case of Spring Fever](https://www.amon-hen.com/humor/31895)
@@ -10,7 +11,6 @@
 - [Earth vs. the Flying Saucers (1956)](https://www.amon-hen.com/movies/31887)
 - [This Is Why](https://www.amon-hen.com/music/31863)
 - [Rifftrax – Feeders](https://www.amon-hen.com/humor/31861)
-- [Mmmm, Cheez Whiz](https://www.amon-hen.com/food/31853)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Women: You can't live with them, and you can't get them to dress up in a skimpy Nazi costume and beat you with a warm squash.</em><br /> -- Emo Philips</p>
+<p><em>Repartee is something we think of twenty-four hours too late.</em><br /> -- Mark Twain</p>
