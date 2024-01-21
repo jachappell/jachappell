@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Walking On Air](https://www.amon-hen.com/music/31922)
+- [Reading – The Ankh-Morpork Archives: Volume Two](https://www.amon-hen.com/books/297)
+- [The Man Who Saves the World (1982)](https://www.amon-hen.com/movies/31925)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Walking On Air](https://www.amon-hen.com/music/31922)
 - [RiffTrax – Ator, The Fighting Eagle](https://www.amon-hen.com/humor/31913)
 - [Mmmm, Beef Tea](https://www.amon-hen.com/food/31906)
 - [MST3K 0807 – Terror from the Year 5000](https://www.amon-hen.com/television/7365)
 - [The Mads – A Case of Spring Fever](https://www.amon-hen.com/humor/31895)
 - [MST3K Short 0520 – Last Clear Chance](https://www.amon-hen.com/television/5967)
 - [Earth vs. the Flying Saucers (1956)](https://www.amon-hen.com/movies/31887)
-- [This Is Why](https://www.amon-hen.com/music/31863)
-- [Rifftrax – Feeders](https://www.amon-hen.com/humor/31861)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Repartee is something we think of twenty-four hours too late.</em><br /> -- Mark Twain</p>
+<p><em>Of all the tyrannies that affect mankind, tyranny in religion is the worst.</em><br /> -- Thomas Paine</p>
