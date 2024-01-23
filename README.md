@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0524 – Design for Dreaming](https://www.amon-hen.com/television/5807)
+- [Modelling the Cosmos](https://www.amon-hen.com/science/31929)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0524 – Design for Dreaming](https://www.amon-hen.com/television/5807)
 - [Reading – The Ankh-Morpork Archives: Volume Two](https://www.amon-hen.com/books/297)
 - [The Man Who Saves the World (1982)](https://www.amon-hen.com/movies/31925)
 - [Walking On Air](https://www.amon-hen.com/music/31922)
@@ -10,7 +11,6 @@
 - [Mmmm, Beef Tea](https://www.amon-hen.com/food/31906)
 - [MST3K 0807 – Terror from the Year 5000](https://www.amon-hen.com/television/7365)
 - [The Mads – A Case of Spring Fever](https://www.amon-hen.com/humor/31895)
-- [MST3K Short 0520 – Last Clear Chance](https://www.amon-hen.com/television/5967)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You can be a millionaire & never pay taxes! You say, 'Steve, how can I be a millionaire & never pay taxes?' First, get a million dollars. Now, you say, 'Steve, what do I say to the tax man when he comes to my door & says, 'You have never paid taxes?' Two simple words. Two simple words in the English language: 'I forgot!'</em><br /> -- Steve Martin</p>
+<p><em>I'm a superhero, Mother. An effete British superhero.</em><br /> -- Blue Raja</p>
