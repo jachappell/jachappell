@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Modelling the Cosmos](https://www.amon-hen.com/science/31929)
+- [MST3K 0808 – The She-Creature](https://www.amon-hen.com/television/14789)
+- [Happy Bounty Day!](https://www.amon-hen.com/boats/15635)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Modelling the Cosmos](https://www.amon-hen.com/science/31929)
 - [MST3K Short 0524 – Design for Dreaming](https://www.amon-hen.com/television/5807)
 - [Reading – The Ankh-Morpork Archives: Volume Two](https://www.amon-hen.com/books/297)
 - [The Man Who Saves the World (1982)](https://www.amon-hen.com/movies/31925)
 - [Walking On Air](https://www.amon-hen.com/music/31922)
 - [RiffTrax – Ator, The Fighting Eagle](https://www.amon-hen.com/humor/31913)
 - [Mmmm, Beef Tea](https://www.amon-hen.com/food/31906)
-- [MST3K 0807 – Terror from the Year 5000](https://www.amon-hen.com/television/7365)
-- [The Mads – A Case of Spring Fever](https://www.amon-hen.com/humor/31895)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I'm a superhero, Mother. An effete British superhero.</em><br /> -- Blue Raja</p>
+<p><em>The intelligent beings in these regions should therefore not be surprised if they observe that their locality in the universe satisfies the conditions that are necessary for their existence. It is a bit like a rich person living in a wealthy neighborhood not seeing any poverty.</em><br /> -- Stephen Hawking</p>
