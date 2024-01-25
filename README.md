@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Welcome to Restaurant](https://www.amon-hen.com/food/31940)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0808 – The She-Creature](https://www.amon-hen.com/television/14789)
 - [Happy Bounty Day!](https://www.amon-hen.com/boats/15635)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Modelling the Cosmos](https://www.amon-hen.com/science/31929)
 - [MST3K Short 0524 – Design for Dreaming](https://www.amon-hen.com/television/5807)
 - [Reading – The Ankh-Morpork Archives: Volume Two](https://www.amon-hen.com/books/297)
 - [The Man Who Saves the World (1982)](https://www.amon-hen.com/movies/31925)
 - [Walking On Air](https://www.amon-hen.com/music/31922)
 - [RiffTrax – Ator, The Fighting Eagle](https://www.amon-hen.com/humor/31913)
-- [Mmmm, Beef Tea](https://www.amon-hen.com/food/31906)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -40,6 +40,8 @@
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
+- [Japanese simulator centre opens for offshore training](https://www.mar-sim.com/news/974)
+- [AR Simulator Added to Pilot Training at Smartship Australia](https://www.mar-sim.com/news/971)
 - [Wärtsilä to supply simulator to NSB Group](https://www.mar-sim.com/news/959)
 - [Rajnath Singh inaugurates Integrated Simulator Complex ‘Dhruv’](https://www.mar-sim.com/news/954)
 - [VSTEP Further Expands to the Latin American Market with Inland Solution](https://www.mar-sim.com/news/944)
@@ -48,9 +50,7 @@
 - [Wärtsilä Navigational Simulator becomes first Interactive ‘instructor-led’ cloud training solution to gain new DNV Class D Certification](https://www.mar-sim.com/news/888)
 - [Panama Canal Authority Taps Kongsberg for New Navigation Simulators](https://www.mar-sim.com/news/882)
 - [NAUTIS will start integrating innovative autodidactic tools within maritime simulation industry](https://www.mar-sim.com/news/877)
-- [Brand new NAUTIS Simulators will cruise to South Korea](https://www.mar-sim.com/news/866)
-- [Thome invests in Kongsberg Digital full mission bridge simulator](https://www.mar-sim.com/news/857)
 
 
 # Quote of the Day
-<p><em>The intelligent beings in these regions should therefore not be surprised if they observe that their locality in the universe satisfies the conditions that are necessary for their existence. It is a bit like a rich person living in a wealthy neighborhood not seeing any poverty.</em><br /> -- Stephen Hawking</p>
+<p><em>It is said that the civilized man seeks out good and intelligent company, so that by learned discourse, he may rise above the savage, and be closer to God. Personally, however, I like to start the day with a total dickhead to remind me that I'm best.</em><br /> -- Edmund, Lord Blackadder (<em>Blackadder II</em>)</p>
