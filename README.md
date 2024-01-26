@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Welcome to Restaurant](https://www.amon-hen.com/food/31940)
+- [The Mads – Managing Time](https://www.amon-hen.com/humor/27857)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Welcome to Restaurant](https://www.amon-hen.com/food/31940)
 - [MST3K 0808 – The She-Creature](https://www.amon-hen.com/television/14789)
 - [Happy Bounty Day!](https://www.amon-hen.com/boats/15635)
 - [Modelling the Cosmos](https://www.amon-hen.com/science/31929)
@@ -10,7 +11,6 @@
 - [Reading – The Ankh-Morpork Archives: Volume Two](https://www.amon-hen.com/books/297)
 - [The Man Who Saves the World (1982)](https://www.amon-hen.com/movies/31925)
 - [Walking On Air](https://www.amon-hen.com/music/31922)
-- [RiffTrax – Ator, The Fighting Eagle](https://www.amon-hen.com/humor/31913)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It is said that the civilized man seeks out good and intelligent company, so that by learned discourse, he may rise above the savage, and be closer to God. Personally, however, I like to start the day with a total dickhead to remind me that I'm best.</em><br /> -- Edmund, Lord Blackadder (<em>Blackadder II</em>)</p>
+<p><em><strong>Sen. Danforth</strong>:  There is nothing on the face of the album which would notify you if the record has pornographics material or material glorifying violence?<br /> <strong>Tipper Gore</strong>:  No, there is nothing that would suggest that to me.<br /> <strong>Frank Zappa</strong>:  I would say that a buzz saw blade between the guy's legs on the album cover is good indication that it's not for little Johnny.</em><br /> -- The Senate Commerce Committee hearing on rock lyrics, from <em>The Village Voice</em>, 6 Oct 1985</p>
