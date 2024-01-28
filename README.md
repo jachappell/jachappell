@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Dissidents](https://www.amon-hen.com/music/31953)
+- [L.A. AIDS Jabber (1994)](https://www.amon-hen.com/movies/31955)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Dissidents](https://www.amon-hen.com/music/31953)
 - [The Mads – Managing Time](https://www.amon-hen.com/humor/27857)
 - [Welcome to Restaurant](https://www.amon-hen.com/food/31940)
 - [MST3K 0808 – The She-Creature](https://www.amon-hen.com/television/14789)
@@ -10,7 +11,6 @@
 - [Modelling the Cosmos](https://www.amon-hen.com/science/31929)
 - [MST3K Short 0524 – Design for Dreaming](https://www.amon-hen.com/television/5807)
 - [Reading – The Ankh-Morpork Archives: Volume Two](https://www.amon-hen.com/books/297)
-- [The Man Who Saves the World (1982)](https://www.amon-hen.com/movies/31925)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It is amazing that when someone else spouts the nonsense you yourself believe you can readily perceive it as nonsense.</em><br /> -- Philip K. Dick</p>
+<p><em>I didn't think it was physically possible, but this both sucks and blows.</em><br /> -- Bartholomew J. Simpson</p>
