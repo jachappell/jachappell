@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [L.A. AIDS Jabber (1994)](https://www.amon-hen.com/movies/31955)
+- [MST3K Short 0602 – A Date With Your Family](https://www.amon-hen.com/television/5927)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [L.A. AIDS Jabber (1994)](https://www.amon-hen.com/movies/31955)
 - [Dissidents](https://www.amon-hen.com/music/31953)
 - [The Mads – Managing Time](https://www.amon-hen.com/humor/27857)
 - [Welcome to Restaurant](https://www.amon-hen.com/food/31940)
@@ -10,7 +11,6 @@
 - [Happy Bounty Day!](https://www.amon-hen.com/boats/15635)
 - [Modelling the Cosmos](https://www.amon-hen.com/science/31929)
 - [MST3K Short 0524 – Design for Dreaming](https://www.amon-hen.com/television/5807)
-- [Reading – The Ankh-Morpork Archives: Volume Two](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I didn't think it was physically possible, but this both sucks and blows.</em><br /> -- Bartholomew J. Simpson</p>
+<p><em>My girlfriend and I broke up recently, and I must say I am relieved. It gives me a chance to sow my wild oats. In the Schrute family, we have a tradition where when the male has sex with another woman, he is rewarded with a bag of wild oats left on his doorstep by his parents. You can use those oats to make oatmeal, bread, whatever you want. I don't care. They're your oats.</em><br /> -- Dwight Kurt Schrute III</p>
