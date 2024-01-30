@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0602 – A Date With Your Family](https://www.amon-hen.com/television/5927)
+- [10 Facts About “Illegals” A Guide For Racist Idiots](https://www.amon-hen.com/politics/31957)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Reading: Trouble with Lichen](https://www.amon-hen.com/books/297)
+- [MST3K Short 0602 – A Date With Your Family](https://www.amon-hen.com/television/5927)
 - [L.A. AIDS Jabber (1994)](https://www.amon-hen.com/movies/31955)
 - [Dissidents](https://www.amon-hen.com/music/31953)
 - [The Mads – Managing Time](https://www.amon-hen.com/humor/27857)
 - [Welcome to Restaurant](https://www.amon-hen.com/food/31940)
 - [MST3K 0808 – The She-Creature](https://www.amon-hen.com/television/14789)
 - [Happy Bounty Day!](https://www.amon-hen.com/boats/15635)
-- [Modelling the Cosmos](https://www.amon-hen.com/science/31929)
-- [MST3K Short 0524 – Design for Dreaming](https://www.amon-hen.com/television/5807)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>My girlfriend and I broke up recently, and I must say I am relieved. It gives me a chance to sow my wild oats. In the Schrute family, we have a tradition where when the male has sex with another woman, he is rewarded with a bag of wild oats left on his doorstep by his parents. You can use those oats to make oatmeal, bread, whatever you want. I don't care. They're your oats.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>The last time somebody said, "I find I can write much better with a word processor.", I replied, "They used to say the same thing about drugs."</em><br /> -- Roy Blount, Jr.</p>
