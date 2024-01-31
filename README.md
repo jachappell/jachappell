@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [10 Facts About “Illegals” A Guide For Racist Idiots](https://www.amon-hen.com/politics/31957)
+- [MST3K 0809 – I Was A Teenage Werewolf](https://www.amon-hen.com/television/6623)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [10 Facts About “Illegals” A Guide For Racist Idiots](https://www.amon-hen.com/politics/31957)
 - [Reading: Trouble with Lichen](https://www.amon-hen.com/books/297)
 - [MST3K Short 0602 – A Date With Your Family](https://www.amon-hen.com/television/5927)
 - [L.A. AIDS Jabber (1994)](https://www.amon-hen.com/movies/31955)
@@ -10,7 +11,6 @@
 - [The Mads – Managing Time](https://www.amon-hen.com/humor/27857)
 - [Welcome to Restaurant](https://www.amon-hen.com/food/31940)
 - [MST3K 0808 – The She-Creature](https://www.amon-hen.com/television/14789)
-- [Happy Bounty Day!](https://www.amon-hen.com/boats/15635)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The last time somebody said, "I find I can write much better with a word processor.", I replied, "They used to say the same thing about drugs."</em><br /> -- Roy Blount, Jr.</p>
+<p><em>New York... when civilization falls apart, remember, we were way ahead of you.</em><br /> -- David Letterman</p>
