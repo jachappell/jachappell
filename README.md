@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Lobscouse and Spotted Dog](https://www.amon-hen.com/books/31963)
+- [RiffTrax – The Boy Who Didn’t Listen](https://www.amon-hen.com/humor/31968)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Lobscouse and Spotted Dog](https://www.amon-hen.com/books/31963)
 - [MST3K 0809 – I Was A Teenage Werewolf](https://www.amon-hen.com/television/6623)
 - [10 Facts About “Illegals” A Guide For Racist Idiots](https://www.amon-hen.com/politics/31957)
 - [Reading: Trouble with Lichen](https://www.amon-hen.com/books/297)
@@ -10,10 +11,10 @@
 - [L.A. AIDS Jabber (1994)](https://www.amon-hen.com/movies/31955)
 - [Dissidents](https://www.amon-hen.com/music/31953)
 - [The Mads – Managing Time](https://www.amon-hen.com/humor/27857)
-- [Welcome to Restaurant](https://www.amon-hen.com/food/31940)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – February 2024](https://www.drum-corps.net/news/2980)
 - [Drum Corps World – January 2024](https://www.drum-corps.net/news/2972)
 - [Drum Corps World – December 2023](https://www.drum-corps.net/news/2968)
 - [2024 Drum Corps International Tour Schedule](https://www.drum-corps.net/news/2951)
@@ -23,7 +24,6 @@
 - [Drum Corps World – October 2023](https://www.drum-corps.net/news/2934)
 - [Robert W. Smith, pioneer of “original” drum corps compositions, dies at 64](https://www.drum-corps.net/news/2921)
 - [Drum Corps World – September 2023](https://www.drum-corps.net/news/2918)
-- [Drum Corps’ Tribute to Chuck Mangione](https://www.drum-corps.net/history/2915)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If all the world's economists were laid end to end, we wouldn't reach a conclusion.</em><br /> -- William Baumol</p>
+<p><em>Human history becomes more and more a race between education and catastrophe.</em><br /> -- H.G. Wells</p>
