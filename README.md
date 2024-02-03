@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – The Boy Who Didn’t Listen](https://www.amon-hen.com/humor/31968)
+- [Samson And Delilah](https://www.amon-hen.com/music/31976)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – The Boy Who Didn’t Listen](https://www.amon-hen.com/humor/31968)
 - [Mmmm, Lobscouse and Spotted Dog](https://www.amon-hen.com/books/31963)
 - [MST3K 0809 – I Was A Teenage Werewolf](https://www.amon-hen.com/television/6623)
 - [10 Facts About “Illegals” A Guide For Racist Idiots](https://www.amon-hen.com/politics/31957)
@@ -10,7 +11,6 @@
 - [MST3K Short 0602 – A Date With Your Family](https://www.amon-hen.com/television/5927)
 - [L.A. AIDS Jabber (1994)](https://www.amon-hen.com/movies/31955)
 - [Dissidents](https://www.amon-hen.com/music/31953)
-- [The Mads – Managing Time](https://www.amon-hen.com/humor/27857)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Human history becomes more and more a race between education and catastrophe.</em><br /> -- H.G. Wells</p>
+<p><em>Cruelty free? Free-range? This one tastes like it died screaming.</em><br /> -- Anthony Bourdain</p>
