@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Samson And Delilah](https://www.amon-hen.com/music/31976)
+- [Dream Home (2006)](https://www.amon-hen.com/movies/31978)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Samson And Delilah](https://www.amon-hen.com/music/31976)
 - [RiffTrax – The Boy Who Didn’t Listen](https://www.amon-hen.com/humor/31968)
 - [Mmmm, Lobscouse and Spotted Dog](https://www.amon-hen.com/books/31963)
 - [MST3K 0809 – I Was A Teenage Werewolf](https://www.amon-hen.com/television/6623)
@@ -10,7 +11,6 @@
 - [Reading: Trouble with Lichen](https://www.amon-hen.com/books/297)
 - [MST3K Short 0602 – A Date With Your Family](https://www.amon-hen.com/television/5927)
 - [L.A. AIDS Jabber (1994)](https://www.amon-hen.com/movies/31955)
-- [Dissidents](https://www.amon-hen.com/music/31953)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Cruelty free? Free-range? This one tastes like it died screaming.</em><br /> -- Anthony Bourdain</p>
+<p><em>Contrary to what most people say, the most dangerous animal in the world is not the lion or the tiger or even the elephant. It's a shark riding on an elephant's back, just trampling and eating everything they see.</em><br /> -- Jack Handey</p>
