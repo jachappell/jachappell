@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Dream Home (2006)](https://www.amon-hen.com/movies/31978)
+- [MST3K Short 0603 – The Selling Wizard](https://www.amon-hen.com/television/6916)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Dream Home (2006)](https://www.amon-hen.com/movies/31978)
 - [Samson And Delilah](https://www.amon-hen.com/music/31976)
 - [RiffTrax – The Boy Who Didn’t Listen](https://www.amon-hen.com/humor/31968)
 - [Mmmm, Lobscouse and Spotted Dog](https://www.amon-hen.com/books/31963)
@@ -10,7 +11,6 @@
 - [10 Facts About “Illegals” A Guide For Racist Idiots](https://www.amon-hen.com/politics/31957)
 - [Reading: Trouble with Lichen](https://www.amon-hen.com/books/297)
 - [MST3K Short 0602 – A Date With Your Family](https://www.amon-hen.com/television/5927)
-- [L.A. AIDS Jabber (1994)](https://www.amon-hen.com/movies/31955)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Contrary to what most people say, the most dangerous animal in the world is not the lion or the tiger or even the elephant. It's a shark riding on an elephant's back, just trampling and eating everything they see.</em><br /> -- Jack Handey</p>
+<p><em>If you want a picture of the future, imagine a boot stamping on a human face - for ever.</em><br /> -- George Orwell</p>
