@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Jack and the Beanstalk](https://www.amon-hen.com/humor/31997)
+- [Astro](https://www.amon-hen.com/music/31999)
+- [Dune: Part Two Preview](https://www.amon-hen.com/books/32001)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Jack and the Beanstalk](https://www.amon-hen.com/humor/31997)
 - [It will try to eat?](https://www.amon-hen.com/food/31987)
 - [MST3K 0810 – The Giant Spider Invasion](https://www.amon-hen.com/television/14811)
 - [Illegal immigrants can’t vote](https://www.amon-hen.com/politics/31983)
 - [MST3K Short 0603 – The Selling Wizard](https://www.amon-hen.com/television/6916)
 - [Dream Home (2006)](https://www.amon-hen.com/movies/31978)
 - [Samson And Delilah](https://www.amon-hen.com/music/31976)
-- [RiffTrax – The Boy Who Didn’t Listen](https://www.amon-hen.com/humor/31968)
-- [Mmmm, Lobscouse and Spotted Dog](https://www.amon-hen.com/books/31963)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>And how is education supposed to make me feel smarter?  Besides, every time I learn something new, it pushes some old stuff out of my brain.  Remember when I took that home winemaking course, and I forgot how to drive?</em><br /> -- Homer J. Simpson</p>
+<p><em>Thank God men cannot as yet fly and lay waste the sky as well as the earth!</em><br /> -- Henry David Thoreau</p>
