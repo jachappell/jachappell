@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Reading –  How To: Absurd Scientific Advice for Common Real-World Problems](https://www.amon-hen.com/books/297)
+- [Dangerous Men (2005)](https://www.amon-hen.com/movies/32004)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Astro](https://www.amon-hen.com/music/31999)
 - [Dune: Part Two Preview](https://www.amon-hen.com/books/32001)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [RiffTrax – Jack and the Beanstalk](https://www.amon-hen.com/humor/31997)
 - [It will try to eat?](https://www.amon-hen.com/food/31987)
 - [MST3K 0810 – The Giant Spider Invasion](https://www.amon-hen.com/television/14811)
 - [Illegal immigrants can’t vote](https://www.amon-hen.com/politics/31983)
 - [MST3K Short 0603 – The Selling Wizard](https://www.amon-hen.com/television/6916)
-- [Dream Home (2006)](https://www.amon-hen.com/movies/31978)
-- [Samson And Delilah](https://www.amon-hen.com/music/31976)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Thank God men cannot as yet fly and lay waste the sky as well as the earth!</em><br /> -- Henry David Thoreau</p>
+<p><em>It is difficult to produce a television documentary that is both incisive and probing when every twelve minutes one is interrupted by twelve dancing rabbits singing about toilet paper.</em><br /> -- Rod Serling</p>
