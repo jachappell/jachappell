@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Superb Owl LVIII #SuperbOwl #SuperbOwlLVIII](https://www.amon-hen.com/humor/32022)
+- [MST3K Short 0607 – Uncle Jim’s Dairy Farm](https://www.amon-hen.com/television/6434)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading –  How To: Absurd Scientific Advice for Common Real-World Problems](https://www.amon-hen.com/books/297)
 - [Dangerous Men (2005)](https://www.amon-hen.com/movies/32004)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Astro](https://www.amon-hen.com/music/31999)
 - [Dune: Part Two Preview](https://www.amon-hen.com/books/32001)
 - [RiffTrax – Jack and the Beanstalk](https://www.amon-hen.com/humor/31997)
 - [It will try to eat?](https://www.amon-hen.com/food/31987)
 - [MST3K 0810 – The Giant Spider Invasion](https://www.amon-hen.com/television/14811)
-- [Illegal immigrants can’t vote](https://www.amon-hen.com/politics/31983)
-- [MST3K Short 0603 – The Selling Wizard](https://www.amon-hen.com/television/6916)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It is difficult to produce a television documentary that is both incisive and probing when every twelve minutes one is interrupted by twelve dancing rabbits singing about toilet paper.</em><br /> -- Rod Serling</p>
+<p><em>My doctor says that I have a malformed public-duty gland and a natural deficiency in moral fibre, and that I am therefore excused from saving Universes.</em><br /> -- Douglas Adams</p>
