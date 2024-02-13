@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Book burners are never the good guys](https://www.amon-hen.com/politics/32029)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Superb Owl LVIII #SuperbOwl #SuperbOwlLVIII](https://www.amon-hen.com/humor/32022)
 - [MST3K Short 0607 – Uncle Jim’s Dairy Farm](https://www.amon-hen.com/television/6434)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading –  How To: Absurd Scientific Advice for Common Real-World Problems](https://www.amon-hen.com/books/297)
 - [Dangerous Men (2005)](https://www.amon-hen.com/movies/32004)
 - [Astro](https://www.amon-hen.com/music/31999)
 - [Dune: Part Two Preview](https://www.amon-hen.com/books/32001)
 - [RiffTrax – Jack and the Beanstalk](https://www.amon-hen.com/humor/31997)
 - [It will try to eat?](https://www.amon-hen.com/food/31987)
-- [MST3K 0810 – The Giant Spider Invasion](https://www.amon-hen.com/television/14811)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>My doctor says that I have a malformed public-duty gland and a natural deficiency in moral fibre, and that I am therefore excused from saving Universes.</em><br /> -- Douglas Adams</p>
+<p><em>The truth is that Christian theology, like every other theology, is not only opposed to the scientific spirit; it is also opposed to all other attempts at rational thinking.  Not by accident does Genesis 3 make the father of knowledge a serpent -- slimy, sneaking and abominable.  Since the earliest days the church as an organization has thrown itself violently against every effort to liberate the body and mind of man.  It has been, at all times and everywhere, the habitual and incorrigible defender of bad governments, bad laws, bad social theories, bad institutions.  It was, for centuries, an apologist for slavery, as it was the apologist for the divine right of kings.</em><br /> -- H.L. Mencken</p>
