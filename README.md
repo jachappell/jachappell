@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0811 – Parts: The Clonus Horror](https://www.amon-hen.com/television/6749)
+- [Mmmm, Blunch](https://www.amon-hen.com/food/32032)
+- [Happy Valentine’s Day](https://www.amon-hen.com/humor/871)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0811 – Parts: The Clonus Horror](https://www.amon-hen.com/television/6749)
 - [Book burners are never the good guys](https://www.amon-hen.com/politics/32029)
 - [Superb Owl LVIII #SuperbOwl #SuperbOwlLVIII](https://www.amon-hen.com/humor/32022)
 - [MST3K Short 0607 – Uncle Jim’s Dairy Farm](https://www.amon-hen.com/television/6434)
 - [Reading –  How To: Absurd Scientific Advice for Common Real-World Problems](https://www.amon-hen.com/books/297)
 - [Dangerous Men (2005)](https://www.amon-hen.com/movies/32004)
 - [Astro](https://www.amon-hen.com/music/31999)
-- [Dune: Part Two Preview](https://www.amon-hen.com/books/32001)
-- [RiffTrax – Jack and the Beanstalk](https://www.amon-hen.com/humor/31997)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Anna Meredith Discusses Bluecoats on BBC Radio 3](https://www.drum-corps.net/news/2983)
 - [Drum Corps World – February 2024](https://www.drum-corps.net/news/2980)
 - [Drum Corps World – January 2024](https://www.drum-corps.net/news/2972)
 - [Drum Corps World – December 2023](https://www.drum-corps.net/news/2968)
@@ -23,7 +24,6 @@
 - [Southwind Drum and Bugle Corps to Cease Operations](https://www.drum-corps.net/news/2937)
 - [Drum Corps World – October 2023](https://www.drum-corps.net/news/2934)
 - [Robert W. Smith, pioneer of “original” drum corps compositions, dies at 64](https://www.drum-corps.net/news/2921)
-- [Drum Corps World – September 2023](https://www.drum-corps.net/news/2918)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When I was crossing the border into Canada, they asked if I had any firearms with me. I said, "Well, what do you need?"</em><br /> -- Stephen Wright</p>
+<p><em>The road to this paradise was not as comfortable and alluring as the road to the religious paradise; but it has shown itself reliable, and I have never regretted having chosen it.</em><br /> -- Albert Einstein</p>
