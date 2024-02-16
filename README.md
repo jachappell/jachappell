@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [RiffTrax – Just Awful](https://www.amon-hen.com/humor/32037)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Blunch](https://www.amon-hen.com/food/32032)
 - [Happy Valentine’s Day](https://www.amon-hen.com/humor/871)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 0811 – Parts: The Clonus Horror](https://www.amon-hen.com/television/6749)
 - [Book burners are never the good guys](https://www.amon-hen.com/politics/32029)
 - [Superb Owl LVIII #SuperbOwl #SuperbOwlLVIII](https://www.amon-hen.com/humor/32022)
 - [MST3K Short 0607 – Uncle Jim’s Dairy Farm](https://www.amon-hen.com/television/6434)
 - [Reading –  How To: Absurd Scientific Advice for Common Real-World Problems](https://www.amon-hen.com/books/297)
 - [Dangerous Men (2005)](https://www.amon-hen.com/movies/32004)
-- [Astro](https://www.amon-hen.com/music/31999)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The road to this paradise was not as comfortable and alluring as the road to the religious paradise; but it has shown itself reliable, and I have never regretted having chosen it.</em><br /> -- Albert Einstein</p>
+<p><em>It is convenient that there be gods, and, as it is convenient, let us believe there are.</em><br /> -- Publius Ovidius Naso (Ovid)</p>
