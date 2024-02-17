@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Just Awful](https://www.amon-hen.com/humor/32037)
+- [Video Killed The Radio Star](https://www.amon-hen.com/music/32044)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Just Awful](https://www.amon-hen.com/humor/32037)
 - [Mmmm, Blunch](https://www.amon-hen.com/food/32032)
 - [Happy Valentine’s Day](https://www.amon-hen.com/humor/871)
 - [MST3K 0811 – Parts: The Clonus Horror](https://www.amon-hen.com/television/6749)
@@ -10,7 +11,6 @@
 - [Superb Owl LVIII #SuperbOwl #SuperbOwlLVIII](https://www.amon-hen.com/humor/32022)
 - [MST3K Short 0607 – Uncle Jim’s Dairy Farm](https://www.amon-hen.com/television/6434)
 - [Reading –  How To: Absurd Scientific Advice for Common Real-World Problems](https://www.amon-hen.com/books/297)
-- [Dangerous Men (2005)](https://www.amon-hen.com/movies/32004)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It is convenient that there be gods, and, as it is convenient, let us believe there are.</em><br /> -- Publius Ovidius Naso (Ovid)</p>
+<p><em>Sometimes, when I drive across the desert in the middle of the night, with no other cars around, I start imagining: What if there were no civilization out there? No cities, no factories, no people? And then I think: No people or factories? Then who made this car? And this highway? And I get so confused I have to stick my head out the window into the driving rain---unless there's lightning, because I could get struck on the head by a bolt.</em><br /> -- Jack Handey</p>
