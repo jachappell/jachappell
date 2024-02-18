@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Video Killed The Radio Star](https://www.amon-hen.com/music/32044)
+- [Short Story Collections](https://www.amon-hen.com/books/32048)
+- [The Killing of Satan (1983)](https://www.amon-hen.com/movies/32046)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Video Killed The Radio Star](https://www.amon-hen.com/music/32044)
 - [RiffTrax – Just Awful](https://www.amon-hen.com/humor/32037)
 - [Mmmm, Blunch](https://www.amon-hen.com/food/32032)
 - [Happy Valentine’s Day](https://www.amon-hen.com/humor/871)
 - [MST3K 0811 – Parts: The Clonus Horror](https://www.amon-hen.com/television/6749)
-- [Book burners are never the good guys](https://www.amon-hen.com/politics/32029)
+- [Book burners are never the good guys](https://www.amon-hen.com/books/32029)
 - [Superb Owl LVIII #SuperbOwl #SuperbOwlLVIII](https://www.amon-hen.com/humor/32022)
-- [MST3K Short 0607 – Uncle Jim’s Dairy Farm](https://www.amon-hen.com/television/6434)
-- [Reading –  How To: Absurd Scientific Advice for Common Real-World Problems](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Sometimes, when I drive across the desert in the middle of the night, with no other cars around, I start imagining: What if there were no civilization out there? No cities, no factories, no people? And then I think: No people or factories? Then who made this car? And this highway? And I get so confused I have to stick my head out the window into the driving rain---unless there's lightning, because I could get struck on the head by a bolt.</em><br /> -- Jack Handey</p>
+<p><em>Maybe in order to understand mankind, we have to look at the word itself: "Mankind". Basically, it's made up of two separate words - "mank" and "ind". What do these words mean? It's a mystery, and that's why so is mankind.</em><br /> -- Jack Handey</p>
