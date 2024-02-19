@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [RiffTrax – Farm Animals](https://www.amon-hen.com/humor/32062)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Short Story Collections](https://www.amon-hen.com/books/32048)
 - [The Killing of Satan (1983)](https://www.amon-hen.com/movies/32046)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Video Killed The Radio Star](https://www.amon-hen.com/music/32044)
 - [RiffTrax – Just Awful](https://www.amon-hen.com/humor/32037)
 - [Mmmm, Blunch](https://www.amon-hen.com/food/32032)
 - [Happy Valentine’s Day](https://www.amon-hen.com/humor/871)
 - [MST3K 0811 – Parts: The Clonus Horror](https://www.amon-hen.com/television/6749)
 - [Book burners are never the good guys](https://www.amon-hen.com/books/32029)
-- [Superb Owl LVIII #SuperbOwl #SuperbOwlLVIII](https://www.amon-hen.com/humor/32022)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Maybe in order to understand mankind, we have to look at the word itself: "Mankind". Basically, it's made up of two separate words - "mank" and "ind". What do these words mean? It's a mystery, and that's why so is mankind.</em><br /> -- Jack Handey</p>
+<p><em>Ah, there's nothing like the first cup of dumpster juice in the morning!</em><br /> -- Doctor John A. Zoidberg</p>
