@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Fraud is Bad](https://www.amon-hen.com/politics/32065)
+- [MST3K 0812 – The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies](https://www.amon-hen.com/television/14835)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Fraud is Bad](https://www.amon-hen.com/politics/32065)
 - [RiffTrax – Farm Animals](https://www.amon-hen.com/humor/32062)
 - [Short Story Collections](https://www.amon-hen.com/books/32048)
 - [The Killing of Satan (1983)](https://www.amon-hen.com/movies/32046)
@@ -10,7 +11,6 @@
 - [RiffTrax – Just Awful](https://www.amon-hen.com/humor/32037)
 - [Mmmm, Blunch](https://www.amon-hen.com/food/32032)
 - [Happy Valentine’s Day](https://www.amon-hen.com/humor/871)
-- [MST3K 0811 – Parts: The Clonus Horror](https://www.amon-hen.com/television/6749)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Everything that has a beginning has an ending.  Make your peace with that and all will be well.</em><br /> -- Siddhartha Gautama</p>
+<p><em>Jazz is not dead...it just smells funny.</em><br /> -- Frank Zappa</p>
