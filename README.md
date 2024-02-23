@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Viagra Soup](https://www.amon-hen.com/food/32067)
+- [RiffTrax – Pressure Point](https://www.amon-hen.com/humor/32071)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Viagra Soup](https://www.amon-hen.com/food/32067)
 - [MST3K 0812 – The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies](https://www.amon-hen.com/television/14835)
 - [Fraud is Bad](https://www.amon-hen.com/politics/32065)
 - [RiffTrax – Farm Animals](https://www.amon-hen.com/humor/32062)
@@ -10,7 +11,6 @@
 - [The Killing of Satan (1983)](https://www.amon-hen.com/movies/32046)
 - [Video Killed The Radio Star](https://www.amon-hen.com/music/32044)
 - [RiffTrax – Just Awful](https://www.amon-hen.com/humor/32037)
-- [Mmmm, Blunch](https://www.amon-hen.com/food/32032)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Politicians should read science fiction, not westerns and detective stories.</em><br /> -- Arthur C. Clarke</p>
+<p><em>Nationalism is an infantile sickness.  It is the measles of the human race.</em><br /> -- Albert Einstein</p>
