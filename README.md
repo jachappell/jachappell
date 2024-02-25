@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Killjoy](https://www.amon-hen.com/chappells-show/32077)
+- [Suburban Sasquatch (2004)](https://www.amon-hen.com/movies/32074)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Killjoy](https://www.amon-hen.com/music/32077)
 - [RiffTrax – Pressure Point](https://www.amon-hen.com/humor/32071)
 - [Mmmm, Viagra Soup](https://www.amon-hen.com/food/32067)
 - [MST3K 0812 – The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies](https://www.amon-hen.com/television/14835)
@@ -10,7 +11,6 @@
 - [RiffTrax – Farm Animals](https://www.amon-hen.com/humor/32062)
 - [Short Story Collections](https://www.amon-hen.com/books/32048)
 - [The Killing of Satan (1983)](https://www.amon-hen.com/movies/32046)
-- [Video Killed The Radio Star](https://www.amon-hen.com/music/32044)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I don't think I'm alone when I say I'd like to see more and more planets fall under the ruthless domination of our solar system.</em><br /> -- Jack Handey</p>
+<p><em>He asked me if I knew what time it was -- I said yes, but not right now.</em><br /> -- Stephen Wright</p>
