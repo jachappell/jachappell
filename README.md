@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Suburban Sasquatch (2004)](https://www.amon-hen.com/movies/32074)
+- [RiffTrax: Emergencies – What Would You Do?](https://www.amon-hen.com/humor/32091)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Suburban Sasquatch (2004)](https://www.amon-hen.com/movies/32074)
 - [Killjoy](https://www.amon-hen.com/music/32077)
 - [RiffTrax – Pressure Point](https://www.amon-hen.com/humor/32071)
 - [Mmmm, Viagra Soup](https://www.amon-hen.com/food/32067)
@@ -10,7 +11,6 @@
 - [Fraud is Bad](https://www.amon-hen.com/politics/32065)
 - [RiffTrax – Farm Animals](https://www.amon-hen.com/humor/32062)
 - [Short Story Collections](https://www.amon-hen.com/books/32048)
-- [The Killing of Satan (1983)](https://www.amon-hen.com/movies/32046)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>He asked me if I knew what time it was -- I said yes, but not right now.</em><br /> -- Stephen Wright</p>
+<p><em>I think it's the duty of the comedian to find out where the line is drawn and cross it deliberately.</em><br /> -- George Carlin</p>
