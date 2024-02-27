@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax: Emergencies – What Would You Do?](https://www.amon-hen.com/humor/32091)
+- [Supreme Court Ethics](https://www.amon-hen.com/politics/32088)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax: Emergencies – What Would You Do?](https://www.amon-hen.com/humor/32091)
 - [Suburban Sasquatch (2004)](https://www.amon-hen.com/movies/32074)
 - [Killjoy](https://www.amon-hen.com/music/32077)
 - [RiffTrax – Pressure Point](https://www.amon-hen.com/humor/32071)
@@ -10,7 +11,6 @@
 - [MST3K 0812 – The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies](https://www.amon-hen.com/television/14835)
 - [Fraud is Bad](https://www.amon-hen.com/politics/32065)
 - [RiffTrax – Farm Animals](https://www.amon-hen.com/humor/32062)
-- [Short Story Collections](https://www.amon-hen.com/books/32048)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I think it's the duty of the comedian to find out where the line is drawn and cross it deliberately.</em><br /> -- George Carlin</p>
+<p><em>Bender's a genius!</em><br /> -- Bender Unit 22</p>
