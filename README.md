@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Supreme Court Ethics](https://www.amon-hen.com/politics/32088)
+- [MST3K 0813 – Jack Frost](https://www.amon-hen.com/television/3972)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Supreme Court Ethics](https://www.amon-hen.com/politics/32088)
 - [RiffTrax: Emergencies – What Would You Do?](https://www.amon-hen.com/humor/32091)
 - [Suburban Sasquatch (2004)](https://www.amon-hen.com/movies/32074)
 - [Killjoy](https://www.amon-hen.com/music/32077)
@@ -10,7 +11,6 @@
 - [Mmmm, Viagra Soup](https://www.amon-hen.com/food/32067)
 - [MST3K 0812 – The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies](https://www.amon-hen.com/television/14835)
 - [Fraud is Bad](https://www.amon-hen.com/politics/32065)
-- [RiffTrax – Farm Animals](https://www.amon-hen.com/humor/32062)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Bender's a genius!</em><br /> -- Bender Unit 22</p>
+<p><em>There are two major products that come out of Berkeley: LSD and UNIX.  We don't believe this to be a coincidence.</em><br /> -- Jeremy S. Anderson</p>
