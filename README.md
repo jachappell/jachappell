@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0813 – Jack Frost](https://www.amon-hen.com/television/3972)
+- [Mmmm, KLC](https://www.amon-hen.com/food/32079)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0813 – Jack Frost](https://www.amon-hen.com/television/3972)
 - [Supreme Court Ethics](https://www.amon-hen.com/politics/32088)
 - [RiffTrax: Emergencies – What Would You Do?](https://www.amon-hen.com/humor/32091)
 - [Suburban Sasquatch (2004)](https://www.amon-hen.com/movies/32074)
@@ -10,7 +11,6 @@
 - [RiffTrax – Pressure Point](https://www.amon-hen.com/humor/32071)
 - [Mmmm, Viagra Soup](https://www.amon-hen.com/food/32067)
 - [MST3K 0812 – The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies](https://www.amon-hen.com/television/14835)
-- [Fraud is Bad](https://www.amon-hen.com/politics/32065)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>There are two major products that come out of Berkeley: LSD and UNIX.  We don't believe this to be a coincidence.</em><br /> -- Jeremy S. Anderson</p>
+<p><em>The study of theology, as it stands in Christian churches, is the study of nothing; it is founded on nothing; it rests on no principles; it proceeds by no authorities; it has no data; it can demonstrate nothing; and it admits of no conclusion.</em><br /> -- Thomas Paine (<em>The Age of Reason</em>, 1794)</p>
