@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, KLC](https://www.amon-hen.com/food/32079)
+- [Leap Day](https://www.amon-hen.com/humor/32096)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, KLC](https://www.amon-hen.com/food/32079)
 - [MST3K 0813 – Jack Frost](https://www.amon-hen.com/television/3972)
 - [Supreme Court Ethics](https://www.amon-hen.com/politics/32088)
 - [RiffTrax: Emergencies – What Would You Do?](https://www.amon-hen.com/humor/32091)
@@ -10,7 +11,6 @@
 - [Killjoy](https://www.amon-hen.com/music/32077)
 - [RiffTrax – Pressure Point](https://www.amon-hen.com/humor/32071)
 - [Mmmm, Viagra Soup](https://www.amon-hen.com/food/32067)
-- [MST3K 0812 – The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies](https://www.amon-hen.com/television/14835)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The study of theology, as it stands in Christian churches, is the study of nothing; it is founded on nothing; it rests on no principles; it proceeds by no authorities; it has no data; it can demonstrate nothing; and it admits of no conclusion.</em><br /> -- Thomas Paine (<em>The Age of Reason</em>, 1794)</p>
+<p><em>Never half-ass two things. Whole-ass one thing.</em><br /> -- Ron Swanson</p>
