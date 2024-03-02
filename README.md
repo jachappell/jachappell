@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Leap Day](https://www.amon-hen.com/humor/32096)
+- [Burning Down the House (2024)](https://www.amon-hen.com/music/32101)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Leap Day](https://www.amon-hen.com/humor/32096)
 - [Mmmm, KLC](https://www.amon-hen.com/food/32079)
 - [MST3K 0813 – Jack Frost](https://www.amon-hen.com/television/3972)
 - [Supreme Court Ethics](https://www.amon-hen.com/politics/32088)
@@ -10,7 +11,6 @@
 - [Suburban Sasquatch (2004)](https://www.amon-hen.com/movies/32074)
 - [Killjoy](https://www.amon-hen.com/music/32077)
 - [RiffTrax – Pressure Point](https://www.amon-hen.com/humor/32071)
-- [Mmmm, Viagra Soup](https://www.amon-hen.com/food/32067)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Never half-ass two things. Whole-ass one thing.</em><br /> -- Ron Swanson</p>
+<p><em>Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity.</em><br /> -- Charles Mingus</p>
