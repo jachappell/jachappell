@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Burning Down the House (2024)](https://www.amon-hen.com/music/32101)
+- [Sinbad: The Battle of the Dark Knights (1998)](https://www.amon-hen.com/movies/32105)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Burning Down the House (2024)](https://www.amon-hen.com/music/32101)
 - [Leap Day](https://www.amon-hen.com/humor/32096)
 - [Mmmm, KLC](https://www.amon-hen.com/food/32079)
 - [MST3K 0813 – Jack Frost](https://www.amon-hen.com/television/3972)
@@ -10,7 +11,6 @@
 - [RiffTrax: Emergencies – What Would You Do?](https://www.amon-hen.com/humor/32091)
 - [Suburban Sasquatch (2004)](https://www.amon-hen.com/movies/32074)
 - [Killjoy](https://www.amon-hen.com/music/32077)
-- [RiffTrax – Pressure Point](https://www.amon-hen.com/humor/32071)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity.</em><br /> -- Charles Mingus</p>
+<p><em>We scientists, whose tragic destiny it has been to make the methods of annihilation ever more gruesome and more effective, must consider it our solemn and transcendent duty to do all in our power in preventing these weapons from being used for the brutal purpose for which they were invented.</em><br /> -- Albert Einstein</p>
