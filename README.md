@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Sinbad: The Battle of the Dark Knights (1998)](https://www.amon-hen.com/movies/32105)
+- [MST3K Short 0608 – A Day At The Fair](https://www.amon-hen.com/television/6149)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Sinbad: The Battle of the Dark Knights (1998)](https://www.amon-hen.com/movies/32105)
 - [Burning Down the House (2024)](https://www.amon-hen.com/music/32101)
 - [Leap Day](https://www.amon-hen.com/humor/32096)
 - [Mmmm, KLC](https://www.amon-hen.com/food/32079)
@@ -10,7 +11,6 @@
 - [Supreme Court Ethics](https://www.amon-hen.com/politics/32088)
 - [RiffTrax: Emergencies – What Would You Do?](https://www.amon-hen.com/humor/32091)
 - [Suburban Sasquatch (2004)](https://www.amon-hen.com/movies/32074)
-- [Killjoy](https://www.amon-hen.com/music/32077)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>We scientists, whose tragic destiny it has been to make the methods of annihilation ever more gruesome and more effective, must consider it our solemn and transcendent duty to do all in our power in preventing these weapons from being used for the brutal purpose for which they were invented.</em><br /> -- Albert Einstein</p>
+<p><em>If you put a large switch in some cave somewhere, with a sign on it saying 'End-of-the-World Switch. PLEASE DO NOT TOUCH,' the paint wouldn't even have time to dry.</em><br /> -- Terry Pratchett</p>
