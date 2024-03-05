@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0608 – A Day At The Fair](https://www.amon-hen.com/television/6149)
+- [Pig Butchering Scams](https://www.amon-hen.com/politics/32107)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0608 – A Day At The Fair](https://www.amon-hen.com/television/6149)
 - [Sinbad: The Battle of the Dark Knights (1998)](https://www.amon-hen.com/movies/32105)
 - [Burning Down the House (2024)](https://www.amon-hen.com/music/32101)
 - [Leap Day](https://www.amon-hen.com/humor/32096)
@@ -10,7 +11,6 @@
 - [MST3K 0813 – Jack Frost](https://www.amon-hen.com/television/3972)
 - [Supreme Court Ethics](https://www.amon-hen.com/politics/32088)
 - [RiffTrax: Emergencies – What Would You Do?](https://www.amon-hen.com/humor/32091)
-- [Suburban Sasquatch (2004)](https://www.amon-hen.com/movies/32074)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If you put a large switch in some cave somewhere, with a sign on it saying 'End-of-the-World Switch. PLEASE DO NOT TOUCH,' the paint wouldn't even have time to dry.</em><br /> -- Terry Pratchett</p>
+<p><em>"What shall we do?" said Twoflower.<br /><br />"Panic?" said Rincewind hopefully.  He always held that panic was the best means of survival; back in the olden days, his theory went, people faced with hungry sabretoothed tigers could be divided very simply into those who panicked and those who stood there saying "What a magnificent brute!" and "Here, pussy."</em><br /> -- Terry Pratchett (<em>The Light Fantastic</em>)</p>
