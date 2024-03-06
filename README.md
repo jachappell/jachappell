@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Pig Butchering Scams](https://www.amon-hen.com/politics/32107)
+- [MST3K 0814 – Riding with Death](https://www.amon-hen.com/television/14887)
+- [Reading:  Nightwings](https://www.amon-hen.com/books/297)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Pig Butchering Scams](https://www.amon-hen.com/politics/32107)
 - [MST3K Short 0608 – A Day At The Fair](https://www.amon-hen.com/television/6149)
 - [Sinbad: The Battle of the Dark Knights (1998)](https://www.amon-hen.com/movies/32105)
 - [Burning Down the House (2024)](https://www.amon-hen.com/music/32101)
 - [Leap Day](https://www.amon-hen.com/humor/32096)
 - [Mmmm, KLC](https://www.amon-hen.com/food/32079)
 - [MST3K 0813 – Jack Frost](https://www.amon-hen.com/television/3972)
-- [Supreme Court Ethics](https://www.amon-hen.com/politics/32088)
-- [RiffTrax: Emergencies – What Would You Do?](https://www.amon-hen.com/humor/32091)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>"What shall we do?" said Twoflower.<br /><br />"Panic?" said Rincewind hopefully.  He always held that panic was the best means of survival; back in the olden days, his theory went, people faced with hungry sabretoothed tigers could be divided very simply into those who panicked and those who stood there saying "What a magnificent brute!" and "Here, pussy."</em><br /> -- Terry Pratchett (<em>The Light Fantastic</em>)</p>
+<p><em>Like most of life's problems, this one can be solved with bending.</em><br /> -- Bender Unit 22</p>
