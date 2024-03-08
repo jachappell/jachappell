@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, NFC](https://www.amon-hen.com/food/32128)
+- [Trump is broke](https://www.amon-hen.com/politics/32138)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, NFC](https://www.amon-hen.com/food/32128)
 - [MST3K 0814 – Riding with Death](https://www.amon-hen.com/television/14887)
 - [Reading:  Nightwings](https://www.amon-hen.com/books/297)
 - [Pig Butchering Scams](https://www.amon-hen.com/politics/32107)
@@ -10,7 +11,6 @@
 - [Sinbad: The Battle of the Dark Knights (1998)](https://www.amon-hen.com/movies/32105)
 - [Burning Down the House (2024)](https://www.amon-hen.com/music/32101)
 - [Leap Day](https://www.amon-hen.com/humor/32096)
-- [Mmmm, KLC](https://www.amon-hen.com/food/32079)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I'll be more enthusiastic about encouraging thinking outside the box when there's evidence of any thinking going on inside it.</em><br /> -- Terry Pratchett</p>
+<p><em>The easy confidence with which I know another man's religion is folly teaches me to suspect that my own is also.</em><br /> -- Mark Twain</p>
