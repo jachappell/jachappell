@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Sawbones](https://www.amon-hen.com/music/32142)
+- [Twin Dragon Encounter (1986)](https://www.amon-hen.com/movies/32145)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Sawbones](https://www.amon-hen.com/music/32142)
 - [Trump is broke](https://www.amon-hen.com/politics/32138)
 - [Mmmm, NFC](https://www.amon-hen.com/food/32128)
 - [MST3K 0814 – Riding with Death](https://www.amon-hen.com/television/14887)
@@ -10,7 +11,6 @@
 - [Pig Butchering Scams](https://www.amon-hen.com/politics/32107)
 - [MST3K Short 0608 – A Day At The Fair](https://www.amon-hen.com/television/6149)
 - [Sinbad: The Battle of the Dark Knights (1998)](https://www.amon-hen.com/movies/32105)
-- [Burning Down the House (2024)](https://www.amon-hen.com/music/32101)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>For animals, the entire universe has been neatly divided into things to (a) mate with, (b) eat, (c) run away from, and (d) rocks.</em><br /> -- Terry Pratchett (<em>Equal Rites</em>)</p>
+<p><em>Why isn't there a name for the meal between breakfast and brunch?</em><br /> -- Stephen Colbert (via Twitter)</p>
