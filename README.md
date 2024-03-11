@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Twin Dragon Encounter (1986)](https://www.amon-hen.com/movies/32145)
+- [MST3K Short 0609 – Why Study Industrial Arts?](https://www.amon-hen.com/television/7459)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Twin Dragon Encounter (1986)](https://www.amon-hen.com/movies/32145)
 - [Sawbones](https://www.amon-hen.com/music/32142)
 - [Trump is broke](https://www.amon-hen.com/politics/32138)
 - [Mmmm, NFC](https://www.amon-hen.com/food/32128)
@@ -10,7 +11,6 @@
 - [Reading:  Nightwings](https://www.amon-hen.com/books/297)
 - [Pig Butchering Scams](https://www.amon-hen.com/politics/32107)
 - [MST3K Short 0608 – A Day At The Fair](https://www.amon-hen.com/television/6149)
-- [Sinbad: The Battle of the Dark Knights (1998)](https://www.amon-hen.com/movies/32105)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Why isn't there a name for the meal between breakfast and brunch?</em><br /> -- Stephen Colbert (via Twitter)</p>
+<p><em>We could jam in Joe's garage,<br />we didn't have no dope or LSD,<br />but a coupl'o'quarts o'beer,<br />would fix it so the intonation,<br />would not offend your ear.</em><br /> -- Frank Zappa</p>
