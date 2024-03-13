@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Boeing](https://www.amon-hen.com/politics/32151)
+- [MST3K 0815 – Agent for H.A.R.M.](https://www.amon-hen.com/television/14918)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Boeing](https://www.amon-hen.com/politics/32151)
 - [MST3K Short 0609 – Why Study Industrial Arts?](https://www.amon-hen.com/television/7459)
 - [Twin Dragon Encounter (1986)](https://www.amon-hen.com/movies/32145)
 - [Sawbones](https://www.amon-hen.com/music/32142)
@@ -10,7 +11,6 @@
 - [Mmmm, NFC](https://www.amon-hen.com/food/32128)
 - [MST3K 0814 – Riding with Death](https://www.amon-hen.com/television/14887)
 - [Reading:  Nightwings](https://www.amon-hen.com/books/297)
-- [Pig Butchering Scams](https://www.amon-hen.com/politics/32107)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>There is nothing worse than aggressive stupidity.</em><br /> -- Johann Wolfgang von Goethe</p>
+<p><em>The laws of science be a harsh mistress.</em><br /> -- Bender Unit 22</p>
