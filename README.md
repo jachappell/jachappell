@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0815 – Agent for H.A.R.M.](https://www.amon-hen.com/television/14918)
+- [Mmmm, HFC](https://www.amon-hen.com/food/32133)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0815 – Agent for H.A.R.M.](https://www.amon-hen.com/television/14918)
 - [Boeing](https://www.amon-hen.com/politics/32151)
 - [MST3K Short 0609 – Why Study Industrial Arts?](https://www.amon-hen.com/television/7459)
 - [Twin Dragon Encounter (1986)](https://www.amon-hen.com/movies/32145)
@@ -10,7 +11,6 @@
 - [Trump is broke](https://www.amon-hen.com/politics/32138)
 - [Mmmm, NFC](https://www.amon-hen.com/food/32128)
 - [MST3K 0814 – Riding with Death](https://www.amon-hen.com/television/14887)
-- [Reading:  Nightwings](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The laws of science be a harsh mistress.</em><br /> -- Bender Unit 22</p>
+<p><em>The fact that man knows right from wrong proves his intellectual superiority to other creatures; but the fact that he can do wrong proves his moral inferiority to any creature that cannot.</em><br /> -- Mark Twain</p>
