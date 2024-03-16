@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Elephant Talk](https://www.amon-hen.com/music/16226)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [TikTok](https://www.amon-hen.com/politics/32158)
 - [pi Day](https://www.amon-hen.com/science/6177)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, HFC](https://www.amon-hen.com/food/32133)
 - [MST3K 0815 – Agent for H.A.R.M.](https://www.amon-hen.com/television/14918)
 - [Boeing](https://www.amon-hen.com/politics/32151)
 - [MST3K Short 0609 – Why Study Industrial Arts?](https://www.amon-hen.com/television/7459)
 - [Twin Dragon Encounter (1986)](https://www.amon-hen.com/movies/32145)
 - [Sawbones](https://www.amon-hen.com/music/32142)
-- [Trump is broke](https://www.amon-hen.com/politics/32138)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>A free press can of course be good or bad, but, most certainly, without freedom it will never be anything but bad.... Freedom is nothing else but a chance to be better, whereas enslavement is a certainty of the worse.</em><br /> -- Albert Camus</p>
+<p><em>I will not make any deals with you. I've resigned. I will not be pushed, filed, stamped, indexed, briefed, debriefed or numbered. My life is my own. I resign.</em><br /> -- Number 6</p>
