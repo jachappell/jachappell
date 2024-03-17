@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Elephant Talk](https://www.amon-hen.com/music/16226)
+- [Laser Mission (1989)](https://www.amon-hen.com/movies/32162)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Elephant Talk](https://www.amon-hen.com/music/16226)
 - [TikTok](https://www.amon-hen.com/politics/32158)
 - [pi Day](https://www.amon-hen.com/science/6177)
 - [Mmmm, HFC](https://www.amon-hen.com/food/32133)
@@ -10,7 +11,6 @@
 - [Boeing](https://www.amon-hen.com/politics/32151)
 - [MST3K Short 0609 – Why Study Industrial Arts?](https://www.amon-hen.com/television/7459)
 - [Twin Dragon Encounter (1986)](https://www.amon-hen.com/movies/32145)
-- [Sawbones](https://www.amon-hen.com/music/32142)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I will not make any deals with you. I've resigned. I will not be pushed, filed, stamped, indexed, briefed, debriefed or numbered. My life is my own. I resign.</em><br /> -- Number 6</p>
+<p><em>Any sufficiently advanced technology is indistinguishable from magic.</em><br /> -- Arthur C. Clarke</p>
