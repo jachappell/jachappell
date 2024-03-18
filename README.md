@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Laser Mission (1989)](https://www.amon-hen.com/movies/32162)
+- [MST3K Short 0610 – A Young Man’s Fancy](https://www.amon-hen.com/television/6161)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Laser Mission (1989)](https://www.amon-hen.com/movies/32162)
 - [Elephant Talk](https://www.amon-hen.com/music/16226)
 - [TikTok](https://www.amon-hen.com/politics/32158)
 - [pi Day](https://www.amon-hen.com/science/6177)
@@ -10,7 +11,6 @@
 - [MST3K 0815 – Agent for H.A.R.M.](https://www.amon-hen.com/television/14918)
 - [Boeing](https://www.amon-hen.com/politics/32151)
 - [MST3K Short 0609 – Why Study Industrial Arts?](https://www.amon-hen.com/television/7459)
-- [Twin Dragon Encounter (1986)](https://www.amon-hen.com/movies/32145)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Any sufficiently advanced technology is indistinguishable from magic.</em><br /> -- Arthur C. Clarke</p>
+<p><em>FORTRAN is not a flower but a weed -- it is hardy, occasionally blooms, and grows in every computer.</em><br /> -- A.J. Perlis</p>
