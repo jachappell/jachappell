@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0610 – A Young Man’s Fancy](https://www.amon-hen.com/television/6161)
+- [State Medical Boards](https://www.amon-hen.com/politics/32155)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0610 – A Young Man’s Fancy](https://www.amon-hen.com/television/6161)
 - [Laser Mission (1989)](https://www.amon-hen.com/movies/32162)
 - [Elephant Talk](https://www.amon-hen.com/music/16226)
 - [TikTok](https://www.amon-hen.com/politics/32158)
@@ -10,7 +11,6 @@
 - [Mmmm, HFC](https://www.amon-hen.com/food/32133)
 - [MST3K 0815 – Agent for H.A.R.M.](https://www.amon-hen.com/television/14918)
 - [Boeing](https://www.amon-hen.com/politics/32151)
-- [MST3K Short 0609 – Why Study Industrial Arts?](https://www.amon-hen.com/television/7459)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>FORTRAN is not a flower but a weed -- it is hardy, occasionally blooms, and grows in every computer.</em><br /> -- A.J. Perlis</p>
+<p><em>It looks just like a Telefunken U-47!</em><br /> -- Frank Zappa</p>
