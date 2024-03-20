@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [State Medical Boards](https://www.amon-hen.com/politics/32155)
+- [MST3K 0816 – Prince of Space](https://www.amon-hen.com/television/3427)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [State Medical Boards](https://www.amon-hen.com/politics/32155)
 - [MST3K Short 0610 – A Young Man’s Fancy](https://www.amon-hen.com/television/6161)
 - [Laser Mission (1989)](https://www.amon-hen.com/movies/32162)
 - [Elephant Talk](https://www.amon-hen.com/music/16226)
@@ -10,7 +11,6 @@
 - [pi Day](https://www.amon-hen.com/science/6177)
 - [Mmmm, HFC](https://www.amon-hen.com/food/32133)
 - [MST3K 0815 – Agent for H.A.R.M.](https://www.amon-hen.com/television/14918)
-- [Boeing](https://www.amon-hen.com/politics/32151)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It looks just like a Telefunken U-47!</em><br /> -- Frank Zappa</p>
+<p><em>As I got up in front of them, I felt an intoxication that had nothing to do with alcohol.  It was the intoxication of being a public spectacle.</em><br /> -- Homer J. Simpson</p>
