@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0816 – Prince of Space](https://www.amon-hen.com/television/3427)
+- [Mmmm, Lime Cheese Salad](https://www.amon-hen.com/food/32164)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0816 – Prince of Space](https://www.amon-hen.com/television/3427)
 - [State Medical Boards](https://www.amon-hen.com/politics/32155)
 - [MST3K Short 0610 – A Young Man’s Fancy](https://www.amon-hen.com/television/6161)
 - [Laser Mission (1989)](https://www.amon-hen.com/movies/32162)
@@ -10,7 +11,6 @@
 - [TikTok](https://www.amon-hen.com/politics/32158)
 - [pi Day](https://www.amon-hen.com/science/6177)
 - [Mmmm, HFC](https://www.amon-hen.com/food/32133)
-- [MST3K 0815 – Agent for H.A.R.M.](https://www.amon-hen.com/television/14918)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>As I got up in front of them, I felt an intoxication that had nothing to do with alcohol.  It was the intoxication of being a public spectacle.</em><br /> -- Homer J. Simpson</p>
+<p><em>The difference between a Miracle and a Fact is exactly the difference between a mermaid and a seal.</em><br /> -- Mark Twain</p>
