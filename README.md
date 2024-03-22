@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Lime Cheese Salad](https://www.amon-hen.com/food/32164)
+- [Recklessly lying about his overall net worth](https://www.amon-hen.com/politics/32174)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Lime Cheese Salad](https://www.amon-hen.com/food/32164)
 - [MST3K 0816 – Prince of Space](https://www.amon-hen.com/television/3427)
 - [State Medical Boards](https://www.amon-hen.com/politics/32155)
 - [MST3K Short 0610 – A Young Man’s Fancy](https://www.amon-hen.com/television/6161)
@@ -10,7 +11,6 @@
 - [Elephant Talk](https://www.amon-hen.com/music/16226)
 - [TikTok](https://www.amon-hen.com/politics/32158)
 - [pi Day](https://www.amon-hen.com/science/6177)
-- [Mmmm, HFC](https://www.amon-hen.com/food/32133)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The difference between a Miracle and a Fact is exactly the difference between a mermaid and a seal.</em><br /> -- Mark Twain</p>
+<p><em>Mmmm...open faced club sand wedge.</em><br /> -- Homer J. Simpson</p>
