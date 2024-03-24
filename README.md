@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [The Hobbit (1967)](https://www.amon-hen.com/books/32186)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Simon Magus](https://www.amon-hen.com/music/32182)
 - [Reading:  Dune Messiah](https://www.amon-hen.com/books/297)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Recklessly lying about his overall net worth](https://www.amon-hen.com/politics/32174)
 - [Mmmm, Lime Cheese Salad](https://www.amon-hen.com/food/32164)
 - [MST3K 0816 – Prince of Space](https://www.amon-hen.com/television/3427)
 - [State Medical Boards](https://www.amon-hen.com/politics/32155)
 - [MST3K Short 0610 – A Young Man’s Fancy](https://www.amon-hen.com/television/6161)
 - [Laser Mission (1989)](https://www.amon-hen.com/movies/32162)
-- [Elephant Talk](https://www.amon-hen.com/music/16226)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>In every country and every age, the priest has been hostile to Liberty.</em><br /> -- Thomas Jefferson</p>
+<p><em>I passionately hate the idea of being with it, I think an artist has always to be out of step with his time.</em><br /> -- Orson Welles</p>
