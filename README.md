@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Hobbit (1967)](https://www.amon-hen.com/books/32186)
+- [MST3K Short 0613 – Keeping Clean and Neat](https://www.amon-hen.com/television/5710)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Hobbit (1967)](https://www.amon-hen.com/books/32186)
 - [Simon Magus](https://www.amon-hen.com/music/32182)
 - [Reading:  Dune Messiah](https://www.amon-hen.com/books/297)
 - [Recklessly lying about his overall net worth](https://www.amon-hen.com/politics/32174)
@@ -10,10 +11,10 @@
 - [MST3K 0816 – Prince of Space](https://www.amon-hen.com/television/3427)
 - [State Medical Boards](https://www.amon-hen.com/politics/32155)
 - [MST3K Short 0610 – A Young Man’s Fancy](https://www.amon-hen.com/television/6161)
-- [Laser Mission (1989)](https://www.amon-hen.com/movies/32162)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – March 2024](https://www.drum-corps.net/news/3000)
 - [Anna Meredith Discusses Bluecoats on BBC Radio 3](https://www.drum-corps.net/news/2983)
 - [Drum Corps World – February 2024](https://www.drum-corps.net/news/2980)
 - [Drum Corps World – January 2024](https://www.drum-corps.net/news/2972)
@@ -23,7 +24,6 @@
 - [The Cadets Suspend Competition for 2024](https://www.drum-corps.net/news/2939)
 - [Southwind Drum and Bugle Corps to Cease Operations](https://www.drum-corps.net/news/2937)
 - [Drum Corps World – October 2023](https://www.drum-corps.net/news/2934)
-- [Robert W. Smith, pioneer of “original” drum corps compositions, dies at 64](https://www.drum-corps.net/news/2921)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I passionately hate the idea of being with it, I think an artist has always to be out of step with his time.</em><br /> -- Orson Welles</p>
+<p><em>You're basically killing each other to see who's got the better imaginary friend.</em><br /> -- Richard Jeni</p>
