@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0613 – Keeping Clean and Neat](https://www.amon-hen.com/television/5710)
+- [Student Loans](https://www.amon-hen.com/politics/32184)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0613 – Keeping Clean and Neat](https://www.amon-hen.com/television/5710)
 - [The Hobbit (1967)](https://www.amon-hen.com/books/32186)
 - [Simon Magus](https://www.amon-hen.com/music/32182)
 - [Reading:  Dune Messiah](https://www.amon-hen.com/books/297)
@@ -10,7 +11,6 @@
 - [Mmmm, Lime Cheese Salad](https://www.amon-hen.com/food/32164)
 - [MST3K 0816 – Prince of Space](https://www.amon-hen.com/television/3427)
 - [State Medical Boards](https://www.amon-hen.com/politics/32155)
-- [MST3K Short 0610 – A Young Man’s Fancy](https://www.amon-hen.com/television/6161)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You're basically killing each other to see who's got the better imaginary friend.</em><br /> -- Richard Jeni</p>
+<p><em>Christians, it is needless to say, utterly detest each other. They slander each other constantly with the vilest forms of abuse and cannot come to any sort of agreement in their teaching. Each sect brands its own, fills the head of its own with deceitful nonsense, and makes perfect little pigs of those it wins over to its side.</em><br /> -- Celsus (2nd Century C.E.)</p>
