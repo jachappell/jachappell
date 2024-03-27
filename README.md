@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Student Loans](https://www.amon-hen.com/politics/32184)
+- [MST3K 0817 – The Horror of Party Beach](https://www.amon-hen.com/television/7468)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Student Loans](https://www.amon-hen.com/politics/32184)
 - [MST3K Short 0613 – Keeping Clean and Neat](https://www.amon-hen.com/television/5710)
 - [The Hobbit (1967)](https://www.amon-hen.com/books/32186)
 - [Simon Magus](https://www.amon-hen.com/music/32182)
@@ -10,7 +11,6 @@
 - [Recklessly lying about his overall net worth](https://www.amon-hen.com/politics/32174)
 - [Mmmm, Lime Cheese Salad](https://www.amon-hen.com/food/32164)
 - [MST3K 0816 – Prince of Space](https://www.amon-hen.com/television/3427)
-- [State Medical Boards](https://www.amon-hen.com/politics/32155)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Christians, it is needless to say, utterly detest each other. They slander each other constantly with the vilest forms of abuse and cannot come to any sort of agreement in their teaching. Each sect brands its own, fills the head of its own with deceitful nonsense, and makes perfect little pigs of those it wins over to its side.</em><br /> -- Celsus (2nd Century C.E.)</p>
+<p><em>This anonymous clan of slack-jawed troglodytes has cost me the election, and yet if I were to have them killed, I would be the one to go to jail.  That's democracy for you.</em><br /> -- Charles Montgomery Burns</p>
