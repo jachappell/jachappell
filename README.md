@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Clean Education Benefits](https://www.amon-hen.com/food/32191)
+- [$60 for a book in the public domain](https://www.amon-hen.com/books/32212)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Clean Education Benefits](https://www.amon-hen.com/food/32191)
 - [MST3K 0817 – The Horror of Party Beach](https://www.amon-hen.com/television/7468)
 - [Student Loans](https://www.amon-hen.com/politics/32184)
 - [MST3K Short 0613 – Keeping Clean and Neat](https://www.amon-hen.com/television/5710)
@@ -10,7 +11,6 @@
 - [Simon Magus](https://www.amon-hen.com/music/32182)
 - [Reading:  Dune Messiah](https://www.amon-hen.com/books/297)
 - [Recklessly lying about his overall net worth](https://www.amon-hen.com/politics/32174)
-- [Mmmm, Lime Cheese Salad](https://www.amon-hen.com/food/32164)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>My wife and I were happy for twenty years. Then we met.</em><br /> -- Rodney Dangerfield</p>
+<p><em>We are Sex Bob-omb and we are here to make you think about death and get sad and stuff.</em><br /> -- Scott Pilgrim</p>
