@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [$60 for a book in the public domain](https://www.amon-hen.com/books/32212)
+- [Lark’s Tongues in Aspic Part 2](https://www.amon-hen.com/music/20856)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [$60 for a book in the public domain](https://www.amon-hen.com/books/32212)
 - [Mmmm, Clean Education Benefits](https://www.amon-hen.com/food/32191)
 - [MST3K 0817 – The Horror of Party Beach](https://www.amon-hen.com/television/7468)
 - [Student Loans](https://www.amon-hen.com/politics/32184)
@@ -10,7 +11,6 @@
 - [The Hobbit (1967)](https://www.amon-hen.com/books/32186)
 - [Simon Magus](https://www.amon-hen.com/music/32182)
 - [Reading:  Dune Messiah](https://www.amon-hen.com/books/297)
-- [Recklessly lying about his overall net worth](https://www.amon-hen.com/politics/32174)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>We are Sex Bob-omb and we are here to make you think about death and get sad and stuff.</em><br /> -- Scott Pilgrim</p>
+<p><em>The other day I... uh, no, that wasn't me.</em><br /> -- Stephen Wright</p>
