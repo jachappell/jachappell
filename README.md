@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Lark’s Tongues in Aspic Part 2](https://www.amon-hen.com/music/20856)
+- [The Gospel According to Saint Matthew (1964)](https://www.amon-hen.com/religion/27384)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Lark’s Tongues in Aspic Part 2](https://www.amon-hen.com/music/20856)
 - [$60 for a book in the public domain](https://www.amon-hen.com/books/32212)
 - [Mmmm, Clean Education Benefits](https://www.amon-hen.com/food/32191)
 - [MST3K 0817 – The Horror of Party Beach](https://www.amon-hen.com/television/7468)
@@ -10,7 +11,6 @@
 - [MST3K Short 0613 – Keeping Clean and Neat](https://www.amon-hen.com/television/5710)
 - [The Hobbit (1967)](https://www.amon-hen.com/books/32186)
 - [Simon Magus](https://www.amon-hen.com/music/32182)
-- [Reading:  Dune Messiah](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The other day I... uh, no, that wasn't me.</em><br /> -- Stephen Wright</p>
+<p><em>There he goes. One of God's own prototypes. Some kind of high powered mutant never even considered for mass production. Too weird to live, and too rare to die.</em><br /> -- Hunter S. Thompson</p>
