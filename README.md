@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [The Science of Time](https://www.amon-hen.com/science/27102)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Easter 2024](https://www.amon-hen.com/religion/32205)
 - [MST3K Short 0616 – Are You Ready for Marriage?](https://www.amon-hen.com/television/8550)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Gospel According to Saint Matthew (1964)](https://www.amon-hen.com/religion/27384)
 - [Lark’s Tongues in Aspic Part 2](https://www.amon-hen.com/music/20856)
 - [$60 for a book in the public domain](https://www.amon-hen.com/books/32212)
 - [Mmmm, Clean Education Benefits](https://www.amon-hen.com/food/32191)
 - [MST3K 0817 – The Horror of Party Beach](https://www.amon-hen.com/television/7468)
 - [Student Loans](https://www.amon-hen.com/politics/32184)
-- [MST3K Short 0613 – Keeping Clean and Neat](https://www.amon-hen.com/television/5710)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I'll die if I miss </em>Scooby-Doo<em>.</em><br /> -- Neil Pye</p>
+<p><em>You know what would make a good story? Something about a clown who make people happy, but inside he's real sad. Also, he has severe diarrhea.</em><br /> -- Jack Handey</p>
