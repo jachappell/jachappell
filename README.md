@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Science of Time](https://www.amon-hen.com/science/27102)
+- [MST3K 0818 – Devil Doll](https://www.amon-hen.com/television/15108)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Science of Time](https://www.amon-hen.com/science/27102)
 - [Easter 2024](https://www.amon-hen.com/religion/32205)
 - [MST3K Short 0616 – Are You Ready for Marriage?](https://www.amon-hen.com/television/8550)
 - [The Gospel According to Saint Matthew (1964)](https://www.amon-hen.com/religion/27384)
@@ -10,10 +11,10 @@
 - [$60 for a book in the public domain](https://www.amon-hen.com/books/32212)
 - [Mmmm, Clean Education Benefits](https://www.amon-hen.com/food/32191)
 - [MST3K 0817 – The Horror of Party Beach](https://www.amon-hen.com/television/7468)
-- [Student Loans](https://www.amon-hen.com/politics/32184)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Cadets Arts & Entertainment has filed for bankruptcy](https://www.drum-corps.net/news/3003)
 - [Drum Corps World – March 2024](https://www.drum-corps.net/news/3000)
 - [Anna Meredith Discusses Bluecoats on BBC Radio 3](https://www.drum-corps.net/news/2983)
 - [Drum Corps World – February 2024](https://www.drum-corps.net/news/2980)
@@ -23,7 +24,6 @@
 - [Drum Corps World – November 2023](https://www.drum-corps.net/news/2946)
 - [The Cadets Suspend Competition for 2024](https://www.drum-corps.net/news/2939)
 - [Southwind Drum and Bugle Corps to Cease Operations](https://www.drum-corps.net/news/2937)
-- [Drum Corps World – October 2023](https://www.drum-corps.net/news/2934)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You know what would make a good story? Something about a clown who make people happy, but inside he's real sad. Also, he has severe diarrhea.</em><br /> -- Jack Handey</p>
+<p><em>Facts are meaningless.  You can use facts to prove anything that's even remotely true.</em><br /> -- Homer J. Simpson</p>
