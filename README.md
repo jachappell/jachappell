@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0818 – Devil Doll](https://www.amon-hen.com/television/15108)
+- [Mmmm, Easy and Quick](https://www.amon-hen.com/food/32196)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0818 – Devil Doll](https://www.amon-hen.com/television/15108)
 - [The Science of Time](https://www.amon-hen.com/science/27102)
 - [Easter 2024](https://www.amon-hen.com/religion/32205)
 - [MST3K Short 0616 – Are You Ready for Marriage?](https://www.amon-hen.com/television/8550)
@@ -10,7 +11,6 @@
 - [Lark’s Tongues in Aspic Part 2](https://www.amon-hen.com/music/20856)
 - [$60 for a book in the public domain](https://www.amon-hen.com/books/32212)
 - [Mmmm, Clean Education Benefits](https://www.amon-hen.com/food/32191)
-- [MST3K 0817 – The Horror of Party Beach](https://www.amon-hen.com/television/7468)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Facts are meaningless.  You can use facts to prove anything that's even remotely true.</em><br /> -- Homer J. Simpson</p>
+<p><em>What did I do? I did my job. I slashed benefits to the bone; I saved this company money. Was I too harsh? Maybe. I don't believe in coddling people. In the wild, there is no Health Care. In the wild, Health Care is: ow, I hurt my leg; I can't run; a lion eats me, and I'm dead. Well, I'm not dead. I'm the lion. You're dead.</em><br /> -- Dwight Kurt Schrute III</p>
