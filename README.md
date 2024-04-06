@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Hobgoblins](https://www.amon-hen.com/humor/32227)
+- [Reading:  The Imperial Japanese Navy in the Pacific War](https://www.amon-hen.com/books/297)
+- [Lay Down Your Life](https://www.amon-hen.com/music/32236)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Hobgoblins](https://www.amon-hen.com/humor/32227)
 - [Mmmm, Easy and Quick](https://www.amon-hen.com/food/32196)
 - [MST3K 0818 – Devil Doll](https://www.amon-hen.com/television/15108)
 - [The Science of Time](https://www.amon-hen.com/science/27102)
 - [Easter 2024](https://www.amon-hen.com/religion/32205)
 - [MST3K Short 0616 – Are You Ready for Marriage?](https://www.amon-hen.com/television/8550)
 - [The Gospel According to Saint Matthew (1964)](https://www.amon-hen.com/religion/27384)
-- [Lark’s Tongues in Aspic Part 2](https://www.amon-hen.com/music/20856)
-- [$60 for a book in the public domain](https://www.amon-hen.com/books/32212)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I went home with a waitress,<br /> The way I always do.<br /> How I was I to know?<br /> She was with the Russians too.<br /><br /> I was gambling in Havana,<br /> I took a little risk.<br /> Send lawyers, guns, and money,<br /> Dad, get me out of this.</em><br /> -- Warren Zevon, "Lawyers, Guns and Money"</p>
+<p><em>You may have hoodwinked everyone else in this backwater town, but you can't fool me. I listen to public radio.</em><br /> -- Squidward Tentacles </p>
