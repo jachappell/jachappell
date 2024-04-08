@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mission of Justice (1992)](https://www.amon-hen.com/movies/32239)
+- [MST3K Short 0618 – Out of this World](https://www.amon-hen.com/television/7198)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mission of Justice (1992)](https://www.amon-hen.com/movies/32239)
 - [Reading:  The Imperial Japanese Navy in the Pacific War](https://www.amon-hen.com/books/297)
 - [Lay Down Your Life](https://www.amon-hen.com/music/32236)
 - [RiffTrax – Hobgoblins](https://www.amon-hen.com/humor/32227)
@@ -10,7 +11,6 @@
 - [MST3K 0818 – Devil Doll](https://www.amon-hen.com/television/15108)
 - [The Science of Time](https://www.amon-hen.com/science/27102)
 - [Easter 2024](https://www.amon-hen.com/religion/32205)
-- [MST3K Short 0616 – Are You Ready for Marriage?](https://www.amon-hen.com/television/8550)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Your manuscript is both good and original, but the part that is good is not original and the part that is original is not good.</em><br /> -- Samuel Johnson</p>
+<p><em>My only official recommendations are US Army-issued mustache trimmers, Morton's Salt, and the C.R. Lawrence Fein two inch axe-style scraper oscillating knife blade.</em><br /> -- Ron Swanson</p>
