@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0819 – Invasion of the Neptune Men](https://www.amon-hen.com/television/3586)
+- [Food Delivery Apps](https://www.amon-hen.com/politics/32241)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0819 – Invasion of the Neptune Men](https://www.amon-hen.com/television/3586)
 - [Temperature](https://www.amon-hen.com/science/27072)
 - [MST3K Short 0618 – Out of this World](https://www.amon-hen.com/television/7198)
 - [Mission of Justice (1992)](https://www.amon-hen.com/movies/32239)
@@ -10,7 +11,6 @@
 - [Lay Down Your Life](https://www.amon-hen.com/music/32236)
 - [RiffTrax – Hobgoblins](https://www.amon-hen.com/humor/32227)
 - [Mmmm, Easy and Quick](https://www.amon-hen.com/food/32196)
-- [MST3K 0818 – Devil Doll](https://www.amon-hen.com/television/15108)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>And, Lord, we're especially thankful for nuclear power, the cleanest, safest energy source there is, except for solar, which is just a pipe dream.</em><br /> -- Homer J. Simpson</p>
+<p><em>Ask yourself whether you are happy and you cease to be so.</em><br /> -- John Stuart Mill</p>
