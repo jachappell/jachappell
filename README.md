@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Food Delivery Apps](https://www.amon-hen.com/politics/32241)
+- [Gravitational Rainbows](https://www.amon-hen.com/science/27050)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Food Delivery Apps](https://www.amon-hen.com/politics/32241)
 - [MST3K 0819 – Invasion of the Neptune Men](https://www.amon-hen.com/television/3586)
 - [Temperature](https://www.amon-hen.com/science/27072)
 - [MST3K Short 0618 – Out of this World](https://www.amon-hen.com/television/7198)
@@ -10,7 +11,6 @@
 - [Reading:  The Imperial Japanese Navy in the Pacific War](https://www.amon-hen.com/books/297)
 - [Lay Down Your Life](https://www.amon-hen.com/music/32236)
 - [RiffTrax – Hobgoblins](https://www.amon-hen.com/humor/32227)
-- [Mmmm, Easy and Quick](https://www.amon-hen.com/food/32196)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Ask yourself whether you are happy and you cease to be so.</em><br /> -- John Stuart Mill</p>
+<p><em>Bad facts make bad laws.</em><br /> -- Frank Zappa</p>
