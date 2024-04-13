@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Gravitational Rainbows](https://www.amon-hen.com/science/27050)
+- [Video Killed The Radio Star](https://www.amon-hen.com/music/32260)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Gravitational Rainbows](https://www.amon-hen.com/science/27050)
 - [Food Delivery Apps](https://www.amon-hen.com/politics/32241)
 - [MST3K 0819 – Invasion of the Neptune Men](https://www.amon-hen.com/television/3586)
 - [Temperature](https://www.amon-hen.com/science/27072)
@@ -10,7 +11,6 @@
 - [Mission of Justice (1992)](https://www.amon-hen.com/movies/32239)
 - [Reading:  The Imperial Japanese Navy in the Pacific War](https://www.amon-hen.com/books/297)
 - [Lay Down Your Life](https://www.amon-hen.com/music/32236)
-- [RiffTrax – Hobgoblins](https://www.amon-hen.com/humor/32227)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Bad facts make bad laws.</em><br /> -- Frank Zappa</p>
+<p><em>I have examined all the known superstitions of the world, and I do not find in our particular superstition of Christianity one redeeming feature. They are all alike founded on fables and mythology.</em><br /> -- Thomas Jefferson</p>
