@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Video Killed The Radio Star](https://www.amon-hen.com/music/32260)
+- [Terror Squad (1987)](https://www.amon-hen.com/movies/32264)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Video Killed The Radio Star](https://www.amon-hen.com/music/32260)
 - [Gravitational Rainbows](https://www.amon-hen.com/science/27050)
 - [Food Delivery Apps](https://www.amon-hen.com/politics/32241)
 - [MST3K 0819 – Invasion of the Neptune Men](https://www.amon-hen.com/television/3586)
@@ -10,10 +11,10 @@
 - [MST3K Short 0618 – Out of this World](https://www.amon-hen.com/television/7198)
 - [Mission of Justice (1992)](https://www.amon-hen.com/movies/32239)
 - [Reading:  The Imperial Japanese Navy in the Pacific War](https://www.amon-hen.com/books/297)
-- [Lay Down Your Life](https://www.amon-hen.com/music/32236)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – April 2024](https://www.drum-corps.net/news/3007)
 - [Cadets Arts & Entertainment has filed for bankruptcy](https://www.drum-corps.net/news/3003)
 - [Drum Corps World – March 2024](https://www.drum-corps.net/news/3000)
 - [Anna Meredith Discusses Bluecoats on BBC Radio 3](https://www.drum-corps.net/news/2983)
@@ -23,7 +24,6 @@
 - [2024 Drum Corps International Tour Schedule](https://www.drum-corps.net/news/2951)
 - [Drum Corps World – November 2023](https://www.drum-corps.net/news/2946)
 - [The Cadets Suspend Competition for 2024](https://www.drum-corps.net/news/2939)
-- [Southwind Drum and Bugle Corps to Cease Operations](https://www.drum-corps.net/news/2937)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I have examined all the known superstitions of the world, and I do not find in our particular superstition of Christianity one redeeming feature. They are all alike founded on fables and mythology.</em><br /> -- Thomas Jefferson</p>
+<p><em>Either God wants to abolish evil, and cannot;<br /> Or he can, but does not want to;<br /> Or he cannot and does not want to.<br /> If he wants to, but cannot, he is impotent.<br /> If he can, but does not want to, he is wicked.<br /> But, if God both can and wants to abolish evil,<br /> Then how come evil in the world?</em><br /> -- Epicurus</p>
