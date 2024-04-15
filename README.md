@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Terror Squad (1987)](https://www.amon-hen.com/movies/32264)
+- [Reading:  Thuvia, Maid of Mars](https://www.amon-hen.com/books/297)
+- [MST3K Short 0619 – Speech: Platform, Posture and Appearance](https://www.amon-hen.com/television/9575)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Terror Squad (1987)](https://www.amon-hen.com/movies/32264)
 - [Video Killed The Radio Star](https://www.amon-hen.com/music/32260)
 - [Gravitational Rainbows](https://www.amon-hen.com/science/27050)
 - [Food Delivery Apps](https://www.amon-hen.com/politics/32241)
 - [MST3K 0819 – Invasion of the Neptune Men](https://www.amon-hen.com/television/3586)
 - [Temperature](https://www.amon-hen.com/science/27072)
 - [MST3K Short 0618 – Out of this World](https://www.amon-hen.com/television/7198)
-- [Mission of Justice (1992)](https://www.amon-hen.com/movies/32239)
-- [Reading:  The Imperial Japanese Navy in the Pacific War](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Either God wants to abolish evil, and cannot;<br /> Or he can, but does not want to;<br /> Or he cannot and does not want to.<br /> If he wants to, but cannot, he is impotent.<br /> If he can, but does not want to, he is wicked.<br /> But, if God both can and wants to abolish evil,<br /> Then how come evil in the world?</em><br /> -- Epicurus</p>
+<p><em>We tend to scoff at the beliefs of the ancients.  But we can't scoff at them personally, to their faces, and this is what annoys me.</em><br /> -- Jack Handey</p>
