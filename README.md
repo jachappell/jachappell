@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K 0820 – Space Mutiny](https://www.amon-hen.com/television/3173)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Tax Day](https://www.amon-hen.com/quotes/325)
 - [Executions](https://www.amon-hen.com/politics/32262)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading:  Thuvia, Maid of Mars](https://www.amon-hen.com/books/297)
 - [MST3K Short 0619 – Speech: Platform, Posture and Appearance](https://www.amon-hen.com/television/9575)
 - [Terror Squad (1987)](https://www.amon-hen.com/movies/32264)
 - [Video Killed The Radio Star](https://www.amon-hen.com/music/32260)
 - [Gravitational Rainbows](https://www.amon-hen.com/science/27050)
 - [Food Delivery Apps](https://www.amon-hen.com/politics/32241)
-- [MST3K 0819 – Invasion of the Neptune Men](https://www.amon-hen.com/television/3586)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I think someone should have had the decency to tell me the luncheon was free.  To make someone run out with potato salad in his hand, pretending he's throwing up, is not what I call hospitality.</em><br /> -- Jack Handey</p>
+<p><em>That thing could really tow the boat I don't have up the mountain I don't live near.</em><br /> -- Jon Stewart on the Ford F-150</p>
