@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0820 – Space Mutiny](https://www.amon-hen.com/television/3173)
+- [Mmmm, Creamier Crisco](https://www.amon-hen.com/food/32277)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0820 – Space Mutiny](https://www.amon-hen.com/television/3173)
 - [Tax Day](https://www.amon-hen.com/quotes/325)
 - [Executions](https://www.amon-hen.com/politics/32262)
 - [Reading:  Thuvia, Maid of Mars](https://www.amon-hen.com/books/297)
@@ -10,7 +11,6 @@
 - [Terror Squad (1987)](https://www.amon-hen.com/movies/32264)
 - [Video Killed The Radio Star](https://www.amon-hen.com/music/32260)
 - [Gravitational Rainbows](https://www.amon-hen.com/science/27050)
-- [Food Delivery Apps](https://www.amon-hen.com/politics/32241)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>That thing could really tow the boat I don't have up the mountain I don't live near.</em><br /> -- Jon Stewart on the Ford F-150</p>
+<p><em>I have come to believe that the whole world is an enigma, a harmless enigma that is made terrible by our own mad attempt to interpret it as though it had an underlying truth.</em><br /> -- Umberto Eco</p>
