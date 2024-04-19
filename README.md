@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Creamier Crisco](https://www.amon-hen.com/food/32277)
+- [Gravitational Echoes](https://www.amon-hen.com/science/27022)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Creamier Crisco](https://www.amon-hen.com/food/32277)
 - [MST3K 0820 – Space Mutiny](https://www.amon-hen.com/television/3173)
 - [Tax Day](https://www.amon-hen.com/quotes/325)
 - [Executions](https://www.amon-hen.com/politics/32262)
@@ -10,7 +11,6 @@
 - [MST3K Short 0619 – Speech: Platform, Posture and Appearance](https://www.amon-hen.com/television/9575)
 - [Terror Squad (1987)](https://www.amon-hen.com/movies/32264)
 - [Video Killed The Radio Star](https://www.amon-hen.com/music/32260)
-- [Gravitational Rainbows](https://www.amon-hen.com/science/27050)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I have come to believe that the whole world is an enigma, a harmless enigma that is made terrible by our own mad attempt to interpret it as though it had an underlying truth.</em><br /> -- Umberto Eco</p>
+<p><em>I have as much authority as the Pope, I just don't have as many people who believe it.</em><br /> -- George Carlin</p>
