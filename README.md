@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Gravitational Echoes](https://www.amon-hen.com/science/27022)
+- [Never The Same Way Once](https://www.amon-hen.com/music/32297)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Gravitational Echoes](https://www.amon-hen.com/science/27022)
 - [Mmmm, Creamier Crisco](https://www.amon-hen.com/food/32277)
 - [MST3K 0820 – Space Mutiny](https://www.amon-hen.com/television/3173)
 - [Tax Day](https://www.amon-hen.com/quotes/325)
@@ -10,7 +11,6 @@
 - [Reading:  Thuvia, Maid of Mars](https://www.amon-hen.com/books/297)
 - [MST3K Short 0619 – Speech: Platform, Posture and Appearance](https://www.amon-hen.com/television/9575)
 - [Terror Squad (1987)](https://www.amon-hen.com/movies/32264)
-- [Video Killed The Radio Star](https://www.amon-hen.com/music/32260)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I have as much authority as the Pope, I just don't have as many people who believe it.</em><br /> -- George Carlin</p>
+<p><em>When my mother was pregnant with me, they did an ultrasound and found she was having twins. When they did another ultrasound a few weeks later, they discovered that I had resorbed the other fetus. Do I regret this? No. I believe his tissues has made me stronger. I now have the strength of a grown man and a little baby.</em><br /> -- Dwight Kurt Schrute III</p>
