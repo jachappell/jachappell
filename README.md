@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Medicaid](https://www.amon-hen.com/politics/32308)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Nice Radio Clock](https://www.amon-hen.com/movies/32318)
 - [Reading:  Raft](https://www.amon-hen.com/books/297)
 - [MST3K Short 0621 – Money Talks!](https://www.amon-hen.com/television/7110)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Mad Monster (1942)](https://www.amon-hen.com/movies/32299)
 - [Never The Same Way Once](https://www.amon-hen.com/music/32297)
 - [Gravitational Echoes](https://www.amon-hen.com/science/27022)
 - [Mmmm, Creamier Crisco](https://www.amon-hen.com/food/32277)
 - [MST3K 0820 – Space Mutiny](https://www.amon-hen.com/television/3173)
-- [Tax Day](https://www.amon-hen.com/quotes/325)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I scrambled to the top of the precipice where Nick was waiting. "That was fun," I said. "You bet it was," said Nick. "Let's climb higher." "No," I said. "I think we should be heading back now." "We have time," Nick insisted. I said we didn't, and Nick said we did. We argued back and forth like that for about 20 minutes, then finally decided to head back. I didn't say it was an interesting story.</em><br /> -- Jack Handey</p>
+<p><em>Premature optimization is the root of all evil.</em><br /> -- Donald E. Knuth</p>
