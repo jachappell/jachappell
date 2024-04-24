@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Medicaid](https://www.amon-hen.com/politics/32308)
+- [MST3K 0821 – Time Chasers](https://www.amon-hen.com/television/15312)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Medicaid](https://www.amon-hen.com/politics/32308)
 - [Nice Radio Clock](https://www.amon-hen.com/movies/32318)
 - [Reading:  Raft](https://www.amon-hen.com/books/297)
 - [MST3K Short 0621 – Money Talks!](https://www.amon-hen.com/television/7110)
@@ -10,7 +11,6 @@
 - [Never The Same Way Once](https://www.amon-hen.com/music/32297)
 - [Gravitational Echoes](https://www.amon-hen.com/science/27022)
 - [Mmmm, Creamier Crisco](https://www.amon-hen.com/food/32277)
-- [MST3K 0820 – Space Mutiny](https://www.amon-hen.com/television/3173)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Premature optimization is the root of all evil.</em><br /> -- Donald E. Knuth</p>
+<p><em>If only is was as easy to banish hunger by rubbing the belly as it is to masturbate.</em><br /> -- Diogenes the Cynic</p>
