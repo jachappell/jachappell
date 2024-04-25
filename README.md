@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0821 – Time Chasers](https://www.amon-hen.com/television/15312)
+- [Mmmm, Harf & Harf](https://www.amon-hen.com/food/32311)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0821 – Time Chasers](https://www.amon-hen.com/television/15312)
 - [Medicaid](https://www.amon-hen.com/politics/32308)
 - [Nice Radio Clock](https://www.amon-hen.com/movies/32318)
 - [Reading:  Raft](https://www.amon-hen.com/books/297)
@@ -10,7 +11,6 @@
 - [The Mad Monster (1942)](https://www.amon-hen.com/movies/32299)
 - [Never The Same Way Once](https://www.amon-hen.com/music/32297)
 - [Gravitational Echoes](https://www.amon-hen.com/science/27022)
-- [Mmmm, Creamier Crisco](https://www.amon-hen.com/food/32277)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If only is was as easy to banish hunger by rubbing the belly as it is to masturbate.</em><br /> -- Diogenes the Cynic</p>
+<p><em>I bet when the neanderthal kids would make a snowman, someone would always end up saying, "Don't forget the thick, heavy brows." Then they would all get embarrassed because they remembered they had the big hunky brows too, and they'd get mad and eat the snowman.</em><br /> -- Jack Handey</p>
