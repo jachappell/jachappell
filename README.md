@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Harf & Harf](https://www.amon-hen.com/food/32311)
+- [Black Holes and White Holes](https://www.amon-hen.com/science/27002)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Harf & Harf](https://www.amon-hen.com/food/32311)
 - [MST3K 0821 – Time Chasers](https://www.amon-hen.com/television/15312)
 - [Medicaid](https://www.amon-hen.com/politics/32308)
 - [Nice Radio Clock](https://www.amon-hen.com/movies/32318)
@@ -10,7 +11,6 @@
 - [MST3K Short 0621 – Money Talks!](https://www.amon-hen.com/television/7110)
 - [The Mad Monster (1942)](https://www.amon-hen.com/movies/32299)
 - [Never The Same Way Once](https://www.amon-hen.com/music/32297)
-- [Gravitational Echoes](https://www.amon-hen.com/science/27022)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I bet when the neanderthal kids would make a snowman, someone would always end up saying, "Don't forget the thick, heavy brows." Then they would all get embarrassed because they remembered they had the big hunky brows too, and they'd get mad and eat the snowman.</em><br /> -- Jack Handey</p>
+<p><em>First love is a kind of vaccination which saves a man from catching the complaint a second time.</em><br /> -- Honore de Balzac</p>
