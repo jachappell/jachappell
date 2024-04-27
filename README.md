@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Black Holes and White Holes](https://www.amon-hen.com/science/27002)
+- [Blind](https://www.amon-hen.com/music/32328)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Black Holes and White Holes](https://www.amon-hen.com/science/27002)
 - [Mmmm, Harf & Harf](https://www.amon-hen.com/food/32311)
 - [MST3K 0821 – Time Chasers](https://www.amon-hen.com/television/15312)
 - [Medicaid](https://www.amon-hen.com/politics/32308)
@@ -10,7 +11,6 @@
 - [Reading:  Raft](https://www.amon-hen.com/books/297)
 - [MST3K Short 0621 – Money Talks!](https://www.amon-hen.com/television/7110)
 - [The Mad Monster (1942)](https://www.amon-hen.com/movies/32299)
-- [Never The Same Way Once](https://www.amon-hen.com/music/32297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>First love is a kind of vaccination which saves a man from catching the complaint a second time.</em><br /> -- Honore de Balzac</p>
+<p><em>As the evening sky faded from a salmon color to a sort of flint gray, I thought back to the salmon I caught that morning, and how gray he was, and how I named him Flint.</em><br /> -- Jack Handey</p>
