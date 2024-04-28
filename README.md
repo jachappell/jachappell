@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Blind](https://www.amon-hen.com/music/32328)
+- [The Trollenberg Terror (1958)](https://www.amon-hen.com/movies/27842)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Blind](https://www.amon-hen.com/music/32328)
 - [Black Holes and White Holes](https://www.amon-hen.com/science/27002)
 - [Mmmm, Harf & Harf](https://www.amon-hen.com/food/32311)
 - [MST3K 0821 – Time Chasers](https://www.amon-hen.com/television/15312)
@@ -10,10 +11,10 @@
 - [Nice Radio Clock](https://www.amon-hen.com/movies/32318)
 - [Reading:  Raft](https://www.amon-hen.com/books/297)
 - [MST3K Short 0621 – Money Talks!](https://www.amon-hen.com/television/7110)
-- [The Mad Monster (1942)](https://www.amon-hen.com/movies/32299)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – May 2024](https://www.drum-corps.net/news/3010)
 - [Drum Corps World – April 2024](https://www.drum-corps.net/news/3007)
 - [Cadets Arts & Entertainment has filed for bankruptcy](https://www.drum-corps.net/news/3003)
 - [Drum Corps World – March 2024](https://www.drum-corps.net/news/3000)
@@ -23,7 +24,6 @@
 - [Drum Corps World – December 2023](https://www.drum-corps.net/news/2968)
 - [2024 Drum Corps International Tour Schedule](https://www.drum-corps.net/news/2951)
 - [Drum Corps World – November 2023](https://www.drum-corps.net/news/2946)
-- [The Cadets Suspend Competition for 2024](https://www.drum-corps.net/news/2939)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>As the evening sky faded from a salmon color to a sort of flint gray, I thought back to the salmon I caught that morning, and how gray he was, and how I named him Flint.</em><br /> -- Jack Handey</p>
+<p><em>Economists can certainly disappoint you.  One said that the economy would turn up by the last quarter.  Well, I'm down to mine and it hasn't.</em><br /> -- Robert Orben</p>
