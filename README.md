@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Trollenberg Terror (1958)](https://www.amon-hen.com/movies/27842)
+- [Selections from the Bluecoats’ 2024 Repertoire](https://www.amon-hen.com/music/drum-and-bugle-corps/32343)
+- [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Trollenberg Terror (1958)](https://www.amon-hen.com/movies/27842)
 - [Blind](https://www.amon-hen.com/music/32328)
 - [Black Holes and White Holes](https://www.amon-hen.com/science/27002)
 - [Mmmm, Harf & Harf](https://www.amon-hen.com/food/32311)
 - [MST3K 0821 – Time Chasers](https://www.amon-hen.com/television/15312)
 - [Medicaid](https://www.amon-hen.com/politics/32308)
 - [Nice Radio Clock](https://www.amon-hen.com/movies/32318)
-- [Reading:  Raft](https://www.amon-hen.com/books/297)
-- [MST3K Short 0621 – Money Talks!](https://www.amon-hen.com/television/7110)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Economists can certainly disappoint you.  One said that the economy would turn up by the last quarter.  Well, I'm down to mine and it hasn't.</em><br /> -- Robert Orben</p>
+<p><em>There is hopeful symbolism in the fact that flags do not wave in a vacuum.</em><br /> -- Arthur C. Clarke</p>
