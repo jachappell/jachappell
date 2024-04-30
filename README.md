@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Reading:  Timelike Infinity](https://www.amon-hen.com/books/297)
+- [UFOs](https://www.amon-hen.com/politics/32330)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Selections from the Bluecoats’ 2024 Repertoire](https://www.amon-hen.com/music/drum-and-bugle-corps/32343)
 - [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Trollenberg Terror (1958)](https://www.amon-hen.com/movies/27842)
 - [Blind](https://www.amon-hen.com/music/32328)
 - [Black Holes and White Holes](https://www.amon-hen.com/science/27002)
 - [Mmmm, Harf & Harf](https://www.amon-hen.com/food/32311)
 - [MST3K 0821 – Time Chasers](https://www.amon-hen.com/television/15312)
-- [Medicaid](https://www.amon-hen.com/politics/32308)
-- [Nice Radio Clock](https://www.amon-hen.com/movies/32318)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>There is hopeful symbolism in the fact that flags do not wave in a vacuum.</em><br /> -- Arthur C. Clarke</p>
+<p><em>I have a hernia. I've had it for a while. And I've been ignoring it... successfully, but this morning, I made the mistake of sneezing. But as long as I sit still and don't move my head, or torso, I'm good. I got this.</em><br /> -- Ron Swanson</p>
