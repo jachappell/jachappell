@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0822 – Overdrawn at the Memory Bank](https://www.amon-hen.com/television/3611)
+- [Mmmm, Stimulated Lobster Balls](https://www.amon-hen.com/food/32351)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0822 – Overdrawn at the Memory Bank](https://www.amon-hen.com/television/3611)
 - [Reading:  Timelike Infinity](https://www.amon-hen.com/books/297)
 - [UFOs](https://www.amon-hen.com/politics/32330)
 - [Selections from the Bluecoats’ 2024 Repertoire](https://www.amon-hen.com/music/drum-and-bugle-corps/32343)
@@ -10,7 +11,6 @@
 - [The Trollenberg Terror (1958)](https://www.amon-hen.com/movies/27842)
 - [Blind](https://www.amon-hen.com/music/32328)
 - [Black Holes and White Holes](https://www.amon-hen.com/science/27002)
-- [Mmmm, Harf & Harf](https://www.amon-hen.com/food/32311)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>They say no man is an island. False! I am an island, and this island is volcanic, and it's about to erupt with the hot molten lava of strategy.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>Yes, I have acted before. I was in a production of </em>Oklahoma!<em> in the seventh grade. I played the part of Mutie the Mailman. They had too many kids, so they made up roles like that. I was good.</em><br /> -- Dwight Kurt Schrute III</p>
