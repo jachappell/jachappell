@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Stimulated Lobster Balls](https://www.amon-hen.com/food/32351)
+- [Can Particles be Quantum Entangled Across Time?](https://www.amon-hen.com/science/32355)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Stimulated Lobster Balls](https://www.amon-hen.com/food/32351)
 - [MST3K 0822 – Overdrawn at the Memory Bank](https://www.amon-hen.com/television/3611)
 - [Reading:  Timelike Infinity](https://www.amon-hen.com/books/297)
 - [UFOs](https://www.amon-hen.com/politics/32330)
@@ -10,7 +11,6 @@
 - [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
 - [The Trollenberg Terror (1958)](https://www.amon-hen.com/movies/27842)
 - [Blind](https://www.amon-hen.com/music/32328)
-- [Black Holes and White Holes](https://www.amon-hen.com/science/27002)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -40,6 +40,7 @@
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
+- [Simulators Track our Changing Relationship with Technology](https://www.mar-sim.com/news/985)
 - [Japanese simulator centre opens for offshore training](https://www.mar-sim.com/news/974)
 - [AR Simulator Added to Pilot Training at Smartship Australia](https://www.mar-sim.com/news/971)
 - [Wärtsilä to supply simulator to NSB Group](https://www.mar-sim.com/news/959)
@@ -49,8 +50,7 @@
 - [Kongsberg Wins Large Contract with South Metropolitan TAFE](https://www.mar-sim.com/news/904)
 - [Wärtsilä Navigational Simulator becomes first Interactive ‘instructor-led’ cloud training solution to gain new DNV Class D Certification](https://www.mar-sim.com/news/888)
 - [Panama Canal Authority Taps Kongsberg for New Navigation Simulators](https://www.mar-sim.com/news/882)
-- [NAUTIS will start integrating innovative autodidactic tools within maritime simulation industry](https://www.mar-sim.com/news/877)
 
 
 # Quote of the Day
-<p><em>Yes, I have acted before. I was in a production of </em>Oklahoma!<em> in the seventh grade. I played the part of Mutie the Mailman. They had too many kids, so they made up roles like that. I was good.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>The computer can't tell you the emotional story.  It can give you the exact mathematical design, but what's missing is the eyebrows.</em><br /> -- Frank Zappa</p>
