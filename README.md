@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Can Particles be Quantum Entangled Across Time?](https://www.amon-hen.com/science/32355)
+- [In The Dead Of Night](https://www.amon-hen.com/music/32357)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Can Particles be Quantum Entangled Across Time?](https://www.amon-hen.com/science/32355)
 - [Mmmm, Stimulated Lobster Balls](https://www.amon-hen.com/food/32351)
 - [MST3K 0822 – Overdrawn at the Memory Bank](https://www.amon-hen.com/television/3611)
 - [Reading:  Timelike Infinity](https://www.amon-hen.com/books/297)
@@ -10,7 +11,6 @@
 - [Selections from the Bluecoats’ 2024 Repertoire](https://www.amon-hen.com/music/drum-and-bugle-corps/32343)
 - [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
 - [The Trollenberg Terror (1958)](https://www.amon-hen.com/movies/27842)
-- [Blind](https://www.amon-hen.com/music/32328)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The computer can't tell you the emotional story.  It can give you the exact mathematical design, but what's missing is the eyebrows.</em><br /> -- Frank Zappa</p>
+<p><em>Today's thrilling story has been brought to you by Mushies, the great new cereal that gets soggy even without milk or cream.  Join us soon for more spectacular adventure starring...  Tippy, the Wonder Dog!</em><br /> -- Bob &amp; Ray</p>
