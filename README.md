@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [In The Dead Of Night](https://www.amon-hen.com/music/32357)
+- [Hawkeye (1988)](https://www.amon-hen.com/movies/32359)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [In The Dead Of Night](https://www.amon-hen.com/music/32357)
 - [Can Particles be Quantum Entangled Across Time?](https://www.amon-hen.com/science/32355)
 - [Mmmm, Stimulated Lobster Balls](https://www.amon-hen.com/food/32351)
 - [MST3K 0822 – Overdrawn at the Memory Bank](https://www.amon-hen.com/television/3611)
@@ -10,7 +11,6 @@
 - [UFOs](https://www.amon-hen.com/politics/32330)
 - [Selections from the Bluecoats’ 2024 Repertoire](https://www.amon-hen.com/music/drum-and-bugle-corps/32343)
 - [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
-- [The Trollenberg Terror (1958)](https://www.amon-hen.com/movies/27842)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Today's thrilling story has been brought to you by Mushies, the great new cereal that gets soggy even without milk or cream.  Join us soon for more spectacular adventure starring...  Tippy, the Wonder Dog!</em><br /> -- Bob &amp; Ray</p>
+<p><em>I regard monotheism as the greatest disaster ever to befall the human race. I see no good in Judaism, Christianity, or Islam -- good people, yes, but any religion based on a single, well, frenzied and virulent god, is not as useful to the human race as, say, Confucianism, which is not a religion but an ethical and educational system.</em><br /> -- Gore Vidal</p>
