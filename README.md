@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Hawkeye (1988)](https://www.amon-hen.com/movies/32359)
+- [MST3K Short 0623 – The Days of Our Years](https://www.amon-hen.com/television/7293)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Hawkeye (1988)](https://www.amon-hen.com/movies/32359)
 - [In The Dead Of Night](https://www.amon-hen.com/music/32357)
 - [Can Particles be Quantum Entangled Across Time?](https://www.amon-hen.com/science/32355)
 - [Mmmm, Stimulated Lobster Balls](https://www.amon-hen.com/food/32351)
@@ -10,7 +11,6 @@
 - [Reading:  Timelike Infinity](https://www.amon-hen.com/books/297)
 - [UFOs](https://www.amon-hen.com/politics/32330)
 - [Selections from the Bluecoats’ 2024 Repertoire](https://www.amon-hen.com/music/drum-and-bugle-corps/32343)
-- [MST3K Short 0621 – Progress Island, U.S.A.](https://www.amon-hen.com/television/6393)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I regard monotheism as the greatest disaster ever to befall the human race. I see no good in Judaism, Christianity, or Islam -- good people, yes, but any religion based on a single, well, frenzied and virulent god, is not as useful to the human race as, say, Confucianism, which is not a religion but an ethical and educational system.</em><br /> -- Gore Vidal</p>
+<p><em>Don't start an argument with somebody who has a microphone when you don't. They'll make you look like chopped liver.</em><br /> -- Harlan Ellison</p>
