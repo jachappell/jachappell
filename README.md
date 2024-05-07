@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0623 – The Days of Our Years](https://www.amon-hen.com/television/7293)
+- [Last Week Tonight – S1 E1: India, Pomegranates & Lisa Loeb](https://www.amon-hen.com/politics/32363)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0623 – The Days of Our Years](https://www.amon-hen.com/television/7293)
 - [Hawkeye (1988)](https://www.amon-hen.com/movies/32359)
 - [In The Dead Of Night](https://www.amon-hen.com/music/32357)
 - [Can Particles be Quantum Entangled Across Time?](https://www.amon-hen.com/science/32355)
@@ -10,7 +11,6 @@
 - [MST3K 0822 – Overdrawn at the Memory Bank](https://www.amon-hen.com/television/3611)
 - [Reading:  Timelike Infinity](https://www.amon-hen.com/books/297)
 - [UFOs](https://www.amon-hen.com/politics/32330)
-- [Selections from the Bluecoats’ 2024 Repertoire](https://www.amon-hen.com/music/drum-and-bugle-corps/32343)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Don't start an argument with somebody who has a microphone when you don't. They'll make you look like chopped liver.</em><br /> -- Harlan Ellison</p>
+<p><em>I figure that if God actually does exist, He's big enough to understand an honest difference of opinion.</em><br /> -- Isaac Asimov</p>
