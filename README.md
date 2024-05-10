@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Niblets Mexicorn](https://www.amon-hen.com/food/32371)
+- [From Hydrogen to Higgs Bosons](https://www.amon-hen.com/science/32375)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Niblets Mexicorn](https://www.amon-hen.com/food/32371)
 - [MST3K 0901 – The Projected Man](https://www.amon-hen.com/television/6753)
 - [Last Week Tonight – S1 E1: India, Pomegranates & Lisa Loeb](https://www.amon-hen.com/politics/32363)
 - [MST3K Short 0623 – The Days of Our Years](https://www.amon-hen.com/television/7293)
@@ -10,7 +11,6 @@
 - [In The Dead Of Night](https://www.amon-hen.com/music/32357)
 - [Can Particles be Quantum Entangled Across Time?](https://www.amon-hen.com/science/32355)
 - [Mmmm, Stimulated Lobster Balls](https://www.amon-hen.com/food/32351)
-- [MST3K 0822 – Overdrawn at the Memory Bank](https://www.amon-hen.com/television/3611)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I've recently noticed "as if for the first time" that when people pray they always look "upward" -- i.e. perpendicular to whatever place they're standing -- or kneeling or groveling. I deduce that they conceive of their "god" as topologically isomorphic to a huge donut, about a thousand miles wider than Earth.</em><br /> -- Robert Anton Wilson</p>
+<p><em>In ancient times, hundreds of years before the dawn of history, an ancient race of people... the Druids.  No one knows who they were or what they were doing...</em><br /> -- Nigel Tufnel</p>
