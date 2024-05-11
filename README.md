@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [From Hydrogen to Higgs Bosons](https://www.amon-hen.com/science/32375)
+- [Stromboli Kicks](https://www.amon-hen.com/music/32377)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [From Hydrogen to Higgs Bosons](https://www.amon-hen.com/science/32375)
 - [Mmmm, Niblets Mexicorn](https://www.amon-hen.com/food/32371)
 - [MST3K 0901 – The Projected Man](https://www.amon-hen.com/television/6753)
 - [Last Week Tonight – S1 E1: India, Pomegranates & Lisa Loeb](https://www.amon-hen.com/politics/32363)
@@ -10,7 +11,6 @@
 - [Hawkeye (1988)](https://www.amon-hen.com/movies/32359)
 - [In The Dead Of Night](https://www.amon-hen.com/music/32357)
 - [Can Particles be Quantum Entangled Across Time?](https://www.amon-hen.com/science/32355)
-- [Mmmm, Stimulated Lobster Balls](https://www.amon-hen.com/food/32351)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>In ancient times, hundreds of years before the dawn of history, an ancient race of people... the Druids.  No one knows who they were or what they were doing...</em><br /> -- Nigel Tufnel</p>
+<p><em>If you're a horse, and someone gets on you, and falls off, and then gets right back on you, I think you should buck him off right away.</em><br /> -- Jack Handey</p>
