@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Mother’s Day](https://www.amon-hen.com/music/16121)
+- [MST3K Short 0701 – Once Upon A Honeymoon](https://www.amon-hen.com/television/6119)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading – The United States Navy in World War II: From Pearl Harbor to Okinawa](https://www.amon-hen.com/books/297)
 - [Catalina Caper (1967)](https://www.amon-hen.com/movies/32382)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Stromboli Kicks](https://www.amon-hen.com/music/32377)
 - [From Hydrogen to Higgs Bosons](https://www.amon-hen.com/science/32375)
 - [Mmmm, Niblets Mexicorn](https://www.amon-hen.com/food/32371)
 - [MST3K 0901 – The Projected Man](https://www.amon-hen.com/television/6753)
 - [Last Week Tonight – S1 E1: India, Pomegranates & Lisa Loeb](https://www.amon-hen.com/politics/32363)
-- [MST3K Short 0623 – The Days of Our Years](https://www.amon-hen.com/television/7293)
-- [Hawkeye (1988)](https://www.amon-hen.com/movies/32359)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You can cite a hundred references to show that the biblical God is a bloodthirsty tyrant, but if they can dig up two or three verses that say "God is love," they will claim that *you* are taking things out of context!</em><br /> -- Dan Barker (<em>Losing Faith in Faith</em>)</p>
+<p><em>One of the major difficulties Trillian experienced in her relationship with Zaphod was learning to distinguish between him pretending to be stupid just to get people off their guard, pretending to be stupid because he couldn't be bothered to think and wanted someone else to do it for him, pretending to be so outrageously stupid to hide the fact that he actually didn't understand what was going on, and really being genuinely stupid.  He was reknowned for being quite clever and quite clearly was so -- but not all the time, which obviously worried him, hence the act.  He preferred people to be puzzled rather than contemptuous.  This above all appeared to Trillian to be genuinely stupid, but she could no longer be bothered to argue about.</em><br /> -- Douglas Adams (<em>The Hitchhiker's Guide to the Galaxy</em>)</p>
