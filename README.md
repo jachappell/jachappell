@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0902 – The Phantom Planet](https://www.amon-hen.com/television/15370)
+- [Best Shit Menu](https://www.amon-hen.com/food/32390)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0902 – The Phantom Planet](https://www.amon-hen.com/television/15370)
 - [Libraries](https://www.amon-hen.com/books/32384)
 - [Mother’s Day](https://www.amon-hen.com/music/16121)
 - [MST3K Short 0701 – Once Upon A Honeymoon](https://www.amon-hen.com/television/6119)
@@ -10,7 +11,6 @@
 - [Catalina Caper (1967)](https://www.amon-hen.com/movies/32382)
 - [Stromboli Kicks](https://www.amon-hen.com/music/32377)
 - [From Hydrogen to Higgs Bosons](https://www.amon-hen.com/science/32375)
-- [Mmmm, Niblets Mexicorn](https://www.amon-hen.com/food/32371)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I have a switch in my apartment that doesn't do anything.  Every once in a while I turn it on and off.  On and off.  On and off.  One day I got a call from a woman in France who said "Cut it out!"</em><br /> -- Stephen Wright</p>
+<p><em>You drank beer, you played golf, you watched football - WE EVOLVED!</em><br /> -- Frank Zappa</p>
