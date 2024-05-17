@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Best Shit Menu](https://www.amon-hen.com/food/32390)
+- [Opioid Settlements](https://www.amon-hen.com/politics/32401)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Best Shit Menu](https://www.amon-hen.com/food/32390)
 - [MST3K 0902 – The Phantom Planet](https://www.amon-hen.com/television/15370)
 - [Libraries](https://www.amon-hen.com/books/32384)
 - [Mother’s Day](https://www.amon-hen.com/music/16121)
@@ -10,7 +11,6 @@
 - [Reading – The United States Navy in World War II: From Pearl Harbor to Okinawa](https://www.amon-hen.com/books/297)
 - [Catalina Caper (1967)](https://www.amon-hen.com/movies/32382)
 - [Stromboli Kicks](https://www.amon-hen.com/music/32377)
-- [From Hydrogen to Higgs Bosons](https://www.amon-hen.com/science/32375)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You drank beer, you played golf, you watched football - WE EVOLVED!</em><br /> -- Frank Zappa</p>
+<p><em>I think the best indication that there is no God is that Stevie Ray Vaughan got killed and Celine Dion reproduced.</em><br /> -- Kevin Enns (SKEPTIC Mailing List)</p>
