@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Opioid Settlements](https://www.amon-hen.com/politics/32401)
+- [The Wooden Man Sings And The Stone Woman Dances](https://www.amon-hen.com/music/32403)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Opioid Settlements](https://www.amon-hen.com/politics/32401)
 - [Best Shit Menu](https://www.amon-hen.com/food/32390)
 - [MST3K 0902 – The Phantom Planet](https://www.amon-hen.com/television/15370)
 - [Libraries](https://www.amon-hen.com/books/32384)
@@ -10,7 +11,6 @@
 - [MST3K Short 0701 – Once Upon A Honeymoon](https://www.amon-hen.com/television/6119)
 - [Reading – The United States Navy in World War II: From Pearl Harbor to Okinawa](https://www.amon-hen.com/books/297)
 - [Catalina Caper (1967)](https://www.amon-hen.com/movies/32382)
-- [Stromboli Kicks](https://www.amon-hen.com/music/32377)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I think the best indication that there is no God is that Stevie Ray Vaughan got killed and Celine Dion reproduced.</em><br /> -- Kevin Enns (SKEPTIC Mailing List)</p>
+<p><em>But the greatest Electrical Pioneer of them all was Thomas Edison, who was a brilliant inventor despite the fact that he had little formal education and lived in New Jersey.  Edison's first major invention in 1877, was the phonograph, which could soon be found in thousands of American homes, where it basically sat until 1923, when the record was invented.  But Edison's greatest achievement came in 1879, when he invented the electric company.  Edison's design was a brilliant adaptation of the simple electrical circuit: the electric company sends electricity through a wire to a customer, then immediately gets the electricity back through another wire, then (this is the brilliant part) sends it right back to the customer again.<br /><br /> This means that an electric company can sell a customer the same batch of electricity thousands of times a day and never get caught, since very few customers take the time to examine their electricity closely. In fact the last year any new electricity was generated in the United States was 1937; the electric companies have been merely re-selling it ever since, which is why they have so much free time to apply for rate increases.</em><br /> -- Dave Barry, "What is Electricity?"</p>
