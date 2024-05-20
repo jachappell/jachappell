@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Honorable Men (2004)](https://www.amon-hen.com/movies/32399)
+- [MST3K Short 0702 – The Chicken of Tomorrow](https://www.amon-hen.com/television/7498)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Honorable Men (2004)](https://www.amon-hen.com/movies/32399)
 - [The Wooden Man Sings And The Stone Woman Dances](https://www.amon-hen.com/music/32403)
 - [Opioid Settlements](https://www.amon-hen.com/politics/32401)
 - [Best Shit Menu](https://www.amon-hen.com/food/32390)
@@ -10,7 +11,6 @@
 - [Libraries](https://www.amon-hen.com/books/32384)
 - [Mother’s Day](https://www.amon-hen.com/music/16121)
 - [MST3K Short 0701 – Once Upon A Honeymoon](https://www.amon-hen.com/television/6119)
-- [Reading – The United States Navy in World War II: From Pearl Harbor to Okinawa](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Sham Harga had run a succesful eatery for many years by always smiling, never extending credit, and realizing that most of his customers wanted meals properly balanced between the four food groups: sugar, starch, grease, and burnt crunchy bits.</em><br /> -- Terry Pratchett (<em>Men at Arms</em>)</p>
+<p><em>The devil can cite Scripture for his purpose.</em><br /> -- William Shakespeare (<em>The Merchant of Venice</em>)</p>
