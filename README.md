@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0702 – The Chicken of Tomorrow](https://www.amon-hen.com/television/7498)
+- [Last Week Tonight – S1 E2: The Death Penalty, Brunei & Ukraine](https://www.amon-hen.com/politics/32397)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0702 – The Chicken of Tomorrow](https://www.amon-hen.com/television/7498)
 - [Honorable Men (2004)](https://www.amon-hen.com/movies/32399)
 - [The Wooden Man Sings And The Stone Woman Dances](https://www.amon-hen.com/music/32403)
 - [Opioid Settlements](https://www.amon-hen.com/politics/32401)
@@ -10,7 +11,6 @@
 - [MST3K 0902 – The Phantom Planet](https://www.amon-hen.com/television/15370)
 - [Libraries](https://www.amon-hen.com/books/32384)
 - [Mother’s Day](https://www.amon-hen.com/music/16121)
-- [MST3K Short 0701 – Once Upon A Honeymoon](https://www.amon-hen.com/television/6119)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The devil can cite Scripture for his purpose.</em><br /> -- William Shakespeare (<em>The Merchant of Venice</em>)</p>
+<p><em>I hope this has taught you kids a lesson: kids never learn.</em><br /> -- Police Chief Clancy Wiggum</p>
