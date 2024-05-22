@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Last Week Tonight – S1 E2: The Death Penalty, Brunei & Ukraine](https://www.amon-hen.com/politics/32397)
+- [Reading: Flux](https://www.amon-hen.com/books/297)
+- [MST3K 0903 – The Pumaman](https://www.amon-hen.com/television/4488)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Last Week Tonight – S1 E2: The Death Penalty, Brunei & Ukraine](https://www.amon-hen.com/politics/32397)
 - [MST3K Short 0702 – The Chicken of Tomorrow](https://www.amon-hen.com/television/7498)
 - [Honorable Men (2004)](https://www.amon-hen.com/movies/32399)
 - [The Wooden Man Sings And The Stone Woman Dances](https://www.amon-hen.com/music/32403)
 - [Opioid Settlements](https://www.amon-hen.com/politics/32401)
 - [Best Shit Menu](https://www.amon-hen.com/food/32390)
 - [MST3K 0902 – The Phantom Planet](https://www.amon-hen.com/television/15370)
-- [Libraries](https://www.amon-hen.com/books/32384)
-- [Mother’s Day](https://www.amon-hen.com/music/16121)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I hope this has taught you kids a lesson: kids never learn.</em><br /> -- Police Chief Clancy Wiggum</p>
+<p><em>When Han Solo returns to the Death Star in the </em>Millennium Falcon<em>, and shoots down the TIE fighters and saves the Rebel cause, do you think he does so for a free beer?</em><br /> -- Dwight Kurt Schrute III</p>
