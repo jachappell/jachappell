@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Mmmm,  Pepperidge Farm Nantucket Crispy Double Dark Chocolate Chunk Cookies](https://www.amon-hen.com/food/32410)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: Flux](https://www.amon-hen.com/books/297)
 - [MST3K 0903 – The Pumaman](https://www.amon-hen.com/television/4488)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Last Week Tonight – S1 E2: The Death Penalty, Brunei & Ukraine](https://www.amon-hen.com/politics/32397)
 - [MST3K Short 0702 – The Chicken of Tomorrow](https://www.amon-hen.com/television/7498)
 - [Honorable Men (2004)](https://www.amon-hen.com/movies/32399)
 - [The Wooden Man Sings And The Stone Woman Dances](https://www.amon-hen.com/music/32403)
 - [Opioid Settlements](https://www.amon-hen.com/politics/32401)
 - [Best Shit Menu](https://www.amon-hen.com/food/32390)
-- [MST3K 0902 – The Phantom Planet](https://www.amon-hen.com/television/15370)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -27,6 +27,7 @@
 
 
 ## [Storage B](https://www.storage-b.com)
+- [Agile vs. Waterfall](https://www.storage-b.com/humor/996)
 - [Delivering Safe C++](https://www.storage-b.com/c/969)
 - [Full Interview With the Creator of C++](https://www.storage-b.com/c/962)
 - [How To Regex](https://www.storage-b.com/humor/951)
@@ -36,7 +37,6 @@
 - [Blue Tick Marks](https://www.storage-b.com/humor/896)
 - [Toxic Development Culture](https://www.storage-b.com/www/887)
 - [Hewlett Packard Then and Now](https://www.storage-b.com/humor/881)
-- [Absolute Nightmare](https://www.storage-b.com/www/874)
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When Han Solo returns to the Death Star in the </em>Millennium Falcon<em>, and shoots down the TIE fighters and saves the Rebel cause, do you think he does so for a free beer?</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>You can observe a lot just by watching.</em><br /> -- Yogi Berra</p>
