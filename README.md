@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm,  Pepperidge Farm Nantucket Crispy Double Dark Chocolate Chunk Cookies](https://www.amon-hen.com/food/32410)
+- [Corn](https://www.amon-hen.com/politics/32426)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm,  Pepperidge Farm Nantucket Crispy Double Dark Chocolate Chunk Cookies](https://www.amon-hen.com/food/32410)
 - [Reading: Flux](https://www.amon-hen.com/books/297)
 - [MST3K 0903 – The Pumaman](https://www.amon-hen.com/television/4488)
 - [Last Week Tonight – S1 E2: The Death Penalty, Brunei & Ukraine](https://www.amon-hen.com/politics/32397)
@@ -10,7 +11,6 @@
 - [Honorable Men (2004)](https://www.amon-hen.com/movies/32399)
 - [The Wooden Man Sings And The Stone Woman Dances](https://www.amon-hen.com/music/32403)
 - [Opioid Settlements](https://www.amon-hen.com/politics/32401)
-- [Best Shit Menu](https://www.amon-hen.com/food/32390)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You can observe a lot just by watching.</em><br /> -- Yogi Berra</p>
+<p><em>If it keeps up, man will atrophy all his limbs but the push-button finger.</em><br /> -- Frank Lloyd Wright</p>
