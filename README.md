@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Corn](https://www.amon-hen.com/politics/32426)
+- [Modern Folk](https://www.amon-hen.com/music/32436)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Corn](https://www.amon-hen.com/politics/32426)
 - [Mmmm,  Pepperidge Farm Nantucket Crispy Double Dark Chocolate Chunk Cookies](https://www.amon-hen.com/food/32410)
 - [Reading: Flux](https://www.amon-hen.com/books/297)
 - [MST3K 0903 – The Pumaman](https://www.amon-hen.com/television/4488)
@@ -10,7 +11,6 @@
 - [MST3K Short 0702 – The Chicken of Tomorrow](https://www.amon-hen.com/television/7498)
 - [Honorable Men (2004)](https://www.amon-hen.com/movies/32399)
 - [The Wooden Man Sings And The Stone Woman Dances](https://www.amon-hen.com/music/32403)
-- [Opioid Settlements](https://www.amon-hen.com/politics/32401)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If it keeps up, man will atrophy all his limbs but the push-button finger.</em><br /> -- Frank Lloyd Wright</p>
+<p><em>Oh, well, of course, everything looks bad if you remember it.</em><br /> -- Homer J. Simpson</p>
