@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K Short 0906 – Century 21 Calling](https://www.amon-hen.com/television/5880)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Towel Day](https://www.amon-hen.com/books/3512)
 - [Colossus: The Forbin Project (1970)](https://www.amon-hen.com/movies/32439)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Modern Folk](https://www.amon-hen.com/music/32436)
 - [Corn](https://www.amon-hen.com/politics/32426)
 - [Mmmm,  Pepperidge Farm Nantucket Crispy Double Dark Chocolate Chunk Cookies](https://www.amon-hen.com/food/32410)
 - [Reading: Flux](https://www.amon-hen.com/books/297)
 - [MST3K 0903 – The Pumaman](https://www.amon-hen.com/television/4488)
 - [Last Week Tonight – S1 E2: The Death Penalty, Brunei & Ukraine](https://www.amon-hen.com/politics/32397)
-- [MST3K Short 0702 – The Chicken of Tomorrow](https://www.amon-hen.com/television/7498)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Turkey can never beat cow.</em><br /> -- Ron Swanson</p>
+<p><em>I think that in philosophical strictness at the level where one doubts the existence of material objects and holds that the world may have existed for only five minutes, I ought to call myself an agnostic; but, for all practical purposes, I am an atheist. I do not think the existence of the Christian God any more probable than the existence of the Gods of Olympus or Valhalla. To take another illustration: nobody can prove that there is not between Earth and Mars a china teapot revolving in an elliptic orbit, but nobody thinks this sufficiently likely to be taken into account in practice. I think the Christian God just as unlikely.</em><br /> -- Bertrand Russell </p>
