@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0904 – Werewolf](https://www.amon-hen.com/television/3860)
+- [Mmmm, Special Sandwich](https://www.amon-hen.com/food/32450)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0904 – Werewolf](https://www.amon-hen.com/television/3860)
 - [Last Week Tonight – S1 E3: Kentucky, Climate Change & Ukraine](https://www.amon-hen.com/politics/32446)
 - [MST3K Short 0906 – Century 21 Calling](https://www.amon-hen.com/television/5880)
 - [Towel Day](https://www.amon-hen.com/books/3512)
@@ -10,7 +11,6 @@
 - [Modern Folk](https://www.amon-hen.com/music/32436)
 - [Corn](https://www.amon-hen.com/politics/32426)
 - [Mmmm,  Pepperidge Farm Nantucket Crispy Double Dark Chocolate Chunk Cookies](https://www.amon-hen.com/food/32410)
-- [Reading: Flux](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I've heard 'em all.  "I like you as a friend."  "I think we should see other people."  "I no speak English."  "I'm married to the sea."  "I don't want to kill you, but I will ..."</em><br /> -- Homer J. Simpson</p>
+<p><em>Channeling is just bad ventriloquism. You use another voice, but people can see your lips moving.</em><br /> -- Penn Jillette</p>
