@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Space Oddities](https://www.amon-hen.com/science/32455)
+- [Ain’t No Damsel](https://www.amon-hen.com/music/32458)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Space Oddities](https://www.amon-hen.com/science/32455)
 - [Mmmm, Special Sandwich](https://www.amon-hen.com/food/32450)
 - [MST3K 0904 – Werewolf](https://www.amon-hen.com/television/3860)
 - [Last Week Tonight – S1 E3: Kentucky, Climate Change & Ukraine](https://www.amon-hen.com/politics/32446)
@@ -10,7 +11,6 @@
 - [Towel Day](https://www.amon-hen.com/books/3512)
 - [Colossus: The Forbin Project (1970)](https://www.amon-hen.com/movies/32439)
 - [Modern Folk](https://www.amon-hen.com/music/32436)
-- [Corn](https://www.amon-hen.com/politics/32426)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>No, don't call me a hero. Do you know who the real heroes are? The guys who wake up every morning and go into their normal jobs, and get a distress call from the Commissioner and take off their glasses and change into capes and fly around fighting crime. Those are the real heroes.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>I believe that it is better to tell the truth than a lie.  I believe it is beter to be free than to be a slave.  And I believe it is better to know than to be ignorant.</em><br /> -- H.L. Mencken</p>
