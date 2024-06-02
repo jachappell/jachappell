@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Ain’t No Damsel](https://www.amon-hen.com/music/32458)
+- [Deluge (1933)](https://www.amon-hen.com/movies/32467)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Ain’t No Damsel](https://www.amon-hen.com/music/32458)
 - [Space Oddities](https://www.amon-hen.com/science/32455)
 - [Mmmm, Special Sandwich](https://www.amon-hen.com/food/32450)
 - [MST3K 0904 – Werewolf](https://www.amon-hen.com/television/3860)
@@ -10,7 +11,6 @@
 - [MST3K Short 0906 – Century 21 Calling](https://www.amon-hen.com/television/5880)
 - [Towel Day](https://www.amon-hen.com/books/3512)
 - [Colossus: The Forbin Project (1970)](https://www.amon-hen.com/movies/32439)
-- [Modern Folk](https://www.amon-hen.com/music/32436)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I believe that it is better to tell the truth than a lie.  I believe it is beter to be free than to be a slave.  And I believe it is better to know than to be ignorant.</em><br /> -- H.L. Mencken</p>
+<p><em>A computer lets you make more mistakes faster than any other invention, with the possible exceptions of handguns and Tequilla.</em><br /> -- Mitch Ratcliffe</p>
