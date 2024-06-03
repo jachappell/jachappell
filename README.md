@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Deluge (1933)](https://www.amon-hen.com/movies/32467)
+- [MST3K Short 0912 – Robot Rumpus](https://www.amon-hen.com/television/5816)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Deluge (1933)](https://www.amon-hen.com/movies/32467)
 - [Ain’t No Damsel](https://www.amon-hen.com/music/32458)
 - [Space Oddities](https://www.amon-hen.com/science/32455)
 - [Mmmm, Special Sandwich](https://www.amon-hen.com/food/32450)
@@ -10,7 +11,6 @@
 - [Last Week Tonight – S1 E3: Kentucky, Climate Change & Ukraine](https://www.amon-hen.com/politics/32446)
 - [MST3K Short 0906 – Century 21 Calling](https://www.amon-hen.com/television/5880)
 - [Towel Day](https://www.amon-hen.com/books/3512)
-- [Colossus: The Forbin Project (1970)](https://www.amon-hen.com/movies/32439)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>A computer lets you make more mistakes faster than any other invention, with the possible exceptions of handguns and Tequilla.</em><br /> -- Mitch Ratcliffe</p>
+<p><em>When you look at yourself from a universal standpoint, something inside always reminds or informs you that there are bigger and better things to worry about.</em><br /> -- Albert Einstein</p>
