@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0912 – Robot Rumpus](https://www.amon-hen.com/television/5816)
+- [Last Week Tonight – S1 E4: GM, Protests in Turkey & Gay Nintendo](https://www.amon-hen.com/politics/32469)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0912 – Robot Rumpus](https://www.amon-hen.com/television/5816)
 - [Deluge (1933)](https://www.amon-hen.com/movies/32467)
 - [Ain’t No Damsel](https://www.amon-hen.com/music/32458)
 - [Space Oddities](https://www.amon-hen.com/science/32455)
@@ -10,7 +11,6 @@
 - [MST3K 0904 – Werewolf](https://www.amon-hen.com/television/3860)
 - [Last Week Tonight – S1 E3: Kentucky, Climate Change & Ukraine](https://www.amon-hen.com/politics/32446)
 - [MST3K Short 0906 – Century 21 Calling](https://www.amon-hen.com/television/5880)
-- [Towel Day](https://www.amon-hen.com/books/3512)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When you look at yourself from a universal standpoint, something inside always reminds or informs you that there are bigger and better things to worry about.</em><br /> -- Albert Einstein</p>
+<p><em>If you're at a Thanksgiving dinner, but you don't like the stuffing or the cranberry sauce or anything else, just pretend like you're eating it, but instead, put it all in your lap and form it into a big mushy ball. Then, later, when you're out back having cigars with the boys, let out a big fake cough and throw the ball to the ground. Then say, "Boy, these are good cigars!"</em><br /> -- Jack Handey</p>
