@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Spicy Garlic Photoes](https://www.amon-hen.com/food/32473)
+- [Indian Elections](https://www.amon-hen.com/politics/32477)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Spicy Garlic Photoes](https://www.amon-hen.com/food/32473)
 - [MST3K 0905 – The Deadly Bees](https://www.amon-hen.com/television/6897)
 - [Last Week Tonight – S1 E4: GM, Protests in Turkey & Gay Nintendo](https://www.amon-hen.com/politics/32469)
 - [MST3K Short 0912 – Robot Rumpus](https://www.amon-hen.com/television/5816)
@@ -10,7 +11,6 @@
 - [Ain’t No Damsel](https://www.amon-hen.com/music/32458)
 - [Space Oddities](https://www.amon-hen.com/science/32455)
 - [Mmmm, Special Sandwich](https://www.amon-hen.com/food/32450)
-- [MST3K 0904 – Werewolf](https://www.amon-hen.com/television/3860)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>One does not have to appeal to God to set the initial conditions for the creation of the universe, but if one does He would have to act through the laws of physics.</em><br /> -- Stephen Hawking (<em>Black Holes &amp; Baby Universes</em>)</p>
+<p><em>Just give me all the bacon and eggs you have. Wait... wait. I worry what you just heard was: Give me a lot of bacon and eggs. What I said was: Give me all the bacon and eggs you have. Do you understand?</em><br /> -- Ron Swanson</p>
