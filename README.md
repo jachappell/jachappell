@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Indian Elections](https://www.amon-hen.com/politics/32477)
+- [Dinosaur](https://www.amon-hen.com/music/32479)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Indian Elections](https://www.amon-hen.com/politics/32477)
 - [Mmmm, Spicy Garlic Photoes](https://www.amon-hen.com/food/32473)
 - [MST3K 0905 – The Deadly Bees](https://www.amon-hen.com/television/6897)
 - [Last Week Tonight – S1 E4: GM, Protests in Turkey & Gay Nintendo](https://www.amon-hen.com/politics/32469)
@@ -10,7 +11,6 @@
 - [Deluge (1933)](https://www.amon-hen.com/movies/32467)
 - [Ain’t No Damsel](https://www.amon-hen.com/music/32458)
 - [Space Oddities](https://www.amon-hen.com/science/32455)
-- [Mmmm, Special Sandwich](https://www.amon-hen.com/food/32450)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Just give me all the bacon and eggs you have. Wait... wait. I worry what you just heard was: Give me a lot of bacon and eggs. What I said was: Give me all the bacon and eggs you have. Do you understand?</em><br /> -- Ron Swanson</p>
+<p><em>The National Rifle Association says, 'Gun's don't kill people. People do'. But I think the gun helps.</em><br /> -- Eddie Izzard</p>
