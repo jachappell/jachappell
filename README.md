@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Dinosaur](https://www.amon-hen.com/music/32479)
+- [Just Imagine (1930)](https://www.amon-hen.com/movies/32481)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Dinosaur](https://www.amon-hen.com/music/32479)
 - [Indian Elections](https://www.amon-hen.com/politics/32477)
 - [Mmmm, Spicy Garlic Photoes](https://www.amon-hen.com/food/32473)
 - [MST3K 0905 – The Deadly Bees](https://www.amon-hen.com/television/6897)
@@ -10,7 +11,6 @@
 - [MST3K Short 0912 – Robot Rumpus](https://www.amon-hen.com/television/5816)
 - [Deluge (1933)](https://www.amon-hen.com/movies/32467)
 - [Ain’t No Damsel](https://www.amon-hen.com/music/32458)
-- [Space Oddities](https://www.amon-hen.com/science/32455)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The National Rifle Association says, 'Gun's don't kill people. People do'. But I think the gun helps.</em><br /> -- Eddie Izzard</p>
+<p><em>Sometimes the appropriate response to reality is to go insane.</em><br /> -- Philip K. Dick</p>
