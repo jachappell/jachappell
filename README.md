@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Just Imagine (1930)](https://www.amon-hen.com/movies/32481)
+- [MST3K Short 1012 – A Case Of Spring Fever](https://www.amon-hen.com/television/6358)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Just Imagine (1930)](https://www.amon-hen.com/movies/32481)
 - [Dinosaur](https://www.amon-hen.com/music/32479)
 - [Indian Elections](https://www.amon-hen.com/politics/32477)
 - [Mmmm, Spicy Garlic Photoes](https://www.amon-hen.com/food/32473)
@@ -10,7 +11,6 @@
 - [Last Week Tonight – S1 E4: GM, Protests in Turkey & Gay Nintendo](https://www.amon-hen.com/politics/32469)
 - [MST3K Short 0912 – Robot Rumpus](https://www.amon-hen.com/television/5816)
 - [Deluge (1933)](https://www.amon-hen.com/movies/32467)
-- [Ain’t No Damsel](https://www.amon-hen.com/music/32458)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Sometimes the appropriate response to reality is to go insane.</em><br /> -- Philip K. Dick</p>
+<p><em>I gained nothing at all from Supreme Enlightenment, and for that very reason it is called Supreme Enlightenment.</em><br /> -- Gotama Buddha</p>
