@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 1012 – A Case Of Spring Fever](https://www.amon-hen.com/television/6358)
+- [Last Week Tonight – S1 E5: Net Neutrality, Spelling Bees & EU Elections](https://www.amon-hen.com/politics/32484)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 1012 – A Case Of Spring Fever](https://www.amon-hen.com/television/6358)
 - [Just Imagine (1930)](https://www.amon-hen.com/movies/32481)
 - [Dinosaur](https://www.amon-hen.com/music/32479)
 - [Indian Elections](https://www.amon-hen.com/politics/32477)
@@ -10,7 +11,6 @@
 - [MST3K 0905 – The Deadly Bees](https://www.amon-hen.com/television/6897)
 - [Last Week Tonight – S1 E4: GM, Protests in Turkey & Gay Nintendo](https://www.amon-hen.com/politics/32469)
 - [MST3K Short 0912 – Robot Rumpus](https://www.amon-hen.com/television/5816)
-- [Deluge (1933)](https://www.amon-hen.com/movies/32467)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I gained nothing at all from Supreme Enlightenment, and for that very reason it is called Supreme Enlightenment.</em><br /> -- Gotama Buddha</p>
+<p><em>When it comes to humility, I'm the greatest.</em><br /> -- Bullwinkle Moose</p>
