@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Last Week Tonight – S1 E5: Net Neutrality, Spelling Bees & EU Elections](https://www.amon-hen.com/politics/32484)
+- [MST3K 0906 – The Space Children](https://www.amon-hen.com/television/15500)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Last Week Tonight – S1 E5: Net Neutrality, Spelling Bees & EU Elections](https://www.amon-hen.com/politics/32484)
 - [MST3K Short 1012 – A Case Of Spring Fever](https://www.amon-hen.com/television/6358)
 - [Just Imagine (1930)](https://www.amon-hen.com/movies/32481)
 - [Dinosaur](https://www.amon-hen.com/music/32479)
@@ -10,7 +11,6 @@
 - [Mmmm, Spicy Garlic Photoes](https://www.amon-hen.com/food/32473)
 - [MST3K 0905 – The Deadly Bees](https://www.amon-hen.com/television/6897)
 - [Last Week Tonight – S1 E4: GM, Protests in Turkey & Gay Nintendo](https://www.amon-hen.com/politics/32469)
-- [MST3K Short 0912 – Robot Rumpus](https://www.amon-hen.com/television/5816)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When it comes to humility, I'm the greatest.</em><br /> -- Bullwinkle Moose</p>
+<p><em>The music business is a cruel and shallow money trench, a long plastic hallway where thieves and pimps run free, and good men die like dogs.  There's also a negative side.</em><br /> -- Hunter S. Thompson</p>
