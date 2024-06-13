@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0906 – The Space Children](https://www.amon-hen.com/television/15500)
+- [Mmmm, Stir-Fried Macaroni with Drunkenness](https://www.amon-hen.com/food/32497)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0906 – The Space Children](https://www.amon-hen.com/television/15500)
 - [Last Week Tonight – S1 E5: Net Neutrality, Spelling Bees & EU Elections](https://www.amon-hen.com/politics/32484)
 - [MST3K Short 1012 – A Case Of Spring Fever](https://www.amon-hen.com/television/6358)
 - [Just Imagine (1930)](https://www.amon-hen.com/movies/32481)
@@ -10,7 +11,6 @@
 - [Indian Elections](https://www.amon-hen.com/politics/32477)
 - [Mmmm, Spicy Garlic Photoes](https://www.amon-hen.com/food/32473)
 - [MST3K 0905 – The Deadly Bees](https://www.amon-hen.com/television/6897)
-- [Last Week Tonight – S1 E4: GM, Protests in Turkey & Gay Nintendo](https://www.amon-hen.com/politics/32469)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The music business is a cruel and shallow money trench, a long plastic hallway where thieves and pimps run free, and good men die like dogs.  There's also a negative side.</em><br /> -- Hunter S. Thompson</p>
+<p><em>When you're riding in a time machine way far into the future, don't stick your elbow out the window, or it'll turn into a fossil.</em><br /> -- Jack Handey</p>
