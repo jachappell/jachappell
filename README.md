@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Stir-Fried Macaroni with Drunkenness](https://www.amon-hen.com/food/32497)
+- [Deep-Sea Mining](https://www.amon-hen.com/science/32505)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Stir-Fried Macaroni with Drunkenness](https://www.amon-hen.com/food/32497)
 - [MST3K 0906 – The Space Children](https://www.amon-hen.com/television/15500)
 - [Last Week Tonight – S1 E5: Net Neutrality, Spelling Bees & EU Elections](https://www.amon-hen.com/politics/32484)
 - [MST3K Short 1012 – A Case Of Spring Fever](https://www.amon-hen.com/television/6358)
@@ -10,7 +11,6 @@
 - [Dinosaur](https://www.amon-hen.com/music/32479)
 - [Indian Elections](https://www.amon-hen.com/politics/32477)
 - [Mmmm, Spicy Garlic Photoes](https://www.amon-hen.com/food/32473)
-- [MST3K 0905 – The Deadly Bees](https://www.amon-hen.com/television/6897)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When you're riding in a time machine way far into the future, don't stick your elbow out the window, or it'll turn into a fossil.</em><br /> -- Jack Handey</p>
+<p><em>I've begun worshipping the sun for a number of reasons.  First of all, unlike some other gods I could mention, I can see the sun.  It's there for me every day.  And the things it brings me are quite apparent all the time:  heat, light, food, a lovely day.  There's no mystery, no one asks for money, I don't have to dress up, and there's no boring pageantry.  And interestingly enough, I have found that the prayers I offer to the sun and the prayers I formerly offered to "God" are all answered at about the same 50-percent rate.</em><br /> -- George Carlin (<em>Brain Droppings</em>)</p>
