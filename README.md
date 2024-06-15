@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Deep-Sea Mining](https://www.amon-hen.com/science/32505)
+- [Shine On](https://www.amon-hen.com/music/32507)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Deep-Sea Mining](https://www.amon-hen.com/science/32505)
 - [Mmmm, Stir-Fried Macaroni with Drunkenness](https://www.amon-hen.com/food/32497)
 - [MST3K 0906 – The Space Children](https://www.amon-hen.com/television/15500)
 - [Last Week Tonight – S1 E5: Net Neutrality, Spelling Bees & EU Elections](https://www.amon-hen.com/politics/32484)
@@ -10,7 +11,6 @@
 - [Just Imagine (1930)](https://www.amon-hen.com/movies/32481)
 - [Dinosaur](https://www.amon-hen.com/music/32479)
 - [Indian Elections](https://www.amon-hen.com/politics/32477)
-- [Mmmm, Spicy Garlic Photoes](https://www.amon-hen.com/food/32473)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -27,6 +27,7 @@
 
 
 ## [Storage B](https://www.storage-b.com)
+- [SCRUM: An Honest Ad](https://www.storage-b.com/uncategorized/1003)
 - [Agile vs. Waterfall](https://www.storage-b.com/humor/996)
 - [Delivering Safe C++](https://www.storage-b.com/c/969)
 - [Full Interview With the Creator of C++](https://www.storage-b.com/c/962)
@@ -36,7 +37,6 @@
 - [Enjoy Your AI-generated Work](https://www.storage-b.com/ai/901)
 - [Blue Tick Marks](https://www.storage-b.com/humor/896)
 - [Toxic Development Culture](https://www.storage-b.com/www/887)
-- [Hewlett Packard Then and Now](https://www.storage-b.com/humor/881)
 
 
 ## [Maritime Simulation News](https://www.mar-sim.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I've begun worshipping the sun for a number of reasons.  First of all, unlike some other gods I could mention, I can see the sun.  It's there for me every day.  And the things it brings me are quite apparent all the time:  heat, light, food, a lovely day.  There's no mystery, no one asks for money, I don't have to dress up, and there's no boring pageantry.  And interestingly enough, I have found that the prayers I offer to the sun and the prayers I formerly offered to "God" are all answered at about the same 50-percent rate.</em><br /> -- George Carlin (<em>Brain Droppings</em>)</p>
+<p><em>An education was a bit like a communicable sexual disease. It made you unsuitable for a lot of jobs and then you had the urge to pass it on.</em><br /> -- Terry Pratchett (<em>Hogfather</em>)</p>
