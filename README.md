@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Shine On](https://www.amon-hen.com/music/32507)
+- [1984 (1956)](https://www.amon-hen.com/movies/32510)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Shine On](https://www.amon-hen.com/music/32507)
 - [Deep-Sea Mining](https://www.amon-hen.com/science/32505)
 - [Mmmm, Stir-Fried Macaroni with Drunkenness](https://www.amon-hen.com/food/32497)
 - [MST3K 0906 – The Space Children](https://www.amon-hen.com/television/15500)
@@ -10,7 +11,6 @@
 - [MST3K Short 1012 – A Case Of Spring Fever](https://www.amon-hen.com/television/6358)
 - [Just Imagine (1930)](https://www.amon-hen.com/movies/32481)
 - [Dinosaur](https://www.amon-hen.com/music/32479)
-- [Indian Elections](https://www.amon-hen.com/politics/32477)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>An education was a bit like a communicable sexual disease. It made you unsuitable for a lot of jobs and then you had the urge to pass it on.</em><br /> -- Terry Pratchett (<em>Hogfather</em>)</p>
+<p><em>In certain kinds of writing, particularly in art criticism and literary criticism, it is normal to come across long passages which are almost completely lacking in meaning.</em><br /> -- George Orwell</p>
