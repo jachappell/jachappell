@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [1984 (1956)](https://www.amon-hen.com/movies/32510)
+- [Bloomsday](https://www.amon-hen.com/books/9720)
+- [MST3K Short – Assignment: Venezuela](https://www.amon-hen.com/humor/2988)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [1984 (1956)](https://www.amon-hen.com/movies/32510)
 - [Shine On](https://www.amon-hen.com/music/32507)
 - [Deep-Sea Mining](https://www.amon-hen.com/science/32505)
 - [Mmmm, Stir-Fried Macaroni with Drunkenness](https://www.amon-hen.com/food/32497)
 - [MST3K 0906 – The Space Children](https://www.amon-hen.com/television/15500)
 - [Last Week Tonight – S1 E5: Net Neutrality, Spelling Bees & EU Elections](https://www.amon-hen.com/politics/32484)
 - [MST3K Short 1012 – A Case Of Spring Fever](https://www.amon-hen.com/television/6358)
-- [Just Imagine (1930)](https://www.amon-hen.com/movies/32481)
-- [Dinosaur](https://www.amon-hen.com/music/32479)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>In certain kinds of writing, particularly in art criticism and literary criticism, it is normal to come across long passages which are almost completely lacking in meaning.</em><br /> -- George Orwell</p>
+<p><em>We got somewhere in the neighborhood of 50 states. We could lose a few. I mean, do we really need two Dakotas? And NEW Hampshire? I'm sure the old one's fine.</em><br /> -- Stephen Colbert</p>
