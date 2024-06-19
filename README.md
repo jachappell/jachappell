@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Last Week Tonight – S1 E6: FIFA, Syria & Tiananmen Square](https://www.amon-hen.com/politics/32514)
+- [MST3K 0907 – Hobgoblins](https://www.amon-hen.com/television/15556)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Last Week Tonight – S1 E6: FIFA, Syria & Tiananmen Square](https://www.amon-hen.com/politics/32514)
 - [Bloomsday](https://www.amon-hen.com/books/9720)
 - [MST3K Short – Assignment: Venezuela](https://www.amon-hen.com/humor/2988)
 - [1984 (1956)](https://www.amon-hen.com/movies/32510)
@@ -10,7 +11,6 @@
 - [Deep-Sea Mining](https://www.amon-hen.com/science/32505)
 - [Mmmm, Stir-Fried Macaroni with Drunkenness](https://www.amon-hen.com/food/32497)
 - [MST3K 0906 – The Space Children](https://www.amon-hen.com/television/15500)
-- [Last Week Tonight – S1 E5: Net Neutrality, Spelling Bees & EU Elections](https://www.amon-hen.com/politics/32484)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If only more Christians read their bibles there'd be less Christians.</em><br /> -- Derek W. Clayton</p>
+<p><em>Forget your stupid theme park!  I'm gonna make my own!  With hookers!  And blackjack!  In fact, forget the theme park!</em><br /> -- Bender Unit 22</p>
