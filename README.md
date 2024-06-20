@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0907 – Hobgoblins](https://www.amon-hen.com/television/15556)
+- [Mmmm, Chinken Negget](https://www.amon-hen.com/food/32516)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0907 – Hobgoblins](https://www.amon-hen.com/television/15556)
 - [Last Week Tonight – S1 E6: FIFA, Syria & Tiananmen Square](https://www.amon-hen.com/politics/32514)
 - [Bloomsday](https://www.amon-hen.com/books/9720)
 - [MST3K Short – Assignment: Venezuela](https://www.amon-hen.com/humor/2988)
@@ -10,7 +11,6 @@
 - [Shine On](https://www.amon-hen.com/music/32507)
 - [Deep-Sea Mining](https://www.amon-hen.com/science/32505)
 - [Mmmm, Stir-Fried Macaroni with Drunkenness](https://www.amon-hen.com/food/32497)
-- [MST3K 0906 – The Space Children](https://www.amon-hen.com/television/15500)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Forget your stupid theme park!  I'm gonna make my own!  With hookers!  And blackjack!  In fact, forget the theme park!</em><br /> -- Bender Unit 22</p>
+<p><em>In these matters the only certainty is that there is nothing certain.</em><br /> -- Pliny the Elder</p>
