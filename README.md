@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Chinken Negget](https://www.amon-hen.com/food/32516)
+- [Trump’s Second Term](https://www.amon-hen.com/politics/32526)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Chinken Negget](https://www.amon-hen.com/food/32516)
 - [MST3K 0907 – Hobgoblins](https://www.amon-hen.com/television/15556)
 - [Last Week Tonight – S1 E6: FIFA, Syria & Tiananmen Square](https://www.amon-hen.com/politics/32514)
 - [Bloomsday](https://www.amon-hen.com/books/9720)
@@ -10,7 +11,6 @@
 - [1984 (1956)](https://www.amon-hen.com/movies/32510)
 - [Shine On](https://www.amon-hen.com/music/32507)
 - [Deep-Sea Mining](https://www.amon-hen.com/science/32505)
-- [Mmmm, Stir-Fried Macaroni with Drunkenness](https://www.amon-hen.com/food/32497)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>In these matters the only certainty is that there is nothing certain.</em><br /> -- Pliny the Elder</p>
+<p><em>Be careful of reading health books, you might die of a misprint.</em><br /> -- Mark Twain</p>
