@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Trump’s Second Term](https://www.amon-hen.com/politics/32526)
+- [Cloudbusting](https://www.amon-hen.com/music/6153)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Trump’s Second Term](https://www.amon-hen.com/politics/32526)
 - [Mmmm, Chinken Negget](https://www.amon-hen.com/food/32516)
 - [MST3K 0907 – Hobgoblins](https://www.amon-hen.com/television/15556)
 - [Last Week Tonight – S1 E6: FIFA, Syria & Tiananmen Square](https://www.amon-hen.com/politics/32514)
@@ -10,7 +11,6 @@
 - [MST3K Short – Assignment: Venezuela](https://www.amon-hen.com/humor/2988)
 - [1984 (1956)](https://www.amon-hen.com/movies/32510)
 - [Shine On](https://www.amon-hen.com/music/32507)
-- [Deep-Sea Mining](https://www.amon-hen.com/science/32505)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Be careful of reading health books, you might die of a misprint.</em><br /> -- Mark Twain</p>
+<p><em>Sometimes I think the surest sign that intelligent life exists elsewhere in the universe is that none of it has tried to contact us.</em><br /> -- Bill Watterson (<em>Calvin and Hobbes</em>)</p>
