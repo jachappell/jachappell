@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Cloudbusting](https://www.amon-hen.com/music/6153)
+- [Reading: Ring](https://www.amon-hen.com/books/297)
+- [The Corpse Vanishes (1942)](https://www.amon-hen.com/movies/32530)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Cloudbusting](https://www.amon-hen.com/music/6153)
 - [Trump’s Second Term](https://www.amon-hen.com/politics/32526)
 - [Mmmm, Chinken Negget](https://www.amon-hen.com/food/32516)
 - [MST3K 0907 – Hobgoblins](https://www.amon-hen.com/television/15556)
 - [Last Week Tonight – S1 E6: FIFA, Syria & Tiananmen Square](https://www.amon-hen.com/politics/32514)
 - [Bloomsday](https://www.amon-hen.com/books/9720)
 - [MST3K Short – Assignment: Venezuela](https://www.amon-hen.com/humor/2988)
-- [1984 (1956)](https://www.amon-hen.com/movies/32510)
-- [Shine On](https://www.amon-hen.com/music/32507)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – July 2024](https://www.drum-corps.net/news/3021)
 - [Drum Corps World – June 2024](https://www.drum-corps.net/news/3015)
 - [Drum Corps World – May 2024](https://www.drum-corps.net/news/3010)
 - [Drum Corps World – April 2024](https://www.drum-corps.net/news/3007)
@@ -23,7 +24,6 @@
 - [Drum Corps World – February 2024](https://www.drum-corps.net/news/2980)
 - [Drum Corps World – January 2024](https://www.drum-corps.net/news/2972)
 - [Drum Corps World – December 2023](https://www.drum-corps.net/news/2968)
-- [2024 Drum Corps International Tour Schedule](https://www.drum-corps.net/news/2951)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Sometimes I think the surest sign that intelligent life exists elsewhere in the universe is that none of it has tried to contact us.</em><br /> -- Bill Watterson (<em>Calvin and Hobbes</em>)</p>
+<p><em>Fear can sometimes be a useful emotion. For instance, let's say you're an astronaut on the moon and you fear that your partner has been turned into Dracula.  The next time he goes out for the moon pieces, wham!, you just slam the door behind him and blast off.  He might call you on the radio and say he's not Dracula, but you just say, "Think again, bat man."</em><br /> -- Jack Handey</p>
