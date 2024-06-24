@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K Short 0102 – Radar Men from the Moon 1](https://www.amon-hen.com/television/8892)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: Ring](https://www.amon-hen.com/books/297)
 - [The Corpse Vanishes (1942)](https://www.amon-hen.com/movies/32530)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Cloudbusting](https://www.amon-hen.com/music/6153)
 - [Trump’s Second Term](https://www.amon-hen.com/politics/32526)
 - [Mmmm, Chinken Negget](https://www.amon-hen.com/food/32516)
 - [MST3K 0907 – Hobgoblins](https://www.amon-hen.com/television/15556)
 - [Last Week Tonight – S1 E6: FIFA, Syria & Tiananmen Square](https://www.amon-hen.com/politics/32514)
 - [Bloomsday](https://www.amon-hen.com/books/9720)
-- [MST3K Short – Assignment: Venezuela](https://www.amon-hen.com/humor/2988)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Fear can sometimes be a useful emotion. For instance, let's say you're an astronaut on the moon and you fear that your partner has been turned into Dracula.  The next time he goes out for the moon pieces, wham!, you just slam the door behind him and blast off.  He might call you on the radio and say he's not Dracula, but you just say, "Think again, bat man."</em><br /> -- Jack Handey</p>
+<p><em>A moral choice in its basic terms appears to be a choice that favors survival: a choice made in favor of life.</em><br /> -- Ursula K. Le Guin</p>
