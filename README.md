@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0102 – Radar Men from the Moon 1](https://www.amon-hen.com/television/8892)
+- [Last Week Tonight – S1 E7: Immigration, Stephen Hawking & Football](https://www.amon-hen.com/politics/32535)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0102 – Radar Men from the Moon 1](https://www.amon-hen.com/television/8892)
 - [Reading: Ring](https://www.amon-hen.com/books/297)
 - [The Corpse Vanishes (1942)](https://www.amon-hen.com/movies/32530)
 - [Cloudbusting](https://www.amon-hen.com/music/6153)
@@ -10,7 +11,6 @@
 - [Mmmm, Chinken Negget](https://www.amon-hen.com/food/32516)
 - [MST3K 0907 – Hobgoblins](https://www.amon-hen.com/television/15556)
 - [Last Week Tonight – S1 E6: FIFA, Syria & Tiananmen Square](https://www.amon-hen.com/politics/32514)
-- [Bloomsday](https://www.amon-hen.com/books/9720)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>A moral choice in its basic terms appears to be a choice that favors survival: a choice made in favor of life.</em><br /> -- Ursula K. Le Guin</p>
+<p><em>If you define cowardice as running away at the first sign of danger, screaming and tripping and begging for mercy, then yes, Mr. Brave man, I guess I'm a coward.</em><br /> -- Jack Handey</p>
