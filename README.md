@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Last Week Tonight – S1 E7: Immigration, Stephen Hawking & Football](https://www.amon-hen.com/politics/32535)
+- [MST3K 0908 – The Touch of Satan](https://www.amon-hen.com/television/15583)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Last Week Tonight – S1 E7: Immigration, Stephen Hawking & Football](https://www.amon-hen.com/politics/32535)
 - [MST3K Short 0102 – Radar Men from the Moon 1](https://www.amon-hen.com/television/8892)
 - [Reading: Ring](https://www.amon-hen.com/books/297)
 - [The Corpse Vanishes (1942)](https://www.amon-hen.com/movies/32530)
@@ -10,7 +11,6 @@
 - [Trump’s Second Term](https://www.amon-hen.com/politics/32526)
 - [Mmmm, Chinken Negget](https://www.amon-hen.com/food/32516)
 - [MST3K 0907 – Hobgoblins](https://www.amon-hen.com/television/15556)
-- [Last Week Tonight – S1 E6: FIFA, Syria & Tiananmen Square](https://www.amon-hen.com/politics/32514)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If you define cowardice as running away at the first sign of danger, screaming and tripping and begging for mercy, then yes, Mr. Brave man, I guess I'm a coward.</em><br /> -- Jack Handey</p>
+<p><em>I don't know what you could say about a day in which you have seen four beautiful sunsets.</em><br /> -- John Glenn</p>
