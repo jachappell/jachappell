@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0908 – The Touch of Satan](https://www.amon-hen.com/television/15583)
+- [Mmmm, Problematic Spices](https://www.amon-hen.com/food/32538)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0908 – The Touch of Satan](https://www.amon-hen.com/television/15583)
 - [Last Week Tonight – S1 E7: Immigration, Stephen Hawking & Football](https://www.amon-hen.com/politics/32535)
 - [MST3K Short 0102 – Radar Men from the Moon 1](https://www.amon-hen.com/television/8892)
 - [Reading: Ring](https://www.amon-hen.com/books/297)
@@ -10,10 +11,10 @@
 - [Cloudbusting](https://www.amon-hen.com/music/6153)
 - [Trump’s Second Term](https://www.amon-hen.com/politics/32526)
 - [Mmmm, Chinken Negget](https://www.amon-hen.com/food/32516)
-- [MST3K 0907 – Hobgoblins](https://www.amon-hen.com/television/15556)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Midwest Premiere (2024)](https://www.drum-corps.net/scores/dci/3027)
 - [Drum Corps World – July 2024](https://www.drum-corps.net/news/3021)
 - [Drum Corps World – June 2024](https://www.drum-corps.net/news/3015)
 - [Drum Corps World – May 2024](https://www.drum-corps.net/news/3010)
@@ -23,7 +24,6 @@
 - [Anna Meredith Discusses Bluecoats on BBC Radio 3](https://www.drum-corps.net/news/2983)
 - [Drum Corps World – February 2024](https://www.drum-corps.net/news/2980)
 - [Drum Corps World – January 2024](https://www.drum-corps.net/news/2972)
-- [Drum Corps World – December 2023](https://www.drum-corps.net/news/2968)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I don't know what you could say about a day in which you have seen four beautiful sunsets.</em><br /> -- John Glenn</p>
+<p><em>If thought corrupts language, language can also corrupt thought.</em><br /> -- George Orwell</p>
