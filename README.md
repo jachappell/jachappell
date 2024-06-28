@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Problematic Spices](https://www.amon-hen.com/food/32538)
+- [UK Elections](https://www.amon-hen.com/politics/32543)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Problematic Spices](https://www.amon-hen.com/food/32538)
 - [MST3K 0908 – The Touch of Satan](https://www.amon-hen.com/television/15583)
 - [Last Week Tonight – S1 E7: Immigration, Stephen Hawking & Football](https://www.amon-hen.com/politics/32535)
 - [MST3K Short 0102 – Radar Men from the Moon 1](https://www.amon-hen.com/television/8892)
@@ -10,7 +11,6 @@
 - [The Corpse Vanishes (1942)](https://www.amon-hen.com/movies/32530)
 - [Cloudbusting](https://www.amon-hen.com/music/6153)
 - [Trump’s Second Term](https://www.amon-hen.com/politics/32526)
-- [Mmmm, Chinken Negget](https://www.amon-hen.com/food/32516)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If thought corrupts language, language can also corrupt thought.</em><br /> -- George Orwell</p>
+<p><em>Step aside, everyone!  Sensitive love letters are my specialty.  Dear Baby, Welcome to Dumpsville.  Population: you.</em><br /> -- Homer J. Simpson</p>
