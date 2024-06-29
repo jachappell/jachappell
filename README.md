@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [UK Elections](https://www.amon-hen.com/politics/32543)
+- [Song](https://www.amon-hen.com/music/32552)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [UK Elections](https://www.amon-hen.com/politics/32543)
 - [Mmmm, Problematic Spices](https://www.amon-hen.com/food/32538)
 - [MST3K 0908 – The Touch of Satan](https://www.amon-hen.com/television/15583)
 - [Last Week Tonight – S1 E7: Immigration, Stephen Hawking & Football](https://www.amon-hen.com/politics/32535)
@@ -10,10 +11,10 @@
 - [Reading: Ring](https://www.amon-hen.com/books/297)
 - [The Corpse Vanishes (1942)](https://www.amon-hen.com/movies/32530)
 - [Cloudbusting](https://www.amon-hen.com/music/6153)
-- [Trump’s Second Term](https://www.amon-hen.com/politics/32526)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Central Indiana (2024)](https://www.drum-corps.net/scores/dci/3032)
 - [Midwest Premiere (2024)](https://www.drum-corps.net/scores/dci/3027)
 - [Drum Corps World – July 2024](https://www.drum-corps.net/news/3021)
 - [Drum Corps World – June 2024](https://www.drum-corps.net/news/3015)
@@ -23,7 +24,6 @@
 - [Drum Corps World – March 2024](https://www.drum-corps.net/news/3000)
 - [Anna Meredith Discusses Bluecoats on BBC Radio 3](https://www.drum-corps.net/news/2983)
 - [Drum Corps World – February 2024](https://www.drum-corps.net/news/2980)
-- [Drum Corps World – January 2024](https://www.drum-corps.net/news/2972)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Step aside, everyone!  Sensitive love letters are my specialty.  Dear Baby, Welcome to Dumpsville.  Population: you.</em><br /> -- Homer J. Simpson</p>
+<p><em>Visits?  That would indicate visitors!</em><br /> -- Air Force Captain (<em>Plan 9 from Outer Space</em>)</p>
