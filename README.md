@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Song](https://www.amon-hen.com/music/32552)
+- [The Crawling Hand (1963)](https://www.amon-hen.com/movies/32554)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Song](https://www.amon-hen.com/music/32552)
 - [UK Elections](https://www.amon-hen.com/politics/32543)
 - [Mmmm, Problematic Spices](https://www.amon-hen.com/food/32538)
 - [MST3K 0908 – The Touch of Satan](https://www.amon-hen.com/television/15583)
@@ -10,10 +11,12 @@
 - [MST3K Short 0102 – Radar Men from the Moon 1](https://www.amon-hen.com/television/8892)
 - [Reading: Ring](https://www.amon-hen.com/books/297)
 - [The Corpse Vanishes (1942)](https://www.amon-hen.com/movies/32530)
-- [Cloudbusting](https://www.amon-hen.com/music/6153)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drums on Parade (2024)](https://www.drum-corps.net/scores/dci/3041)
+- [Barnum Festival: Champions on Parade (2024)](https://www.drum-corps.net/scores/dci/3038)
+- [Corps at the Crest – Student Edition (2024)](https://www.drum-corps.net/scores/dci/3035)
 - [DCI Central Indiana (2024)](https://www.drum-corps.net/scores/dci/3032)
 - [Midwest Premiere (2024)](https://www.drum-corps.net/scores/dci/3027)
 - [Drum Corps World – July 2024](https://www.drum-corps.net/news/3021)
@@ -21,9 +24,6 @@
 - [Drum Corps World – May 2024](https://www.drum-corps.net/news/3010)
 - [Drum Corps World – April 2024](https://www.drum-corps.net/news/3007)
 - [Cadets Arts & Entertainment has filed for bankruptcy](https://www.drum-corps.net/news/3003)
-- [Drum Corps World – March 2024](https://www.drum-corps.net/news/3000)
-- [Anna Meredith Discusses Bluecoats on BBC Radio 3](https://www.drum-corps.net/news/2983)
-- [Drum Corps World – February 2024](https://www.drum-corps.net/news/2980)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Visits?  That would indicate visitors!</em><br /> -- Air Force Captain (<em>Plan 9 from Outer Space</em>)</p>
+<p><em>Fry, of all the friends I've had ... you're the first.</em><br /> -- Bender Unit 22</p>
