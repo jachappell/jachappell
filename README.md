@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Crawling Hand (1963)](https://www.amon-hen.com/movies/32554)
+- [MST3K Short 0103 – Radar Men from the Moon 2](https://www.amon-hen.com/television/8940)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Crawling Hand (1963)](https://www.amon-hen.com/movies/32554)
 - [Song](https://www.amon-hen.com/music/32552)
 - [UK Elections](https://www.amon-hen.com/politics/32543)
 - [Mmmm, Problematic Spices](https://www.amon-hen.com/food/32538)
@@ -10,10 +11,11 @@
 - [Last Week Tonight – S1 E7: Immigration, Stephen Hawking & Football](https://www.amon-hen.com/politics/32535)
 - [MST3K Short 0102 – Radar Men from the Moon 1](https://www.amon-hen.com/television/8892)
 - [Reading: Ring](https://www.amon-hen.com/books/297)
-- [The Corpse Vanishes (1942)](https://www.amon-hen.com/movies/32530)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Cavalcade of Brass (2024)](https://www.drum-corps.net/scores/dci/3052)
+- [Corps at the Crest (2024)](https://www.drum-corps.net/scores/dci/3046)
 - [Drums on Parade (2024)](https://www.drum-corps.net/scores/dci/3041)
 - [Barnum Festival: Champions on Parade (2024)](https://www.drum-corps.net/scores/dci/3038)
 - [Corps at the Crest – Student Edition (2024)](https://www.drum-corps.net/scores/dci/3035)
@@ -22,8 +24,6 @@
 - [Drum Corps World – July 2024](https://www.drum-corps.net/news/3021)
 - [Drum Corps World – June 2024](https://www.drum-corps.net/news/3015)
 - [Drum Corps World – May 2024](https://www.drum-corps.net/news/3010)
-- [Drum Corps World – April 2024](https://www.drum-corps.net/news/3007)
-- [Cadets Arts & Entertainment has filed for bankruptcy](https://www.drum-corps.net/news/3003)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Fry, of all the friends I've had ... you're the first.</em><br /> -- Bender Unit 22</p>
+<p><em>It could not be happening because this sort of thing did not happen. Any contradictory evidence could be safely ignored.</em><br /> -- Terry Pratchett (<em>Jingo</em>)</p>
