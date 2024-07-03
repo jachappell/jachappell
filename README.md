@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Last Week Tonight – S1 E8: Dr. Oz, Iraq, Thailand & Antarctica](https://www.amon-hen.com/politics/32557)
+- [MST3K 0911 – Devil Fish](https://www.amon-hen.com/television/15650)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Last Week Tonight – S1 E8: Dr. Oz, Iraq, Thailand & Antarctica](https://www.amon-hen.com/politics/32557)
 - [MST3K Short 0103 – Radar Men from the Moon 2](https://www.amon-hen.com/television/8940)
 - [The Crawling Hand (1963)](https://www.amon-hen.com/movies/32554)
 - [Song](https://www.amon-hen.com/music/32552)
@@ -10,10 +11,10 @@
 - [Mmmm, Problematic Spices](https://www.amon-hen.com/food/32538)
 - [MST3K 0908 – The Touch of Satan](https://www.amon-hen.com/television/15583)
 - [Last Week Tonight – S1 E7: Immigration, Stephen Hawking & Football](https://www.amon-hen.com/politics/32535)
-- [MST3K Short 0102 – Radar Men from the Moon 1](https://www.amon-hen.com/television/8892)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Summer Music Games in Cincinnati (2024)](https://www.drum-corps.net/scores/dci/3067)
 - [Western Corps Connection (2024)](https://www.drum-corps.net/scores/dci/3056)
 - [Cavalcade of Brass (2024)](https://www.drum-corps.net/scores/dci/3052)
 - [Corps at the Crest (2024)](https://www.drum-corps.net/scores/dci/3046)
@@ -23,7 +24,6 @@
 - [DCI Central Indiana (2024)](https://www.drum-corps.net/scores/dci/3032)
 - [Midwest Premiere (2024)](https://www.drum-corps.net/scores/dci/3027)
 - [Drum Corps World – July 2024](https://www.drum-corps.net/news/3021)
-- [Drum Corps World – June 2024](https://www.drum-corps.net/news/3015)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If only he had joined a mainstream religion, like Oprahism or Voodoo.</em><br /> -- Professor Hubert Farnsworth</p>
+<p><em>I was in the basement, playing my favorite game, 'Murder In The Dark.'</em><br /> -- Vyvyan Basterd </p>
