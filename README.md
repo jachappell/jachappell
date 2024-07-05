@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Canned Herzog](https://www.amon-hen.com/humor/32560)
+- [UK Election Coverage](https://www.amon-hen.com/politics/3419)
+- [RiffTrax – Suburban Sasquatch](https://www.amon-hen.com/humor/32565)
+- [4th of July](https://www.amon-hen.com/miscellaneous/26402)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Canned Herzog](https://www.amon-hen.com/humor/32560)
 - [MST3K 0911 – Devil Fish](https://www.amon-hen.com/television/15650)
 - [Last Week Tonight – S1 E8: Dr. Oz, Iraq, Thailand & Antarctica](https://www.amon-hen.com/politics/32557)
 - [MST3K Short 0103 – Radar Men from the Moon 2](https://www.amon-hen.com/television/8940)
 - [The Crawling Hand (1963)](https://www.amon-hen.com/movies/32554)
 - [Song](https://www.amon-hen.com/music/32552)
-- [UK Elections](https://www.amon-hen.com/politics/32543)
-- [Mmmm, Problematic Spices](https://www.amon-hen.com/food/32538)
-- [MST3K 0908 – The Touch of Satan](https://www.amon-hen.com/television/15583)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Strange women lying in ponds distributing swords is no basis for a system of government!  Supreme executive power is derived by a mandate from the masses, not from some farcical aquatic ceremony!</em><br /> -- Monty Python</p>
+<p><em>A thing is not necessarily true because a man dies for it.</em><br /> -- Oscar Wilde (<em>The Portrait of Mr. W.H.</em>)</p>
