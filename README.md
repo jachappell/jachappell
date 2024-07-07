@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Black Tar Water](https://www.amon-hen.com/music/32569)
+- [Project Moonbase (1953)](https://www.amon-hen.com/movies/32571)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Black Tar Water](https://www.amon-hen.com/music/32569)
 - [UK Election Coverage](https://www.amon-hen.com/politics/3419)
 - [RiffTrax – Suburban Sasquatch](https://www.amon-hen.com/humor/32565)
 - [4th of July](https://www.amon-hen.com/miscellaneous/26402)
@@ -10,10 +11,12 @@
 - [MST3K 0911 – Devil Fish](https://www.amon-hen.com/television/15650)
 - [Last Week Tonight – S1 E8: Dr. Oz, Iraq, Thailand & Antarctica](https://www.amon-hen.com/politics/32557)
 - [MST3K Short 0103 – Radar Men from the Moon 2](https://www.amon-hen.com/television/8940)
-- [The Crawling Hand (1963)](https://www.amon-hen.com/movies/32554)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [The Whitewater Classic (2024)](https://www.drum-corps.net/scores/dci/3089)
+- [MidCal Champions Showcase (2024)](https://www.drum-corps.net/scores/dci/3085)
+- [Northwest Youth Music Games Portland (2024)](https://www.drum-corps.net/scores/dci/3082)
 - [Show of Shows (2024)](https://www.drum-corps.net/scores/dci/3079)
 - [Drum Corps World – July 5, 2024](https://www.drum-corps.net/news/3077)
 - [Rotary Music Festival (2024)](https://www.drum-corps.net/scores/dci/3073)
@@ -21,9 +24,6 @@
 - [Western Corps Connection (2024)](https://www.drum-corps.net/scores/dci/3056)
 - [Cavalcade of Brass (2024)](https://www.drum-corps.net/scores/dci/3052)
 - [Corps at the Crest (2024)](https://www.drum-corps.net/scores/dci/3046)
-- [Drums on Parade (2024)](https://www.drum-corps.net/scores/dci/3041)
-- [Barnum Festival: Champions on Parade (2024)](https://www.drum-corps.net/scores/dci/3038)
-- [Corps at the Crest – Student Edition (2024)](https://www.drum-corps.net/scores/dci/3035)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>What's another word for </em>thesaurus<em>?</em><br /> -- Stephen Wright</p>
+<p><em>In West Virginia I never stop for gas, because I'm afraid I'll be caught and made someone's mountain wife. And then I'll probably grow to like the guy and end up with ten scrawny, filthy kids named Shane who always ask, "Momma, how come you don't talk like us?"</em><br /> -- Kathleen Madigan</p>
