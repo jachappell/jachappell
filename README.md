@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Project Moonbase (1953)](https://www.amon-hen.com/movies/32571)
+- [MST3K Short 0105 – Radar Men from the Moon 3](https://www.amon-hen.com/television/8988)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Project Moonbase (1953)](https://www.amon-hen.com/movies/32571)
 - [Black Tar Water](https://www.amon-hen.com/music/32569)
 - [UK Election Coverage](https://www.amon-hen.com/politics/3419)
 - [RiffTrax – Suburban Sasquatch](https://www.amon-hen.com/humor/32565)
@@ -10,10 +11,11 @@
 - [Mmmm, Canned Herzog](https://www.amon-hen.com/humor/32560)
 - [MST3K 0911 – Devil Fish](https://www.amon-hen.com/television/15650)
 - [Last Week Tonight – S1 E8: Dr. Oz, Iraq, Thailand & Antarctica](https://www.amon-hen.com/politics/32557)
-- [MST3K Short 0103 – Radar Men from the Moon 2](https://www.amon-hen.com/television/8940)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI West (2024)](https://www.drum-corps.net/scores/dci/3097)
+- [Northwest Youth Music Games Seattle (2024)](https://www.drum-corps.net/scores/dci/3092)
 - [The Whitewater Classic (2024)](https://www.drum-corps.net/scores/dci/3089)
 - [MidCal Champions Showcase (2024)](https://www.drum-corps.net/scores/dci/3085)
 - [Northwest Youth Music Games Portland (2024)](https://www.drum-corps.net/scores/dci/3082)
@@ -22,8 +24,6 @@
 - [Rotary Music Festival (2024)](https://www.drum-corps.net/scores/dci/3073)
 - [Summer Music Games in Cincinnati (2024)](https://www.drum-corps.net/scores/dci/3067)
 - [Western Corps Connection (2024)](https://www.drum-corps.net/scores/dci/3056)
-- [Cavalcade of Brass (2024)](https://www.drum-corps.net/scores/dci/3052)
-- [Corps at the Crest (2024)](https://www.drum-corps.net/scores/dci/3046)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>In West Virginia I never stop for gas, because I'm afraid I'll be caught and made someone's mountain wife. And then I'll probably grow to like the guy and end up with ten scrawny, filthy kids named Shane who always ask, "Momma, how come you don't talk like us?"</em><br /> -- Kathleen Madigan</p>
+<p><em>Normally, I don't condone leaving early, but I have an appointment with the horse doctor. How that horse became a doctor, I don't know. No, I'm kidding. He's just a regular doctor who shoots your horse in the head when its leg is broken.</em><br /> -- Dwight Kurt Schrute III</p>
