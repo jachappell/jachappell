@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Last Week Tonight – S1 E9: Hobby Lobby, Uganda & Boko Haram](https://www.amon-hen.com/politics/32580)
+- [MST3K 0912 – The Screaming Skull](https://www.amon-hen.com/television/3844)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Last Week Tonight – S1 E9: Hobby Lobby, Uganda & Boko Haram](https://www.amon-hen.com/politics/32580)
 - [MST3K Short 0105 – Radar Men from the Moon 3](https://www.amon-hen.com/television/8988)
 - [Project Moonbase (1953)](https://www.amon-hen.com/movies/32571)
 - [Black Tar Water](https://www.amon-hen.com/music/32569)
@@ -10,10 +11,12 @@
 - [RiffTrax – Suburban Sasquatch](https://www.amon-hen.com/humor/32565)
 - [4th of July](https://www.amon-hen.com/miscellaneous/26402)
 - [Mmmm, Canned Herzog](https://www.amon-hen.com/humor/32560)
-- [MST3K 0911 – Devil Fish](https://www.amon-hen.com/television/15650)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drums Across America (2024)](https://www.drum-corps.net/scores/dci/3119)
+- [The Kiwanis Thunder of Drums (2024)](https://www.drum-corps.net/scores/dci/3116)
+- [Drums Along the Columbia (2024)](https://www.drum-corps.net/scores/dci/3112)
 - [Drums Across the Smokies (2024)](https://www.drum-corps.net/scores/dci/3109)
 - [DCI Capital Classic (2024)](https://www.drum-corps.net/scores/dci/3105)
 - [River City Rhapsody (2024)](https://www.drum-corps.net/scores/dci/3102)
@@ -21,9 +24,6 @@
 - [Northwest Youth Music Games Seattle (2024)](https://www.drum-corps.net/scores/dci/3092)
 - [The Whitewater Classic (2024)](https://www.drum-corps.net/scores/dci/3089)
 - [MidCal Champions Showcase (2024)](https://www.drum-corps.net/scores/dci/3085)
-- [Northwest Youth Music Games Portland (2024)](https://www.drum-corps.net/scores/dci/3082)
-- [Show of Shows (2024)](https://www.drum-corps.net/scores/dci/3079)
-- [Drum Corps World – July 5, 2024](https://www.drum-corps.net/news/3077)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The bassoon is one of my favorite instruments.  It has the medieval aroma -- like the days when everything used to sound like that.</em><br /> -- Frank Zappa</p>
+<p><em>1/2 oz. gin<br /> 1/2 oz. vodka<br /> 1/2 oz. rum (preferably dark)<br /> 3/4 oz. tequilla<br /> 1/2 oz. triple sec<br /> 1/2 oz. orange juice<br /> 3/4 oz. sour mix<br /> 1/2 oz. cola<br /> shake with ice and strain into frosted glass.</em><br /> -- Long Island Iced Tea</p>
