@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0912 – The Screaming Skull](https://www.amon-hen.com/television/3844)
+- [Mmmm, Sorf Drink](https://www.amon-hen.com/food/32584)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0912 – The Screaming Skull](https://www.amon-hen.com/television/3844)
 - [Last Week Tonight – S1 E9: Hobby Lobby, Uganda & Boko Haram](https://www.amon-hen.com/politics/32580)
 - [MST3K Short 0105 – Radar Men from the Moon 3](https://www.amon-hen.com/television/8988)
 - [Project Moonbase (1953)](https://www.amon-hen.com/movies/32571)
@@ -10,10 +11,10 @@
 - [UK Election Coverage](https://www.amon-hen.com/politics/3419)
 - [RiffTrax – Suburban Sasquatch](https://www.amon-hen.com/humor/32565)
 - [4th of July](https://www.amon-hen.com/miscellaneous/26402)
-- [Mmmm, Canned Herzog](https://www.amon-hen.com/humor/32560)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Northwest Youth Music Games Boise (2024)](https://www.drum-corps.net/scores/dci/3122)
 - [Drums Across America (2024)](https://www.drum-corps.net/scores/dci/3119)
 - [The Kiwanis Thunder of Drums (2024)](https://www.drum-corps.net/scores/dci/3116)
 - [Drums Along the Columbia (2024)](https://www.drum-corps.net/scores/dci/3112)
@@ -23,7 +24,6 @@
 - [DCI West (2024)](https://www.drum-corps.net/scores/dci/3097)
 - [Northwest Youth Music Games Seattle (2024)](https://www.drum-corps.net/scores/dci/3092)
 - [The Whitewater Classic (2024)](https://www.drum-corps.net/scores/dci/3089)
-- [MidCal Champions Showcase (2024)](https://www.drum-corps.net/scores/dci/3085)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>1/2 oz. gin<br /> 1/2 oz. vodka<br /> 1/2 oz. rum (preferably dark)<br /> 3/4 oz. tequilla<br /> 1/2 oz. triple sec<br /> 1/2 oz. orange juice<br /> 3/4 oz. sour mix<br /> 1/2 oz. cola<br /> shake with ice and strain into frosted glass.</em><br /> -- Long Island Iced Tea</p>
+<p><em>Men freely believe that what they wish to desire.</em><br /> -- Julius Caesar</p>
