@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Sorf Drink](https://www.amon-hen.com/food/32584)
+- [From Cleveland](https://www.amon-hen.com/television/32588)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Sorf Drink](https://www.amon-hen.com/food/32584)
 - [MST3K 0912 – The Screaming Skull](https://www.amon-hen.com/television/3844)
 - [Last Week Tonight – S1 E9: Hobby Lobby, Uganda & Boko Haram](https://www.amon-hen.com/politics/32580)
 - [MST3K Short 0105 – Radar Men from the Moon 3](https://www.amon-hen.com/television/8988)
@@ -10,10 +11,12 @@
 - [Black Tar Water](https://www.amon-hen.com/music/32569)
 - [UK Election Coverage](https://www.amon-hen.com/politics/3419)
 - [RiffTrax – Suburban Sasquatch](https://www.amon-hen.com/humor/32565)
-- [4th of July](https://www.amon-hen.com/miscellaneous/26402)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Northern Alabama (2024)](https://www.drum-corps.net/scores/dci/3133)
+- [Music on the March (2024)](https://www.drum-corps.net/scores/dci/3130)
+- [Corps Encore (2024)](https://www.drum-corps.net/scores/dci/3126)
 - [Northwest Youth Music Games Boise (2024)](https://www.drum-corps.net/scores/dci/3122)
 - [Drums Across America (2024)](https://www.drum-corps.net/scores/dci/3119)
 - [The Kiwanis Thunder of Drums (2024)](https://www.drum-corps.net/scores/dci/3116)
@@ -21,9 +24,6 @@
 - [Drums Across the Smokies (2024)](https://www.drum-corps.net/scores/dci/3109)
 - [DCI Capital Classic (2024)](https://www.drum-corps.net/scores/dci/3105)
 - [River City Rhapsody (2024)](https://www.drum-corps.net/scores/dci/3102)
-- [DCI West (2024)](https://www.drum-corps.net/scores/dci/3097)
-- [Northwest Youth Music Games Seattle (2024)](https://www.drum-corps.net/scores/dci/3092)
-- [The Whitewater Classic (2024)](https://www.drum-corps.net/scores/dci/3089)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Men freely believe that what they wish to desire.</em><br /> -- Julius Caesar</p>
+<p><em>Science Fiction writers, I am sorry to say, really do not know anything. We can't talk about science because our knowledge of it is limited and unofficial, and usually our fiction is dreadful.</em><br /> -- Philip K. Dick</p>
