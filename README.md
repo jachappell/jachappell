@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [From Cleveland](https://www.amon-hen.com/television/32588)
+- [People](https://www.amon-hen.com/music/32591)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [From Cleveland](https://www.amon-hen.com/television/32588)
 - [Mmmm, Sorf Drink](https://www.amon-hen.com/food/32584)
 - [MST3K 0912 – The Screaming Skull](https://www.amon-hen.com/television/3844)
 - [Last Week Tonight – S1 E9: Hobby Lobby, Uganda & Boko Haram](https://www.amon-hen.com/politics/32580)
@@ -10,10 +11,11 @@
 - [Project Moonbase (1953)](https://www.amon-hen.com/movies/32571)
 - [Black Tar Water](https://www.amon-hen.com/music/32569)
 - [UK Election Coverage](https://www.amon-hen.com/politics/3419)
-- [RiffTrax – Suburban Sasquatch](https://www.amon-hen.com/humor/32565)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Riverside Open (2024)](https://www.drum-corps.net/scores/dci/3139)
+- [Drums Along the Rockies – Cheyenne Edition (2024)](https://www.drum-corps.net/scores/dci/3136)
 - [DCI Northern Alabama (2024)](https://www.drum-corps.net/scores/dci/3133)
 - [Music on the March (2024)](https://www.drum-corps.net/scores/dci/3130)
 - [Corps Encore (2024)](https://www.drum-corps.net/scores/dci/3126)
@@ -22,8 +24,6 @@
 - [The Kiwanis Thunder of Drums (2024)](https://www.drum-corps.net/scores/dci/3116)
 - [Drums Along the Columbia (2024)](https://www.drum-corps.net/scores/dci/3112)
 - [Drums Across the Smokies (2024)](https://www.drum-corps.net/scores/dci/3109)
-- [DCI Capital Classic (2024)](https://www.drum-corps.net/scores/dci/3105)
-- [River City Rhapsody (2024)](https://www.drum-corps.net/scores/dci/3102)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Science Fiction writers, I am sorry to say, really do not know anything. We can't talk about science because our knowledge of it is limited and unofficial, and usually our fiction is dreadful.</em><br /> -- Philip K. Dick</p>
+<p><em>Many a long dispute among divines may be thus abridged: It is so; It is not so. It is so; it is not so.</em><br /> -- Benjamin Franklin (<em>Poor Richard's Almanack</em>, 1743)</p>
