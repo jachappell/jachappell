@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [People](https://www.amon-hen.com/music/32591)
+- [Moon Zero Two (1969)](https://www.amon-hen.com/movies/32594)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [People](https://www.amon-hen.com/music/32591)
 - [From Cleveland](https://www.amon-hen.com/television/32588)
 - [Mmmm, Sorf Drink](https://www.amon-hen.com/food/32584)
 - [MST3K 0912 – The Screaming Skull](https://www.amon-hen.com/television/3844)
@@ -10,24 +11,23 @@
 - [MST3K Short 0105 – Radar Men from the Moon 3](https://www.amon-hen.com/television/8988)
 - [Project Moonbase (1953)](https://www.amon-hen.com/movies/32571)
 - [Black Tar Water](https://www.amon-hen.com/music/32569)
-- [UK Election Coverage](https://www.amon-hen.com/politics/3419)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Gold Showcase (2024)](https://www.drum-corps.net/scores/dci/3160)
+- [Drums Along the Rockies (2024)](https://www.drum-corps.net/scores/dci/3156)
+- [DCI Little Rock (2024)](https://www.drum-corps.net/scores/dci/3153)
+- [Midwest Classic (2024)](https://www.drum-corps.net/scores/dci/3150)
+- [Drum Corps Grand Prix (2024)](https://www.drum-corps.net/scores/dci/3145)
 - [Riverside Open (2024)](https://www.drum-corps.net/scores/dci/3139)
+- [Drum Corps World – July 12, 2024](https://www.drum-corps.net/news/3143)
 - [Drums Along the Rockies – Cheyenne Edition (2024)](https://www.drum-corps.net/scores/dci/3136)
 - [DCI Northern Alabama (2024)](https://www.drum-corps.net/scores/dci/3133)
 - [Music on the March (2024)](https://www.drum-corps.net/scores/dci/3130)
-- [Corps Encore (2024)](https://www.drum-corps.net/scores/dci/3126)
-- [Northwest Youth Music Games Boise (2024)](https://www.drum-corps.net/scores/dci/3122)
-- [Drums Across America (2024)](https://www.drum-corps.net/scores/dci/3119)
-- [The Kiwanis Thunder of Drums (2024)](https://www.drum-corps.net/scores/dci/3116)
-- [Drums Along the Columbia (2024)](https://www.drum-corps.net/scores/dci/3112)
-- [Drums Across the Smokies (2024)](https://www.drum-corps.net/scores/dci/3109)
 
 
 ## [Storage B](https://www.storage-b.com)
-- [SCRUM: An Honest Ad](https://www.storage-b.com/uncategorized/1003)
+- [SCRUM: An Honest Ad](https://www.storage-b.com/humor/1003)
 - [Agile vs. Waterfall](https://www.storage-b.com/humor/996)
 - [Delivering Safe C++](https://www.storage-b.com/c/969)
 - [Full Interview With the Creator of C++](https://www.storage-b.com/c/962)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Many a long dispute among divines may be thus abridged: It is so; It is not so. It is so; it is not so.</em><br /> -- Benjamin Franklin (<em>Poor Richard's Almanack</em>, 1743)</p>
+<p><em>The sermon was based on what he claimed was a well-known fact, that there were no Atheists in foxholes. I asked Jack what he thought of the sermon afterwards, and he said, "There's a Chaplain who never visited the front."</em><br /> -- Kurt Vonnegut Jr.</p>
