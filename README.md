@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Moon Zero Two (1969)](https://www.amon-hen.com/movies/32594)
+- [MST3K Short 0107 – Radar Men from the Moon 4](https://www.amon-hen.com/television/9038)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Moon Zero Two (1969)](https://www.amon-hen.com/movies/32594)
 - [People](https://www.amon-hen.com/music/32591)
 - [From Cleveland](https://www.amon-hen.com/television/32588)
 - [Mmmm, Sorf Drink](https://www.amon-hen.com/food/32584)
@@ -10,10 +11,11 @@
 - [Last Week Tonight – S1 E9: Hobby Lobby, Uganda & Boko Haram](https://www.amon-hen.com/politics/32580)
 - [MST3K Short 0105 – Radar Men from the Moon 3](https://www.amon-hen.com/television/8988)
 - [Project Moonbase (1953)](https://www.amon-hen.com/movies/32571)
-- [Black Tar Water](https://www.amon-hen.com/music/32569)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [So Cal Classic: Open Class Pacific Championship Finals (2024)](https://www.drum-corps.net/scores/dci/3166)
+- [Celebration in Brass (2024)](https://www.drum-corps.net/scores/dci/3163)
 - [Gold Showcase (2024)](https://www.drum-corps.net/scores/dci/3160)
 - [Drums Along the Rockies (2024)](https://www.drum-corps.net/scores/dci/3156)
 - [DCI Little Rock (2024)](https://www.drum-corps.net/scores/dci/3153)
@@ -22,8 +24,6 @@
 - [Riverside Open (2024)](https://www.drum-corps.net/scores/dci/3139)
 - [Drum Corps World – July 12, 2024](https://www.drum-corps.net/news/3143)
 - [Drums Along the Rockies – Cheyenne Edition (2024)](https://www.drum-corps.net/scores/dci/3136)
-- [DCI Northern Alabama (2024)](https://www.drum-corps.net/scores/dci/3133)
-- [Music on the March (2024)](https://www.drum-corps.net/scores/dci/3130)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The sermon was based on what he claimed was a well-known fact, that there were no Atheists in foxholes. I asked Jack what he thought of the sermon afterwards, and he said, "There's a Chaplain who never visited the front."</em><br /> -- Kurt Vonnegut Jr.</p>
+<p><em>You read the Bible in your own special ways<br />you're fond of quoting certain things it says<br />Mouth full of righteousness and wrath from above<br />When do we hear about forgiveness and love?</em><br /> -- Bruce Cockburn, "Gospel of Bondage"</p>
