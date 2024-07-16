@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0107 – Radar Men from the Moon 4](https://www.amon-hen.com/television/9038)
+- [Last Week Tonight – S1 E10: The Wealth Gap, CIA Twitter & Japan](https://www.amon-hen.com/politics/32602)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0107 – Radar Men from the Moon 4](https://www.amon-hen.com/television/9038)
 - [Moon Zero Two (1969)](https://www.amon-hen.com/movies/32594)
 - [People](https://www.amon-hen.com/music/32591)
 - [From Cleveland](https://www.amon-hen.com/television/32588)
@@ -10,10 +11,11 @@
 - [MST3K 0912 – The Screaming Skull](https://www.amon-hen.com/television/3844)
 - [Last Week Tonight – S1 E9: Hobby Lobby, Uganda & Boko Haram](https://www.amon-hen.com/politics/32580)
 - [MST3K Short 0105 – Radar Men from the Moon 3](https://www.amon-hen.com/television/8988)
-- [Project Moonbase (1953)](https://www.amon-hen.com/movies/32571)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Brass Impact (2024)](https://www.drum-corps.net/scores/dci/3173)
+- [West Texas Drums (2024)](https://www.drum-corps.net/scores/dci/3169)
 - [So Cal Classic: Open Class Pacific Championship Finals (2024)](https://www.drum-corps.net/scores/dci/3166)
 - [Celebration in Brass (2024)](https://www.drum-corps.net/scores/dci/3163)
 - [Gold Showcase (2024)](https://www.drum-corps.net/scores/dci/3160)
@@ -22,8 +24,6 @@
 - [Midwest Classic (2024)](https://www.drum-corps.net/scores/dci/3150)
 - [Drum Corps Grand Prix (2024)](https://www.drum-corps.net/scores/dci/3145)
 - [Riverside Open (2024)](https://www.drum-corps.net/scores/dci/3139)
-- [Drum Corps World – July 12, 2024](https://www.drum-corps.net/news/3143)
-- [Drums Along the Rockies – Cheyenne Edition (2024)](https://www.drum-corps.net/scores/dci/3136)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You read the Bible in your own special ways<br />you're fond of quoting certain things it says<br />Mouth full of righteousness and wrath from above<br />When do we hear about forgiveness and love?</em><br /> -- Bruce Cockburn, "Gospel of Bondage"</p>
+<p><em>What I mean (and everybody else means) by the word QUALITY cannot be broken down into subjects and predicates.  This is not because Quality is so mysterious but because Quality is so simple, immediate, and direct.</em><br /> -- R. Pirsig (<em>Zen and the Art of Motorcycle Maintenance</em>)</p>
