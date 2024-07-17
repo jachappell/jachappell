@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Last Week Tonight – S1 E10: The Wealth Gap, CIA Twitter & Japan](https://www.amon-hen.com/politics/32602)
+- [MST3K 0913 – Quest of the Delta Knights](https://www.amon-hen.com/television/7568)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Last Week Tonight – S1 E10: The Wealth Gap, CIA Twitter & Japan](https://www.amon-hen.com/politics/32602)
 - [MST3K Short 0107 – Radar Men from the Moon 4](https://www.amon-hen.com/television/9038)
 - [Moon Zero Two (1969)](https://www.amon-hen.com/movies/32594)
 - [People](https://www.amon-hen.com/music/32591)
@@ -10,10 +11,11 @@
 - [Mmmm, Sorf Drink](https://www.amon-hen.com/food/32584)
 - [MST3K 0912 – The Screaming Skull](https://www.amon-hen.com/television/3844)
 - [Last Week Tonight – S1 E9: Hobby Lobby, Uganda & Boko Haram](https://www.amon-hen.com/politics/32580)
-- [MST3K Short 0105 – Radar Men from the Moon 3](https://www.amon-hen.com/television/8988)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Abilene (2024)](https://www.drum-corps.net/scores/dci/3179)
+- [DCI Broken Arrow (2024)](https://www.drum-corps.net/scores/dci/3176)
 - [Brass Impact (2024)](https://www.drum-corps.net/scores/dci/3173)
 - [West Texas Drums (2024)](https://www.drum-corps.net/scores/dci/3169)
 - [So Cal Classic: Open Class Pacific Championship Finals (2024)](https://www.drum-corps.net/scores/dci/3166)
@@ -22,8 +24,6 @@
 - [Drums Along the Rockies (2024)](https://www.drum-corps.net/scores/dci/3156)
 - [DCI Little Rock (2024)](https://www.drum-corps.net/scores/dci/3153)
 - [Midwest Classic (2024)](https://www.drum-corps.net/scores/dci/3150)
-- [Drum Corps Grand Prix (2024)](https://www.drum-corps.net/scores/dci/3145)
-- [Riverside Open (2024)](https://www.drum-corps.net/scores/dci/3139)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>What I mean (and everybody else means) by the word QUALITY cannot be broken down into subjects and predicates.  This is not because Quality is so mysterious but because Quality is so simple, immediate, and direct.</em><br /> -- R. Pirsig (<em>Zen and the Art of Motorcycle Maintenance</em>)</p>
+<p><em>You can't crush ideas by suppressing them. You can only crush them by ignoring them.</em><br /> -- Ursula K. Le Guin</p>
