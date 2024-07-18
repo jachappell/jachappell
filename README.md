@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0913 – Quest of the Delta Knights](https://www.amon-hen.com/television/7568)
+- [Mmmm, German Type Sexual Harassment](https://www.amon-hen.com/food/32616)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0913 – Quest of the Delta Knights](https://www.amon-hen.com/television/7568)
 - [Last Week Tonight – S1 E10: The Wealth Gap, CIA Twitter & Japan](https://www.amon-hen.com/politics/32602)
 - [MST3K Short 0107 – Radar Men from the Moon 4](https://www.amon-hen.com/television/9038)
 - [Moon Zero Two (1969)](https://www.amon-hen.com/movies/32594)
@@ -10,7 +11,6 @@
 - [From Cleveland](https://www.amon-hen.com/television/32588)
 - [Mmmm, Sorf Drink](https://www.amon-hen.com/food/32584)
 - [MST3K 0912 – The Screaming Skull](https://www.amon-hen.com/television/3844)
-- [Last Week Tonight – S1 E9: Hobby Lobby, Uganda & Boko Haram](https://www.amon-hen.com/politics/32580)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You can't crush ideas by suppressing them. You can only crush them by ignoring them.</em><br /> -- Ursula K. Le Guin</p>
+<p><em>I think that all good, right thinking people in this country are sick and tired of being told that all good, right thinking people in this country are fed up with being told that all good, right thinking people in this country are fed up with being sick and tired.  I'm certainly not, and I'm sick and tired of being told that I am!</em><br /> -- Monty Python</p>
