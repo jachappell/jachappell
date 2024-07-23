@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0107 – Radar Men from the Moon 5](https://www.amon-hen.com/television/9111)
+- [Last Week Tonight – S1 E11: Prisons, Singapore & Sesame Street](https://www.amon-hen.com/politics/32629)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0107 – Radar Men from the Moon 5](https://www.amon-hen.com/television/9111)
 - [Reading: My Brother’s Keeper](https://www.amon-hen.com/books/297)
 - [The Beginning or the End (1947)](https://www.amon-hen.com/movies/32625)
 - [Incoming](https://www.amon-hen.com/music/32622)
@@ -10,10 +11,10 @@
 - [Mmmm, German Type Sexual Harassment](https://www.amon-hen.com/food/32616)
 - [MST3K 0913 – Quest of the Delta Knights](https://www.amon-hen.com/television/7568)
 - [Last Week Tonight – S1 E10: The Wealth Gap, CIA Twitter & Japan](https://www.amon-hen.com/politics/32602)
-- [MST3K Short 0107 – Radar Men from the Moon 4](https://www.amon-hen.com/television/9038)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Mesquite (2024)](https://www.drum-corps.net/scores/dci/3224)
 - [DCI Southwestern Championship (2024)](https://www.drum-corps.net/scores/dci/3221)
 - [The Buccaneer Classic (2024)](https://www.drum-corps.net/scores/dci/3218)
 - [DCI Northern Ohio (2024)](https://www.drum-corps.net/scores/dci/3214)
@@ -23,7 +24,6 @@
 - [DCI Waco (2024)](https://www.drum-corps.net/scores/dci/3202)
 - [DCI Denton (2024)](https://www.drum-corps.net/scores/dci/3197)
 - [DCI suspends “Big, Loud and Live” cinema event in 2024](https://www.drum-corps.net/news/3192)
-- [DCI Abilene (2024)](https://www.drum-corps.net/scores/dci/3179)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The bad reputation UNIX has gotten is totally undeserved, laid on by people who don't understand, who have not gotten in there and tried anything.</em><br /> -- Jim Joyce, former computer science lecturer at the University of California</p>
+<p><em>Do not trust people. They are capable of greatness.</em><br /> -- Stanislaw Lem</p>
