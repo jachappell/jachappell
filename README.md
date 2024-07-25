@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 1001 – Soultaker](https://www.amon-hen.com/television/15684)
+- [Duck Shit Lemon Tea](https://www.amon-hen.com/food/32634)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 1001 – Soultaker](https://www.amon-hen.com/television/15684)
 - [Last Week Tonight – S1 E11: Prisons, Singapore & Sesame Street](https://www.amon-hen.com/politics/32629)
 - [MST3K Short 0107 – Radar Men from the Moon 5](https://www.amon-hen.com/television/9111)
 - [Reading: My Brother’s Keeper](https://www.amon-hen.com/books/297)
@@ -10,7 +11,6 @@
 - [Incoming](https://www.amon-hen.com/music/32622)
 - [Why we have not discovered dark matter](https://www.amon-hen.com/science/32620)
 - [Mmmm, German Type Sexual Harassment](https://www.amon-hen.com/food/32616)
-- [MST3K 0913 – Quest of the Delta Knights](https://www.amon-hen.com/television/7568)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>"What the hell are you getting so upset about?  I thought you didn't believe in God."<br /><br />"I don't," she sobbed, bursting violently into tears, "but the God I don't believe in is a good God, a just God, a merciful God.  He's not the mean and stupid God you make Him out to be."</em><br /> -- Joseph Heller (<em>Catch-22</em>)</p>
+<p><em>The actual tragedies of life bear no relation to one's preconceived ideas. In the event, one is always bewildered by their simplicity, their grandeur of design, and by that element of the bizzare which seems inherent in them.</em><br /> -- Jean Cocteau</p>
