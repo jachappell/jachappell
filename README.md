@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Duck Shit Lemon Tea](https://www.amon-hen.com/food/32634)
+- [RNC & ”Migrant Crime”](https://www.amon-hen.com/politics/32646)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Duck Shit Lemon Tea](https://www.amon-hen.com/food/32634)
 - [MST3K 1001 – Soultaker](https://www.amon-hen.com/television/15684)
 - [Last Week Tonight – S1 E11: Prisons, Singapore & Sesame Street](https://www.amon-hen.com/politics/32629)
 - [MST3K Short 0107 – Radar Men from the Moon 5](https://www.amon-hen.com/television/9111)
@@ -10,10 +11,10 @@
 - [The Beginning or the End (1947)](https://www.amon-hen.com/movies/32625)
 - [Incoming](https://www.amon-hen.com/music/32622)
 - [Why we have not discovered dark matter](https://www.amon-hen.com/science/32620)
-- [Mmmm, German Type Sexual Harassment](https://www.amon-hen.com/food/32616)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Monroe (2024)](https://www.drum-corps.net/scores/dci/3234)
 - [DCI McKinney (2024)](https://www.drum-corps.net/scores/dci/3230)
 - [Spartan Syracuse Showdown (2024)](https://www.drum-corps.net/scores/dci/3227)
 - [DCI Mesquite (2024)](https://www.drum-corps.net/scores/dci/3224)
@@ -23,7 +24,6 @@
 - [Drum Corps World – July 19, 2024](https://www.drum-corps.net/news/3212)
 - [DCI Houston (2024)](https://www.drum-corps.net/scores/dci/3208)
 - [Beats in the Brook (2024)](https://www.drum-corps.net/scores/dci/3205)
-- [DCI Waco (2024)](https://www.drum-corps.net/scores/dci/3202)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The actual tragedies of life bear no relation to one's preconceived ideas. In the event, one is always bewildered by their simplicity, their grandeur of design, and by that element of the bizzare which seems inherent in them.</em><br /> -- Jean Cocteau</p>
+<p><em>... we must counterpose the overwhelming judgment provided by consistent observations and inferences by the thousands.  The earth is billions of years old and its living creatures are linked by ties of evolutionary descent.  Scientists stand accused of promoting dogma by so stating, but do we brand people illiberal when they proclaim that the earth is neither flat nor at the center of the universe?  Science *has* taught us some things with confidence!  Evolution on an ancient earth is as well established as our planet's shape and position.  Our continuing struggle to understand how evolution happens (the "theory of evolution") does not cast our documentation of its occurrence -- the "fact of evolution" -- into doubt.</em><br /> -- Stephen Jay Gould, "The Verdict on Creationism", <em>The Skeptical Inquirer</em>, Vol. XII No. 2.</p>
