@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RNC & ”Migrant Crime”](https://www.amon-hen.com/politics/32646)
+- [Naked in Manhattan](https://www.amon-hen.com/music/32651)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RNC & ”Migrant Crime”](https://www.amon-hen.com/politics/32646)
 - [Duck Shit Lemon Tea](https://www.amon-hen.com/food/32634)
 - [MST3K 1001 – Soultaker](https://www.amon-hen.com/television/15684)
 - [Last Week Tonight – S1 E11: Prisons, Singapore & Sesame Street](https://www.amon-hen.com/politics/32629)
@@ -10,20 +11,19 @@
 - [Reading: My Brother’s Keeper](https://www.amon-hen.com/books/297)
 - [The Beginning or the End (1947)](https://www.amon-hen.com/movies/32625)
 - [Incoming](https://www.amon-hen.com/music/32622)
-- [Why we have not discovered dark matter](https://www.amon-hen.com/science/32620)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – July 26, 2024](https://www.drum-corps.net/news/3248)
+- [The Masters of the Summer Music Games (2024)](https://www.drum-corps.net/scores/dci/3245)
+- [White Rose Classic (2024)](https://www.drum-corps.net/scores/dci/3242)
+- [DCI Birmingham (2024)](https://www.drum-corps.net/scores/dci/3239)
 - [DCI Monroe (2024)](https://www.drum-corps.net/scores/dci/3234)
 - [DCI McKinney (2024)](https://www.drum-corps.net/scores/dci/3230)
 - [Spartan Syracuse Showdown (2024)](https://www.drum-corps.net/scores/dci/3227)
 - [DCI Mesquite (2024)](https://www.drum-corps.net/scores/dci/3224)
 - [DCI Southwestern Championship (2024)](https://www.drum-corps.net/scores/dci/3221)
 - [The Buccaneer Classic (2024)](https://www.drum-corps.net/scores/dci/3218)
-- [DCI Northern Ohio (2024)](https://www.drum-corps.net/scores/dci/3214)
-- [Drum Corps World – July 19, 2024](https://www.drum-corps.net/news/3212)
-- [DCI Houston (2024)](https://www.drum-corps.net/scores/dci/3208)
-- [Beats in the Brook (2024)](https://www.drum-corps.net/scores/dci/3205)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>... we must counterpose the overwhelming judgment provided by consistent observations and inferences by the thousands.  The earth is billions of years old and its living creatures are linked by ties of evolutionary descent.  Scientists stand accused of promoting dogma by so stating, but do we brand people illiberal when they proclaim that the earth is neither flat nor at the center of the universe?  Science *has* taught us some things with confidence!  Evolution on an ancient earth is as well established as our planet's shape and position.  Our continuing struggle to understand how evolution happens (the "theory of evolution") does not cast our documentation of its occurrence -- the "fact of evolution" -- into doubt.</em><br /> -- Stephen Jay Gould, "The Verdict on Creationism", <em>The Skeptical Inquirer</em>, Vol. XII No. 2.</p>
+<p><em>A girl phoned me the other day and said "Come on over, there's nobody home." I went over. Nobody was home.</em><br /> -- Rodney Dangerfield</p>
