@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Naked in Manhattan](https://www.amon-hen.com/music/32651)
+- [Frankenstein Island (1981)](https://www.amon-hen.com/movies/32653)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Naked in Manhattan](https://www.amon-hen.com/music/32651)
 - [RNC & ”Migrant Crime”](https://www.amon-hen.com/politics/32646)
 - [Duck Shit Lemon Tea](https://www.amon-hen.com/food/32634)
 - [MST3K 1001 – Soultaker](https://www.amon-hen.com/television/15684)
@@ -10,10 +11,12 @@
 - [MST3K Short 0107 – Radar Men from the Moon 5](https://www.amon-hen.com/television/9111)
 - [Reading: My Brother’s Keeper](https://www.amon-hen.com/books/297)
 - [The Beginning or the End (1947)](https://www.amon-hen.com/movies/32625)
-- [Incoming](https://www.amon-hen.com/music/32622)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Southeastern Championship (2024)](https://www.drum-corps.net/scores/dci/3256)
+- [Music on the Mountain (2024)](https://www.drum-corps.net/scores/dci/3253)
+- [Bushwackers Invitational (2024)](https://www.drum-corps.net/scores/dci/3250)
 - [Drum Corps World – July 26, 2024](https://www.drum-corps.net/news/3248)
 - [The Masters of the Summer Music Games (2024)](https://www.drum-corps.net/scores/dci/3245)
 - [White Rose Classic (2024)](https://www.drum-corps.net/scores/dci/3242)
@@ -21,9 +24,6 @@
 - [DCI Monroe (2024)](https://www.drum-corps.net/scores/dci/3234)
 - [DCI McKinney (2024)](https://www.drum-corps.net/scores/dci/3230)
 - [Spartan Syracuse Showdown (2024)](https://www.drum-corps.net/scores/dci/3227)
-- [DCI Mesquite (2024)](https://www.drum-corps.net/scores/dci/3224)
-- [DCI Southwestern Championship (2024)](https://www.drum-corps.net/scores/dci/3221)
-- [The Buccaneer Classic (2024)](https://www.drum-corps.net/scores/dci/3218)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>A girl phoned me the other day and said "Come on over, there's nobody home." I went over. Nobody was home.</em><br /> -- Rodney Dangerfield</p>
+<p><em>One can never know for sure what a deserted area looks like.</em><br /> -- George Carlin</p>
