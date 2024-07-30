@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0108 – Radar Men from the Moon 6](https://www.amon-hen.com/television/9161)
+- [Last Week Tonight – S1 E12: Nuclear Weapons, Russian Geckos & Thailand](https://www.amon-hen.com/politics/32660)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0108 – Radar Men from the Moon 6](https://www.amon-hen.com/television/9161)
 - [Frankenstein Island (1981)](https://www.amon-hen.com/movies/32653)
 - [Naked in Manhattan](https://www.amon-hen.com/music/32651)
 - [RNC & ”Migrant Crime”](https://www.amon-hen.com/politics/32646)
@@ -10,7 +11,6 @@
 - [MST3K 1001 – Soultaker](https://www.amon-hen.com/television/15684)
 - [Last Week Tonight – S1 E11: Prisons, Singapore & Sesame Street](https://www.amon-hen.com/politics/32629)
 - [MST3K Short 0107 – Radar Men from the Moon 5](https://www.amon-hen.com/television/9111)
-- [Reading: My Brother’s Keeper](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When I was a kid I used to pray every night for a new bicycle.  Then I realized that the Lord doesn't work that way so I stole one and asked Him to forgive me.</em><br /> -- Emo Philips</p>
+<p><em>It all happened at the beginning of that turbulent decade known as the eighties.  Those were idealistic days: the candidacy of John Anderson, the rise of Supertramp.  It was an exciting time to be young.</em><br /> -- Homer J. Simpson</p>
