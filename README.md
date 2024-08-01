@@ -1,29 +1,29 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K Short 1310 – Let’s Keep Food Safe to Eat](https://www.amon-hen.com/television/32643)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Olympics](https://www.amon-hen.com/quotes/15755)
 - [MST3K 1002 – The Girl In Gold Boots](https://www.amon-hen.com/television/15712)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Last Week Tonight – S1 E12: Nuclear Weapons, Russian Geckos & Thailand](https://www.amon-hen.com/politics/32660)
 - [MST3K Short 0108 – Radar Men from the Moon 6](https://www.amon-hen.com/television/9161)
 - [Frankenstein Island (1981)](https://www.amon-hen.com/movies/32653)
 - [Naked in Manhattan](https://www.amon-hen.com/music/32651)
 - [RNC & ”Migrant Crime”](https://www.amon-hen.com/politics/32646)
 - [Duck Shit Lemon Tea](https://www.amon-hen.com/food/32634)
-- [MST3K 1001 – Soultaker](https://www.amon-hen.com/television/15684)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Huntington (2024)](https://www.drum-corps.net/scores/dci/3282)
+- [March On! (2024)](https://www.drum-corps.net/scores/dci/3278)
+- [DCI Delaware (2024)](https://www.drum-corps.net/scores/dci/3273)
+- [Summer Music Games of Southwest Virginia (2024)](https://www.drum-corps.net/scores/dci/3270)
+- [Soaring Sounds (2024)](https://www.drum-corps.net/scores/dci/3267)
 - [NightBEAT (2024)](https://www.drum-corps.net/scores/dci/3262)
 - [Drums in the Heartland (2024)](https://www.drum-corps.net/scores/dci/3259)
 - [DCI Southeastern Championship (2024)](https://www.drum-corps.net/scores/dci/3256)
 - [Music on the Mountain (2024)](https://www.drum-corps.net/scores/dci/3253)
 - [Bushwackers Invitational (2024)](https://www.drum-corps.net/scores/dci/3250)
-- [Drum Corps World – July 26, 2024](https://www.drum-corps.net/news/3248)
-- [The Masters of the Summer Music Games (2024)](https://www.drum-corps.net/scores/dci/3245)
-- [White Rose Classic (2024)](https://www.drum-corps.net/scores/dci/3242)
-- [DCI Birmingham (2024)](https://www.drum-corps.net/scores/dci/3239)
-- [DCI Monroe (2024)](https://www.drum-corps.net/scores/dci/3234)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>There is no need to do any housework at all.  After the first four years the dirt doesn't get any worse.</em><br /> -- Quentin Crisp</p>
+<p><em>I've pretty much given up on Michael doing the right thing, or the decent thing, or even the comprehensible thing.</em><br /> -- Dwight Kurt Schrute III</p>
