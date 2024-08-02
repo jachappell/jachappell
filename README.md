@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 1310 – Let’s Keep Food Safe to Eat](https://www.amon-hen.com/television/32643)
+- [The West Bank](https://www.amon-hen.com/politics/32671)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 1310 – Let’s Keep Food Safe to Eat](https://www.amon-hen.com/television/32643)
 - [Olympics](https://www.amon-hen.com/quotes/15755)
 - [MST3K 1002 – The Girl In Gold Boots](https://www.amon-hen.com/television/15712)
 - [Last Week Tonight – S1 E12: Nuclear Weapons, Russian Geckos & Thailand](https://www.amon-hen.com/politics/32660)
@@ -10,10 +11,10 @@
 - [Frankenstein Island (1981)](https://www.amon-hen.com/movies/32653)
 - [Naked in Manhattan](https://www.amon-hen.com/music/32651)
 - [RNC & ”Migrant Crime”](https://www.amon-hen.com/politics/32646)
-- [Duck Shit Lemon Tea](https://www.amon-hen.com/food/32634)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI East Coast Showcase (2024)](https://www.drum-corps.net/scores/dci/3286)
 - [DCI Huntington (2024)](https://www.drum-corps.net/scores/dci/3282)
 - [March On! (2024)](https://www.drum-corps.net/scores/dci/3278)
 - [DCI Delaware (2024)](https://www.drum-corps.net/scores/dci/3273)
@@ -23,7 +24,6 @@
 - [Drums in the Heartland (2024)](https://www.drum-corps.net/scores/dci/3259)
 - [DCI Southeastern Championship (2024)](https://www.drum-corps.net/scores/dci/3256)
 - [Music on the Mountain (2024)](https://www.drum-corps.net/scores/dci/3253)
-- [Bushwackers Invitational (2024)](https://www.drum-corps.net/scores/dci/3250)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I've pretty much given up on Michael doing the right thing, or the decent thing, or even the comprehensible thing.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>C makes it easy to shoot yourself in the foot.  C++ makes it harder, but when you do, it blows away your whole leg.</em><br /> -- Bjarne Stroustrup</p>
