@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Arabian Quest](https://www.amon-hen.com/music/32673)
+- [The Atomic Brain (1963)](https://www.amon-hen.com/movies/32676)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Arabian Quest](https://www.amon-hen.com/music/32673)
 - [The West Bank](https://www.amon-hen.com/politics/32671)
 - [MST3K Short 1310 – Let’s Keep Food Safe to Eat](https://www.amon-hen.com/television/32643)
 - [Olympics](https://www.amon-hen.com/quotes/15755)
@@ -10,20 +11,19 @@
 - [Last Week Tonight – S1 E12: Nuclear Weapons, Russian Geckos & Thailand](https://www.amon-hen.com/politics/32660)
 - [MST3K Short 0108 – Radar Men from the Moon 6](https://www.amon-hen.com/television/9161)
 - [Frankenstein Island (1981)](https://www.amon-hen.com/movies/32653)
-- [Naked in Manhattan](https://www.amon-hen.com/music/32651)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI Rochester (2024)](https://www.drum-corps.net/scores/dci/3309)
+- [Drums on the Ohio (2024)](https://www.drum-corps.net/scores/dci/3305)
+- [DCI Eastern Illinois (2024)](https://www.drum-corps.net/scores/dci/3302)
+- [Drum Corps World – August 2024](https://www.drum-corps.net/news/3298)
 - [DCI Eastern Classic – Friday (2024)](https://www.drum-corps.net/scores/dci/3292)
 - [Tournament of Drums (2024)](https://www.drum-corps.net/scores/dci/3289)
 - [DCI East Coast Showcase (2024)](https://www.drum-corps.net/scores/dci/3286)
 - [DCI Huntington (2024)](https://www.drum-corps.net/scores/dci/3282)
 - [March On! (2024)](https://www.drum-corps.net/scores/dci/3278)
 - [DCI Delaware (2024)](https://www.drum-corps.net/scores/dci/3273)
-- [Summer Music Games of Southwest Virginia (2024)](https://www.drum-corps.net/scores/dci/3270)
-- [Soaring Sounds (2024)](https://www.drum-corps.net/scores/dci/3267)
-- [NightBEAT (2024)](https://www.drum-corps.net/scores/dci/3262)
-- [Drums in the Heartland (2024)](https://www.drum-corps.net/scores/dci/3259)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em></em>Star Wars<em> is adolescent nonsense; </em>Close Encounters<em> is obscurantist drivel;  </em>Star Trek<em> can turn your brains to puree of bat guano; and the greatest science fiction series of all time is </em>Doctor Who<em>!  And I'll take you all on, one-by-one or all in a bunch to back it up!</em><br /> -- Harlan Ellison</p>
+<p><em>Lassie looked brilliant, in part because the farm family she lived with was made up of idiots.  Remember?  One of them was always getting pinned under the tractor, and Lassie was always rushing back to the farmhouse to alert the other ones.  She'd whimper and tug at their sleeves, and they'd always waste precious minutes saying things: "Do you think something's wrong?  Do you think she wants us to follow her?  What is it, girl?", etc., as if this had never happened before, instead of every week.  What with all the time these people spent pinned under the tractor, I don't see how they managed to grow any crops whatsoever.  They probably got by on federal crop supports, which Lassie filed the applications for.</em><br /> -- Dave Barry</p>
