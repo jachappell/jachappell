@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Atomic Brain (1963)](https://www.amon-hen.com/movies/32676)
+- [MST3K Short 0109 – Radar Men from the Moon 7](https://www.amon-hen.com/television/9222)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Atomic Brain (1963)](https://www.amon-hen.com/movies/32676)
 - [Arabian Quest](https://www.amon-hen.com/music/32673)
 - [The West Bank](https://www.amon-hen.com/politics/32671)
 - [MST3K Short 1310 – Let’s Keep Food Safe to Eat](https://www.amon-hen.com/television/32643)
@@ -10,10 +11,10 @@
 - [MST3K 1002 – The Girl In Gold Boots](https://www.amon-hen.com/television/15712)
 - [Last Week Tonight – S1 E12: Nuclear Weapons, Russian Geckos & Thailand](https://www.amon-hen.com/politics/32660)
 - [MST3K Short 0108 – Radar Men from the Moon 6](https://www.amon-hen.com/television/9161)
-- [Frankenstein Island (1981)](https://www.amon-hen.com/movies/32653)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Big Sounds in Motion (2024)](https://www.drum-corps.net/scores/dci/3312)
 - [DCI Rochester (2024)](https://www.drum-corps.net/scores/dci/3309)
 - [Drums on the Ohio (2024)](https://www.drum-corps.net/scores/dci/3305)
 - [DCI Eastern Illinois (2024)](https://www.drum-corps.net/scores/dci/3302)
@@ -23,7 +24,6 @@
 - [DCI East Coast Showcase (2024)](https://www.drum-corps.net/scores/dci/3286)
 - [DCI Huntington (2024)](https://www.drum-corps.net/scores/dci/3282)
 - [March On! (2024)](https://www.drum-corps.net/scores/dci/3278)
-- [DCI Delaware (2024)](https://www.drum-corps.net/scores/dci/3273)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Lassie looked brilliant, in part because the farm family she lived with was made up of idiots.  Remember?  One of them was always getting pinned under the tractor, and Lassie was always rushing back to the farmhouse to alert the other ones.  She'd whimper and tug at their sleeves, and they'd always waste precious minutes saying things: "Do you think something's wrong?  Do you think she wants us to follow her?  What is it, girl?", etc., as if this had never happened before, instead of every week.  What with all the time these people spent pinned under the tractor, I don't see how they managed to grow any crops whatsoever.  They probably got by on federal crop supports, which Lassie filed the applications for.</em><br /> -- Dave Barry</p>
+<p><em>Have you ever wondered what makes Californians so calm?  Besides drugs, I mean.  The answer is hot tubs.  A hot tub is a redwood container filled with water that you sit in naked with members of the opposite sex, none of whom is necessarily your spouse.  After a few hours in their hot tubs, Californians don't give a damn about earthquakes or mass murderers.  They don't give a damn about anything , which is why they are able to produce </em>Laverne and Shirley<em> week after week.</em><br /> -- Dave Barry (<em>The Taming of the Screw</em>)</p>
