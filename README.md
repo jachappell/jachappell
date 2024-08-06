@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0109 – Radar Men from the Moon 7](https://www.amon-hen.com/television/9222)
+- [Last Week Tonight – S1 E13: Native Advertising, Argentinian Default & Uganda](https://www.amon-hen.com/politics/32686)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0109 – Radar Men from the Moon 7](https://www.amon-hen.com/television/9222)
 - [The Atomic Brain (1963)](https://www.amon-hen.com/movies/32676)
 - [Arabian Quest](https://www.amon-hen.com/music/32673)
 - [The West Bank](https://www.amon-hen.com/politics/32671)
@@ -10,10 +11,12 @@
 - [Olympics](https://www.amon-hen.com/quotes/15755)
 - [MST3K 1002 – The Girl In Gold Boots](https://www.amon-hen.com/television/15712)
 - [Last Week Tonight – S1 E12: Nuclear Weapons, Russian Geckos & Thailand](https://www.amon-hen.com/politics/32660)
-- [MST3K Short 0108 – Radar Men from the Moon 6](https://www.amon-hen.com/television/9161)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [2024 DCI Open Class World Championship Prelims](https://www.drum-corps.net/scores/dci/3321)
+- [Innovations In Brass (2024)](https://www.drum-corps.net/scores/dci/3318)
+- [DCI Pittsburgh (2024)](https://www.drum-corps.net/scores/dci/3315)
 - [Big Sounds in Motion (2024)](https://www.drum-corps.net/scores/dci/3312)
 - [DCI Rochester (2024)](https://www.drum-corps.net/scores/dci/3309)
 - [Drums on the Ohio (2024)](https://www.drum-corps.net/scores/dci/3305)
@@ -21,9 +24,6 @@
 - [Drum Corps World – August 2024](https://www.drum-corps.net/news/3298)
 - [DCI Eastern Classic – Friday (2024)](https://www.drum-corps.net/scores/dci/3292)
 - [Tournament of Drums (2024)](https://www.drum-corps.net/scores/dci/3289)
-- [DCI East Coast Showcase (2024)](https://www.drum-corps.net/scores/dci/3286)
-- [DCI Huntington (2024)](https://www.drum-corps.net/scores/dci/3282)
-- [March On! (2024)](https://www.drum-corps.net/scores/dci/3278)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Have you ever wondered what makes Californians so calm?  Besides drugs, I mean.  The answer is hot tubs.  A hot tub is a redwood container filled with water that you sit in naked with members of the opposite sex, none of whom is necessarily your spouse.  After a few hours in their hot tubs, Californians don't give a damn about earthquakes or mass murderers.  They don't give a damn about anything , which is why they are able to produce </em>Laverne and Shirley<em> week after week.</em><br /> -- Dave Barry (<em>The Taming of the Screw</em>)</p>
+<p><em>The Internet is the most powerful stupidity amplifier ever invented.  It's like television without the television part.</em><br /> -- James "Kibo" Perry</p>
