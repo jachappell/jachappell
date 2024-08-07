@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Last Week Tonight – S1 E13: Native Advertising, Argentinian Default & Uganda](https://www.amon-hen.com/politics/32686)
+- [MST3K 1003 – Merlin’s Shop Of Mystical Wonders](https://www.amon-hen.com/television/6371)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Last Week Tonight – S1 E13: Native Advertising, Argentinian Default & Uganda](https://www.amon-hen.com/politics/32686)
 - [MST3K Short 0109 – Radar Men from the Moon 7](https://www.amon-hen.com/television/9222)
 - [The Atomic Brain (1963)](https://www.amon-hen.com/movies/32676)
 - [Arabian Quest](https://www.amon-hen.com/music/32673)
@@ -10,10 +11,10 @@
 - [MST3K Short 1310 – Let’s Keep Food Safe to Eat](https://www.amon-hen.com/television/32643)
 - [Olympics](https://www.amon-hen.com/quotes/15755)
 - [MST3K 1002 – The Girl In Gold Boots](https://www.amon-hen.com/television/15712)
-- [Last Week Tonight – S1 E12: Nuclear Weapons, Russian Geckos & Thailand](https://www.amon-hen.com/politics/32660)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [2024 DCI Open Class World Championship Finals](https://www.drum-corps.net/scores/dci/3325)
 - [2024 DCI Open Class World Championship Prelims](https://www.drum-corps.net/scores/dci/3321)
 - [Innovations In Brass (2024)](https://www.drum-corps.net/scores/dci/3318)
 - [DCI Pittsburgh (2024)](https://www.drum-corps.net/scores/dci/3315)
@@ -23,7 +24,6 @@
 - [DCI Eastern Illinois (2024)](https://www.drum-corps.net/scores/dci/3302)
 - [Drum Corps World – August 2024](https://www.drum-corps.net/news/3298)
 - [DCI Eastern Classic – Friday (2024)](https://www.drum-corps.net/scores/dci/3292)
-- [Tournament of Drums (2024)](https://www.drum-corps.net/scores/dci/3289)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The Internet is the most powerful stupidity amplifier ever invented.  It's like television without the television part.</em><br /> -- James "Kibo" Perry</p>
+<p><em>One rage every three months is permitted. Try not to hurt anyone who doesn't deserve it.</em><br /> -- Ron Swanson</p>
