@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 1003 – Merlin’s Shop Of Mystical Wonders](https://www.amon-hen.com/television/6371)
+- [MST3K Short 1312 – Better Breakfast, U.S.A.](https://www.amon-hen.com/television/32649)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 1003 – Merlin’s Shop Of Mystical Wonders](https://www.amon-hen.com/television/6371)
 - [Last Week Tonight – S1 E13: Native Advertising, Argentinian Default & Uganda](https://www.amon-hen.com/politics/32686)
 - [MST3K Short 0109 – Radar Men from the Moon 7](https://www.amon-hen.com/television/9222)
 - [The Atomic Brain (1963)](https://www.amon-hen.com/movies/32676)
@@ -10,7 +11,6 @@
 - [The West Bank](https://www.amon-hen.com/politics/32671)
 - [MST3K Short 1310 – Let’s Keep Food Safe to Eat](https://www.amon-hen.com/television/32643)
 - [Olympics](https://www.amon-hen.com/quotes/15755)
-- [MST3K 1002 – The Girl In Gold Boots](https://www.amon-hen.com/television/15712)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>One rage every three months is permitted. Try not to hurt anyone who doesn't deserve it.</em><br /> -- Ron Swanson</p>
+<p><em>A sense of duty is useful in work, but offensive in personal relations. People wish to be liked, not be endured with patient resignation.</em><br /> -- Bertrand Russell </p>
