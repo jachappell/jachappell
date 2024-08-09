@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 1312 – Better Breakfast, U.S.A.](https://www.amon-hen.com/television/32649)
+- [RFK Jr.](https://www.amon-hen.com/politics/32692)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 1312 – Better Breakfast, U.S.A.](https://www.amon-hen.com/television/32649)
 - [MST3K 1003 – Merlin’s Shop Of Mystical Wonders](https://www.amon-hen.com/television/6371)
 - [Last Week Tonight – S1 E13: Native Advertising, Argentinian Default & Uganda](https://www.amon-hen.com/politics/32686)
 - [MST3K Short 0109 – Radar Men from the Moon 7](https://www.amon-hen.com/television/9222)
@@ -10,10 +11,10 @@
 - [Arabian Quest](https://www.amon-hen.com/music/32673)
 - [The West Bank](https://www.amon-hen.com/politics/32671)
 - [MST3K Short 1310 – Let’s Keep Food Safe to Eat](https://www.amon-hen.com/television/32643)
-- [Olympics](https://www.amon-hen.com/quotes/15755)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [2024 DCI World Championship Prelims](https://www.drum-corps.net/scores/dci/3328)
 - [2024 DCI Open Class World Championship Finals](https://www.drum-corps.net/scores/dci/3325)
 - [2024 DCI Open Class World Championship Prelims](https://www.drum-corps.net/scores/dci/3321)
 - [Innovations In Brass (2024)](https://www.drum-corps.net/scores/dci/3318)
@@ -23,7 +24,6 @@
 - [Drums on the Ohio (2024)](https://www.drum-corps.net/scores/dci/3305)
 - [DCI Eastern Illinois (2024)](https://www.drum-corps.net/scores/dci/3302)
 - [Drum Corps World – August 2024](https://www.drum-corps.net/news/3298)
-- [DCI Eastern Classic – Friday (2024)](https://www.drum-corps.net/scores/dci/3292)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>A sense of duty is useful in work, but offensive in personal relations. People wish to be liked, not be endured with patient resignation.</em><br /> -- Bertrand Russell </p>
+<p><em>Mmmm, 52 slices of American cheese.</em><br /> -- Homer J. Simpson</p>
