@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RFK Jr.](https://www.amon-hen.com/politics/32692)
+- [Foreplay/Longtime](https://www.amon-hen.com/music/32694)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RFK Jr.](https://www.amon-hen.com/politics/32692)
 - [MST3K Short 1312 – Better Breakfast, U.S.A.](https://www.amon-hen.com/television/32649)
 - [MST3K 1003 – Merlin’s Shop Of Mystical Wonders](https://www.amon-hen.com/television/6371)
 - [Last Week Tonight – S1 E13: Native Advertising, Argentinian Default & Uganda](https://www.amon-hen.com/politics/32686)
@@ -10,10 +11,10 @@
 - [The Atomic Brain (1963)](https://www.amon-hen.com/movies/32676)
 - [Arabian Quest](https://www.amon-hen.com/music/32673)
 - [The West Bank](https://www.amon-hen.com/politics/32671)
-- [MST3K Short 1310 – Let’s Keep Food Safe to Eat](https://www.amon-hen.com/television/32643)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [2024 DCI World Championship Semifinals](https://www.drum-corps.net/scores/dci/3337)
 - [2024 DCI World Championship Prelims](https://www.drum-corps.net/scores/dci/3328)
 - [2024 DCI Open Class World Championship Finals](https://www.drum-corps.net/scores/dci/3325)
 - [2024 DCI Open Class World Championship Prelims](https://www.drum-corps.net/scores/dci/3321)
@@ -23,7 +24,6 @@
 - [DCI Rochester (2024)](https://www.drum-corps.net/scores/dci/3309)
 - [Drums on the Ohio (2024)](https://www.drum-corps.net/scores/dci/3305)
 - [DCI Eastern Illinois (2024)](https://www.drum-corps.net/scores/dci/3302)
-- [Drum Corps World – August 2024](https://www.drum-corps.net/news/3298)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Mmmm, 52 slices of American cheese.</em><br /> -- Homer J. Simpson</p>
+<p><em>All theoretical chemistry is really physics; and all theoretical chemists know it.</em><br /> -- Richard P. Feynman</p>
