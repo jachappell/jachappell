@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Foreplay/Longtime](https://www.amon-hen.com/music/32694)
+- [Teen-Age Crime Wave (1955)](https://www.amon-hen.com/movies/32698)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Foreplay/Longtime](https://www.amon-hen.com/music/32694)
 - [RFK Jr.](https://www.amon-hen.com/politics/32692)
 - [MST3K Short 1312 – Better Breakfast, U.S.A.](https://www.amon-hen.com/television/32649)
 - [MST3K 1003 – Merlin’s Shop Of Mystical Wonders](https://www.amon-hen.com/television/6371)
@@ -10,20 +11,19 @@
 - [MST3K Short 0109 – Radar Men from the Moon 7](https://www.amon-hen.com/television/9222)
 - [The Atomic Brain (1963)](https://www.amon-hen.com/movies/32676)
 - [Arabian Quest](https://www.amon-hen.com/music/32673)
-- [The West Bank](https://www.amon-hen.com/politics/32671)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
-- [2024 DCI World Championship Semifinals](https://www.drum-corps.net/scores/dci/3337)
+- [2024 World Championship Finals](https://www.drum-corps.net/scores/dci/3350)
+- [2024 DCI All-Age World Championship](https://www.drum-corps.net/scores/dci/3343)
+- [Crossmen 50th Anniversary Alumni Corps (2024)](https://www.drum-corps.net/history/3341)
+- [2024 DCI World Championship Finals](https://www.drum-corps.net/scores/dci/3337)
 - [2024 DCI World Championship Prelims](https://www.drum-corps.net/scores/dci/3328)
 - [2024 DCI Open Class World Championship Finals](https://www.drum-corps.net/scores/dci/3325)
 - [2024 DCI Open Class World Championship Prelims](https://www.drum-corps.net/scores/dci/3321)
 - [Innovations In Brass (2024)](https://www.drum-corps.net/scores/dci/3318)
 - [DCI Pittsburgh (2024)](https://www.drum-corps.net/scores/dci/3315)
 - [Big Sounds in Motion (2024)](https://www.drum-corps.net/scores/dci/3312)
-- [DCI Rochester (2024)](https://www.drum-corps.net/scores/dci/3309)
-- [Drums on the Ohio (2024)](https://www.drum-corps.net/scores/dci/3305)
-- [DCI Eastern Illinois (2024)](https://www.drum-corps.net/scores/dci/3302)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>All theoretical chemistry is really physics; and all theoretical chemists know it.</em><br /> -- Richard P. Feynman</p>
+<p><em>A thousand years frozen in carbonite? It'll be so cold!</em><br /> -- Derek 'Stormy' Waters</p>
