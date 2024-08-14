@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K 1004 – Future War](https://www.amon-hen.com/television/6854)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [12 August 2022](https://www.amon-hen.com/music/drum-and-bugle-corps/32714)
 - [Last Week Tonight – S1 E14: Predatory Lending, Russian Sanctions & Iraq](https://www.amon-hen.com/politics/32709)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [2024 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/32702)
 - [MST3K Short 0109 – Radar Men from the Moon 8](https://www.amon-hen.com/television/9258)
 - [Teen-Age Crime Wave (1955)](https://www.amon-hen.com/movies/32698)
 - [Foreplay/Longtime](https://www.amon-hen.com/music/32694)
 - [RFK Jr.](https://www.amon-hen.com/politics/32692)
 - [MST3K Short 1312 – Better Breakfast, U.S.A.](https://www.amon-hen.com/television/32649)
-- [MST3K 1003 – Merlin’s Shop Of Mystical Wonders](https://www.amon-hen.com/television/6371)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>My religion is to do good.</em><br /> -- Thomas Paine</p>
+<p><em>Claude believed that only smart attractive people had the right to fuck, and it sincerely hurt him when he discovered evidence to the contrary.</em><br /> -- Tom Robbins (<em>Jitterbug Perfume</em>)</p>
