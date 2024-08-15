@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 1004 – Future War](https://www.amon-hen.com/television/6854)
+- [Ohio’s Good Senator](https://www.amon-hen.com/politics/32733)
+- [Mmmm, JELL-O Cabbage and Horseradish Salad](https://www.amon-hen.com/food/32717)
+- [2024 DCI World Champions](https://www.amon-hen.com/music/drum-and-bugle-corps/32731)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 1004 – Future War](https://www.amon-hen.com/television/6854)
 - [12 August 2022](https://www.amon-hen.com/music/drum-and-bugle-corps/32714)
 - [Last Week Tonight – S1 E14: Predatory Lending, Russian Sanctions & Iraq](https://www.amon-hen.com/politics/32709)
 - [2024 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/32702)
 - [MST3K Short 0109 – Radar Men from the Moon 8](https://www.amon-hen.com/television/9258)
 - [Teen-Age Crime Wave (1955)](https://www.amon-hen.com/movies/32698)
-- [Foreplay/Longtime](https://www.amon-hen.com/music/32694)
-- [RFK Jr.](https://www.amon-hen.com/politics/32692)
-- [MST3K Short 1312 – Better Breakfast, U.S.A.](https://www.amon-hen.com/television/32649)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [2024 DCI World Champions](https://www.drum-corps.net/news/3373)
 - [August 12, 2022](https://www.drum-corps.net/history/3371)
 - [2024 World Championship Finals](https://www.drum-corps.net/scores/dci/3350)
 - [2024 SoundSport International Music & Food Festival](https://www.drum-corps.net/news/3366)
@@ -23,7 +24,6 @@
 - [2024 DCI World Championship Prelims](https://www.drum-corps.net/scores/dci/3328)
 - [2024 DCI Open Class World Championship Finals](https://www.drum-corps.net/scores/dci/3325)
 - [2024 DCI Open Class World Championship Prelims](https://www.drum-corps.net/scores/dci/3321)
-- [Innovations In Brass (2024)](https://www.drum-corps.net/scores/dci/3318)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Claude believed that only smart attractive people had the right to fuck, and it sincerely hurt him when he discovered evidence to the contrary.</em><br /> -- Tom Robbins (<em>Jitterbug Perfume</em>)</p>
+<p><em>I can't believe Liberace was gay!  Women loved him!  I didn't see that one coming.</em><br /> -- Austin Powers</p>
