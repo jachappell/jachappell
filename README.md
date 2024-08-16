@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [The Hardest Music You’ve Never Heard Of](https://www.amon-hen.com/music/drum-and-bugle-corps/32739)
+- [Hawaii](https://www.amon-hen.com/politics/32737)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Ohio’s Good Senator](https://www.amon-hen.com/politics/32733)
 - [Mmmm, JELL-O Cabbage and Horseradish Salad](https://www.amon-hen.com/food/32717)
 - [2024 DCI World Champions](https://www.amon-hen.com/music/drum-and-bugle-corps/32731)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 1004 – Future War](https://www.amon-hen.com/television/6854)
 - [12 August 2022](https://www.amon-hen.com/music/drum-and-bugle-corps/32714)
 - [Last Week Tonight – S1 E14: Predatory Lending, Russian Sanctions & Iraq](https://www.amon-hen.com/politics/32709)
 - [2024 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/32702)
-- [MST3K Short 0109 – Radar Men from the Moon 8](https://www.amon-hen.com/television/9258)
-- [Teen-Age Crime Wave (1955)](https://www.amon-hen.com/movies/32698)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I can't believe Liberace was gay!  Women loved him!  I didn't see that one coming.</em><br /> -- Austin Powers</p>
+<p><em>Sergeant Colon had had a broad education.  He'd been to the School of My Dad Always Said, the College of It Stands to Reason, and was now a postgraduate student at the University of What Some Bloke In the Pub Told Me.</em><br /> -- Terry Pratchett</p>
