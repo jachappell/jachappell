@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Change is Everything](https://www.amon-hen.com/music/32746)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Hardest Music You’ve Never Heard Of](https://www.amon-hen.com/music/drum-and-bugle-corps/32739)
 - [Hawaii](https://www.amon-hen.com/politics/32737)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Ohio’s Good Senator](https://www.amon-hen.com/politics/32733)
 - [Mmmm, JELL-O Cabbage and Horseradish Salad](https://www.amon-hen.com/food/32717)
 - [2024 DCI World Champions](https://www.amon-hen.com/music/drum-and-bugle-corps/32731)
 - [MST3K 1004 – Future War](https://www.amon-hen.com/television/6854)
 - [12 August 2022](https://www.amon-hen.com/music/drum-and-bugle-corps/32714)
 - [Last Week Tonight – S1 E14: Predatory Lending, Russian Sanctions & Iraq](https://www.amon-hen.com/politics/32709)
-- [2024 DCI World Championships – Indianapolis, IN](https://www.amon-hen.com/music/drum-and-bugle-corps/32702)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Sergeant Colon had had a broad education.  He'd been to the School of My Dad Always Said, the College of It Stands to Reason, and was now a postgraduate student at the University of What Some Bloke In the Pub Told Me.</em><br /> -- Terry Pratchett</p>
+<p><em>I would rather be exposed to the inconveniences attending too much liberty than to those attending too small a degree of it.</em><br /> -- Thomas Jefferson</p>
