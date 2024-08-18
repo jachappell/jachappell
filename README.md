@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Change is Everything](https://www.amon-hen.com/music/32746)
+- [Reading: Guardian](https://www.amon-hen.com/books/297)
+- [The City (1939)](https://www.amon-hen.com/politics/32750)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Change is Everything](https://www.amon-hen.com/music/32746)
 - [The Hardest Music You’ve Never Heard Of](https://www.amon-hen.com/music/drum-and-bugle-corps/32739)
 - [Hawaii](https://www.amon-hen.com/politics/32737)
 - [Ohio’s Good Senator](https://www.amon-hen.com/politics/32733)
 - [Mmmm, JELL-O Cabbage and Horseradish Salad](https://www.amon-hen.com/food/32717)
 - [2024 DCI World Champions](https://www.amon-hen.com/music/drum-and-bugle-corps/32731)
 - [MST3K 1004 – Future War](https://www.amon-hen.com/television/6854)
-- [12 August 2022](https://www.amon-hen.com/music/drum-and-bugle-corps/32714)
-- [Last Week Tonight – S1 E14: Predatory Lending, Russian Sanctions & Iraq](https://www.amon-hen.com/politics/32709)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – August 16, 2024](https://www.drum-corps.net/news/3378)
 - [2024 DCI World Champions](https://www.drum-corps.net/news/3373)
 - [August 12, 2022](https://www.drum-corps.net/history/3371)
 - [2024 World Championship Finals](https://www.drum-corps.net/scores/dci/3350)
@@ -23,7 +24,6 @@
 - [2024 DCI World Championship Semifinals](https://www.drum-corps.net/scores/dci/3337)
 - [2024 DCI World Championship Prelims](https://www.drum-corps.net/scores/dci/3328)
 - [2024 DCI Open Class World Championship Finals](https://www.drum-corps.net/scores/dci/3325)
-- [2024 DCI Open Class World Championship Prelims](https://www.drum-corps.net/scores/dci/3321)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I would rather be exposed to the inconveniences attending too much liberty than to those attending too small a degree of it.</em><br /> -- Thomas Jefferson</p>
+<p><em>That which is hateful to you, do not do to your fellow. That is the whole Torah; the rest is the explanation; go and learn.</em><br /> -- Hillel the Elder</p>
