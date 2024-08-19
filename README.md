@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Depressed and Defeated](https://www.amon-hen.com/politics/32775)
+- [You know which word they really want to use](https://www.amon-hen.com/politics/32773)
+- [The point of JD Vance](https://www.amon-hen.com/politics/32767)
+- [Murdering Hobos for Sport](https://www.amon-hen.com/politics/32764)
+- [MST3K Short 0110 – Radar Men from the Moon 9](https://www.amon-hen.com/television/9299)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: Guardian](https://www.amon-hen.com/books/297)
 - [The City (1939)](https://www.amon-hen.com/politics/32750)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Change is Everything](https://www.amon-hen.com/music/32746)
 - [The Hardest Music You’ve Never Heard Of](https://www.amon-hen.com/music/drum-and-bugle-corps/32739)
-- [Hawaii](https://www.amon-hen.com/politics/32737)
-- [Ohio’s Good Senator](https://www.amon-hen.com/politics/32733)
-- [Mmmm, JELL-O Cabbage and Horseradish Salad](https://www.amon-hen.com/food/32717)
-- [2024 DCI World Champions](https://www.amon-hen.com/music/drum-and-bugle-corps/32731)
-- [MST3K 1004 – Future War](https://www.amon-hen.com/television/6854)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [27th Lancers Alumni Corps (1994)](https://www.drum-corps.net/history/2222)
 - [Drum Corps World – August 16, 2024](https://www.drum-corps.net/news/3378)
 - [2024 DCI World Champions](https://www.drum-corps.net/news/3373)
 - [August 12, 2022](https://www.drum-corps.net/history/3371)
@@ -23,7 +24,6 @@
 - [Crossmen 50th Anniversary Alumni Corps (2024)](https://www.drum-corps.net/history/3341)
 - [2024 DCI World Championship Semifinals](https://www.drum-corps.net/scores/dci/3337)
 - [2024 DCI World Championship Prelims](https://www.drum-corps.net/scores/dci/3328)
-- [2024 DCI Open Class World Championship Finals](https://www.drum-corps.net/scores/dci/3325)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>That which is hateful to you, do not do to your fellow. That is the whole Torah; the rest is the explanation; go and learn.</em><br /> -- Hillel the Elder</p>
+<p><em>You can tell Buddha was never married.  Otherwise his wife would have always been saying, "What are you gonna do, sit around like that all day?"</em><br /> -- Garry Shandling</p>
