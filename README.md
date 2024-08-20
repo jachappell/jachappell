@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Last Week Tonight – S1 E15: Ferguson, the Gender Wage Gap & Iran](https://www.amon-hen.com/politics/32760)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Depressed and Defeated](https://www.amon-hen.com/politics/32775)
 - [You know which word they really want to use](https://www.amon-hen.com/politics/32773)
 - [The point of JD Vance](https://www.amon-hen.com/politics/32767)
 - [Murdering Hobos for Sport](https://www.amon-hen.com/politics/32764)
 - [MST3K Short 0110 – Radar Men from the Moon 9](https://www.amon-hen.com/television/9299)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: Guardian](https://www.amon-hen.com/books/297)
 - [The City (1939)](https://www.amon-hen.com/politics/32750)
 - [Change is Everything](https://www.amon-hen.com/music/32746)
-- [The Hardest Music You’ve Never Heard Of](https://www.amon-hen.com/music/drum-and-bugle-corps/32739)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Mighty St. Joe’s Alumni Corps (1995)](https://www.drum-corps.net/history/2234)
 - [27th Lancers Alumni Corps (1994)](https://www.drum-corps.net/history/2222)
 - [Drum Corps World – August 16, 2024](https://www.drum-corps.net/news/3378)
 - [2024 DCI World Champions](https://www.drum-corps.net/news/3373)
@@ -23,7 +24,6 @@
 - [2024 DCI All-Age World Championship](https://www.drum-corps.net/scores/dci/3343)
 - [Crossmen 50th Anniversary Alumni Corps (2024)](https://www.drum-corps.net/history/3341)
 - [2024 DCI World Championship Semifinals](https://www.drum-corps.net/scores/dci/3337)
-- [2024 DCI World Championship Prelims](https://www.drum-corps.net/scores/dci/3328)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You can tell Buddha was never married.  Otherwise his wife would have always been saying, "What are you gonna do, sit around like that all day?"</em><br /> -- Garry Shandling</p>
+<p><em>It is undesirable to believe a proposition when there is no ground whatsoever for supposing it is true.</em><br /> -- Bertrand Russell</p>
