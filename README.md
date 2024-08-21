@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Last Week Tonight – S1 E15: Ferguson, the Gender Wage Gap & Iran](https://www.amon-hen.com/politics/32760)
+- [MST3K 1005 – Blood Waters of Dr. Z](https://www.amon-hen.com/television/3676)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Last Week Tonight – S1 E15: Ferguson, the Gender Wage Gap & Iran](https://www.amon-hen.com/politics/32760)
 - [Depressed and Defeated](https://www.amon-hen.com/politics/32775)
 - [You know which word they really want to use](https://www.amon-hen.com/politics/32773)
 - [The point of JD Vance](https://www.amon-hen.com/politics/32767)
@@ -10,10 +11,10 @@
 - [MST3K Short 0110 – Radar Men from the Moon 9](https://www.amon-hen.com/television/9299)
 - [Reading: Guardian](https://www.amon-hen.com/books/297)
 - [The City (1939)](https://www.amon-hen.com/politics/32750)
-- [Change is Everything](https://www.amon-hen.com/music/32746)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Chicago Royal Airs Alumni Corps (2002)](https://www.drum-corps.net/history/2225)
 - [Mighty St. Joe’s Alumni Corps (1995)](https://www.drum-corps.net/history/2234)
 - [27th Lancers Alumni Corps (1994)](https://www.drum-corps.net/history/2222)
 - [Drum Corps World – August 16, 2024](https://www.drum-corps.net/news/3378)
@@ -23,7 +24,6 @@
 - [2024 SoundSport International Music & Food Festival](https://www.drum-corps.net/news/3366)
 - [2024 DCI All-Age World Championship](https://www.drum-corps.net/scores/dci/3343)
 - [Crossmen 50th Anniversary Alumni Corps (2024)](https://www.drum-corps.net/history/3341)
-- [2024 DCI World Championship Semifinals](https://www.drum-corps.net/scores/dci/3337)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It is undesirable to believe a proposition when there is no ground whatsoever for supposing it is true.</em><br /> -- Bertrand Russell</p>
+<p><em>Some men are born mediocre, some men achieve mediocrity, and some men have mediocrity thrust upon them.</em><br /> -- Joseph Heller (<em>Catch-22</em>)</p>
