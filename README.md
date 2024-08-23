@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Highly Finished–Fried Crap](https://www.amon-hen.com/food/32783)
+- [Hospice](https://www.amon-hen.com/politics/32787)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Highly Finished–Fried Crap](https://www.amon-hen.com/food/32783)
 - [MST3K 1005 – Blood Waters of Dr. Z](https://www.amon-hen.com/television/3676)
 - [Last Week Tonight – S1 E15: Ferguson, the Gender Wage Gap & Iran](https://www.amon-hen.com/politics/32760)
 - [Depressed and Defeated](https://www.amon-hen.com/politics/32775)
@@ -10,10 +11,10 @@
 - [The point of JD Vance](https://www.amon-hen.com/politics/32767)
 - [Murdering Hobos for Sport](https://www.amon-hen.com/politics/32764)
 - [MST3K Short 0110 – Radar Men from the Moon 9](https://www.amon-hen.com/television/9299)
-- [Reading: Guardian](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Madison Scouts Alumni Corps (2006)](https://www.drum-corps.net/history/2251)
 - [A 12-Minute Show, Played Only Once, Just Might Live Forever](https://www.drum-corps.net/news/3383)
 - [Hawthorne Caballeros Alumni Corps (2005)](https://www.drum-corps.net/history/2241)
 - [Chicago Royal Airs Alumni Corps (2002)](https://www.drum-corps.net/history/2225)
@@ -23,7 +24,6 @@
 - [2024 DCI World Champions](https://www.drum-corps.net/news/3373)
 - [August 12, 2022](https://www.drum-corps.net/history/3371)
 - [2024 World Championship Finals](https://www.drum-corps.net/scores/dci/3350)
-- [2024 SoundSport International Music & Food Festival](https://www.drum-corps.net/news/3366)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>People always ask me, "Where were you when Kennedy was shot?"  Well, I don't have an alibi.</em><br /> -- Emo Philips</p>
+<p><em>He was the kind of man who was not ashamed to show affection.  I guess that's what I hated about him.</em><br /> -- Jack Handey</p>
