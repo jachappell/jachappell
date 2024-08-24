@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Hospice](https://www.amon-hen.com/politics/32787)
+- [The Four Sections](https://www.amon-hen.com/music/32789)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Hospice](https://www.amon-hen.com/politics/32787)
 - [Mmmm, Highly Finished–Fried Crap](https://www.amon-hen.com/food/32783)
 - [MST3K 1005 – Blood Waters of Dr. Z](https://www.amon-hen.com/television/3676)
 - [Last Week Tonight – S1 E15: Ferguson, the Gender Wage Gap & Iran](https://www.amon-hen.com/politics/32760)
@@ -10,10 +11,10 @@
 - [You know which word they really want to use](https://www.amon-hen.com/politics/32773)
 - [The point of JD Vance](https://www.amon-hen.com/politics/32767)
 - [Murdering Hobos for Sport](https://www.amon-hen.com/politics/32764)
-- [MST3K Short 0110 – Radar Men from the Moon 9](https://www.amon-hen.com/television/9299)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Anaheim Kingsmen Alumni Corps (2007)](https://www.drum-corps.net/history/2255)
 - [Madison Scouts Alumni Corps (2006)](https://www.drum-corps.net/history/2251)
 - [A 12-Minute Show, Played Only Once, Just Might Live Forever](https://www.drum-corps.net/news/3383)
 - [Hawthorne Caballeros Alumni Corps (2005)](https://www.drum-corps.net/history/2241)
@@ -23,7 +24,6 @@
 - [Drum Corps World – August 16, 2024](https://www.drum-corps.net/news/3378)
 - [2024 DCI World Champions](https://www.drum-corps.net/news/3373)
 - [August 12, 2022](https://www.drum-corps.net/history/3371)
-- [2024 World Championship Finals](https://www.drum-corps.net/scores/dci/3350)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>He was the kind of man who was not ashamed to show affection.  I guess that's what I hated about him.</em><br /> -- Jack Handey</p>
+<p><em>America: The only country that matters. If you want to experience other "cultures," use an atlas or a ham radio.</em><br /> -- Ron Swanson</p>
