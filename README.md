@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Invasion, U.S.A. (1952)](https://www.amon-hen.com/movies/32791)
+- [MST3K Short 1304 – Sleep For Health](https://www.amon-hen.com/humor/32756)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Invasion, U.S.A. (1952)](https://www.amon-hen.com/movies/32791)
 - [The Four Sections](https://www.amon-hen.com/music/32789)
 - [Hospice](https://www.amon-hen.com/politics/32787)
 - [Mmmm, Highly Finished–Fried Crap](https://www.amon-hen.com/food/32783)
@@ -10,10 +11,10 @@
 - [Last Week Tonight – S1 E15: Ferguson, the Gender Wage Gap & Iran](https://www.amon-hen.com/politics/32760)
 - [Depressed and Defeated](https://www.amon-hen.com/politics/32775)
 - [You know which word they really want to use](https://www.amon-hen.com/politics/32773)
-- [The point of JD Vance](https://www.amon-hen.com/politics/32767)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Star of Indiana Alumni Corps (2010)](https://www.drum-corps.net/history/2274)
 - [Cavaliers Alumni Corps (2008)](https://www.drum-corps.net/history/2258)
 - [Anaheim Kingsmen Alumni Corps (2007)](https://www.drum-corps.net/history/2255)
 - [Madison Scouts Alumni Corps (2006)](https://www.drum-corps.net/history/2251)
@@ -23,7 +24,6 @@
 - [Mighty St. Joe’s Alumni Corps (1995)](https://www.drum-corps.net/history/2234)
 - [27th Lancers Alumni Corps (1994)](https://www.drum-corps.net/history/2222)
 - [Drum Corps World – August 16, 2024](https://www.drum-corps.net/news/3378)
-- [2024 DCI World Champions](https://www.drum-corps.net/news/3373)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius -- and a lot of courage -- to move in the opposite direction.</em><br /> -- Albert Einstein</p>
+<p><em>I bet a fun thing would be to go way back in time to where there was going to be an eclipse and tell the cave men, "If I have come to destroy you, may the sun be blotted out from the sky." Just then the eclipse would start, and they'd probably try to kill you or something, but then you could explain about the rotation of the moon and all, and everyone would get a good laugh.</em><br /> -- Jack Handey</p>
