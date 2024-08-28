@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K 1006 –  Boggy Creek II: And the Legend Continues](https://www.amon-hen.com/television/15734)
+- [If you burn an American flag …](https://www.amon-hen.com/politics/32821)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: Ring Around the Sun](https://www.amon-hen.com/books/297)
 - [Last Week Tonight – S1 E16: Student Debt, Gecko Update & ISIS](https://www.amon-hen.com/politics/32800)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K Short 1304 – Sleep For Health](https://www.amon-hen.com/humor/32756)
 - [Invasion, U.S.A. (1952)](https://www.amon-hen.com/movies/32791)
 - [The Four Sections](https://www.amon-hen.com/music/32789)
 - [Hospice](https://www.amon-hen.com/politics/32787)
 - [Mmmm, Highly Finished–Fried Crap](https://www.amon-hen.com/food/32783)
-- [MST3K 1005 – Blood Waters of Dr. Z](https://www.amon-hen.com/television/3676)
-- [Last Week Tonight – S1 E15: Ferguson, the Gender Wage Gap & Iran](https://www.amon-hen.com/politics/32760)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Santa Clara Vanguard Alumni Corps (2017)](https://www.drum-corps.net/history/2278)
 - [Bridgemen Alumni Corps (2016)](https://www.drum-corps.net/history/2276)
 - [Star of Indiana Alumni Corps (2010)](https://www.drum-corps.net/history/2274)
 - [Cavaliers Alumni Corps (2008)](https://www.drum-corps.net/history/2258)
@@ -23,7 +24,6 @@
 - [Hawthorne Caballeros Alumni Corps (2005)](https://www.drum-corps.net/history/2241)
 - [Chicago Royal Airs Alumni Corps (2002)](https://www.drum-corps.net/history/2225)
 - [Mighty St. Joe’s Alumni Corps (1995)](https://www.drum-corps.net/history/2234)
-- [27th Lancers Alumni Corps (1994)](https://www.drum-corps.net/history/2222)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>We had it tough ... I had to get up at 9 o'clock at night, half an hour before I went to bed, eat a lump of dry poison, work 29 hours down mill, and when we came home our Dad would kill us, and dance about on our grave singing Halelleuia ...</em><br /> -- Monty Python</p>
+<p><em>Any American who is prepared to run for president should automatically, by definition, be disqualified from ever doing so.</em><br /> -- Gore Vidal</p>
