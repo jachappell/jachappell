@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [If you can make it there…](https://www.amon-hen.com/politics/32834)
+- [Mmmm, Canned Wagyu Beef Tallow](https://www.amon-hen.com/food/32805)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 1006 –  Boggy Creek II: And the Legend Continues](https://www.amon-hen.com/television/15734)
 - [If you burn an American flag …](https://www.amon-hen.com/politics/32821)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading: Ring Around the Sun](https://www.amon-hen.com/books/297)
 - [Last Week Tonight – S1 E16: Student Debt, Gecko Update & ISIS](https://www.amon-hen.com/politics/32800)
 - [MST3K Short 1304 – Sleep For Health](https://www.amon-hen.com/humor/32756)
 - [Invasion, U.S.A. (1952)](https://www.amon-hen.com/movies/32791)
 - [The Four Sections](https://www.amon-hen.com/music/32789)
-- [Hospice](https://www.amon-hen.com/politics/32787)
-- [Mmmm, Highly Finished–Fried Crap](https://www.amon-hen.com/food/32783)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Bluecoats Alumni Corps (2022)](https://www.drum-corps.net/history/2282)
 - [Santa Clara Vanguard Alumni Corps (2017)](https://www.drum-corps.net/history/2278)
 - [Bridgemen Alumni Corps (2016)](https://www.drum-corps.net/history/2276)
 - [Star of Indiana Alumni Corps (2010)](https://www.drum-corps.net/history/2274)
@@ -23,7 +24,6 @@
 - [A 12-Minute Show, Played Only Once, Just Might Live Forever](https://www.drum-corps.net/news/3383)
 - [Hawthorne Caballeros Alumni Corps (2005)](https://www.drum-corps.net/history/2241)
 - [Chicago Royal Airs Alumni Corps (2002)](https://www.drum-corps.net/history/2225)
-- [Mighty St. Joe’s Alumni Corps (1995)](https://www.drum-corps.net/history/2234)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Any American who is prepared to run for president should automatically, by definition, be disqualified from ever doing so.</em><br /> -- Gore Vidal</p>
+<p><em>Imagine the people who believe such things and who are not ashamed to ignore, totally, all the patient findings of thinking minds through all the centuries since the Bible was written. And it is these ignorant people, the most uneducated, the most unimaginative, the most unthinking among us, who would make themselves the guides and leaders of us all... I personally resent it bitterly.</em><br /> -- Isaac Asimov</p>
