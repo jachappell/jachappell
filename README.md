@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Lycan Colony](https://www.amon-hen.com/humor/32819)
+- [Rose](https://www.amon-hen.com/music/32813)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Lycan Colony](https://www.amon-hen.com/humor/32819)
 - [If you can make it there…](https://www.amon-hen.com/politics/32834)
 - [Mmmm, Canned Wagyu Beef Tallow](https://www.amon-hen.com/food/32805)
 - [MST3K 1006 –  Boggy Creek II: And the Legend Continues](https://www.amon-hen.com/television/15734)
@@ -10,10 +11,10 @@
 - [Reading: Ring Around the Sun](https://www.amon-hen.com/books/297)
 - [Last Week Tonight – S1 E16: Student Debt, Gecko Update & ISIS](https://www.amon-hen.com/politics/32800)
 - [MST3K Short 1304 – Sleep For Health](https://www.amon-hen.com/humor/32756)
-- [Invasion, U.S.A. (1952)](https://www.amon-hen.com/movies/32791)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Crossmen 50th Anniversary Alumni Corps (2024)](https://www.drum-corps.net/history/3341)
 - [Troopers Legacy Corps (2023)](https://www.drum-corps.net/history/2873)
 - [Bluecoats Alumni Corps (2022)](https://www.drum-corps.net/history/2282)
 - [Santa Clara Vanguard Alumni Corps (2017)](https://www.drum-corps.net/history/2278)
@@ -23,7 +24,6 @@
 - [Anaheim Kingsmen Alumni Corps (2007)](https://www.drum-corps.net/history/2255)
 - [Madison Scouts Alumni Corps (2006)](https://www.drum-corps.net/history/2251)
 - [A 12-Minute Show, Played Only Once, Just Might Live Forever](https://www.drum-corps.net/news/3383)
-- [Hawthorne Caballeros Alumni Corps (2005)](https://www.drum-corps.net/history/2241)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Goddammit! The world is just filling up with more and more idiots! And the computer is giving them access to the world!  They're spreading their stupidity! At least they were contained before--now they're on the loose everywhere!</em><br /> -- Harlan Ellison</p>
+<p><em>Don't tell me God works in mysterious ways. There's nothing so mysterious about it. He's not working at all. He's playing. Or else He's forgotten all about us. That's the kind of God you people talk about- a country bumpkin, a clumsy, bungling, brainless, conceited, uncouth hayseed. Good God, how much reverance can you have for a Supreme being who finds it necessary to include such phenomena as phlegm and tooth decay in His divine system of creation?  What in the world was going through that warped, evil, scatalogical mind of His when He robbed old people of the ability to control their bowel movements? Why in the world did He ever create pain....<br /><br />Who created the dangers? Oh, He was really being charitable to us when He gave us pain! Why couldn't He have used a doorbell instead to notify us, or one of His celestial choirs? Or a system of red and blue neon tubes right in the middle of each person's forehead?....<br /><br />They certainly look beautiful now, writhing in agony or stupified with morphine, don't they? What a colossal, immortal blunderer! When you consider the opportunity and power He had to really do a job and then look at the stupid, ugly little mess He made of it instead, His sheer incompetence is almost staggering. It's obvious He never met a payroll. Why,no self-respecting businessman would hire a bungler like Him as even a shipping clerk!</em><br /> -- Yossarian (<em>Catch-22</em>, Joseph Heller)</p>
