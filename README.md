@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Rose](https://www.amon-hen.com/music/32813)
+- [Radar Secret Service (1950)](https://www.amon-hen.com/movies/32678)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Rose](https://www.amon-hen.com/music/32813)
 - [RiffTrax – Lycan Colony](https://www.amon-hen.com/humor/32819)
 - [If you can make it there…](https://www.amon-hen.com/politics/32834)
 - [Mmmm, Canned Wagyu Beef Tallow](https://www.amon-hen.com/food/32805)
@@ -10,7 +11,6 @@
 - [If you burn an American flag …](https://www.amon-hen.com/politics/32821)
 - [Reading: Ring Around the Sun](https://www.amon-hen.com/books/297)
 - [Last Week Tonight – S1 E16: Student Debt, Gecko Update & ISIS](https://www.amon-hen.com/politics/32800)
-- [MST3K Short 1304 – Sleep For Health](https://www.amon-hen.com/humor/32756)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Don't tell me God works in mysterious ways. There's nothing so mysterious about it. He's not working at all. He's playing. Or else He's forgotten all about us. That's the kind of God you people talk about- a country bumpkin, a clumsy, bungling, brainless, conceited, uncouth hayseed. Good God, how much reverance can you have for a Supreme being who finds it necessary to include such phenomena as phlegm and tooth decay in His divine system of creation?  What in the world was going through that warped, evil, scatalogical mind of His when He robbed old people of the ability to control their bowel movements? Why in the world did He ever create pain....<br /><br />Who created the dangers? Oh, He was really being charitable to us when He gave us pain! Why couldn't He have used a doorbell instead to notify us, or one of His celestial choirs? Or a system of red and blue neon tubes right in the middle of each person's forehead?....<br /><br />They certainly look beautiful now, writhing in agony or stupified with morphine, don't they? What a colossal, immortal blunderer! When you consider the opportunity and power He had to really do a job and then look at the stupid, ugly little mess He made of it instead, His sheer incompetence is almost staggering. It's obvious He never met a payroll. Why,no self-respecting businessman would hire a bungler like Him as even a shipping clerk!</em><br /> -- Yossarian (<em>Catch-22</em>, Joseph Heller)</p>
+<p><em>It was the Law of the Sea, they said.  Civilization ends at the waterline.  Beyond that, we all enter the food chain, and not always right at the top.</em><br /> -- Hunter S. Thompson</p>
