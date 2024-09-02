@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Radar Secret Service (1950)](https://www.amon-hen.com/movies/32678)
+- [MST3K Short 0203 – The Phantom Creeps 1](https://www.amon-hen.com/television/12906)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Radar Secret Service (1950)](https://www.amon-hen.com/movies/32678)
 - [Rose](https://www.amon-hen.com/music/32813)
 - [RiffTrax – Lycan Colony](https://www.amon-hen.com/humor/32819)
 - [If you can make it there…](https://www.amon-hen.com/politics/32834)
@@ -10,10 +11,10 @@
 - [MST3K 1006 –  Boggy Creek II: And the Legend Continues](https://www.amon-hen.com/television/15734)
 - [If you burn an American flag …](https://www.amon-hen.com/politics/32821)
 - [Reading: Ring Around the Sun](https://www.amon-hen.com/books/297)
-- [Last Week Tonight – S1 E16: Student Debt, Gecko Update & ISIS](https://www.amon-hen.com/politics/32800)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World –  September 2024](https://www.drum-corps.net/news/3391)
 - [Crossmen 50th Anniversary Alumni Corps (2024)](https://www.drum-corps.net/history/3341)
 - [Troopers Legacy Corps (2023)](https://www.drum-corps.net/history/2873)
 - [Bluecoats Alumni Corps (2022)](https://www.drum-corps.net/history/2282)
@@ -23,7 +24,6 @@
 - [Cavaliers Alumni Corps (2008)](https://www.drum-corps.net/history/2258)
 - [Anaheim Kingsmen Alumni Corps (2007)](https://www.drum-corps.net/history/2255)
 - [Madison Scouts Alumni Corps (2006)](https://www.drum-corps.net/history/2251)
-- [A 12-Minute Show, Played Only Once, Just Might Live Forever](https://www.drum-corps.net/news/3383)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It was the Law of the Sea, they said.  Civilization ends at the waterline.  Beyond that, we all enter the food chain, and not always right at the top.</em><br /> -- Hunter S. Thompson</p>
+<p><em>You know what, I am gonna have that third steak after all.</em><br /> -- Ron Swanson</p>
