@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0203 – The Phantom Creeps 1](https://www.amon-hen.com/television/12906)
+- [Last Week Tonight – S1 E17: Scottish Independence, Twitter & Bagpipes](https://www.amon-hen.com/politics/32802)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0203 – The Phantom Creeps 1](https://www.amon-hen.com/television/12906)
 - [Radar Secret Service (1950)](https://www.amon-hen.com/movies/32678)
 - [Rose](https://www.amon-hen.com/music/32813)
 - [RiffTrax – Lycan Colony](https://www.amon-hen.com/humor/32819)
@@ -10,7 +11,6 @@
 - [Mmmm, Canned Wagyu Beef Tallow](https://www.amon-hen.com/food/32805)
 - [MST3K 1006 –  Boggy Creek II: And the Legend Continues](https://www.amon-hen.com/television/15734)
 - [If you burn an American flag …](https://www.amon-hen.com/politics/32821)
-- [Reading: Ring Around the Sun](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You know what, I am gonna have that third steak after all.</em><br /> -- Ron Swanson</p>
+<p><em>He wrapped himself in quotations- as a beggar would enfold himself in the purple of Emperors.</em><br /> -- Rudyard Kipling</p>
