@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 1007 – Track Of The Moon Beast](https://www.amon-hen.com/television/15785)
+- [Mmmm, Canned Korean BBQ](https://www.amon-hen.com/food/32723)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 1007 – Track Of The Moon Beast](https://www.amon-hen.com/television/15785)
 - [Last Week Tonight – S1 E17: Scottish Independence, Twitter & Bagpipes](https://www.amon-hen.com/politics/32802)
 - [MST3K Short 0203 – The Phantom Creeps 1](https://www.amon-hen.com/television/12906)
 - [Radar Secret Service (1950)](https://www.amon-hen.com/movies/32678)
@@ -10,7 +11,6 @@
 - [RiffTrax – Lycan Colony](https://www.amon-hen.com/humor/32819)
 - [If you can make it there…](https://www.amon-hen.com/politics/32834)
 - [Mmmm, Canned Wagyu Beef Tallow](https://www.amon-hen.com/food/32805)
-- [MST3K 1006 –  Boggy Creek II: And the Legend Continues](https://www.amon-hen.com/television/15734)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Marriage is the only adventure open to the cowardly.</em><br /> -- Voltaire</p>
+<p><em>Talent is cheap, and many talents treat themselves cheaply.</em><br /> -- Bill Evans</p>
