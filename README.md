@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Mads – Boy and Girl of Britain](https://www.amon-hen.com/humor/32752)
+- [Plans We Made](https://www.amon-hen.com/music/32815)
+- [Affordable Childcare](https://www.amon-hen.com/politics/32839)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Mads – Boy and Girl of Britain](https://www.amon-hen.com/humor/32752)
 - [Mmmm, Canned Korean BBQ](https://www.amon-hen.com/food/32723)
 - [MST3K 1007 – Track Of The Moon Beast](https://www.amon-hen.com/television/15785)
 - [Last Week Tonight – S1 E17: Scottish Independence, Twitter & Bagpipes](https://www.amon-hen.com/politics/32802)
 - [MST3K Short 0203 – The Phantom Creeps 1](https://www.amon-hen.com/television/12906)
 - [Radar Secret Service (1950)](https://www.amon-hen.com/movies/32678)
 - [Rose](https://www.amon-hen.com/music/32813)
-- [RiffTrax – Lycan Colony](https://www.amon-hen.com/humor/32819)
-- [If you can make it there…](https://www.amon-hen.com/politics/32834)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>You live and learn.  At any rate, you live.</em><br /> -- Douglas Adams</p>
+<p><em>Indeed, history is nothing more than a tableau of crimes and misfortunes.</em><br /> -- Voltaire</p>
