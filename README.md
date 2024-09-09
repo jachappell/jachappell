@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [12 to the Moon (1960)](https://www.amon-hen.com/movies/32700)
+- [MST3K Short 0205 – The Phantom Creeps 2](https://www.amon-hen.com/television/12945)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [12 to the Moon (1960)](https://www.amon-hen.com/movies/32700)
 - [Plans We Made](https://www.amon-hen.com/music/32815)
 - [Affordable Childcare](https://www.amon-hen.com/politics/32839)
 - [The Mads – Boy and Girl of Britain](https://www.amon-hen.com/humor/32752)
@@ -10,7 +11,6 @@
 - [MST3K 1007 – Track Of The Moon Beast](https://www.amon-hen.com/television/15785)
 - [Last Week Tonight – S1 E17: Scottish Independence, Twitter & Bagpipes](https://www.amon-hen.com/politics/32802)
 - [MST3K Short 0203 – The Phantom Creeps 1](https://www.amon-hen.com/television/12906)
-- [Radar Secret Service (1950)](https://www.amon-hen.com/movies/32678)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I'm a firm believer in the philosophy of a ruling class.  Especially since I rule.</em><br /> -- Randal Graves</p>
+<p><em>Never hurts to have a second set of prints on a gun.</em><br /> -- Nelson Muntz</p>
