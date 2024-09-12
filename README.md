@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 1008 – Final Justice](https://www.amon-hen.com/television/6693)
+- [Fact-checks that Trumpers are mad about today](https://www.amon-hen.com/politics/32864)
+- [Mmmm, Chocolate Peanut Butter Pops](https://www.amon-hen.com/food/32850)
+- [Killing Pets](https://www.amon-hen.com/politics/32862)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 1008 – Final Justice](https://www.amon-hen.com/television/6693)
 - [Political Idolatry](https://www.amon-hen.com/politics/32857)
 - [Last Week Tonight – S1 E18: Miss America, Cuba Embargo & Scotland Update](https://www.amon-hen.com/politics/32848)
 - [MST3K Short 0205 – The Phantom Creeps 2](https://www.amon-hen.com/television/12945)
 - [12 to the Moon (1960)](https://www.amon-hen.com/movies/32700)
 - [Plans We Made](https://www.amon-hen.com/music/32815)
-- [Affordable Childcare](https://www.amon-hen.com/politics/32839)
-- [The Mads – Boy and Girl of Britain](https://www.amon-hen.com/humor/32752)
-- [Mmmm, Canned Korean BBQ](https://www.amon-hen.com/food/32723)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>As in certain cults it is possible to kill a process if you know its true name.</em><br /> -- Ken Thompson and Dennis M. Ritchie</p>
+<p><em>Words are the litmus paper of the minds. If you find yourself in the power of someone who will use the word "commence" in cold blood, go somewhere else very quickly. But if they say "Enter", don't stop to pack.</em><br /> -- Terry Pratchett (<em>Small Gods</em>)</p>
