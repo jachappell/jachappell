@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Agape](https://www.amon-hen.com/music/32870)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [His entire life’s work has been less successful than if he’d done nothing](https://www.amon-hen.com/politics/32874)
 - [Manipulating Trump](https://www.amon-hen.com/politics/32872)
 - [Reading: Camouflage](https://www.amon-hen.com/books/297)
 - [School Lunch](https://www.amon-hen.com/politics/32866)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Fact-checks that Trumpers are mad about today](https://www.amon-hen.com/politics/32864)
 - [Mmmm, Chocolate Peanut Butter Pops](https://www.amon-hen.com/food/32850)
 - [Killing Pets](https://www.amon-hen.com/politics/32862)
 - [MST3K 1008 – Final Justice](https://www.amon-hen.com/television/6693)
-- [Political Idolatry](https://www.amon-hen.com/politics/32857)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I don't own a computer, or a modem, or anything like that; I still work on a manual typewriter, </em>by choice<em>, and to those who consider me a Luddite I say: Fuck you and yo mama. I operate at the level of technology that </em>best suits my needs<em>. And I type at 120 words per minute --two fingers --I make no mistakes, and my manuscripts are </em>real<em>. You can pick them up and hold them. My typewriter doesn't dump it's memory --I don't </em>lose<em> a book.</em><br /> -- Harlan Ellison</p>
+<p><em>I'll be more enthusiastic about encouraging thinking outside the box when there's evidence of any thinking going on inside it.</em><br /> -- Terry Pratchett</p>
