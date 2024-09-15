@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Agape](https://www.amon-hen.com/music/32870)
+- [Eegah (1962)](https://www.amon-hen.com/movies/32876)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Agape](https://www.amon-hen.com/music/32870)
 - [His entire life’s work has been less successful than if he’d done nothing](https://www.amon-hen.com/politics/32874)
 - [Manipulating Trump](https://www.amon-hen.com/politics/32872)
 - [Reading: Camouflage](https://www.amon-hen.com/books/297)
@@ -10,7 +11,6 @@
 - [Fact-checks that Trumpers are mad about today](https://www.amon-hen.com/politics/32864)
 - [Mmmm, Chocolate Peanut Butter Pops](https://www.amon-hen.com/food/32850)
 - [Killing Pets](https://www.amon-hen.com/politics/32862)
-- [MST3K 1008 – Final Justice](https://www.amon-hen.com/television/6693)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I'll be more enthusiastic about encouraging thinking outside the box when there's evidence of any thinking going on inside it.</em><br /> -- Terry Pratchett</p>
+<p><em>Colonel Klink, why have you forsaken me?</em><br /> -- Homer J. Simpson</p>
