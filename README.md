@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Last Week Tonight – S1 E19: Drones, Kansas & Afghanistan](https://www.amon-hen.com/politics/32884)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [It might be time for a gut check.](https://www.amon-hen.com/politics/32889)
 - [A demented tapeworm](https://www.amon-hen.com/politics/32887)
 - [MST3K Short 0206 – The Phantom Creeps 3](https://www.amon-hen.com/television/12987)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Eegah (1962)](https://www.amon-hen.com/movies/32876)
 - [Agape](https://www.amon-hen.com/music/32870)
 - [His entire life’s work has been less successful than if he’d done nothing](https://www.amon-hen.com/politics/32874)
 - [Manipulating Trump](https://www.amon-hen.com/politics/32872)
 - [Reading: Camouflage](https://www.amon-hen.com/books/297)
-- [School Lunch](https://www.amon-hen.com/politics/32866)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Washington couldn't tell a lie, Nixon couldn't tell the truth, and Reagan couldn't tell the difference.</em><br /> -- Mort Sahl</p>
+<p><em>Patriotism is the last refuge of a scoundrel.</em><br /> -- Samuel Johnson</p>
