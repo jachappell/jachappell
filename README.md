@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Last Week Tonight – S1 E19: Drones, Kansas & Afghanistan](https://www.amon-hen.com/politics/32884)
+- [MST3K 1009 – Hamlet](https://www.amon-hen.com/television/15814)
+- [Scientific American Endorses Kamala Harris](https://www.amon-hen.com/science/32910)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Last Week Tonight – S1 E19: Drones, Kansas & Afghanistan](https://www.amon-hen.com/politics/32884)
 - [It might be time for a gut check.](https://www.amon-hen.com/politics/32889)
 - [A demented tapeworm](https://www.amon-hen.com/politics/32887)
 - [MST3K Short 0206 – The Phantom Creeps 3](https://www.amon-hen.com/television/12987)
 - [Eegah (1962)](https://www.amon-hen.com/movies/32876)
 - [Agape](https://www.amon-hen.com/music/32870)
 - [His entire life’s work has been less successful than if he’d done nothing](https://www.amon-hen.com/politics/32874)
-- [Manipulating Trump](https://www.amon-hen.com/politics/32872)
-- [Reading: Camouflage](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Patriotism is the last refuge of a scoundrel.</em><br /> -- Samuel Johnson</p>
+<p><em>America's health care system is second only to Japan... Canada, Sweden, Great Britain... well, all of Europe.  But you can thank your lucky stars we don't live in Paraguay!</em><br /> -- Homer J. Simpson</p>
