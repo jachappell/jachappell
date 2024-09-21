@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Love / Lover / Friend](https://www.amon-hen.com/music/32915)
+- [10 Worst Things About The Trump Presidency](https://www.amon-hen.com/politics/32917)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Talk Like a Pirate Day](https://www.amon-hen.com/weirdness/1025)
 - [Melania’s Nudes](https://www.amon-hen.com/politics/32913)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Ketchips](https://www.amon-hen.com/food/32896)
 - [MST3K 1009 – Hamlet](https://www.amon-hen.com/television/15814)
 - [Scientific American Endorses Kamala Harris](https://www.amon-hen.com/science/32910)
 - [Last Week Tonight – S1 E19: Drones, Kansas & Afghanistan](https://www.amon-hen.com/politics/32884)
 - [It might be time for a gut check.](https://www.amon-hen.com/politics/32889)
-- [A demented tapeworm](https://www.amon-hen.com/politics/32887)
-- [MST3K Short 0206 – The Phantom Creeps 3](https://www.amon-hen.com/television/12987)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>In the game of chess you can never let your adversary see your pieces.</em><br /> -- Captain Zapp Brannigan</p>
+<p><em>I find television very educating. Every time somebody turns on the set, I go into the other room and read a book.</em><br /> -- Groucho Marx</p>
