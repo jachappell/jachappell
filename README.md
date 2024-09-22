@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [President Vance](https://www.amon-hen.com/politics/32928)
+- [Girls Town (1959)](https://www.amon-hen.com/movies/32920)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [What a great investment!!!](https://www.amon-hen.com/politics/32926)
 - [Love / Lover / Friend](https://www.amon-hen.com/music/32915)
 - [10 Worst Things About The Trump Presidency](https://www.amon-hen.com/politics/32917)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Talk Like a Pirate Day](https://www.amon-hen.com/weirdness/1025)
 - [Melania’s Nudes](https://www.amon-hen.com/politics/32913)
 - [Mmmm, Ketchips](https://www.amon-hen.com/food/32896)
 - [MST3K 1009 – Hamlet](https://www.amon-hen.com/television/15814)
-- [Scientific American Endorses Kamala Harris](https://www.amon-hen.com/science/32910)
-- [Last Week Tonight – S1 E19: Drones, Kansas & Afghanistan](https://www.amon-hen.com/politics/32884)
-- [It might be time for a gut check.](https://www.amon-hen.com/politics/32889)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I find television very educating. Every time somebody turns on the set, I go into the other room and read a book.</em><br /> -- Groucho Marx</p>
+<p><em>Without rules, we all might as well be up in a tree flinging our crap at each other.</em><br /> -- Red Forman</p>
