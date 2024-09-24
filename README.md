@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Last Week Tonight – S1 E20: Civil Forfeiture, Hong Kong Protests & Brazil](https://www.amon-hen.com/politics/32938)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [That’s what racist assholes do](https://www.amon-hen.com/politics/32941)
 - [MST3K Short 0210 – X Marks the Spot](https://www.amon-hen.com/television/6290)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [President Vance](https://www.amon-hen.com/politics/32928)
 - [Girls Town (1959)](https://www.amon-hen.com/movies/32920)
 - [What a great investment!!!](https://www.amon-hen.com/politics/32926)
 - [Love / Lover / Friend](https://www.amon-hen.com/music/32915)
 - [10 Worst Things About The Trump Presidency](https://www.amon-hen.com/politics/32917)
 - [Talk Like a Pirate Day](https://www.amon-hen.com/weirdness/1025)
-- [Melania’s Nudes](https://www.amon-hen.com/politics/32913)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The man who sets out to carry a cat by its tail learns something that will always be useful and which never will grow dim or doubtful.</em><br /> -- Mark Twain</p>
+<p><em>Why should we be in such desperate haste to succeed, and in such desperate enterprises? If a man does not keep pace with his companions, perhaps it is because he hears a different drummer. Let him step to the music which he hears, however measured or far away.</em><br /> -- Henry David Thoreau</p>
