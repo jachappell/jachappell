@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Disability Benefits](https://www.amon-hen.com/politics/32959)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Harris should get to make shit up](https://www.amon-hen.com/politics/32957)
 - [Mmmm, Vagetable Dupling](https://www.amon-hen.com/food/32945)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 1010 – It Lives By Night](https://www.amon-hen.com/television/15850)
 - [Nothing says pro-life more than supporting the execution of a possibly innocent man](https://www.amon-hen.com/politics/32950)
 - [Reading: Quantum Mechanics (The Theoretical Minimum)](https://www.amon-hen.com/books/297)
 - [Last Week Tonight – S1 E20: Civil Forfeiture, Hong Kong Protests & Brazil](https://www.amon-hen.com/politics/32938)
 - [That’s what racist assholes do](https://www.amon-hen.com/politics/32941)
 - [MST3K Short 0210 – X Marks the Spot](https://www.amon-hen.com/television/6290)
-- [President Vance](https://www.amon-hen.com/politics/32928)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>In the part of this universe that we know there is great injustice, and often the good suffer, and often the wicked prosper, and one hardly knows which of those is the more annoying.</em><br /> --Bertrand Russell </p>
+<p><em>They have the Internet on computers, now?</em><br /> -- Homer J. Simpson</p>
