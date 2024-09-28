@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Disability Benefits](https://www.amon-hen.com/politics/32959)
+- [Trump Watches](https://www.amon-hen.com/politics/32964)
+- [Threshold](https://www.amon-hen.com/music/32955)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Disability Benefits](https://www.amon-hen.com/politics/32959)
 - [Harris should get to make shit up](https://www.amon-hen.com/politics/32957)
 - [Mmmm, Vagetable Dupling](https://www.amon-hen.com/food/32945)
 - [MST3K 1010 – It Lives By Night](https://www.amon-hen.com/television/15850)
 - [Nothing says pro-life more than supporting the execution of a possibly innocent man](https://www.amon-hen.com/politics/32950)
 - [Reading: Quantum Mechanics (The Theoretical Minimum)](https://www.amon-hen.com/books/297)
 - [Last Week Tonight – S1 E20: Civil Forfeiture, Hong Kong Protests & Brazil](https://www.amon-hen.com/politics/32938)
-- [That’s what racist assholes do](https://www.amon-hen.com/politics/32941)
-- [MST3K Short 0210 – X Marks the Spot](https://www.amon-hen.com/television/6290)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>They have the Internet on computers, now?</em><br /> -- Homer J. Simpson</p>
+<p><em>All right, who did this? I'm not mad, I just want to know who did it so I can punish them.</em><br /> -- Dwight Kurt Schrute III</p>
