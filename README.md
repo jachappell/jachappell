@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [The Dead Talk Back (1957)](https://www.amon-hen.com/movies/32962)
+- [MST3K Short 0307 – Alphabet Antics](https://www.amon-hen.com/television/6272)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [The Dead Talk Back (1957)](https://www.amon-hen.com/movies/32962)
 - [Trump Watches](https://www.amon-hen.com/politics/32964)
 - [Threshold](https://www.amon-hen.com/music/32955)
 - [Disability Benefits](https://www.amon-hen.com/politics/32959)
@@ -10,7 +11,6 @@
 - [Mmmm, Vagetable Dupling](https://www.amon-hen.com/food/32945)
 - [MST3K 1010 – It Lives By Night](https://www.amon-hen.com/television/15850)
 - [Nothing says pro-life more than supporting the execution of a possibly innocent man](https://www.amon-hen.com/politics/32950)
-- [Reading: Quantum Mechanics (The Theoretical Minimum)](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>So, a graduate student, huh?  How come you guys can go to the moon but you can't make my shoes smell good?</em><br /> -- Homer J. Simpson</p>
+<p><em>When you encounter seemingly good advice that contradicts other seemingly good advice, ignore them both.</em><br /> -- Al Franken</p>
