@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0307 – Alphabet Antics](https://www.amon-hen.com/television/6272)
+- [Last Week Tonight – S1 E21: Translators, Supreme Court & Ebola](https://www.amon-hen.com/politics/32454)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0307 – Alphabet Antics](https://www.amon-hen.com/television/6272)
 - [The Dead Talk Back (1957)](https://www.amon-hen.com/movies/32962)
 - [Trump Watches](https://www.amon-hen.com/politics/32964)
 - [Threshold](https://www.amon-hen.com/music/32955)
@@ -10,7 +11,6 @@
 - [Harris should get to make shit up](https://www.amon-hen.com/politics/32957)
 - [Mmmm, Vagetable Dupling](https://www.amon-hen.com/food/32945)
 - [MST3K 1010 – It Lives By Night](https://www.amon-hen.com/television/15850)
-- [Nothing says pro-life more than supporting the execution of a possibly innocent man](https://www.amon-hen.com/politics/32950)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When you encounter seemingly good advice that contradicts other seemingly good advice, ignore them both.</em><br /> -- Al Franken</p>
+<p><em>Here's my card. It's got my cell number, my pager number, my home number and my other pager number. I never take vacations, I never get sick. And I don't celebrate any major holidays.</em><br /> -- Dwight Kurt Schrute III</p>
