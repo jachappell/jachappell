@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Last Week Tonight – S1 E21: Translators, Supreme Court & Ebola](https://www.amon-hen.com/politics/32454)
+- [MST3K 1011 – Horrors of Spider Island](https://www.amon-hen.com/television/4750)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Last Week Tonight – S1 E21: Translators, Supreme Court & Ebola](https://www.amon-hen.com/politics/32454)
 - [MST3K Short 0307 – Alphabet Antics](https://www.amon-hen.com/television/6272)
 - [The Dead Talk Back (1957)](https://www.amon-hen.com/movies/32962)
 - [Trump Watches](https://www.amon-hen.com/politics/32964)
@@ -10,7 +11,6 @@
 - [Disability Benefits](https://www.amon-hen.com/politics/32959)
 - [Harris should get to make shit up](https://www.amon-hen.com/politics/32957)
 - [Mmmm, Vagetable Dupling](https://www.amon-hen.com/food/32945)
-- [MST3K 1010 – It Lives By Night](https://www.amon-hen.com/television/15850)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Here's my card. It's got my cell number, my pager number, my home number and my other pager number. I never take vacations, I never get sick. And I don't celebrate any major holidays.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>His power lies apparently in his ability to choose incompetent enemies.</em><br /> -- Crow T. Robot</p>
