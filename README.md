@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 1011 – Horrors of Spider Island](https://www.amon-hen.com/television/4750)
+- [The Quantum Revolution](https://www.amon-hen.com/science/32986)
+- [Mmmm, Corn Flakes](https://www.amon-hen.com/food/32977)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 1011 – Horrors of Spider Island](https://www.amon-hen.com/television/4750)
 - [Last Week Tonight – S1 E21: Translators, Supreme Court & Ebola](https://www.amon-hen.com/politics/32454)
 - [MST3K Short 0307 – Alphabet Antics](https://www.amon-hen.com/television/6272)
 - [The Dead Talk Back (1957)](https://www.amon-hen.com/movies/32962)
 - [Trump Watches](https://www.amon-hen.com/politics/32964)
 - [Threshold](https://www.amon-hen.com/music/32955)
 - [Disability Benefits](https://www.amon-hen.com/politics/32959)
-- [Harris should get to make shit up](https://www.amon-hen.com/politics/32957)
-- [Mmmm, Vagetable Dupling](https://www.amon-hen.com/food/32945)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>His power lies apparently in his ability to choose incompetent enemies.</em><br /> -- Crow T. Robot</p>
+<p><em>I like having the capitol of the United States in Washington, D.C., in spite of recent efforts to move it to Lynchburg, Virginia</em><br /> -- Frank Zappa</p>
