@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Federal Courts](https://www.amon-hen.com/politics/32991)
+- [Dymaxion](https://www.amon-hen.com/music/32989)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Federal Courts](https://www.amon-hen.com/politics/32991)
 - [The Quantum Revolution](https://www.amon-hen.com/science/32986)
 - [Mmmm, Corn Flakes](https://www.amon-hen.com/food/32977)
 - [MST3K 1011 – Horrors of Spider Island](https://www.amon-hen.com/television/4750)
@@ -10,7 +11,6 @@
 - [MST3K Short 0307 – Alphabet Antics](https://www.amon-hen.com/television/6272)
 - [The Dead Talk Back (1957)](https://www.amon-hen.com/movies/32962)
 - [Trump Watches](https://www.amon-hen.com/politics/32964)
-- [Threshold](https://www.amon-hen.com/music/32955)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When belief in a god dies, the god dies.</em><br /> -- Harlan Ellison (<em>Deathbird Stories</em>)</p>
+<p><em>Now, like all great plans, my strategy is so simple an idiot could have devised it.  On my command all ships will line up and file directly into the alien death cannons, clogging them with wreckage.</em><br /> -- Captain Zapp Brannigan</p>
