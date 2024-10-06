@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Dymaxion](https://www.amon-hen.com/music/32989)
+- [Colossus and the Headhunters](https://www.amon-hen.com/movies/32993)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Dymaxion](https://www.amon-hen.com/music/32989)
 - [Federal Courts](https://www.amon-hen.com/politics/32991)
 - [The Quantum Revolution](https://www.amon-hen.com/science/32986)
 - [Mmmm, Corn Flakes](https://www.amon-hen.com/food/32977)
@@ -10,7 +11,6 @@
 - [Last Week Tonight – S1 E21: Translators, Supreme Court & Ebola](https://www.amon-hen.com/politics/32454)
 - [MST3K Short 0307 – Alphabet Antics](https://www.amon-hen.com/television/6272)
 - [The Dead Talk Back (1957)](https://www.amon-hen.com/movies/32962)
-- [Trump Watches](https://www.amon-hen.com/politics/32964)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Now, like all great plans, my strategy is so simple an idiot could have devised it.  On my command all ships will line up and file directly into the alien death cannons, clogging them with wreckage.</em><br /> -- Captain Zapp Brannigan</p>
+<p><em>Age is not a particularly interesting subject. Anyone can get old. All you have to do is live long enough.</em><br /> -- Groucho Marx</p>
