@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0311 – Snow Thrills](https://www.amon-hen.com/television/9535)
+- [RiffTrax – Samurai Cop](https://www.amon-hen.com/humor/29253)
+- [Last Week Tonight – S1 E22: Sugar, Doug Ford & More Ebola](https://www.amon-hen.com/politics/33001)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0311 – Snow Thrills](https://www.amon-hen.com/television/9535)
 - [Colossus and the Headhunters](https://www.amon-hen.com/movies/32993)
 - [Dymaxion](https://www.amon-hen.com/music/32989)
 - [Federal Courts](https://www.amon-hen.com/politics/32991)
 - [The Quantum Revolution](https://www.amon-hen.com/science/32986)
 - [Mmmm, Corn Flakes](https://www.amon-hen.com/food/32977)
 - [MST3K 1011 – Horrors of Spider Island](https://www.amon-hen.com/television/4750)
-- [Last Week Tonight – S1 E21: Translators, Supreme Court & Ebola](https://www.amon-hen.com/politics/32454)
-- [MST3K Short 0307 – Alphabet Antics](https://www.amon-hen.com/television/6272)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>My father was a relentlessly self-improving boulangerie owner from Belgium with low-grade narcolepsy and a penchant for buggery.  My mother was a 15 year old French prostitute named Chloe with webbed feet.  My father would womanize, he would drink, he would make outrageous claims, like he invented the question mark. Sometimes, he would accuse chestnuts of being lazy - the sort of general malaise that only the genius possess and the insane lament.  My childhood was typical: summers in Rangoon, luge lessons.  In the spring, we'd make meat helmets.  When I was insolent, I was placed in a burlap bag and beaten with reeds.  Pretty standard, really.</em><br /> -- Dr. Evil</p>
+<p><em>The only function of economic forecasting is to make astrology look respectable.</em><br /> -- John Kenneth Galbraith</p>
