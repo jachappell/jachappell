@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [If Trump is president the next time America is hit with a natural disaster…](https://www.amon-hen.com/politics/33021)
+- [Mmmm, Flesh Salada](https://www.amon-hen.com/food/33009)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 1012 – Squirm](https://www.amon-hen.com/television/4326)
 - [Frank Zappa: March 1, 1988 – Frauenthal Theatre, Muskegon, MI](https://www.amon-hen.com/chappells-show/33014)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [RiffTrax – Samurai Cop](https://www.amon-hen.com/humor/29253)
 - [Last Week Tonight – S1 E22: Sugar, Doug Ford & More Ebola](https://www.amon-hen.com/politics/33001)
 - [MST3K Short 0311 – Snow Thrills](https://www.amon-hen.com/television/9535)
 - [Colossus and the Headhunters](https://www.amon-hen.com/movies/32993)
 - [Dymaxion](https://www.amon-hen.com/music/32989)
-- [Federal Courts](https://www.amon-hen.com/politics/32991)
-- [The Quantum Revolution](https://www.amon-hen.com/science/32986)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If life was fair, Elvis would be alive and all the impersonators would be dead.</em><br /> -- Johnny Carson</p>
+<p><em>Once I got poison ivy on my brain and the only way I could scratch it was to think about sandpaper.</em><br /> -- Stephen Wright</p>
