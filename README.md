@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Lost It To Trying](https://www.amon-hen.com/music/33025)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Give up](https://www.amon-hen.com/humor/33033)
 - [Traffic Stops](https://www.amon-hen.com/politics/33023)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [If Trump is president the next time America is hit with a natural disaster…](https://www.amon-hen.com/politics/33021)
 - [Mmmm, Flesh Salada](https://www.amon-hen.com/food/33009)
 - [MST3K 1012 – Squirm](https://www.amon-hen.com/television/4326)
 - [Frank Zappa: March 1, 1988 – Frauenthal Theatre, Muskegon, MI](https://www.amon-hen.com/chappells-show/33014)
 - [RiffTrax – Samurai Cop](https://www.amon-hen.com/humor/29253)
 - [Last Week Tonight – S1 E22: Sugar, Doug Ford & More Ebola](https://www.amon-hen.com/politics/33001)
-- [MST3K Short 0311 – Snow Thrills](https://www.amon-hen.com/television/9535)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The enemy is anybody who's going to get you killed, no matter which side he's on.</em><br /> -- Joseph Heller</p>
+<p><em>That is the saving grace of humor, if you fail no one is laughing at you.</em><br /> -- A. Whitney Brown</p>
