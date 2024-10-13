@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Lost It To Trying](https://www.amon-hen.com/music/33025)
+- [Phobe: The Xenophobic Experiments (1995)](https://www.amon-hen.com/movies/33041)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Lost It To Trying](https://www.amon-hen.com/music/33025)
 - [Give up](https://www.amon-hen.com/humor/33033)
 - [Traffic Stops](https://www.amon-hen.com/politics/33023)
 - [If Trump is president the next time America is hit with a natural disaster…](https://www.amon-hen.com/politics/33021)
@@ -10,7 +11,6 @@
 - [MST3K 1012 – Squirm](https://www.amon-hen.com/television/4326)
 - [Frank Zappa: March 1, 1988 – Frauenthal Theatre, Muskegon, MI](https://www.amon-hen.com/chappells-show/33014)
 - [RiffTrax – Samurai Cop](https://www.amon-hen.com/humor/29253)
-- [Last Week Tonight – S1 E22: Sugar, Doug Ford & More Ebola](https://www.amon-hen.com/politics/33001)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>That is the saving grace of humor, if you fail no one is laughing at you.</em><br /> -- A. Whitney Brown</p>
+<p><em>Everyone is entitled to an </em>informed<em> opinion.</em><br /> -- Harlan Ellison</p>
