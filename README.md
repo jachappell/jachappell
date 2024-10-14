@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Phobe: The Xenophobic Experiments (1995)](https://www.amon-hen.com/movies/33041)
+- [MST3K Short 0313 – Speech: Using Your Voice](https://www.amon-hen.com/television/7145)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Phobe: The Xenophobic Experiments (1995)](https://www.amon-hen.com/movies/33041)
 - [Lost It To Trying](https://www.amon-hen.com/music/33025)
 - [Give up](https://www.amon-hen.com/humor/33033)
 - [Traffic Stops](https://www.amon-hen.com/politics/33023)
@@ -10,7 +11,6 @@
 - [Mmmm, Flesh Salada](https://www.amon-hen.com/food/33009)
 - [MST3K 1012 – Squirm](https://www.amon-hen.com/television/4326)
 - [Frank Zappa: March 1, 1988 – Frauenthal Theatre, Muskegon, MI](https://www.amon-hen.com/chappells-show/33014)
-- [RiffTrax – Samurai Cop](https://www.amon-hen.com/humor/29253)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Everyone is entitled to an </em>informed<em> opinion.</em><br /> -- Harlan Ellison</p>
+<p><em>Don't marry for money; you can borrow it cheaper.</em><br /> -- Scottish proverb </p>
