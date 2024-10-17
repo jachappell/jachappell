@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [The father of IVF](https://www.amon-hen.com/politics/33087)
+- [Mmmm, Spicy Blood Clot](https://www.amon-hen.com/food/33052)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 1013 – Diabolik](https://www.amon-hen.com/television/15868)
 - [Departure From Traditional Campaigning](https://www.amon-hen.com/politics/33063)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Last Week Tonight – State Legislatures, ALEC & New Zealand’s Flag](https://www.amon-hen.com/politics/33044)
 - [MST3K Short 0313 – Speech: Using Your Voice](https://www.amon-hen.com/television/7145)
 - [Phobe: The Xenophobic Experiments (1995)](https://www.amon-hen.com/movies/33041)
 - [Lost It To Trying](https://www.amon-hen.com/music/33025)
 - [Give up](https://www.amon-hen.com/humor/33033)
-- [Traffic Stops](https://www.amon-hen.com/politics/33023)
-- [If Trump is president the next time America is hit with a natural disaster…](https://www.amon-hen.com/politics/33021)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If I had a mine shaft, I don't think I would just abandon it.  There's got to be a better way.</em><br /> -- Jack Handey</p>
+<p><em>Frank knew that no man had ever crossed the desert on foot and lived to  tell about it.  So, he decided to get back in his car and keep driving.</em><br /> -- Jack Handey</p>
