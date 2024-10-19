@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Election Subversion 2024](https://www.amon-hen.com/politics/33092)
+- [Day of Love](https://www.amon-hen.com/politics/33102)
+- [Reading – The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War](https://www.amon-hen.com/books/297)
+- [Night Terror](https://www.amon-hen.com/music/33049)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Election Subversion 2024](https://www.amon-hen.com/politics/33092)
 - [The father of IVF](https://www.amon-hen.com/politics/33087)
 - [Mmmm, Spicy Blood Clot](https://www.amon-hen.com/food/33052)
 - [MST3K 1013 – Diabolik](https://www.amon-hen.com/television/15868)
 - [Departure From Traditional Campaigning](https://www.amon-hen.com/politics/33063)
 - [Last Week Tonight – State Legislatures, ALEC & New Zealand’s Flag](https://www.amon-hen.com/politics/33044)
-- [MST3K Short 0313 – Speech: Using Your Voice](https://www.amon-hen.com/television/7145)
-- [Phobe: The Xenophobic Experiments (1995)](https://www.amon-hen.com/movies/33041)
-- [Lost It To Trying](https://www.amon-hen.com/music/33025)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The two most abundant things in the universe are hydrogen and stupidity.</em><br /> -- Harlan Ellison</p>
+<p><em>I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve.</em><br /> -- J.R.R. Tolkien</p>
