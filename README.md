@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Bloodz vs. Wolvez (2006)](https://www.amon-hen.com/movies/33108)
+- [Donald Trump visited a McDonald’s](https://www.amon-hen.com/politics/33125)
+- [MST3K Short 0315 – Aquatic Wizards](https://www.amon-hen.com/television/6520)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Bloodz vs. Wolvez (2006)](https://www.amon-hen.com/movies/33108)
 - [Day of Love](https://www.amon-hen.com/politics/33102)
 - [Reading – The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War](https://www.amon-hen.com/books/297)
 - [Night Terror](https://www.amon-hen.com/music/33049)
 - [Election Subversion 2024](https://www.amon-hen.com/politics/33092)
 - [The father of IVF](https://www.amon-hen.com/politics/33087)
 - [Mmmm, Spicy Blood Clot](https://www.amon-hen.com/food/33052)
-- [MST3K 1013 – Diabolik](https://www.amon-hen.com/television/15868)
-- [Departure From Traditional Campaigning](https://www.amon-hen.com/politics/33063)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Progress isn't made by early risers. It's made by lazy men trying to find easier ways to do something.</em><br /> -- Robert Heinlein</p>
+<p><em>When I meet a man I ask myself, "Is this the man I want my children to spend their weekends with?"</em><br /> -- Rita Rudner</p>
