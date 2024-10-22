@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Last Week Tonight – S1 E24: The Lottery, Erdogan & a Fish Cannon](https://www.amon-hen.com/politics/33046)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Donald Trump visited a McDonald’s](https://www.amon-hen.com/politics/33125)
 - [MST3K Short 0315 – Aquatic Wizards](https://www.amon-hen.com/television/6520)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Bloodz vs. Wolvez (2006)](https://www.amon-hen.com/movies/33108)
 - [Day of Love](https://www.amon-hen.com/politics/33102)
 - [Reading – The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War](https://www.amon-hen.com/books/297)
 - [Night Terror](https://www.amon-hen.com/music/33049)
 - [Election Subversion 2024](https://www.amon-hen.com/politics/33092)
 - [The father of IVF](https://www.amon-hen.com/politics/33087)
-- [Mmmm, Spicy Blood Clot](https://www.amon-hen.com/food/33052)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When I meet a man I ask myself, "Is this the man I want my children to spend their weekends with?"</em><br /> -- Rita Rudner</p>
+<p><em>There's a fine line between fishing and just standing on the shore like an idiot.</em><br /> -- Stephen Wright</p>
