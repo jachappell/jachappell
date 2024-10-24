@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 0909 – Gorgo](https://www.amon-hen.com/television/15622)
+- [Mmmm, Boxed Spaghetti Dinner](https://www.amon-hen.com/food/33120)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 0909 – Gorgo](https://www.amon-hen.com/television/15622)
 - [Last Week Tonight – S1 E24: The Lottery, Erdogan & a Fish Cannon](https://www.amon-hen.com/politics/33046)
 - [Donald Trump visited a McDonald’s](https://www.amon-hen.com/politics/33125)
 - [MST3K Short 0315 – Aquatic Wizards](https://www.amon-hen.com/television/6520)
@@ -10,10 +11,10 @@
 - [Day of Love](https://www.amon-hen.com/politics/33102)
 - [Reading – The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War](https://www.amon-hen.com/books/297)
 - [Night Terror](https://www.amon-hen.com/music/33049)
-- [Election Subversion 2024](https://www.amon-hen.com/politics/33092)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps World – November 2024](https://www.drum-corps.net/news/3574)
 - [Directors adopt new competitive format for 2025 DCI All-Age Championship](https://www.drum-corps.net/news/3570)
 - [Drum Corps World – October 2024](https://www.drum-corps.net/news/3505)
 - [Drum Corps World –  September 2024](https://www.drum-corps.net/news/3391)
@@ -23,7 +24,6 @@
 - [Santa Clara Vanguard Alumni Corps (2017)](https://www.drum-corps.net/history/2278)
 - [Bridgemen Alumni Corps (2016)](https://www.drum-corps.net/history/2276)
 - [Star of Indiana Alumni Corps (2010)](https://www.drum-corps.net/history/2274)
-- [Cavaliers Alumni Corps (2008)](https://www.drum-corps.net/history/2258)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It looks just like a Telefunken U-47!</em><br /> -- Frank Zappa</p>
+<p><em>The significant problems we have cannot be solved at the same level of thinking with which we created them.</em><br /> -- Albert Einstein</p>
