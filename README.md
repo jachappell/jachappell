@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Boxed Spaghetti Dinner](https://www.amon-hen.com/food/33120)
+- [RiffTrax – Giant Spider Invasion](https://www.amon-hen.com/humor/33110)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Boxed Spaghetti Dinner](https://www.amon-hen.com/food/33120)
 - [MST3K 0909 – Gorgo](https://www.amon-hen.com/television/15622)
 - [Last Week Tonight – S1 E24: The Lottery, Erdogan & a Fish Cannon](https://www.amon-hen.com/politics/33046)
 - [Donald Trump visited a McDonald’s](https://www.amon-hen.com/politics/33125)
@@ -10,7 +11,6 @@
 - [Bloodz vs. Wolvez (2006)](https://www.amon-hen.com/movies/33108)
 - [Day of Love](https://www.amon-hen.com/politics/33102)
 - [Reading – The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War](https://www.amon-hen.com/books/297)
-- [Night Terror](https://www.amon-hen.com/music/33049)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The significant problems we have cannot be solved at the same level of thinking with which we created them.</em><br /> -- Albert Einstein</p>
+<p><em>I had just received my degree in Calcium Anthropology...  the study of milkmen.</em><br /> -- Steven Wright</p>
