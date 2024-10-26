@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [RiffTrax – Giant Spider Invasion](https://www.amon-hen.com/humor/33110)
+- [This Must Be the Place](https://www.amon-hen.com/music/8469)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [RiffTrax – Giant Spider Invasion](https://www.amon-hen.com/humor/33110)
 - [Mmmm, Boxed Spaghetti Dinner](https://www.amon-hen.com/food/33120)
 - [MST3K 0909 – Gorgo](https://www.amon-hen.com/television/15622)
 - [Last Week Tonight – S1 E24: The Lottery, Erdogan & a Fish Cannon](https://www.amon-hen.com/politics/33046)
@@ -10,7 +11,6 @@
 - [MST3K Short 0315 – Aquatic Wizards](https://www.amon-hen.com/television/6520)
 - [Bloodz vs. Wolvez (2006)](https://www.amon-hen.com/movies/33108)
 - [Day of Love](https://www.amon-hen.com/politics/33102)
-- [Reading – The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War](https://www.amon-hen.com/books/297)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I had just received my degree in Calcium Anthropology...  the study of milkmen.</em><br /> -- Steven Wright</p>
+<p><em>Certainly, in the topsy-turvy world of heavy rock, having a good solid piece of wood in your hand is often useful.</em><br /> -- Ian Faith</p>
