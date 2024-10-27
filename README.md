@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [This Must Be the Place](https://www.amon-hen.com/music/8469)
+- [Trump is never more visibly bored and disinterested…](https://www.amon-hen.com/politics/33133)
+- [Timeless Love (2019)](https://www.amon-hen.com/movies/33131)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [This Must Be the Place](https://www.amon-hen.com/music/8469)
 - [RiffTrax – Giant Spider Invasion](https://www.amon-hen.com/humor/33110)
 - [Mmmm, Boxed Spaghetti Dinner](https://www.amon-hen.com/food/33120)
 - [MST3K 0909 – Gorgo](https://www.amon-hen.com/television/15622)
 - [Last Week Tonight – S1 E24: The Lottery, Erdogan & a Fish Cannon](https://www.amon-hen.com/politics/33046)
 - [Donald Trump visited a McDonald’s](https://www.amon-hen.com/politics/33125)
 - [MST3K Short 0315 – Aquatic Wizards](https://www.amon-hen.com/television/6520)
-- [Bloodz vs. Wolvez (2006)](https://www.amon-hen.com/movies/33108)
-- [Day of Love](https://www.amon-hen.com/politics/33102)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Certainly, in the topsy-turvy world of heavy rock, having a good solid piece of wood in your hand is often useful.</em><br /> -- Ian Faith</p>
+<p><em>I grew up in Europe, where the history comes from.</em><br /> -- Eddie Izzard</p>
