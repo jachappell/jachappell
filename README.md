@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Madison Square Garden MAGA Rally](https://www.amon-hen.com/politics/33149)
+- [MST3K Short 0315 – Catching Trouble](https://www.amon-hen.com/television/6237)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Trump is never more visibly bored and disinterested…](https://www.amon-hen.com/politics/33133)
 - [Timeless Love (2019)](https://www.amon-hen.com/movies/33131)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [This Must Be the Place](https://www.amon-hen.com/music/8469)
 - [RiffTrax – Giant Spider Invasion](https://www.amon-hen.com/humor/33110)
 - [Mmmm, Boxed Spaghetti Dinner](https://www.amon-hen.com/food/33120)
 - [MST3K 0909 – Gorgo](https://www.amon-hen.com/television/15622)
 - [Last Week Tonight – S1 E24: The Lottery, Erdogan & a Fish Cannon](https://www.amon-hen.com/politics/33046)
-- [Donald Trump visited a McDonald’s](https://www.amon-hen.com/politics/33125)
-- [MST3K Short 0315 – Aquatic Wizards](https://www.amon-hen.com/television/6520)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I grew up in Europe, where the history comes from.</em><br /> -- Eddie Izzard</p>
+<p><em>I saw this anti-drug commercial that showed a kid smoking pot in his dad's room with his friend. This kid finds a gun, the gun accidentally goes off and kills his friend. Only in America is the villain in this commercial not guns or bad parenting, but pot.</em><br /> -- Bill Maher</p>
