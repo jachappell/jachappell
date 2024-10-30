@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [The Paul Lynde Halloween Special](https://www.amon-hen.com/television/16893)
+- [MST3K 00K01 – Invaders from the Deep](https://www.amon-hen.com/television/8035)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Last Week Tonight – S2 E1: Marketing to Doctors, Ecuador & Radio Shack](https://www.amon-hen.com/politics/33139)
 - [He’s a national villain](https://www.amon-hen.com/politics/33156)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Madison Square Garden MAGA Rally](https://www.amon-hen.com/politics/33149)
 - [MST3K Short 0315 – Catching Trouble](https://www.amon-hen.com/television/6237)
 - [Trump is never more visibly bored and disinterested…](https://www.amon-hen.com/politics/33133)
 - [Timeless Love (2019)](https://www.amon-hen.com/movies/33131)
 - [This Must Be the Place](https://www.amon-hen.com/music/8469)
-- [RiffTrax – Giant Spider Invasion](https://www.amon-hen.com/humor/33110)
-- [Mmmm, Boxed Spaghetti Dinner](https://www.amon-hen.com/food/33120)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>It's tough to have sex during marriage because you're always walking that tight rope between "this again?" and "where did you learn that?"</em><br /> -- Emo Philips</p>
+<p><em>I haven't spoken to my wife in years.  I didn't want to interrupt her.</em><br /> -- Rodney Dangerfield</p>
