@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Goldan Brokle Chhader Cheess](https://www.amon-hen.com/food/33143)
+- [Everything they do is a stunt](https://www.amon-hen.com/politics/33170)
+- [Lee Greenwood](https://www.amon-hen.com/politics/33167)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Goldan Brokle Chhader Cheess](https://www.amon-hen.com/food/33143)
 - [The Paul Lynde Halloween Special](https://www.amon-hen.com/television/16893)
 - [MST3K 00K01 – Invaders from the Deep](https://www.amon-hen.com/television/8035)
 - [Last Week Tonight – S2 E1: Marketing to Doctors, Ecuador & Radio Shack](https://www.amon-hen.com/politics/33139)
 - [He’s a national villain](https://www.amon-hen.com/politics/33156)
 - [Madison Square Garden MAGA Rally](https://www.amon-hen.com/politics/33149)
 - [MST3K Short 0315 – Catching Trouble](https://www.amon-hen.com/television/6237)
-- [Trump is never more visibly bored and disinterested…](https://www.amon-hen.com/politics/33133)
-- [Timeless Love (2019)](https://www.amon-hen.com/movies/33131)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>If a kid asks where rain comes from, I think a cute thing to tell him is "God is crying." And if he asks why God is crying, another cute thing to tell him is "Probably because of something you did."</em><br /> -- Jack Handey</p>
+<p><em>Math was always my bad subject. I couldn't convince my teachers that many of my answers were meant ironically.</em><br /> -- Calvin Trillin</p>
