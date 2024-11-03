@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [[Nothing But] Flowers](https://www.amon-hen.com/music/16159)
+- [Shark Exorcist (2014)](https://www.amon-hen.com/movies/33185)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [[Nothing But] Flowers](https://www.amon-hen.com/music/16159)
 - [Everything they do is a stunt](https://www.amon-hen.com/politics/33170)
 - [Lee Greenwood](https://www.amon-hen.com/politics/33167)
 - [Mmmm, Goldan Brokle Chhader Cheess](https://www.amon-hen.com/food/33143)
@@ -10,7 +11,6 @@
 - [MST3K 00K01 – Invaders from the Deep](https://www.amon-hen.com/television/8035)
 - [Last Week Tonight – S2 E1: Marketing to Doctors, Ecuador & Radio Shack](https://www.amon-hen.com/politics/33139)
 - [He’s a national villain](https://www.amon-hen.com/politics/33156)
-- [Madison Square Garden MAGA Rally](https://www.amon-hen.com/politics/33149)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The two most beautiful words in the English language are "Cheque Enclosed."</em><br /> -- Dorothy Parker</p>
+<p><em>One trend that bothers me is the glorification of stupidity, that the media is reassuring people it's alright not to know anything. That to me is far more dangerous than a little pornography on the Internet.</em><br /> -- Carl Sagan</p>
