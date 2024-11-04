@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Shark Exorcist (2014)](https://www.amon-hen.com/movies/33185)
+- [MST3K Short 0317 – The Home Economics Story](https://www.amon-hen.com/television/8481)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Shark Exorcist (2014)](https://www.amon-hen.com/movies/33185)
 - [[Nothing But] Flowers](https://www.amon-hen.com/music/16159)
 - [Everything they do is a stunt](https://www.amon-hen.com/politics/33170)
 - [Lee Greenwood](https://www.amon-hen.com/politics/33167)
@@ -10,7 +11,6 @@
 - [The Paul Lynde Halloween Special](https://www.amon-hen.com/television/16893)
 - [MST3K 00K01 – Invaders from the Deep](https://www.amon-hen.com/television/8035)
 - [Last Week Tonight – S2 E1: Marketing to Doctors, Ecuador & Radio Shack](https://www.amon-hen.com/politics/33139)
-- [He’s a national villain](https://www.amon-hen.com/politics/33156)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>One trend that bothers me is the glorification of stupidity, that the media is reassuring people it's alright not to know anything. That to me is far more dangerous than a little pornography on the Internet.</em><br /> -- Carl Sagan</p>
+<p><em>Luke, I'm yer father, eh. Come over to the dark side, you hoser.</em><br /> -- Dave Thomas (<em>Strange Brew</em>)</p>
