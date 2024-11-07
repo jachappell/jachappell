@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Mmmm, Snow Corn](https://www.amon-hen.com/food/33193)
+- [People are Stupid, Part XIV](https://www.amon-hen.com/politics/33203)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 00K02 – Revenge of the Mysterons From Mars](https://www.amon-hen.com/television/8084)
 - [Election Day Thought](https://www.amon-hen.com/politics/29751)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Election 2024](https://www.amon-hen.com/politics/33191)
 - [MST3K Short 0317 – The Home Economics Story](https://www.amon-hen.com/television/8481)
 - [Shark Exorcist (2014)](https://www.amon-hen.com/movies/33185)
 - [[Nothing But] Flowers](https://www.amon-hen.com/music/16159)
 - [Everything they do is a stunt](https://www.amon-hen.com/politics/33170)
-- [Lee Greenwood](https://www.amon-hen.com/politics/33167)
-- [Mmmm, Goldan Brokle Chhader Cheess](https://www.amon-hen.com/food/33143)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>There was no difference between the behavior of a god and the operations of pure chance...</em><br /> -- Thomas Pynchon (<em>Gravity's Rainbow</em>)</p>
+<p><em>When Gary told me he had found Jesus, I thought, Yahoo!  We're rich! But it turned out to be something different.</em><br /> -- Jack Handey</p>
