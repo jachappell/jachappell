@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Trump’s Businesses](https://www.amon-hen.com/politics/33220)
+- [Brought to you by Joe Biden](https://www.amon-hen.com/politics/33208)
+- [Last Week Tonight – S2 E2: Tobacco, Yemen & Ecuador](https://www.amon-hen.com/politics/33188)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Snow Corn](https://www.amon-hen.com/food/33193)
 - [People are Stupid, Part XIV](https://www.amon-hen.com/politics/33203)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 00K02 – Revenge of the Mysterons From Mars](https://www.amon-hen.com/television/8084)
 - [Election Day Thought](https://www.amon-hen.com/politics/29751)
 - [Election 2024](https://www.amon-hen.com/politics/33191)
 - [MST3K Short 0317 – The Home Economics Story](https://www.amon-hen.com/television/8481)
-- [Shark Exorcist (2014)](https://www.amon-hen.com/movies/33185)
-- [[Nothing But] Flowers](https://www.amon-hen.com/music/16159)
-- [Everything they do is a stunt](https://www.amon-hen.com/politics/33170)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When Gary told me he had found Jesus, I thought, Yahoo!  We're rich! But it turned out to be something different.</em><br /> -- Jack Handey</p>
+<p><em>"Whoopee" was such a beautiful word and then Bob Eubanks had to go and cheapen it.</em><br /> -- James Urbaniak (via Twitter)</p>
