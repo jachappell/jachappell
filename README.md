@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Killer](https://www.amon-hen.com/music/33198)
+- [Trump’s 93 Campaign Promises](https://www.amon-hen.com/politics/33224)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Trump’s Businesses](https://www.amon-hen.com/politics/33220)
 - [Brought to you by Joe Biden](https://www.amon-hen.com/politics/33208)
 - [Last Week Tonight – S2 E2: Tobacco, Yemen & Ecuador](https://www.amon-hen.com/politics/33188)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Snow Corn](https://www.amon-hen.com/food/33193)
 - [People are Stupid, Part XIV](https://www.amon-hen.com/politics/33203)
 - [MST3K 00K02 – Revenge of the Mysterons From Mars](https://www.amon-hen.com/television/8084)
 - [Election Day Thought](https://www.amon-hen.com/politics/29751)
-- [Election 2024](https://www.amon-hen.com/politics/33191)
-- [MST3K Short 0317 – The Home Economics Story](https://www.amon-hen.com/television/8481)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>"Whoopee" was such a beautiful word and then Bob Eubanks had to go and cheapen it.</em><br /> -- James Urbaniak (via Twitter)</p>
+<p><em>Real stupidity beats artificial intelligence every time.</em><br /> -- Terry Pratchett (<em>Hogfather</em>)</p>
