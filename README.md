@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [City Limits (1985)](https://www.amon-hen.com/movies/33182)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Killer](https://www.amon-hen.com/music/33198)
 - [Trump’s 93 Campaign Promises](https://www.amon-hen.com/politics/33224)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Trump’s Businesses](https://www.amon-hen.com/politics/33220)
 - [Brought to you by Joe Biden](https://www.amon-hen.com/politics/33208)
 - [Last Week Tonight – S2 E2: Tobacco, Yemen & Ecuador](https://www.amon-hen.com/politics/33188)
 - [Mmmm, Snow Corn](https://www.amon-hen.com/food/33193)
 - [People are Stupid, Part XIV](https://www.amon-hen.com/politics/33203)
 - [MST3K 00K02 – Revenge of the Mysterons From Mars](https://www.amon-hen.com/television/8084)
-- [Election Day Thought](https://www.amon-hen.com/politics/29751)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Real stupidity beats artificial intelligence every time.</em><br /> -- Terry Pratchett (<em>Hogfather</em>)</p>
+<p><em>True ornament is not a matter of prettifying externals. It is organic with the structure it adorns, whether a person, a building, or a park. At its best it is an emphasis of structure, a realization in graceful terms of the nature of that which is ornamented.</em><br /> -- Frank Lloyd Wright</p>
