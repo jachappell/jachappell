@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [City Limits (1985)](https://www.amon-hen.com/movies/33182)
+- [The Gales of November](https://www.amon-hen.com/music/2651)
+- [MST3K Short 0319 – Mr. B Natural](https://www.amon-hen.com/television/646)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [City Limits (1985)](https://www.amon-hen.com/movies/33182)
 - [Killer](https://www.amon-hen.com/music/33198)
 - [Trump’s 93 Campaign Promises](https://www.amon-hen.com/politics/33224)
 - [Trump’s Businesses](https://www.amon-hen.com/politics/33220)
 - [Brought to you by Joe Biden](https://www.amon-hen.com/politics/33208)
 - [Last Week Tonight – S2 E2: Tobacco, Yemen & Ecuador](https://www.amon-hen.com/politics/33188)
 - [Mmmm, Snow Corn](https://www.amon-hen.com/food/33193)
-- [People are Stupid, Part XIV](https://www.amon-hen.com/politics/33203)
-- [MST3K 00K02 – Revenge of the Mysterons From Mars](https://www.amon-hen.com/television/8084)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>True ornament is not a matter of prettifying externals. It is organic with the structure it adorns, whether a person, a building, or a park. At its best it is an emphasis of structure, a realization in graceful terms of the nature of that which is ornamented.</em><br /> -- Frank Lloyd Wright</p>
+<p><em>As flames engulf earth, the last human survivor bites his lip, uses the blood to wet his throat &amp; with his final breath, whispers "MAGA."</em><br /> -- Kumail Nanjiani (via Twitter)</p>
