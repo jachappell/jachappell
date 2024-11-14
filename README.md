@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K 00K04 – Gamera vs. Barugon](https://www.amon-hen.com/television/13084)
+- [Mmmm, Assorted Cold Cute](https://www.amon-hen.com/food/33234)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K 00K04 – Gamera vs. Barugon](https://www.amon-hen.com/television/13084)
 - [Last Week – S2 E3: Elected Judges, Chinese New Year & Greece](https://www.amon-hen.com/politics/33229)
 - [The Gales of November](https://www.amon-hen.com/music/2651)
 - [MST3K Short 0319 – Mr. B Natural](https://www.amon-hen.com/television/646)
@@ -10,7 +11,6 @@
 - [Killer](https://www.amon-hen.com/music/33198)
 - [Trump’s 93 Campaign Promises](https://www.amon-hen.com/politics/33224)
 - [Trump’s Businesses](https://www.amon-hen.com/politics/33220)
-- [Brought to you by Joe Biden](https://www.amon-hen.com/politics/33208)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I have something to say to the religionist who feels atheists never say anything positive: You are an intelligent human being. Your life is valuable for its own sake. You are not second-class in the universe, deriving meaning and purpose from some other mind. You are not inherently evil--you are inherently human, possessing the positive rational potential to help make this a world of morality, peace and joy. Trust yourself.</em><br /> -- Dan Barker (<em>Losing Faith in Faith</em>)</p>
+<p><em>Men have died for this music. You can't get more serious than that.</em><br /> -- Dizzy Gillespie</p>
