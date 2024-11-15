@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Assorted Cold Cute](https://www.amon-hen.com/food/33234)
+- [Trump’s Reelection](https://www.amon-hen.com/politics/33239)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Assorted Cold Cute](https://www.amon-hen.com/food/33234)
 - [MST3K 00K04 – Gamera vs. Barugon](https://www.amon-hen.com/television/13084)
 - [Last Week – S2 E3: Elected Judges, Chinese New Year & Greece](https://www.amon-hen.com/politics/33229)
 - [The Gales of November](https://www.amon-hen.com/music/2651)
@@ -10,7 +11,6 @@
 - [City Limits (1985)](https://www.amon-hen.com/movies/33182)
 - [Killer](https://www.amon-hen.com/music/33198)
 - [Trump’s 93 Campaign Promises](https://www.amon-hen.com/politics/33224)
-- [Trump’s Businesses](https://www.amon-hen.com/politics/33220)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Men have died for this music. You can't get more serious than that.</em><br /> -- Dizzy Gillespie</p>
+<p><em>Sometimes when I feel like killing someone, I do a little trick to calm myself down. I'll go over to the persons house and ring the doorbell. When the person comes to the door, I'm gone, but you know what I've left on the porch? A jack-o-lantern with a knife stuck in the side of it's head with a note that says "You." After that I usually feel a lot better, and no harm done.</em><br /> -- Jack Handey</p>
