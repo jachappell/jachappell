@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [The Star Wars Holiday Special](https://www.amon-hen.com/television/1787)
+- [Background Checks](https://www.amon-hen.com/politics/33263)
+- [MST3K Short 0320 – Appreciating Our Parents](https://www.amon-hen.com/television/7405)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading – The Last Theorem](https://www.amon-hen.com/books/297)
 - [Tariffs](https://www.amon-hen.com/politics/33252)
 - [Carnosaur (1993)](https://www.amon-hen.com/movies/33243)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Magnification](https://www.amon-hen.com/music/33241)
 - [Trump’s Reelection](https://www.amon-hen.com/politics/33239)
 - [Mmmm, Assorted Cold Cute](https://www.amon-hen.com/food/33234)
-- [MST3K 00K04 – Gamera vs. Barugon](https://www.amon-hen.com/television/13084)
-- [Last Week – S2 E3: Elected Judges, Chinese New Year & Greece](https://www.amon-hen.com/politics/33229)
-- [The Gales of November](https://www.amon-hen.com/music/2651)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [Drum Corps International Magazine – November 2024](https://www.drum-corps.net/news/3585)
 - [Jersey Surf Withdraws from 2025 DCI Summer Tour](https://www.drum-corps.net/news/3577)
 - [Drum Corps World – November 2024](https://www.drum-corps.net/news/3574)
 - [Directors adopt new competitive format for 2025 DCI All-Age Championship](https://www.drum-corps.net/news/3570)
@@ -23,7 +24,6 @@
 - [Troopers Legacy Corps (2023)](https://www.drum-corps.net/history/2873)
 - [Bluecoats Alumni Corps (2022)](https://www.drum-corps.net/history/2282)
 - [Santa Clara Vanguard Alumni Corps (2017)](https://www.drum-corps.net/history/2278)
-- [Bridgemen Alumni Corps (2016)](https://www.drum-corps.net/history/2276)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The nationalist not only does not disapprove of atrocities committed by his own side, but he has a remarkable capacity for not even hearing about them.</em><br /> -- George Orwell</p>
+<p><em></em>Empire<em> had the better ending.  I mean, Luke gets his hand cut off, finds out Vader's his father, Han gets frozen and taken away by Boba Fett.  It ends on such a down note.  I mean, that's what life is, a series of down endings.  All </em>Jedi<em> had was a bunch of Muppets.</em><br /> -- Dante Hicks</p>
