@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Last Week Tonight – S2 E4: Infrastructure, Net Neutrality & Gerbils](https://www.amon-hen.com/politics/33259)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [The Star Wars Holiday Special](https://www.amon-hen.com/television/1787)
 - [Background Checks](https://www.amon-hen.com/politics/33263)
 - [MST3K Short 0320 – Appreciating Our Parents](https://www.amon-hen.com/television/7405)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Reading – The Last Theorem](https://www.amon-hen.com/books/297)
 - [Tariffs](https://www.amon-hen.com/politics/33252)
 - [Carnosaur (1993)](https://www.amon-hen.com/movies/33243)
 - [Magnification](https://www.amon-hen.com/music/33241)
 - [Trump’s Reelection](https://www.amon-hen.com/politics/33239)
-- [Mmmm, Assorted Cold Cute](https://www.amon-hen.com/food/33234)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em></em>Empire<em> had the better ending.  I mean, Luke gets his hand cut off, finds out Vader's his father, Han gets frozen and taken away by Boba Fett.  It ends on such a down note.  I mean, that's what life is, a series of down endings.  All </em>Jedi<em> had was a bunch of Muppets.</em><br /> -- Dante Hicks</p>
+<p><em>Creationist critics often charge that evolution cannot be tested, and therefore cannot be viewed as a properly scientific subject at all. This claim is rhetorical nonsense.</em><br /> -- Stephen Jay Gould (<em>Dinosaur in a Haystack</em>)</p>
