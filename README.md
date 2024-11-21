@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Mmmm, Canned Chopped Beef](https://www.amon-hen.com/food/33271)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [MST3K 00K05 – Gamera](https://www.amon-hen.com/television/13125)
 - [No man is above the law…](https://www.amon-hen.com/books/33268)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Last Week Tonight – S2 E4: Infrastructure, Net Neutrality & Gerbils](https://www.amon-hen.com/politics/33259)
 - [The Star Wars Holiday Special](https://www.amon-hen.com/television/1787)
 - [Background Checks](https://www.amon-hen.com/politics/33263)
 - [MST3K Short 0320 – Appreciating Our Parents](https://www.amon-hen.com/television/7405)
 - [Reading – The Last Theorem](https://www.amon-hen.com/books/297)
 - [Tariffs](https://www.amon-hen.com/politics/33252)
-- [Carnosaur (1993)](https://www.amon-hen.com/movies/33243)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Breakfast food can serve many purposes.</em><br /> -- Ron Swanson</p>
+<p><em>Pudding can't fill the emptiness inside me!  But it'll help.</em><br /> -- Captain Hazel 'Hank' Murphy</p>
