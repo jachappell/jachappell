@@ -1,19 +1,20 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Canned Chopped Beef](https://www.amon-hen.com/food/33271)
+- [Trans bathrooms on Capitol Hill](https://www.amon-hen.com/politics/33285)
+- [TikTok Ban](https://www.amon-hen.com/politics/33278)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Canned Chopped Beef](https://www.amon-hen.com/food/33271)
 - [MST3K 00K05 – Gamera](https://www.amon-hen.com/television/13125)
 - [No man is above the law…](https://www.amon-hen.com/books/33268)
 - [Last Week Tonight – S2 E4: Infrastructure, Net Neutrality & Gerbils](https://www.amon-hen.com/politics/33259)
 - [The Star Wars Holiday Special](https://www.amon-hen.com/television/1787)
 - [Background Checks](https://www.amon-hen.com/politics/33263)
 - [MST3K Short 0320 – Appreciating Our Parents](https://www.amon-hen.com/television/7405)
-- [Reading – The Last Theorem](https://www.amon-hen.com/books/297)
-- [Tariffs](https://www.amon-hen.com/politics/33252)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [2025 Drum Corps International Tour Schedule](https://www.drum-corps.net/news/3588)
 - [Drum Corps International Magazine – November 2024](https://www.drum-corps.net/news/3585)
 - [Jersey Surf Withdraws from 2025 DCI Summer Tour](https://www.drum-corps.net/news/3577)
 - [Drum Corps World – November 2024](https://www.drum-corps.net/news/3574)
@@ -23,7 +24,6 @@
 - [Crossmen 50th Anniversary Alumni Corps (2024)](https://www.drum-corps.net/history/3341)
 - [Troopers Legacy Corps (2023)](https://www.drum-corps.net/history/2873)
 - [Bluecoats Alumni Corps (2022)](https://www.drum-corps.net/history/2282)
-- [Santa Clara Vanguard Alumni Corps (2017)](https://www.drum-corps.net/history/2278)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Pudding can't fill the emptiness inside me!  But it'll help.</em><br /> -- Captain Hazel 'Hank' Murphy</p>
+<p><em>Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity.</em><br /> -- Charles Mingus</p>
