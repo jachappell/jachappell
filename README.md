@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [Where Will You Be](https://www.amon-hen.com/music/33288)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Trans bathrooms on Capitol Hill](https://www.amon-hen.com/politics/33285)
 - [TikTok Ban](https://www.amon-hen.com/politics/33278)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Mmmm, Canned Chopped Beef](https://www.amon-hen.com/food/33271)
 - [MST3K 00K05 – Gamera](https://www.amon-hen.com/television/13125)
 - [No man is above the law…](https://www.amon-hen.com/books/33268)
 - [Last Week Tonight – S2 E4: Infrastructure, Net Neutrality & Gerbils](https://www.amon-hen.com/politics/33259)
 - [The Star Wars Holiday Special](https://www.amon-hen.com/television/1787)
 - [Background Checks](https://www.amon-hen.com/politics/33263)
-- [MST3K Short 0320 – Appreciating Our Parents](https://www.amon-hen.com/television/7405)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity.</em><br /> -- Charles Mingus</p>
+<p><em>Philosophers say a great deal about what is absolutely necessary for science, and it is always, so far as one can see, rather naive, and probably wrong.</em><br /> -- Richard P. Feynman</p>
