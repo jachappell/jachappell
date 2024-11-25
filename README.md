@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [MST3K Short 0320 – Posture Pals](https://www.amon-hen.com/television/6108)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [There are 23 million government workers! Fire most of them!](https://www.amon-hen.com/politics/33296)
 - [Jerky Turkey (1945)](https://www.amon-hen.com/humor/33276)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [Where Will You Be](https://www.amon-hen.com/music/33288)
 - [Trans bathrooms on Capitol Hill](https://www.amon-hen.com/politics/33285)
 - [TikTok Ban](https://www.amon-hen.com/politics/33278)
 - [Mmmm, Canned Chopped Beef](https://www.amon-hen.com/food/33271)
 - [MST3K 00K05 – Gamera](https://www.amon-hen.com/television/13125)
 - [No man is above the law…](https://www.amon-hen.com/books/33268)
-- [Last Week Tonight – S2 E4: Infrastructure, Net Neutrality & Gerbils](https://www.amon-hen.com/politics/33259)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>Don't talk to me about the post-modern age.  We're not even in the modern age yet for Christ's sake.  There are still 150 million people in America who believe in Genesis.</em><br /> -- Simon Critchley</p>
+<p><em>The only thing that makes life possible is permanent, intolerable uncertainty, not knowing what comes next.</em><br /> -- Ursula K. Le Guin</p>
