@@ -1,8 +1,9 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [MST3K Short 0320 – Posture Pals](https://www.amon-hen.com/television/6108)
+- [Last Week Tonight – S2 E5: U.S. Territories, Ferguson & Israel](https://www.amon-hen.com/politics/33299)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [MST3K Short 0320 – Posture Pals](https://www.amon-hen.com/television/6108)
 - [There are 23 million government workers! Fire most of them!](https://www.amon-hen.com/politics/33296)
 - [Jerky Turkey (1945)](https://www.amon-hen.com/humor/33276)
 - [Where Will You Be](https://www.amon-hen.com/music/33288)
@@ -10,7 +11,6 @@
 - [TikTok Ban](https://www.amon-hen.com/politics/33278)
 - [Mmmm, Canned Chopped Beef](https://www.amon-hen.com/food/33271)
 - [MST3K 00K05 – Gamera](https://www.amon-hen.com/television/13125)
-- [No man is above the law…](https://www.amon-hen.com/books/33268)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The only thing that makes life possible is permanent, intolerable uncertainty, not knowing what comes next.</em><br /> -- Ursula K. Le Guin</p>
+<p><em>I wanted to go to college, so I went to my dad and said, "Dad, can I have a hundred thousand dollars to go to college?" And he said, "Go ask your mother", so I went to her and said "Can I have a hundred thousand to go to college?" And she said, "Ask you father", so I went to him and said "Can I have a hundred thousand?" And he said "Ask your mother." And as I was going to my mother I tripped and hit my head on the coffee table, and my mother said "Fifteen-love, my serve again."</em><br /> -- Emo Philips </p>
