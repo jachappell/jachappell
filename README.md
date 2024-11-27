@@ -1,19 +1,21 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Last Week Tonight – S2 E5: U.S. Territories, Ferguson & Israel](https://www.amon-hen.com/politics/33299)
+- [MST3K 00K06 – Gamera vs. Gaos](https://www.amon-hen.com/television/13172)
+- [Trump Guitars](https://www.amon-hen.com/politics/33313)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Last Week Tonight – S2 E5: U.S. Territories, Ferguson & Israel](https://www.amon-hen.com/politics/33299)
 - [MST3K Short 0320 – Posture Pals](https://www.amon-hen.com/television/6108)
 - [There are 23 million government workers! Fire most of them!](https://www.amon-hen.com/politics/33296)
 - [Jerky Turkey (1945)](https://www.amon-hen.com/humor/33276)
 - [Where Will You Be](https://www.amon-hen.com/music/33288)
 - [Trans bathrooms on Capitol Hill](https://www.amon-hen.com/politics/33285)
 - [TikTok Ban](https://www.amon-hen.com/politics/33278)
-- [Mmmm, Canned Chopped Beef](https://www.amon-hen.com/food/33271)
-- [MST3K 00K05 – Gamera](https://www.amon-hen.com/television/13125)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
+- [DCI phasing out historic library of physical audio/video products](https://www.drum-corps.net/news/3604)
+- [Drum Corps World – December 2024](https://www.drum-corps.net/news/3602)
 - [2025 Drum Corps International Tour Schedule](https://www.drum-corps.net/news/3588)
 - [Drum Corps International Magazine – November 2024](https://www.drum-corps.net/news/3585)
 - [Jersey Surf Withdraws from 2025 DCI Summer Tour](https://www.drum-corps.net/news/3577)
@@ -22,8 +24,6 @@
 - [Drum Corps World – October 2024](https://www.drum-corps.net/news/3505)
 - [Drum Corps World –  September 2024](https://www.drum-corps.net/news/3391)
 - [Crossmen 50th Anniversary Alumni Corps (2024)](https://www.drum-corps.net/history/3341)
-- [Troopers Legacy Corps (2023)](https://www.drum-corps.net/history/2873)
-- [Bluecoats Alumni Corps (2022)](https://www.drum-corps.net/history/2282)
 
 
 ## [Storage B](https://www.storage-b.com)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>I wanted to go to college, so I went to my dad and said, "Dad, can I have a hundred thousand dollars to go to college?" And he said, "Go ask your mother", so I went to her and said "Can I have a hundred thousand to go to college?" And she said, "Ask you father", so I went to him and said "Can I have a hundred thousand?" And he said "Ask your mother." And as I was going to my mother I tripped and hit my head on the coffee table, and my mother said "Fifteen-love, my serve again."</em><br /> -- Emo Philips </p>
+<p><em>Now, don't you worry. The saucers are up there.  The graveyard is out there. But I'll be locked up safely in there.</em><br /> -- Paula Trent (<em>Plan 9 from Outer Space</em>)</p>
