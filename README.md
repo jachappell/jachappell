@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
-- [Mmmm, Mail Order Canned turkey](https://www.amon-hen.com/food/20497)
+- [RiffTrax – Baby Ghost](https://www.amon-hen.com/humor/33304)
+- [Happy Thanksgiving](https://www.amon-hen.com/humor/792)
 - [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
+- [Mmmm, Mail Order Canned turkey](https://www.amon-hen.com/food/20497)
 - [MST3K 00K06 – Gamera vs. Gaos](https://www.amon-hen.com/television/13172)
 - [Trump Guitars](https://www.amon-hen.com/politics/33313)
 - [Last Week Tonight – S2 E5: U.S. Territories, Ferguson & Israel](https://www.amon-hen.com/politics/33299)
 - [MST3K Short 0320 – Posture Pals](https://www.amon-hen.com/television/6108)
 - [There are 23 million government workers! Fire most of them!](https://www.amon-hen.com/politics/33296)
 - [Jerky Turkey (1945)](https://www.amon-hen.com/humor/33276)
-- [Where Will You Be](https://www.amon-hen.com/music/33288)
-- [Trans bathrooms on Capitol Hill](https://www.amon-hen.com/politics/33285)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>When the music changes, so does the dance.</em><br /> -- African proverb</p>
+<p><em>Get your facts first, and then you can distort them as much as you please.</em><br /> -- Mark Twain</p>
