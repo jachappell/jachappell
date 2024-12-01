@@ -1,6 +1,6 @@
 # Updates
 
-<details>## [Yet Another Website](https://www.amon-hen.com)
+<details><summary> [Yet Another Website](https://www.amon-hen.com) </summary>
 * [MST3K Short 0406 – Undersea Kingdom 1](https://www.amon-hen.com/television/9714)
 * [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 * [It Came from Beneath the Sea (1955)](https://www.amon-hen.com/movies/33306)
@@ -13,7 +13,7 @@
 * [Trump Guitars](https://www.amon-hen.com/politics/33313)
 </details>
 
-<details>## [Drum and Bugle Corps](https://www.drum-corps.net)
+<details><summary> [Drum and Bugle Corps](https://www.drum-corps.net) </summary>
 * [DCI phasing out historic library of physical audio/video products](https://www.drum-corps.net/news/3604)
 * [Drum Corps World – December 2024](https://www.drum-corps.net/news/3602)
 * [2025 Drum Corps International Tour Schedule](https://www.drum-corps.net/news/3588)
@@ -26,7 +26,7 @@
 * [Crossmen 50th Anniversary Alumni Corps (2024)](https://www.drum-corps.net/history/3341)
 </details>
 
-<details>## [Storage B](https://www.storage-b.com)
+<details><summary> [Storage B](https://www.storage-b.com) </summary>
 * [Uploading Consciousness](https://www.storage-b.com/c/1015)
 * [SCRUM: An Honest Ad](https://www.storage-b.com/humor/1003)
 * [Agile vs. Waterfall](https://www.storage-b.com/humor/996)
@@ -39,7 +39,7 @@
 * [Blue Tick Marks](https://www.storage-b.com/humor/896)
 </details>
 
-<details>## [Maritime Simulation News](https://www.mar-sim.com)
+<details><summary> [Maritime Simulation News](https://www.mar-sim.com) </summary>
 * [Simulators Track our Changing Relationship with Technology](https://www.mar-sim.com/news/985)
 * [Japanese simulator centre opens for offshore training](https://www.mar-sim.com/news/974)
 * [AR Simulator Added to Pilot Training at Smartship Australia](https://www.mar-sim.com/news/971)
