@@ -1,6 +1,7 @@
 # Updates
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
+
 * <a href="https://www.amon-hen.com/television/9714">MST3K Short 0406 – Undersea Kingdom 1</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/movies/33306">It Came from Beneath the Sea (1955)</a>
@@ -14,6 +15,7 @@
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
+
 * <a href="https://www.drum-corps.net/news/3604">DCI phasing out historic library of physical audio/video products</a>
 * <a href="https://www.drum-corps.net/news/3602">Drum Corps World – December 2024</a>
 * <a href="https://www.drum-corps.net/news/3588">2025 Drum Corps International Tour Schedule</a>
@@ -27,6 +29,7 @@
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
+
 * <a href="https://www.storage-b.com/c/1015">Uploading Consciousness</a>
 * <a href="https://www.storage-b.com/humor/1003">SCRUM: An Honest Ad</a>
 * <a href="https://www.storage-b.com/humor/996">Agile vs. Waterfall</a>
@@ -40,6 +43,7 @@
 </details>
 
 <details><summary> <a href="https://www.mar-sim.com">Maritime Simulation News</a> </summary>
+
 * <a href="https://www.mar-sim.com/news/985">Simulators Track our Changing Relationship with Technology</a>
 * <a href="https://www.mar-sim.com/news/974">Japanese simulator centre opens for offshore training</a>
 * <a href="https://www.mar-sim.com/news/971">AR Simulator Added to Pilot Training at Smartship Australia</a>
