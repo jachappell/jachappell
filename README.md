@@ -1,16 +1,16 @@
 # Updates
 
 ## [Yet Another Website](https://www.amon-hen.com)
+- [It Came from Beneath the Sea (1955)](https://www.amon-hen.com/movies/33306)
+- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [To Be Alive (Hep Yadda)](https://www.amon-hen.com/music/33290)
 - [Happy Holidays](https://www.amon-hen.com/quotes/248)
-- [Quote of the Day](https://www.amon-hen.com/computing/internet/www/435)
 - [RiffTrax – Baby Ghost](https://www.amon-hen.com/humor/33304)
 - [Happy Thanksgiving](https://www.amon-hen.com/humor/792)
 - [Mmmm, Mail Order Canned turkey](https://www.amon-hen.com/food/20497)
 - [MST3K 00K06 – Gamera vs. Gaos](https://www.amon-hen.com/television/13172)
 - [Trump Guitars](https://www.amon-hen.com/politics/33313)
 - [Last Week Tonight – S2 E5: U.S. Territories, Ferguson & Israel](https://www.amon-hen.com/politics/33299)
-- [MST3K Short 0320 – Posture Pals](https://www.amon-hen.com/television/6108)
 
 
 ## [Drum and Bugle Corps](https://www.drum-corps.net)
@@ -53,4 +53,4 @@
 
 
 # Quote of the Day
-<p><em>The connection between the language in which we think/program and the problems and solutions we can imagine is very close.  For this reason restricting language features with the intent of eliminating programmer errors is at best dangerous.</em><br /> -- Bjarne Stroustrup (<em>The C++ Programming Language</em>)</p>
+<p><em>This man is costing my health plan five thousand dollars a day! I demand he die with dignity.</em><br /> -- Charles Montgomery Burns</p>
