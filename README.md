@@ -1,4 +1,4 @@
-# Updates
+# Updates from my websites
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
