@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/9714">MST3K Short 0406 – Undersea Kingdom 1</a>
+* <a href="https://www.amon-hen.com/politics/33324">Democrats must always set a good example</a>
+* <a href="https://www.amon-hen.com/politics/33301">Last Week Tonight – S2 E6: NCAA, ISIS & Brazil</a>
+* <a href="https://www.amon-hen.com/humor/5023">Cyber Monday</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/9714">MST3K Short 0406 – Undersea Kingdom 1</a>
 * <a href="https://www.amon-hen.com/movies/33306">It Came from Beneath the Sea (1955)</a>
 * <a href="https://www.amon-hen.com/music/33290">To Be Alive (Hep Yadda)</a>
 * <a href="https://www.amon-hen.com/quotes/248">Happy Holidays</a>
 * <a href="https://www.amon-hen.com/humor/33304">RiffTrax – Baby Ghost</a>
 * <a href="https://www.amon-hen.com/humor/792">Happy Thanksgiving</a>
-* <a href="https://www.amon-hen.com/food/20497">Mmmm, Mail Order Canned turkey</a>
-* <a href="https://www.amon-hen.com/television/13172">MST3K 00K06 – Gamera vs. Gaos</a>
-* <a href="https://www.amon-hen.com/politics/33313">Trump Guitars</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -42,19 +42,5 @@
 * <a href="https://www.storage-b.com/humor/896">Blue Tick Marks</a>
 </details>
 
-<details><summary> <a href="https://www.mar-sim.com">Maritime Simulation News</a> </summary>
-
-* <a href="https://www.mar-sim.com/news/985">Simulators Track our Changing Relationship with Technology</a>
-* <a href="https://www.mar-sim.com/news/974">Japanese simulator centre opens for offshore training</a>
-* <a href="https://www.mar-sim.com/news/971">AR Simulator Added to Pilot Training at Smartship Australia</a>
-* <a href="https://www.mar-sim.com/news/959">Wärtsilä to supply simulator to NSB Group</a>
-* <a href="https://www.mar-sim.com/news/954">Rajnath Singh inaugurates Integrated Simulator Complex ‘Dhruv’</a>
-* <a href="https://www.mar-sim.com/news/944">VSTEP Further Expands to the Latin American Market with Inland Solution</a>
-* <a href="https://www.mar-sim.com/news/937">VSTEP Launches Simulator That Makes Ship Simulation Easily Accessible</a>
-* <a href="https://www.mar-sim.com/news/904">Kongsberg Wins Large Contract with South Metropolitan TAFE</a>
-* <a href="https://www.mar-sim.com/news/888">Wärtsilä Navigational Simulator becomes first Interactive ‘instructor-led’ cloud training solution to gain new DNV Class D Certification</a>
-* <a href="https://www.mar-sim.com/news/882">Panama Canal Authority Taps Kongsberg for New Navigation Simulators</a>
-</details>
-
 # Quote of the Day
-<p><em>It does me no injury for my neighbor to say there are twenty gods or no God.  It neither picks my pocket nor breaks my leg.</em><br /> -- Thomas Jefferson</p>
+<p><em>I'm about to write you a reality check!  Or would you prefer the cold, hard cash of truth?</em><br /> -- The Tick</p>
