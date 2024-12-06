@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/humor/22223">It’s the most terrible time of the year…</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/food/33319">Mmmm, Coconut Humans</a>
 * <a href="https://www.amon-hen.com/politics/33344">Trump is a Dumb Dumb</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/13352">MST3K 00K07 – Gamera vs. Zigra</a>
 * <a href="https://www.amon-hen.com/politics/33324">Democrats must always set a good example</a>
 * <a href="https://www.amon-hen.com/politics/33301">Last Week Tonight – S2 E6: NCAA, ISIS & Brazil</a>
 * <a href="https://www.amon-hen.com/humor/5023">Cyber Monday</a>
 * <a href="https://www.amon-hen.com/television/9714">MST3K Short 0406 – Undersea Kingdom 1</a>
 * <a href="https://www.amon-hen.com/movies/33306">It Came from Beneath the Sea (1955)</a>
-* <a href="https://www.amon-hen.com/music/33290">To Be Alive (Hep Yadda)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Nobody in the game of football should be called a genius.  A genius is somebody like Norman Einstein.</em><br /> -- Joe Theismann</p>
+<p><em>Are you correcting me? Don't correct me! I'm a Pantera's box you do NOT want to open!</em><br /> -- Mr. Furious</p>
