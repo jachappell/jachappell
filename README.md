@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/humor/29898">RiffTrax – Christmas Circus with Whizzo The Clown</a>
+* <a href="https://www.amon-hen.com/television/7246">MST3K Short 0407 – Junior Rodeo Daredevils</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/humor/29898">RiffTrax – Christmas Circus with Whizzo The Clown</a>
 * <a href="https://www.amon-hen.com/music/33339">A Broken Man</a>
 * <a href="https://www.amon-hen.com/humor/22223">It’s the most terrible time of the year…</a>
 * <a href="https://www.amon-hen.com/food/33319">Mmmm, Coconut Humans</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/13352">MST3K 00K07 – Gamera vs. Zigra</a>
 * <a href="https://www.amon-hen.com/politics/33324">Democrats must always set a good example</a>
 * <a href="https://www.amon-hen.com/politics/33301">Last Week Tonight – S2 E6: NCAA, ISIS & Brazil</a>
-* <a href="https://www.amon-hen.com/humor/5023">Cyber Monday</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I'd never join any club that would have the likes of me as a member.</em><br /> -- Groucho Marx</p>
+<p><em>It's no coincidence that in no known language does the phrase 'As pretty as an airport' appear.</em><br /> -- Douglas Adams</p>
