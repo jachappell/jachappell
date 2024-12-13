@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/humor/33369">The McRib is back! (2024)</a>
+* <a href="https://www.amon-hen.com/humor/31727">RiffTrax – A Song For Santa</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/humor/33369">The McRib is back! (2024)</a>
 * <a href="https://www.amon-hen.com/television/13405">MST3K 00K08 – Gamera vs. Guiron</a>
 * <a href="https://www.amon-hen.com/books/297">Reading – The Particle at the End of the Universe: How the Hunt for the Higgs Boson Leads Us to the Edge of a New World</a>
 * <a href="https://www.amon-hen.com/politics/33360">Last Week Tonight – S2 E7: Municipal Violations, Israel & Starbucks</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/humor/29898">RiffTrax – Christmas Circus with Whizzo The Clown</a>
 * <a href="https://www.amon-hen.com/music/33339">A Broken Man</a>
 * <a href="https://www.amon-hen.com/humor/22223">It’s the most terrible time of the year…</a>
-* <a href="https://www.amon-hen.com/food/33319">Mmmm, Coconut Humans</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>If you're in a war, instead of throwing a hand grenade at the enemy, throw one of those small pumpkins. Maybe it'll make everyone think how stupid war is, and while they are thinking, you can throw a real grenade at them.</em><br /> -- Jack Handey</p>
+<p><em>We don't know who they are or where they come from, but we do know that they stand for everything we don't stand for.  Also, I heard they said you guys look like dorks.</em><br /> -- Captain Zapp Brannigan</p>
