@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/9774">MST3K Short 0409 – Undersea Kingdom 2</a>
+* <a href="https://www.amon-hen.com/politics/33395">Groveling boot-lickers and yes-men</a>
+* <a href="https://www.amon-hen.com/politics/33381">Last Week Tonight – S2 E8: Government Surveillance, Edward Snowden & Iran</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/9774">MST3K Short 0409 – Undersea Kingdom 2</a>
 * <a href="https://www.amon-hen.com/humor/31742">RiffTrax – Charlie’s Christmas Secret</a>
 * <a href="https://www.amon-hen.com/music/22306">Three Ships</a>
 * <a href="https://www.amon-hen.com/humor/31727">RiffTrax – A Song For Santa</a>
 * <a href="https://www.amon-hen.com/humor/33369">The McRib is back! (2024)</a>
 * <a href="https://www.amon-hen.com/television/13405">MST3K 00K08 – Gamera vs. Guiron</a>
 * <a href="https://www.amon-hen.com/books/297">Reading – The Particle at the End of the Universe: How the Hunt for the Higgs Boson Leads Us to the Edge of a New World</a>
-* <a href="https://www.amon-hen.com/politics/33360">Last Week Tonight – S2 E7: Municipal Violations, Israel & Starbucks</a>
-* <a href="https://www.amon-hen.com/television/7246">MST3K Short 0407 – Junior Rodeo Daredevils</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Saliva causes cancer, but only if swallowed in small amounts over a long period of time.</em><br /> -- George Carlin</p>
+<p><em>If absolute power corrupts absolutely, does absolute powerlessness make you pure?</em><br /> -- Harry Shearer</p>
