@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/humor/28420">RiffTrax – Santa and the Ice Cream Bunny</a>
+* <a href="https://www.amon-hen.com/music/22308">Run with the Fox</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/humor/28420">RiffTrax – Santa and the Ice Cream Bunny</a>
 * <a href="https://www.amon-hen.com/food/33383">Merry Meatmas!</a>
 * <a href="https://www.amon-hen.com/politics/33399">It’s a Wonderful Life</a>
 * <a href="https://www.amon-hen.com/television/5073">MST3K 0521 – Santa Claus</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/33381">Last Week Tonight – S2 E8: Government Surveillance, Edward Snowden & Iran</a>
 * <a href="https://www.amon-hen.com/television/9774">MST3K Short 0409 – Undersea Kingdom 2</a>
 * <a href="https://www.amon-hen.com/humor/31742">RiffTrax – Charlie’s Christmas Secret</a>
-* <a href="https://www.amon-hen.com/music/22306">Three Ships</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Cloud nine gets all the publicity, but cloud eight actually is cheaper, less crowded, and has a better view.</em><br /> -- George Carlin</p>
+<p><em>When Han Solo returns to the Death Star in the </em>Millennium Falcon<em>, and shoots down the TIE fighters and saves the Rebel cause, do you think he does so for a free beer?</em><br /> -- Dwight Kurt Schrute III</p>
