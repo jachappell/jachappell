@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/religion/242">So, shall I begin the Christmas story?</a>
+* <a href="https://www.amon-hen.com/television/5079">MST3K 0321 – Santa Claus Conquers the Martians</a>
+* <a href="https://www.amon-hen.com/politics/33444">Why is Missouri’s population declining?</a>
+* <a href="https://www.amon-hen.com/politics/33441">House Publishes Gaetz Ethics Report</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/33432">Last Week Tonight – S2 E9: The IRS, Hillary Clinton & Cuba</a>
 * <a href="https://www.amon-hen.com/humor/18780">Happy Festivus!</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/humor/5249">Festivus is Coming</a>
 * <a href="https://www.amon-hen.com/television/8717">MST3K Short 0413 – General Hospital 1</a>
 * <a href="https://www.amon-hen.com/television/31713">RiffTrax –  A Christmas Carol</a>
-* <a href="https://www.amon-hen.com/miscellaneous/1766">National Flashlight Day</a>
-* <a href="https://www.amon-hen.com/music/22308">Run with the Fox</a>
-* <a href="https://www.amon-hen.com/humor/28420">RiffTrax – Santa and the Ice Cream Bunny</a>
-* <a href="https://www.amon-hen.com/food/33383">Merry Meatmas!</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Man usually avoids attributing cleverness to somebody else -- unless it is an enemy.</em><br /> -- Albert Einstein</p>
+<p><em>I don't believe in an afterlife, so I don't have to spend my whole life fearing hell, or fearing heaven even more.  For whatever the tortures of hell, I think the boredom of heaven would be even worse.</em><br /> -- Isaac Asimov</p>
