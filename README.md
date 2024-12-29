@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/33452">Counties and Countries</a>
+* <a href="https://www.amon-hen.com/science/33484">MAGA tech bros</a>
+* <a href="https://www.amon-hen.com/humor/33455">Junior Miss (1945)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/33452">Counties and Countries</a>
 * <a href="https://www.amon-hen.com/television/3237">MST3K 0910 – The Final Sacrifice</a>
 * <a href="https://www.amon-hen.com/books/33457">Newtonian Swag: 2024</a>
 * <a href="https://www.amon-hen.com/science/33389">Mmmm,  Thermo-stabilized turkey</a>
 * <a href="https://www.amon-hen.com/religion/242">So, shall I begin the Christmas story?</a>
 * <a href="https://www.amon-hen.com/television/5079">MST3K 0321 – Santa Claus Conquers the Martians</a>
 * <a href="https://www.amon-hen.com/politics/33444">Why is Missouri’s population declining?</a>
-* <a href="https://www.amon-hen.com/politics/33441">House Publishes Gaetz Ethics Report</a>
-* <a href="https://www.amon-hen.com/politics/33432">Last Week Tonight – S2 E9: The IRS, Hillary Clinton & Cuba</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>For my birthday I got a humidifier and a de-humidifier...  I put them in the same room and let them fight it out.</em><br /> -- Stephen Wright</p>
+<p><em>In the fight between you and the world, back the world.</em><br /> -- Frank Zappa</p>
