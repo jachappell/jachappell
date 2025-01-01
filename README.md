@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/33464">Last Week Tonight – S2 E10: Patents, Doomsday & Polar Bears</a>
+* <a href="https://www.amon-hen.com/chappells-show/33410">2024: Yet Another Stupid Year in Review</a>
+* <a href="https://www.amon-hen.com/television/13561">MST3K 00K09 – Phase IV</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/33464">Last Week Tonight – S2 E10: Patents, Doomsday & Polar Bears</a>
 * <a href="https://www.amon-hen.com/television/8781">MST3K Short 0415 – General Hospital 2</a>
 * <a href="https://www.amon-hen.com/science/33484">MAGA tech bros</a>
 * <a href="https://www.amon-hen.com/humor/33455">Junior Miss (1945)</a>
 * <a href="https://www.amon-hen.com/music/33452">Counties and Countries</a>
 * <a href="https://www.amon-hen.com/television/3237">MST3K 0910 – The Final Sacrifice</a>
 * <a href="https://www.amon-hen.com/books/33457">Newtonian Swag: 2024</a>
-* <a href="https://www.amon-hen.com/science/33389">Mmmm,  Thermo-stabilized turkey</a>
-* <a href="https://www.amon-hen.com/religion/242">So, shall I begin the Christmas story?</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The people in the village were real poor, so none of the children had any toys. But this one little boy had gotten an old enema bag and filled it with rocks, and he would go around and whap the other children across the face with it. Man, I think my heart almost broke. Later the boy came up and offered to give me the toy. This was too much! I reached out my hand, but then he ran away. I chased him down and took the enema bag. He cried a little, but that's the way of these people.</em><br /> -- Jack Handey</p>
+<p><em>It is a truism that almost any sect, cult, or religion will legislate its creed into law if it acquires the political power to do so.</em><br /> -- Arthur C. Clarke</p>
