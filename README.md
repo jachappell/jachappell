@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/science/33504">From Hydrogen to Higgs Bosons</a>
+* <a href="https://www.amon-hen.com/music/33506">And You And I (2024)</a>
+* <a href="https://www.amon-hen.com/books/297">Reading: Lord Valentine’s Castle</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/science/33504">From Hydrogen to Higgs Bosons</a>
 * <a href="https://www.amon-hen.com/food/33405">Mmmm, Stewed Terrapin</a>
 * <a href="https://www.amon-hen.com/site-news/33512">Summary of 2024</a>
 * <a href="https://www.amon-hen.com/chappells-show/33410">2024: Yet Another Stupid Year in Review</a>
 * <a href="https://www.amon-hen.com/television/13561">MST3K 00K09 – Phase IV</a>
 * <a href="https://www.amon-hen.com/politics/33464">Last Week Tonight – S2 E10: Patents, Doomsday & Polar Bears</a>
 * <a href="https://www.amon-hen.com/television/8781">MST3K Short 0415 – General Hospital 2</a>
-* <a href="https://www.amon-hen.com/science/33484">MAGA tech bros</a>
-* <a href="https://www.amon-hen.com/humor/33455">Junior Miss (1945)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Mmmm, sacrilicious.</em><br /> -- Homer J. Simpson</p>
+<p><em>I think the mistake a lot of us make is thinking the state-appointed shrink is our friend.</em><br /> -- Jack Handey</p>
