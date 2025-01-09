@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/13487">MST3K 00K10 – Cosmic Princess</a>
+* <a href="https://www.amon-hen.com/food/33419">Mmmm, Digestible Wieners</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/13487">MST3K 00K10 – Cosmic Princess</a>
 * <a href="https://www.amon-hen.com/politics/33467">Last Week Tonight  – S2 E11: Fashion, Armenian Genocide & Dr. Oz</a>
 * <a href="https://www.amon-hen.com/politics/33536">January 6, 2025</a>
 * <a href="https://www.amon-hen.com/politics/33530">Negotiated Bribes</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/movies/33500">Prototype X29A (1992)</a>
 * <a href="https://www.amon-hen.com/music/33506">And You And I (2024)</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Lord Valentine’s Castle</a>
-* <a href="https://www.amon-hen.com/science/33504">From Hydrogen to Higgs Bosons</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I do not fear death, in view of the fact that I had been dead for billions and billions of years before I was born, and had not suffered the slightest inconvenience from it.</em><br /> -- Mark Twain </p>
+<p><em>Religion. It's given people hope in a world torn apart by religion.</em><br /> -- Jon Stewart</p>
