@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/33534">The Giant Claw (1957)</a>
+* <a href="https://www.amon-hen.com/television/8596">MST3K Short 0419 – Johnny at the Fair</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/33534">The Giant Claw (1957)</a>
 * <a href="https://www.amon-hen.com/music/33540">True Messenger</a>
 * <a href="https://www.amon-hen.com/science/33527">When Philosophy Drives Physics</a>
 * <a href="https://www.amon-hen.com/food/33419">Mmmm, Digestible Wieners</a>
@@ -11,11 +12,11 @@
 * <a href="https://www.amon-hen.com/politics/33467">Last Week Tonight  – S2 E11: Fashion, Armenian Genocide & Dr. Oz</a>
 * <a href="https://www.amon-hen.com/politics/33536">January 6, 2025</a>
 * <a href="https://www.amon-hen.com/politics/33530">Negotiated Bribes</a>
-* <a href="https://www.amon-hen.com/television/8838">MST3K Short 0417 – General Hospital 3</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/news/3629">RESULTS: 2025 DCI Rules Congress</a>
 * <a href="https://www.drum-corps.net/news/3626">Spartans pave path to World Class</a>
 * <a href="https://www.drum-corps.net/news/3621">2025 DCI Rules Congress proposals</a>
 * <a href="https://www.drum-corps.net/news/3619">The New York Skyliners Announce Move to SoundSport for the 2025 Season</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/news/3588">2025 Drum Corps International Tour Schedule</a>
 * <a href="https://www.drum-corps.net/news/3585">Drum Corps International Magazine – November 2024</a>
 * <a href="https://www.drum-corps.net/news/3577">Jersey Surf Withdraws from 2025 DCI Summer Tour</a>
-* <a href="https://www.drum-corps.net/news/3574">Drum Corps World – November 2024</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>If all the girls who attended the Yale prom were laid end to end, I wouldn't be a bit surprised.</em><br /> -- Dorothy Parker</p>
+<p><em>It is inhumane, in my opinion, to force people who have a genuine medical need for coffee to wait in line behind people who apparently view it as some kind of recreational activity.</em><br /> -- Dave Barry</p>
