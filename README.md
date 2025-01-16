@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/13529">MST3K 00K11 – Humanoid Woman</a>
+* <a href="https://www.amon-hen.com/politics/33568">The whiny man baby threw a shit-fit</a>
+* <a href="https://www.amon-hen.com/food/33486">Mmmm, Cheez-It Snack Mix</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/13529">MST3K 00K11 – Humanoid Woman</a>
 * <a href="https://www.amon-hen.com/politics/33469">Last Week Tonight – S2 E12: Standardized Testing, Baltimore & Bud Light</a>
 * <a href="https://www.amon-hen.com/television/8596">MST3K Short 0419 – Johnny at the Fair</a>
 * <a href="https://www.amon-hen.com/movies/33534">The Giant Claw (1957)</a>
 * <a href="https://www.amon-hen.com/music/33540">True Messenger</a>
 * <a href="https://www.amon-hen.com/science/33527">When Philosophy Drives Physics</a>
 * <a href="https://www.amon-hen.com/food/33419">Mmmm, Digestible Wieners</a>
-* <a href="https://www.amon-hen.com/television/13487">MST3K 00K10 – Cosmic Princess</a>
-* <a href="https://www.amon-hen.com/politics/33467">Last Week Tonight  – S2 E11: Fashion, Armenian Genocide & Dr. Oz</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>As I bit into the nectarine, it had a crisp juiciness about it that was very pleasurable - until I realized it wasn't a nectarine at all, but A HUMAN HEAD!!</em><br /> -- Jack Handey</p>
+<p><em>People say don't give homeless people money. "They'll only spend it on booze or drugs." I think, hey, the guy's living in a box, maybe he needs a drink.</em><br /> -- Jake Johannsen</p>
