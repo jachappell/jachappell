@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/33434">Titanic (1943)</a>
+* <a href="https://www.amon-hen.com/television/9354">MST3K Short 0421 – Circus on Ice</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/33434">Titanic (1943)</a>
 * <a href="https://www.amon-hen.com/music/33553">Under Heavens Door</a>
 * <a href="https://www.amon-hen.com/science/33577">SpaceX’s Starship breaks up in space</a>
 * <a href="https://www.amon-hen.com/movies/33570">David Lynch, 1946-2025</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/33568">The whiny man baby threw a shit-fit</a>
 * <a href="https://www.amon-hen.com/food/33486">Mmmm, Cheez-It Snack Mix</a>
 * <a href="https://www.amon-hen.com/television/13529">MST3K 00K11 – Humanoid Woman</a>
-* <a href="https://www.amon-hen.com/politics/33469">Last Week Tonight – S2 E12: Standardized Testing, Baltimore & Bud Light</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I'd like to see a nude opera, because when they hit those high notes, I bet you can really see it in those genitals.</em><br /> -- Jack Handey</p>
+<p><em>It's just like the story of the grasshopper and the octopus. All year long, the grasshopper kept burying acorns for the winter, while the octopus mooched off his girlfriend and watched TV. But then the winter came, and the grasshopper died, and the octopus ate all his acorns. And also he got a racecar. Is any of this getting through to you?</em><br /> -- Philip J. Fry</p>
