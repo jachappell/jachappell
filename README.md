@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/television/14388">MST3K 00K12 – Fugitive Alien</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/33581">Trump Inauguration</a>
 * <a href="https://www.amon-hen.com/politics/33471">Last Week Tonight – S2 E13: Paid Family Leave, Mascots & UK Elections</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/9354">MST3K Short 0421 – Circus on Ice</a>
 * <a href="https://www.amon-hen.com/movies/33434">Titanic (1943)</a>
 * <a href="https://www.amon-hen.com/music/33553">Under Heavens Door</a>
 * <a href="https://www.amon-hen.com/science/33577">SpaceX’s Starship breaks up in space</a>
 * <a href="https://www.amon-hen.com/movies/33570">David Lynch, 1946-2025</a>
 * <a href="https://www.amon-hen.com/science/33556">Time, Black Holes, and the Cosmos</a>
-* <a href="https://www.amon-hen.com/politics/33568">The whiny man baby threw a shit-fit</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Gods don't like people not doing much work. People who aren't busy all the time might start to think.</em><br /> -- Terry Pratchett (<em>Small Gods</em>)</p>
+<p><em>In Paris they simply stared when I spoke to them in French; I never did succeed in making those idiots understand their language.</em><br /> -- Mark Twain</p>
