@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/humor/33502">I’m On A Boat</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/humor/33508">Booby Dupes (1945)</a>
 * <a href="https://www.amon-hen.com/boats/15635">Happy Bounty Day!</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/food/33446">Mmmm, Jugged Hare</a>
 * <a href="https://www.amon-hen.com/television/14388">MST3K 00K12 – Fugitive Alien</a>
 * <a href="https://www.amon-hen.com/politics/33581">Trump Inauguration</a>
 * <a href="https://www.amon-hen.com/politics/33471">Last Week Tonight – S2 E13: Paid Family Leave, Mascots & UK Elections</a>
 * <a href="https://www.amon-hen.com/television/9354">MST3K Short 0421 – Circus on Ice</a>
 * <a href="https://www.amon-hen.com/movies/33434">Titanic (1943)</a>
-* <a href="https://www.amon-hen.com/music/33553">Under Heavens Door</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>In restaurants where they serve frog's legs, what do they do with the rest of the frog?  Do they just throw it away?  You never see "frog torsos" on the menu.  Is there actually a garbage can full of frog bodies in the alley?  I wouldn't want to be the homeless guy looking for an unfinished cheeseburger and open the lid on that.</em><br /> -- George Carlin</p>
+<p><em>No! No! NO! We're not watching the bloody Good Life! Bloody bloody bloody! I hate it! It's so bloody nice! Felicity "Treacle" Kendall and Richard "Sugar-Flavored-Snot" Briars! What do they do now? Chocolate bloody Button ads, that's what! They're just a couple of reactionary stereotypes, confirming the myth that everyone in Britain is a lovable, middle-class eccentric - and I - HATE - THEM!</em><br /> -- Vyvyan Basterd </p>
