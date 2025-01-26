@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/humor/33502">I’m On A Boat</a>
+* <a href="https://www.amon-hen.com/movies/33436">Luxury Liner (1933)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/humor/33502">I’m On A Boat</a>
 * <a href="https://www.amon-hen.com/humor/33508">Booby Dupes (1945)</a>
 * <a href="https://www.amon-hen.com/boats/15635">Happy Bounty Day!</a>
 * <a href="https://www.amon-hen.com/food/33446">Mmmm, Jugged Hare</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/33581">Trump Inauguration</a>
 * <a href="https://www.amon-hen.com/politics/33471">Last Week Tonight – S2 E13: Paid Family Leave, Mascots & UK Elections</a>
 * <a href="https://www.amon-hen.com/television/9354">MST3K Short 0421 – Circus on Ice</a>
-* <a href="https://www.amon-hen.com/movies/33434">Titanic (1943)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>No! No! NO! We're not watching the bloody Good Life! Bloody bloody bloody! I hate it! It's so bloody nice! Felicity "Treacle" Kendall and Richard "Sugar-Flavored-Snot" Briars! What do they do now? Chocolate bloody Button ads, that's what! They're just a couple of reactionary stereotypes, confirming the myth that everyone in Britain is a lovable, middle-class eccentric - and I - HATE - THEM!</em><br /> -- Vyvyan Basterd </p>
+<p><em>It has been my experience that folks who have no vices have very few virtues.</em><br /> -- Abraham Lincoln</p>
