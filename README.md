@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/33436">Luxury Liner (1933)</a>
+* <a href="https://www.amon-hen.com/television/6082">MST3K Short 0422 – Here Comes The Circus</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/33436">Luxury Liner (1933)</a>
 * <a href="https://www.amon-hen.com/humor/33502">I’m On A Boat</a>
+* <a href="https://www.amon-hen.com/books/297">Reading: Majipoor Chronicles</a>
+* <a href="https://www.amon-hen.com/books/25370">Sean Carroll</a>
 * <a href="https://www.amon-hen.com/humor/33508">Booby Dupes (1945)</a>
 * <a href="https://www.amon-hen.com/boats/15635">Happy Bounty Day!</a>
 * <a href="https://www.amon-hen.com/food/33446">Mmmm, Jugged Hare</a>
 * <a href="https://www.amon-hen.com/television/14388">MST3K 00K12 – Fugitive Alien</a>
-* <a href="https://www.amon-hen.com/politics/33581">Trump Inauguration</a>
-* <a href="https://www.amon-hen.com/politics/33471">Last Week Tonight – S2 E13: Paid Family Leave, Mascots & UK Elections</a>
-* <a href="https://www.amon-hen.com/television/9354">MST3K Short 0421 – Circus on Ice</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>It has been my experience that folks who have no vices have very few virtues.</em><br /> -- Abraham Lincoln</p>
+<p><em>It's very unusual for Michael not to show up to work. My guess, he's either deeply depressed or an icicle has snapped off his roof and impaled his brain. He has this terrible habit of standing directly underneath them and staring up at them. And I always say, "Michael, take two steps back and stare at the icicle from the side." And he's like, "No, I like the way they look from standing directly underneath them." It was only a matter of time.</em><br /> -- Dwight Kurt Schrute III</p>
