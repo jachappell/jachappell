@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/33473">Last Week Tonight – S2 E14: Chicken Farming, the NSA & FIFA</a>
+* <a href="https://www.amon-hen.com/television/14423">MST3K 00K13 – SST: Death Flight</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/33473">Last Week Tonight – S2 E14: Chicken Farming, the NSA & FIFA</a>
 * <a href="https://www.amon-hen.com/television/6082">MST3K Short 0422 – Here Comes The Circus</a>
 * <a href="https://www.amon-hen.com/movies/33436">Luxury Liner (1933)</a>
 * <a href="https://www.amon-hen.com/humor/33502">I’m On A Boat</a>
@@ -11,11 +12,11 @@
 * <a href="https://www.amon-hen.com/books/33608">Mark Stille</a>
 * <a href="https://www.amon-hen.com/books/25370">Sean Carroll</a>
 * <a href="https://www.amon-hen.com/humor/33508">Booby Dupes (1945)</a>
-* <a href="https://www.amon-hen.com/boats/15635">Happy Bounty Day!</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/news/3635">Drum Corps World – February 2025</a>
 * <a href="https://www.drum-corps.net/news/3629">RESULTS: 2025 DCI Rules Congress</a>
 * <a href="https://www.drum-corps.net/news/3626">Spartans pave path to World Class</a>
 * <a href="https://www.drum-corps.net/news/3621">2025 DCI Rules Congress proposals</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/news/3602">Drum Corps World – December 2024</a>
 * <a href="https://www.drum-corps.net/news/3588">2025 Drum Corps International Tour Schedule</a>
 * <a href="https://www.drum-corps.net/news/3585">Drum Corps International Magazine – November 2024</a>
-* <a href="https://www.drum-corps.net/news/3577">Jersey Surf Withdraws from 2025 DCI Summer Tour</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Care to contribute to the Anti-Mugging-You Fund?</em><br /> -- Bender Unit 22</p>
+<p><em>I don't need a compass to know which way the wind shines!</em><br /> -- Mr. Furious</p>
