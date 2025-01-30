@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/14423">MST3K 00K13 – SST: Death Flight</a>
+* <a href="https://www.amon-hen.com/food/33549">Mmmm, Drinkable Mayonnaise</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/14423">MST3K 00K13 – SST: Death Flight</a>
 * <a href="https://www.amon-hen.com/politics/33473">Last Week Tonight – S2 E14: Chicken Farming, the NSA & FIFA</a>
 * <a href="https://www.amon-hen.com/television/6082">MST3K Short 0422 – Here Comes The Circus</a>
 * <a href="https://www.amon-hen.com/movies/33436">Luxury Liner (1933)</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/books/297">Reading: Majipoor Chronicles</a>
 * <a href="https://www.amon-hen.com/books/33608">Mark Stille</a>
 * <a href="https://www.amon-hen.com/books/25370">Sean Carroll</a>
-* <a href="https://www.amon-hen.com/humor/33508">Booby Dupes (1945)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I don't need a compass to know which way the wind shines!</em><br /> -- Mr. Furious</p>
+<p><em>If only more Christians read their bibles there'd be less Christians.</em><br /> -- Derek W. Clayton</p>
