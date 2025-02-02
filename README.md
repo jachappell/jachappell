@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/movies/33623">Phantom Raiders (1988)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/computing/internet/33626">Facebook Sucks!</a>
 * <a href="https://www.amon-hen.com/music/33619">Midnight Messiah</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/humor/33617">RiffTrax – Abraxas: Guardian of the Universe</a>
 * <a href="https://www.amon-hen.com/food/33549">Mmmm, Drinkable Mayonnaise</a>
 * <a href="https://www.amon-hen.com/television/14423">MST3K 00K13 – SST: Death Flight</a>
 * <a href="https://www.amon-hen.com/politics/33473">Last Week Tonight – S2 E14: Chicken Farming, the NSA & FIFA</a>
 * <a href="https://www.amon-hen.com/television/6082">MST3K Short 0422 – Here Comes The Circus</a>
 * <a href="https://www.amon-hen.com/movies/33436">Luxury Liner (1933)</a>
-* <a href="https://www.amon-hen.com/humor/33502">I’m On A Boat</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Anybody who watches three games of football in a row should be declared brain dead.</em><br /> -- Erma Bombeck</p>
+<p><em>FORTRAN is not a flower but a weed -- it is hardy, occasionally blooms, and grows in every computer.</em><br /> -- A.J. Perlis</p>
