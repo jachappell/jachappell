@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/33623">Phantom Raiders (1988)</a>
+* <a href="https://www.amon-hen.com/television/7070">MST3K Short 0423 – Hired! 1</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/33623">Phantom Raiders (1988)</a>
 * <a href="https://www.amon-hen.com/computing/internet/33626">Facebook Sucks!</a>
 * <a href="https://www.amon-hen.com/music/33619">Midnight Messiah</a>
 * <a href="https://www.amon-hen.com/humor/33617">RiffTrax – Abraxas: Guardian of the Universe</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/14423">MST3K 00K13 – SST: Death Flight</a>
 * <a href="https://www.amon-hen.com/politics/33473">Last Week Tonight – S2 E14: Chicken Farming, the NSA & FIFA</a>
 * <a href="https://www.amon-hen.com/television/6082">MST3K Short 0422 – Here Comes The Circus</a>
-* <a href="https://www.amon-hen.com/movies/33436">Luxury Liner (1933)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>FORTRAN is not a flower but a weed -- it is hardy, occasionally blooms, and grows in every computer.</em><br /> -- A.J. Perlis</p>
+<p><em>Everything that has a beginning has an ending.  Make your peace with that and all will be well.</em><br /> -- Siddhartha Gautama</p>
