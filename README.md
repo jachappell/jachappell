@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/33634">Last Week Tonight – S2 E15: FIFA II, Nebraska Death Penalty & Ireland</a>
+* <a href="https://www.amon-hen.com/television/14513">MST3K 00K14 – Mighty Jack</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/33634">Last Week Tonight – S2 E15: FIFA II, Nebraska Death Penalty & Ireland</a>
 * <a href="https://www.amon-hen.com/television/7070">MST3K Short 0423 – Hired! 1</a>
 * <a href="https://www.amon-hen.com/movies/33623">Phantom Raiders (1988)</a>
 * <a href="https://www.amon-hen.com/computing/internet/33626">Facebook Sucks!</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/humor/33617">RiffTrax – Abraxas: Guardian of the Universe</a>
 * <a href="https://www.amon-hen.com/food/33549">Mmmm, Drinkable Mayonnaise</a>
 * <a href="https://www.amon-hen.com/television/14423">MST3K 00K13 – SST: Death Flight</a>
-* <a href="https://www.amon-hen.com/politics/33473">Last Week Tonight – S2 E14: Chicken Farming, the NSA & FIFA</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I'm starting to suspect there's more than one tri-state area.</em><br /> -- Stephen Colbert</p>
+<p><em>It's such a fine line between stupid, and clever.</em><br /> -- David St. Hubbins</p>
