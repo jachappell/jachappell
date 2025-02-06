@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/14513">MST3K 00K14 – Mighty Jack</a>
+* <a href="https://www.amon-hen.com/food/33639">Mmmm, Beaverage</a>
+* <a href="https://www.amon-hen.com/humor/33645">Ask Meta AI anything</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/14513">MST3K 00K14 – Mighty Jack</a>
 * <a href="https://www.amon-hen.com/politics/33634">Last Week Tonight – S2 E15: FIFA II, Nebraska Death Penalty & Ireland</a>
 * <a href="https://www.amon-hen.com/television/7070">MST3K Short 0423 – Hired! 1</a>
 * <a href="https://www.amon-hen.com/movies/33623">Phantom Raiders (1988)</a>
 * <a href="https://www.amon-hen.com/computing/internet/33626">Facebook Sucks!</a>
 * <a href="https://www.amon-hen.com/music/33619">Midnight Messiah</a>
 * <a href="https://www.amon-hen.com/humor/33617">RiffTrax – Abraxas: Guardian of the Universe</a>
-* <a href="https://www.amon-hen.com/food/33549">Mmmm, Drinkable Mayonnaise</a>
-* <a href="https://www.amon-hen.com/television/14423">MST3K 00K13 – SST: Death Flight</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>It's such a fine line between stupid, and clever.</em><br /> -- David St. Hubbins</p>
+<p><em>If you ever require a picture of resentful apathy, check out any background munchkin in the </em>Wizard of Oz<em>.  Also, I think it's shameful to try to pin the collapse of the lollipop industry on the lollipop guild.</em><br /> -- John Hodgman</p>
