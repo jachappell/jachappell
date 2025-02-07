@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/33654">The Klan Remains the Same</a>
+* <a href="https://www.amon-hen.com/humor/33649">RiffTrax – Am I Trustworthy</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/food/33639">Mmmm, Beaverage</a>
 * <a href="https://www.amon-hen.com/humor/33645">Ask Meta AI anything</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/14513">MST3K 00K14 – Mighty Jack</a>
 * <a href="https://www.amon-hen.com/politics/33634">Last Week Tonight – S2 E15: FIFA II, Nebraska Death Penalty & Ireland</a>
 * <a href="https://www.amon-hen.com/television/7070">MST3K Short 0423 – Hired! 1</a>
 * <a href="https://www.amon-hen.com/movies/33623">Phantom Raiders (1988)</a>
 * <a href="https://www.amon-hen.com/computing/internet/33626">Facebook Sucks!</a>
-* <a href="https://www.amon-hen.com/music/33619">Midnight Messiah</a>
-* <a href="https://www.amon-hen.com/humor/33617">RiffTrax – Abraxas: Guardian of the Universe</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>If you ever require a picture of resentful apathy, check out any background munchkin in the </em>Wizard of Oz<em>.  Also, I think it's shameful to try to pin the collapse of the lollipop industry on the lollipop guild.</em><br /> -- John Hodgman</p>
+<p><em>On two occasions I have been asked [by members of Parliament!], "Pray, Mr. Babbage, if you put into the machine wrong figures, will the  right answers come out?"  I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.</em><br /> -- Charles Babbage</p>
