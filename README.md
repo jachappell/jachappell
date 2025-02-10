@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/33666">Nosferatu (1922)</a>
+* <a href="https://www.amon-hen.com/humor/33673">Superb Owl LIX #SuperbOwl #SuperbOwlLIX</a>
+* <a href="https://www.amon-hen.com/television/12858">MST3K Short 0424 – Hired! 2</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/33666">Nosferatu (1922)</a>
 * <a href="https://www.amon-hen.com/music/33660">Land Of Make Believe</a>
 * <a href="https://www.amon-hen.com/science/33658">White House budget proposal could shatter the National Science Foundation</a>
 * <a href="https://www.amon-hen.com/politics/33654">The Klan Remains the Same</a>
 * <a href="https://www.amon-hen.com/humor/33649">RiffTrax – Am I Trustworthy</a>
 * <a href="https://www.amon-hen.com/food/33639">Mmmm, Beaverage</a>
 * <a href="https://www.amon-hen.com/humor/33645">Ask Meta AI anything</a>
-* <a href="https://www.amon-hen.com/television/14513">MST3K 00K14 – Mighty Jack</a>
-* <a href="https://www.amon-hen.com/politics/33634">Last Week Tonight – S2 E15: FIFA II, Nebraska Death Penalty & Ireland</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Have you ever wondered what makes Californians so calm?  Besides drugs, I mean.  The answer is hot tubs.  A hot tub is a redwood container filled with water that you sit in naked with members of the opposite sex, none of whom is necessarily your spouse.  After a few hours in their hot tubs, Californians don't give a damn about earthquakes or mass murderers.  They don't give a damn about anything , which is why they are able to produce </em>Laverne and Shirley<em> week after week.</em><br /> -- Dave Barry (<em>The Taming of the Screw</em>)</p>
+<p><em>I don't have a lot of experience with vampires, but I have hunted werewolves. I shot one once, but by the time I got to it, it had turned back into my neighbor's dog.</em><br /> -- Dwight Kurt Schrute III</p>
