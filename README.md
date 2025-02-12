@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/television/14569">MST3K 00K15 – Superdome</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: The Making of the Representative for Planet 8</a>
 * <a href="https://www.amon-hen.com/politics/33669">Last Week Tonight – S2 E16: Bail, FIFA Update & China Hack</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/humor/33673">Superb Owl LIX #SuperbOwl #SuperbOwlLIX</a>
 * <a href="https://www.amon-hen.com/television/12858">MST3K Short 0424 – Hired! 2</a>
 * <a href="https://www.amon-hen.com/movies/33666">Nosferatu (1922)</a>
 * <a href="https://www.amon-hen.com/music/33660">Land Of Make Believe</a>
 * <a href="https://www.amon-hen.com/science/33658">White House budget proposal could shatter the National Science Foundation</a>
 * <a href="https://www.amon-hen.com/politics/33654">The Klan Remains the Same</a>
-* <a href="https://www.amon-hen.com/humor/33649">RiffTrax – Am I Trustworthy</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Congratulations!  You have purchased an extremely fine device that would give you thousands of years of trouble-free service, except that you undoubtably will destroy it via some typical bonehead consumer maneuver.  Which is why we ask you to PLEASE FOR GOD'S SAKE READ THIS OWNER'S MANUAL CAREFULLY BEFORE YOU UNPACK THE DEVICE.  YOU ALREADY UNPACKED IT, DIDN'T YOU?  YOU UNPACKED IT AND PLUGGED IT IN AND TURNED IT ON AND FIDDLED WITH THE KNOBS, AND NOW YOUR CHILD, THE SAME CHILD WHO ONCE SHOVED A POLISH SAUSAGE INTO YOUR VIDEOCASSETTE RECORDER AND SET IT ON "FAST FORWARD", THIS CHILD ALSO IS FIDDLING WITH THE KNOBS, RIGHT?  AND YOU'RE JUST NOW STARTING TO READ THE INSTRUCTIONS, RIGHT???  WE MIGHT AS WELL JUST BREAK THESE DEVICES RIGHT AT THE FACTORY BEFORE WE SHIP THEM OUT, YOU KNOW THAT?</em><br /> -- Dave Barry</p>
+<p><em>Oh sweet information superhighway, what bring you me from the depths of cyberspace?</em><br /> -- Crow T. Robot</p>
