@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/humor/33698">RiffTrax – At Your Fingertips: Grasses</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/33694">It’s a fucking cult</a>
 * <a href="https://www.amon-hen.com/food/33682">Mmmm, Quaker Oats</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/14569">MST3K 00K15 – Superdome</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: The Making of the Representative for Planet 8</a>
 * <a href="https://www.amon-hen.com/politics/33669">Last Week Tonight – S2 E16: Bail, FIFA Update & China Hack</a>
 * <a href="https://www.amon-hen.com/humor/33673">Superb Owl LIX #SuperbOwl #SuperbOwlLIX</a>
 * <a href="https://www.amon-hen.com/television/12858">MST3K Short 0424 – Hired! 2</a>
 * <a href="https://www.amon-hen.com/movies/33666">Nosferatu (1922)</a>
-* <a href="https://www.amon-hen.com/music/33660">Land Of Make Believe</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>What's the use of a good quotation if you can't change it?</em><br /> -- The Doctor</p>
+<p><em>You've got to listen to me. Elementary chaos theory tells us that all robots will eventually turn against their masters and run amok in an orgy of blood and the kicking and the biting with the metal teeth and the hurting and shoving.</em><br /> -- Professor Frink</p>
