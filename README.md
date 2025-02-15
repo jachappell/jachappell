@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/humor/33698">RiffTrax – At Your Fingertips: Grasses</a>
+* <a href="https://www.amon-hen.com/music/33700">In The Arms of Morpheus</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/humor/33698">RiffTrax – At Your Fingertips: Grasses</a>
 * <a href="https://www.amon-hen.com/politics/33694">It’s a fucking cult</a>
 * <a href="https://www.amon-hen.com/food/33682">Mmmm, Quaker Oats</a>
 * <a href="https://www.amon-hen.com/television/14569">MST3K 00K15 – Superdome</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/33669">Last Week Tonight – S2 E16: Bail, FIFA Update & China Hack</a>
 * <a href="https://www.amon-hen.com/humor/33673">Superb Owl LIX #SuperbOwl #SuperbOwlLIX</a>
 * <a href="https://www.amon-hen.com/television/12858">MST3K Short 0424 – Hired! 2</a>
-* <a href="https://www.amon-hen.com/movies/33666">Nosferatu (1922)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -30,6 +30,7 @@
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
 
+* <a href="https://www.storage-b.com/math-numerical-analysis/1036">Hypot</a>
 * <a href="https://www.storage-b.com/c/1015">Uploading Consciousness</a>
 * <a href="https://www.storage-b.com/humor/1003">SCRUM: An Honest Ad</a>
 * <a href="https://www.storage-b.com/humor/996">Agile vs. Waterfall</a>
@@ -39,8 +40,7 @@
 * <a href="https://www.storage-b.com/ai/908">Nightmare Fuel from Bing Image Creator</a>
 * <a href="https://www.storage-b.com/ai/904">We’re Safe</a>
 * <a href="https://www.storage-b.com/ai/901">Enjoy Your AI-generated Work</a>
-* <a href="https://www.storage-b.com/humor/896">Blue Tick Marks</a>
 </details>
 
 # Quote of the Day
-<p><em>You've got to listen to me. Elementary chaos theory tells us that all robots will eventually turn against their masters and run amok in an orgy of blood and the kicking and the biting with the metal teeth and the hurting and shoving.</em><br /> -- Professor Frink</p>
+<p><em>All theoretical chemistry is really physics; and all theoretical chemists know it.</em><br /> -- Richard P. Feynman</p>
