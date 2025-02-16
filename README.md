@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/33700">In The Arms of Morpheus</a>
+* <a href="https://www.amon-hen.com/religion/33706">Were like those of donkeys</a>
+* <a href="https://www.amon-hen.com/movies/33702">Firehead (1991)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/33700">In The Arms of Morpheus</a>
 * <a href="https://www.amon-hen.com/humor/33698">RiffTrax – At Your Fingertips: Grasses</a>
 * <a href="https://www.amon-hen.com/politics/33694">It’s a fucking cult</a>
 * <a href="https://www.amon-hen.com/food/33682">Mmmm, Quaker Oats</a>
 * <a href="https://www.amon-hen.com/television/14569">MST3K 00K15 – Superdome</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: The Making of the Representative for Planet 8</a>
 * <a href="https://www.amon-hen.com/politics/33669">Last Week Tonight – S2 E16: Bail, FIFA Update & China Hack</a>
-* <a href="https://www.amon-hen.com/humor/33673">Superb Owl LIX #SuperbOwl #SuperbOwlLIX</a>
-* <a href="https://www.amon-hen.com/television/12858">MST3K Short 0424 – Hired! 2</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>All theoretical chemistry is really physics; and all theoretical chemists know it.</em><br /> -- Richard P. Feynman</p>
+<p><em>Carob works on the principle that, when mixed with the right combination of fats and sugar, it can duplicate chocolate in color and texture. Of course, the same can be said of dirt.</em><br /> -- Sandra Boynton</p>
