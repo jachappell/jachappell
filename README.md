@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/33723">Mmmm, Burned Cross</a>
+* <a href="https://www.amon-hen.com/politics/33721">Trump 2.0</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/33723">Mmmm, Burned Cross</a>
 * <a href="https://www.amon-hen.com/television/14603">MST3K 00K16 – City on Fire</a>
-* <a href="https://www.amon-hen.com/religion/33717">He shall pay her father</a>
 * <a href="https://www.amon-hen.com/politics/33711">Last Week Tonight – S2 E17: Torture, Jack Warner & Putin</a>
 * <a href="https://www.amon-hen.com/religion/13423">You can do what you like with them</a>
 * <a href="https://www.amon-hen.com/television/6024">MST3K Short 0503 – What to Do on a Date</a>
-* <a href="https://www.amon-hen.com/religion/33706">Were like those of donkeys</a>
 * <a href="https://www.amon-hen.com/movies/33702">Firehead (1991)</a>
 * <a href="https://www.amon-hen.com/music/33700">In The Arms of Morpheus</a>
+* <a href="https://www.amon-hen.com/humor/33698">RiffTrax – At Your Fingertips: Grasses</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Deliberate provocation of mystical experience, particularly by LSD and related hallucinogens, in contrast to spontaneous visionary experiences, entails dangers that must not be underestimated.  Practitioners must take into account the peculiar effects of these substances, namely their ability to influence our consciousness, the innermost essence of our being.  The history of LSD to date amply demonstrates the catastrophic consequences that can ensue when its profound effect is misjudged and the substance is mistaken for a pleasure drug.  Special internal and external advance preparations are required; with them, an LSD experiment can become a meaningful experience.</em><br /> -- Dr. Albert Hoffman, the discoverer of LSD</p>
+<p><em>I do understand what love is, and that is one of the reasons I can never again be a Christian. Love is not self denial. Love is not blood and suffering.  Love is not murdering your son to appease your own vanity.  Love is not hatred or wrath, consigning billions of people to eternal torture because they have offended your ego or disobeyed your rules.  Love is not obedience, conformity, or submission. It is a counterfeit love that iscontingent upon authority, punishment, or reward.  True love is respect and admiration, compassion and kindness, freely given by a healthy, unafraid human being.</em><br /> -- Dan Barker (<em>Losing Faith in Faith</em>)</p>
