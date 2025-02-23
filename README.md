@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/33729">Bend the Clock</a>
+* <a href="https://www.amon-hen.com/movies/27264">The Most Dangerous Game (1932)</a>
+* <a href="https://www.amon-hen.com/books/297">Reading: Cycles of Time</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/33729">Bend the Clock</a>
 * <a href="https://www.amon-hen.com/politics/33721">Trump 2.0</a>
 * <a href="https://www.amon-hen.com/food/33723">Mmmm, Burned Cross</a>
 * <a href="https://www.amon-hen.com/television/14603">MST3K 00K16 – City on Fire</a>
 * <a href="https://www.amon-hen.com/politics/33711">Last Week Tonight – S2 E17: Torture, Jack Warner & Putin</a>
 * <a href="https://www.amon-hen.com/religion/13423">You can do what you like with them</a>
 * <a href="https://www.amon-hen.com/television/6024">MST3K Short 0503 – What to Do on a Date</a>
-* <a href="https://www.amon-hen.com/movies/33702">Firehead (1991)</a>
-* <a href="https://www.amon-hen.com/music/33700">In The Arms of Morpheus</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Sometimes I think we're alone. Sometimes I think we're not. In either case, the thought is staggering.</em><br /> -- R. Buckminster Fuller</p>
+<p><em>Science Fiction writers, I am sorry to say, really do not know anything. We can't talk about science because our knowledge of it is limited and unofficial, and usually our fiction is dreadful.</em><br /> -- Philip K. Dick</p>
