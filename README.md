@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/religion/33737">Dashes them against the rocks</a>
+* <a href="https://www.amon-hen.com/television/6061">MST3K Short 0507 – The Truck Farmer</a>
 * <a href="https://www.amon-hen.com/movies/27264">The Most Dangerous Game (1932)</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Cycles of Time</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/33729">Bend the Clock</a>
 * <a href="https://www.amon-hen.com/politics/33721">Trump 2.0</a>
 * <a href="https://www.amon-hen.com/food/33723">Mmmm, Burned Cross</a>
 * <a href="https://www.amon-hen.com/television/14603">MST3K 00K16 – City on Fire</a>
 * <a href="https://www.amon-hen.com/politics/33711">Last Week Tonight – S2 E17: Torture, Jack Warner & Putin</a>
-* <a href="https://www.amon-hen.com/religion/13423">You can do what you like with them</a>
-* <a href="https://www.amon-hen.com/television/6024">MST3K Short 0503 – What to Do on a Date</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/news/3649">Drum Corps World – March 2025</a>
 * <a href="https://www.drum-corps.net/news/3644">Guardians to forgo participation in the 2025 DCI season</a>
 * <a href="https://www.drum-corps.net/news/3635">Drum Corps World – February 2025</a>
 * <a href="https://www.drum-corps.net/news/3629">RESULTS: 2025 DCI Rules Congress</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/news/3615">Drum Corps World – January 2025</a>
 * <a href="https://www.drum-corps.net/news/3604">DCI phasing out historic library of physical audio/video products</a>
 * <a href="https://www.drum-corps.net/news/3602">Drum Corps World – December 2024</a>
-* <a href="https://www.drum-corps.net/news/3588">2025 Drum Corps International Tour Schedule</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Science Fiction writers, I am sorry to say, really do not know anything. We can't talk about science because our knowledge of it is limited and unofficial, and usually our fiction is dreadful.</em><br /> -- Philip K. Dick</p>
+<p><em>Whenever I see an old lady slip and fall on a wet sidewalk, my first instinct is to laugh. But then I think, what if I was an ant, and she fell on me. Then it wouldn't seem quite so funny.</em><br /> -- Jack Handey</p>
