@@ -2,6 +2,7 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/33743">Content Moderation</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/religion/33737">Dashes them against the rocks</a>
 * <a href="https://www.amon-hen.com/television/6061">MST3K Short 0507 – The Truck Farmer</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/33721">Trump 2.0</a>
 * <a href="https://www.amon-hen.com/food/33723">Mmmm, Burned Cross</a>
 * <a href="https://www.amon-hen.com/television/14603">MST3K 00K16 – City on Fire</a>
-* <a href="https://www.amon-hen.com/politics/33711">Last Week Tonight – S2 E17: Torture, Jack Warner & Putin</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Whenever I see an old lady slip and fall on a wet sidewalk, my first instinct is to laugh. But then I think, what if I was an ant, and she fell on me. Then it wouldn't seem quite so funny.</em><br /> -- Jack Handey</p>
+<p><em>The universe may have a purpose, but nothing we know suggests that, if so, this purpose has any similarity to ours.</em><br /> -- Bertrand Russell</p>
