@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/14653">MST3K 00K17 – Time of the Apes</a>
+* <a href="https://www.amon-hen.com/politics/33754">Trump is old and checked out</a>
+* <a href="https://www.amon-hen.com/food/33747">Mmmm, Appertigers</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/14653">MST3K 00K17 – Time of the Apes</a>
 * <a href="https://www.amon-hen.com/politics/33743">Content Moderation</a>
 * <a href="https://www.amon-hen.com/religion/33737">Dashes them against the rocks</a>
 * <a href="https://www.amon-hen.com/television/6061">MST3K Short 0507 – The Truck Farmer</a>
 * <a href="https://www.amon-hen.com/movies/27264">The Most Dangerous Game (1932)</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Cycles of Time</a>
 * <a href="https://www.amon-hen.com/music/33729">Bend the Clock</a>
-* <a href="https://www.amon-hen.com/politics/33721">Trump 2.0</a>
-* <a href="https://www.amon-hen.com/food/33723">Mmmm, Burned Cross</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Turkey can never beat cow.</em><br /> -- Ron Swanson</p>
+<p><em>The most erroneous stories are those we think we know best - and therefore never scrutinize or question.</em><br /> -- Stephen Jay Gould</p>
