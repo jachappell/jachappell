@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/religion/33782">Since the slave is their property</a>
+* <a href="https://www.amon-hen.com/television/13676">MST3K Short 0510 – Body Care And Grooming</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/33788">A “rubio”</a>
 * <a href="https://www.amon-hen.com/movies/33777">Space Master X-7 (1958)</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/33759">Road to Nowhere</a>
 * <a href="https://www.amon-hen.com/politics/33761">Never go full Nazi</a>
 * <a href="https://www.amon-hen.com/humor/33756">Rifftrax –  The Most Dangerous Game</a>
 * <a href="https://www.amon-hen.com/politics/33754">Trump is old and checked out</a>
 * <a href="https://www.amon-hen.com/food/33747">Mmmm, Appertigers</a>
-* <a href="https://www.amon-hen.com/television/14653">MST3K 00K17 – Time of the Apes</a>
-* <a href="https://www.amon-hen.com/politics/33743">Content Moderation</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I went into a clothes store and a lady came up to me and said "if you need anything, I'm Jill."  I've never met anyone with a conditional identity before.</em><br /> -- Demetri Martin</p>
+<p><em>America ... just a nation of two hundred million used car salesmen with all the money we need to buy guns and no qualms about killing anybody else in the world who tries to make us uncomfortable.</em><br /> -- Hunter S. Thompson</p>
