@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/33790">Tipping</a>
+* <a href="https://www.amon-hen.com/television/14680">MST3K 00K18 – The Million Eyes of Sumuru</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/33790">Tipping</a>
 * <a href="https://www.amon-hen.com/religion/33782">Since the slave is their property</a>
 * <a href="https://www.amon-hen.com/television/13676">MST3K Short 0510 – Body Care And Grooming</a>
 * <a href="https://www.amon-hen.com/politics/33788">A “rubio”</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/music/33759">Road to Nowhere</a>
 * <a href="https://www.amon-hen.com/politics/33761">Never go full Nazi</a>
 * <a href="https://www.amon-hen.com/humor/33756">Rifftrax –  The Most Dangerous Game</a>
-* <a href="https://www.amon-hen.com/politics/33754">Trump is old and checked out</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I used to think it was a terrible thing that life was so unfair.  Then I thought, 'what if life *were* fair, and all of the terrible things that happen to us came because we really deserved them?'  Now I take great comfort in the general unfairness and hostility of the universe.</em><br /> -- Marcus Cole (<em>Babylon 5</em>)</p>
+<p><em>If thine enemy wrong thee, buy each of his children a drum.</em><br /> -- African proverb</p>
