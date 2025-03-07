@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/humor/33795">It’s too…</a>
+* <a href="https://www.amon-hen.com/science/33807">SpaceX loses another Starship</a>
+* <a href="https://www.amon-hen.com/humor/33800">RiffTrax – Rollergator</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/humor/33795">It’s too…</a>
 * <a href="https://www.amon-hen.com/television/14680">MST3K 00K18 – The Million Eyes of Sumuru</a>
 * <a href="https://www.amon-hen.com/politics/33790">Tipping</a>
 * <a href="https://www.amon-hen.com/religion/33782">Since the slave is their property</a>
 * <a href="https://www.amon-hen.com/television/13676">MST3K Short 0510 – Body Care And Grooming</a>
 * <a href="https://www.amon-hen.com/politics/33788">A “rubio”</a>
 * <a href="https://www.amon-hen.com/movies/33777">Space Master X-7 (1958)</a>
-* <a href="https://www.amon-hen.com/music/33759">Road to Nowhere</a>
-* <a href="https://www.amon-hen.com/politics/33761">Never go full Nazi</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>One does not need to puzzle long over why religionists hate atheists so venomously.  Atheist stir up the suppressed doubts of believers to the point of producing anguish.  This is the anguish that incited believers to burn heretics and atheists at the stake in olden times to remove the source of the unsettling, disturbing doubts that plagued the believers.</em><br /> -- C. W. Dalton (<em>The Right Brain and Religion</em>)</p>
+<p><em>For animals, the entire universe has been neatly divided into things to (a) mate with, (b) eat, (c) run away from, and (d) rocks.</em><br /> -- Terry Pratchett (<em>Equal Rites</em>)</p>
