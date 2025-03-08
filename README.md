@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/33811">Trans Ideology</a>
+* <a href="https://www.amon-hen.com/music/33786">Feels So Good</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/science/33807">SpaceX loses another Starship</a>
 * <a href="https://www.amon-hen.com/humor/33800">RiffTrax – Rollergator</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/humor/33795">It’s too…</a>
 * <a href="https://www.amon-hen.com/television/14680">MST3K 00K18 – The Million Eyes of Sumuru</a>
 * <a href="https://www.amon-hen.com/politics/33790">Tipping</a>
 * <a href="https://www.amon-hen.com/religion/33782">Since the slave is their property</a>
 * <a href="https://www.amon-hen.com/television/13676">MST3K Short 0510 – Body Care And Grooming</a>
-* <a href="https://www.amon-hen.com/politics/33788">A “rubio”</a>
-* <a href="https://www.amon-hen.com/movies/33777">Space Master X-7 (1958)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>For animals, the entire universe has been neatly divided into things to (a) mate with, (b) eat, (c) run away from, and (d) rocks.</em><br /> -- Terry Pratchett (<em>Equal Rites</em>)</p>
+<p><em>When the end time comes and you're tilling the Earth with a human femur while the sky is raining fire, you're gonna want a reliable supply of radicchio and mini-squash.</em><br /> -- Stephen Colbert</p>
