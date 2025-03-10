@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/television/8667">MST3K Short 0514 – Is This Love?</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/33817">President Shit for Brains’ mental decline</a>
 * <a href="https://www.amon-hen.com/movies/33813">The Pumaman (1980)</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/33811">Trans Ideology</a>
 * <a href="https://www.amon-hen.com/music/33786">Feels So Good</a>
 * <a href="https://www.amon-hen.com/science/33807">SpaceX loses another Starship</a>
 * <a href="https://www.amon-hen.com/humor/33800">RiffTrax – Rollergator</a>
 * <a href="https://www.amon-hen.com/humor/33795">It’s too…</a>
 * <a href="https://www.amon-hen.com/television/14680">MST3K 00K18 – The Million Eyes of Sumuru</a>
-* <a href="https://www.amon-hen.com/politics/33790">Tipping</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The crisis of today is the joke of tomorrow.</em><br /> -- H.G. Wells</p>
+<p><em>I'm condemned by a society that demands success when all I can offer is failure!</em><br /> -- Max Bialystock</p>
