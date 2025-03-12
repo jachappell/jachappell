@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/33825">ICE Detention</a>
+* <a href="https://www.amon-hen.com/television/14710">MST3K 00K19 – Hangar 18</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/33825">ICE Detention</a>
 * <a href="https://www.amon-hen.com/religion/33827">She must be quiet</a>
 * <a href="https://www.amon-hen.com/television/8667">MST3K Short 0514 – Is This Love?</a>
 * <a href="https://www.amon-hen.com/politics/33817">President Shit for Brains’ mental decline</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/33811">Trans Ideology</a>
 * <a href="https://www.amon-hen.com/music/33786">Feels So Good</a>
 * <a href="https://www.amon-hen.com/science/33807">SpaceX loses another Starship</a>
-* <a href="https://www.amon-hen.com/humor/33800">RiffTrax – Rollergator</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Hollywood is a gold-plated suburb suitable for golfers, gardeners, assorted middlemen, and contented movies stars.  I am none of these things.</em><br /> -- Orson Welles</p>
+<p><em>And don't ever fucking send me a Breitbart link to prove your point. That's like sending someone a sack of rabbit heads to prove you're not insane.</em><br /> -- The Rude Pundit</p>
