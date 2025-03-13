@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/14710">MST3K 00K19 – Hangar 18</a>
+* <a href="https://www.amon-hen.com/food/33832">Mmmm, Hanburger</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/14710">MST3K 00K19 – Hangar 18</a>
 * <a href="https://www.amon-hen.com/politics/33825">ICE Detention</a>
 * <a href="https://www.amon-hen.com/religion/33827">She must be quiet</a>
 * <a href="https://www.amon-hen.com/television/8667">MST3K Short 0514 – Is This Love?</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/movies/33813">The Pumaman (1980)</a>
 * <a href="https://www.amon-hen.com/politics/33811">Trans Ideology</a>
 * <a href="https://www.amon-hen.com/music/33786">Feels So Good</a>
-* <a href="https://www.amon-hen.com/science/33807">SpaceX loses another Starship</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>And don't ever fucking send me a Breitbart link to prove your point. That's like sending someone a sack of rabbit heads to prove you're not insane.</em><br /> -- The Rude Pundit</p>
+<p><em>What our ancestors would really be thinking, if they were alive today, is: "Why is it so dark in here?"</em><br /> -- Terry Pratchett (<em>Pyramids</em>)</p>
