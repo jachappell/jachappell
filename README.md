@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/science/33607">Complexity in the Universe</a>
+* <a href="https://www.amon-hen.com/books/297">Reading: Ghost Soldiers</a>
+* <a href="https://www.amon-hen.com/music/33839">Your Move – I’ve Seen All Good People (2025)</a>
+* <a href="https://www.amon-hen.com/science/6177">pi Day</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/science/33607">Complexity in the Universe</a>
 * <a href="https://www.amon-hen.com/food/33832">Mmmm, Hanburger</a>
 * <a href="https://www.amon-hen.com/television/14710">MST3K 00K19 – Hangar 18</a>
 * <a href="https://www.amon-hen.com/politics/33825">ICE Detention</a>
 * <a href="https://www.amon-hen.com/religion/33827">She must be quiet</a>
 * <a href="https://www.amon-hen.com/television/8667">MST3K Short 0514 – Is This Love?</a>
-* <a href="https://www.amon-hen.com/politics/33817">President Shit for Brains’ mental decline</a>
-* <a href="https://www.amon-hen.com/movies/33813">The Pumaman (1980)</a>
-* <a href="https://www.amon-hen.com/politics/33811">Trans Ideology</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>New York... when civilization falls apart, remember, we were way ahead of you.</em><br /> -- David Letterman</p>
+<p><em>I think a good gift for the President would be a chocolate revolver.  And since he's so busy, you'd probably have to run up to him real quick and hand it to him.</em><br /> -- Jack Handey</p>
