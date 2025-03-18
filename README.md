@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/33856">Sports Betting</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/religion/33851">Save for yourselves every girl</a>
 * <a href="https://www.amon-hen.com/television/7352">MST3K Short 0515 – Cheating</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/movies/33845">The Last Chase (1981)</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Ghost Soldiers</a>
 * <a href="https://www.amon-hen.com/music/33839">Your Move – I’ve Seen All Good People (2025)</a>
 * <a href="https://www.amon-hen.com/science/6177">pi Day</a>
 * <a href="https://www.amon-hen.com/science/33607">Complexity in the Universe</a>
 * <a href="https://www.amon-hen.com/food/33832">Mmmm, Hanburger</a>
-* <a href="https://www.amon-hen.com/television/14710">MST3K 00K19 – Hangar 18</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I have as much authority as the Pope, I just don't have as many people who believe it.</em><br /> -- George Carlin</p>
+<p><em>My wife and I were happy for twenty years. Then we met.</em><br /> -- Rodney Dangerfield</p>
