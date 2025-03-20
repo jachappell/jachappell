@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/14776">MST3K 00K20 – The Last Chase</a>
+* <a href="https://www.amon-hen.com/politics/33864">If President Shit for Brains can’t do dictator shit</a>
+* <a href="https://www.amon-hen.com/food/33858">Mmmm, Special K</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/14776">MST3K 00K20 – The Last Chase</a>
 * <a href="https://www.amon-hen.com/politics/33856">Sports Betting</a>
 * <a href="https://www.amon-hen.com/religion/33851">Save for yourselves every girl</a>
 * <a href="https://www.amon-hen.com/television/7352">MST3K Short 0515 – Cheating</a>
 * <a href="https://www.amon-hen.com/movies/33845">The Last Chase (1981)</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Ghost Soldiers</a>
 * <a href="https://www.amon-hen.com/music/33839">Your Move – I’ve Seen All Good People (2025)</a>
-* <a href="https://www.amon-hen.com/science/6177">pi Day</a>
-* <a href="https://www.amon-hen.com/science/33607">Complexity in the Universe</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/news/3656">Spirit Alumni Corps</a>
 * <a href="https://www.drum-corps.net/news/3649">Drum Corps World – March 2025</a>
 * <a href="https://www.drum-corps.net/news/3644">Guardians to forgo participation in the 2025 DCI season</a>
 * <a href="https://www.drum-corps.net/news/3635">Drum Corps World – February 2025</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/news/3619">The New York Skyliners Announce Move to SoundSport for the 2025 Season</a>
 * <a href="https://www.drum-corps.net/news/3615">Drum Corps World – January 2025</a>
 * <a href="https://www.drum-corps.net/news/3604">DCI phasing out historic library of physical audio/video products</a>
-* <a href="https://www.drum-corps.net/news/3602">Drum Corps World – December 2024</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>If thought corrupts language, language can also corrupt thought.</em><br /> -- George Orwell</p>
+<p><em>Leave it to a girl to take the fun out of sex discrimination.</em><br /> -- Bill Watterson (<em>Calvin and Hobbes</em>)</p>
