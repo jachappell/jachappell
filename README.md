@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/humor/33867">RiffTrax – Aqua Frolics</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/33864">If President Shit for Brains can’t do dictator shit</a>
 * <a href="https://www.amon-hen.com/food/33858">Mmmm, Special K</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/14776">MST3K 00K20 – The Last Chase</a>
 * <a href="https://www.amon-hen.com/politics/33856">Sports Betting</a>
 * <a href="https://www.amon-hen.com/religion/33851">Save for yourselves every girl</a>
 * <a href="https://www.amon-hen.com/television/7352">MST3K Short 0515 – Cheating</a>
 * <a href="https://www.amon-hen.com/movies/33845">The Last Chase (1981)</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Ghost Soldiers</a>
-* <a href="https://www.amon-hen.com/music/33839">Your Move – I’ve Seen All Good People (2025)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Leave it to a girl to take the fun out of sex discrimination.</em><br /> -- Bill Watterson (<em>Calvin and Hobbes</em>)</p>
+<p><em>It's filth!  It graphically portrays parts of the human body, which, practical as they may be, are evil.</em><br /> -- Helen Lovejoy</p>
