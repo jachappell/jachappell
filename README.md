@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/33879">Legend of Dinosaurs & Monster Birds (1977)</a>
+* <a href="https://www.amon-hen.com/religion/33875">Slaves, obey your earthly masters</a>
+* <a href="https://www.amon-hen.com/television/8316">MST3K Short 0518 – What About Juvenile Delinquency?</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/33879">Legend of Dinosaurs & Monster Birds (1977)</a>
 * <a href="https://www.amon-hen.com/music/33872">Roundabout (2025)</a>
 * <a href="https://www.amon-hen.com/politics/33877">President Shit for Brains wants to do Nazi shit</a>
 * <a href="https://www.amon-hen.com/humor/33867">RiffTrax – Aqua Frolics</a>
 * <a href="https://www.amon-hen.com/politics/33864">If President Shit for Brains can’t do dictator shit</a>
 * <a href="https://www.amon-hen.com/food/33858">Mmmm, Special K</a>
 * <a href="https://www.amon-hen.com/television/14776">MST3K 00K20 – The Last Chase</a>
-* <a href="https://www.amon-hen.com/politics/33856">Sports Betting</a>
-* <a href="https://www.amon-hen.com/religion/33851">Save for yourselves every girl</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/news/3660">Drum Corps World – April 2025</a>
 * <a href="https://www.drum-corps.net/news/3656">Spirit Alumni Corps</a>
 * <a href="https://www.drum-corps.net/news/3649">Drum Corps World – March 2025</a>
 * <a href="https://www.drum-corps.net/news/3644">Guardians to forgo participation in the 2025 DCI season</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/news/3621">2025 DCI Rules Congress proposals</a>
 * <a href="https://www.drum-corps.net/news/3619">The New York Skyliners Announce Move to SoundSport for the 2025 Season</a>
 * <a href="https://www.drum-corps.net/news/3615">Drum Corps World – January 2025</a>
-* <a href="https://www.drum-corps.net/news/3604">DCI phasing out historic library of physical audio/video products</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Supermodels usually don't date guys who live in the dirt.</em><br /> -- The Tick</p>
+<p><em>What is wanted is not the will to believe, but the wish to find out, which is the exact opposite.</em><br /> -- Bertrand Russell</p>
