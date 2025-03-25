@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/books/297">Reading: Valentine Pontifex</a>
+* <a href="https://www.amon-hen.com/politics/33888">Last Week Tonight – S2 E18: Online Harassment, Charleston & Putin Theme Park</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/religion/33875">Slaves, obey your earthly masters</a>
 * <a href="https://www.amon-hen.com/television/8316">MST3K Short 0518 – What About Juvenile Delinquency?</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/movies/33879">Legend of Dinosaurs & Monster Birds (1977)</a>
 * <a href="https://www.amon-hen.com/music/33872">Roundabout (2025)</a>
 * <a href="https://www.amon-hen.com/politics/33877">President Shit for Brains wants to do Nazi shit</a>
 * <a href="https://www.amon-hen.com/humor/33867">RiffTrax – Aqua Frolics</a>
 * <a href="https://www.amon-hen.com/politics/33864">If President Shit for Brains can’t do dictator shit</a>
-* <a href="https://www.amon-hen.com/food/33858">Mmmm, Special K</a>
-* <a href="https://www.amon-hen.com/television/14776">MST3K 00K20 – The Last Chase</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>What is wanted is not the will to believe, but the wish to find out, which is the exact opposite.</em><br /> -- Bertrand Russell</p>
+<p><em>Late to bed and late to wake will keep you long on money and short on mistakes.</em><br /> -- Aaron McGruder</p>
