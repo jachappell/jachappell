@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/7032">MST3K 00K21 – The Legend of Dinosaurs</a>
+* <a href="https://www.amon-hen.com/food/33897">Today the round noodles are out of love</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/7032">MST3K 00K21 – The Legend of Dinosaurs</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Valentine Pontifex</a>
 * <a href="https://www.amon-hen.com/politics/33888">Last Week Tonight – S2 E18: Online Harassment, Charleston & Putin Theme Park</a>
 * <a href="https://www.amon-hen.com/religion/33875">Slaves, obey your earthly masters</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/movies/33879">Legend of Dinosaurs & Monster Birds (1977)</a>
 * <a href="https://www.amon-hen.com/music/33872">Roundabout (2025)</a>
 * <a href="https://www.amon-hen.com/politics/33877">President Shit for Brains wants to do Nazi shit</a>
-* <a href="https://www.amon-hen.com/humor/33867">RiffTrax – Aqua Frolics</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The actual tragedies of life bear no relation to one's preconceived ideas. In the event, one is always bewildered by their simplicity, their grandeur of design, and by that element of the bizzare which seems inherent in them.</em><br /> -- Jean Cocteau</p>
+<p><em>I told my psychiatrist that everyone hates me.  He said I was being ridiculous - everyone hasn't met me yet.</em><br /> -- Rodney Dangerfield</p>
