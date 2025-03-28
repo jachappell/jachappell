@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/33897">Today the round noodles are out of love</a>
+* <a href="https://www.amon-hen.com/science/33606">String Theory and the Black Hole War</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/33897">Today the round noodles are out of love</a>
 * <a href="https://www.amon-hen.com/television/7032">MST3K 00K21 – The Legend of Dinosaurs</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Valentine Pontifex</a>
 * <a href="https://www.amon-hen.com/politics/33888">Last Week Tonight – S2 E18: Online Harassment, Charleston & Putin Theme Park</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/8316">MST3K Short 0518 – What About Juvenile Delinquency?</a>
 * <a href="https://www.amon-hen.com/movies/33879">Legend of Dinosaurs & Monster Birds (1977)</a>
 * <a href="https://www.amon-hen.com/music/33872">Roundabout (2025)</a>
-* <a href="https://www.amon-hen.com/politics/33877">President Shit for Brains wants to do Nazi shit</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I told my psychiatrist that everyone hates me.  He said I was being ridiculous - everyone hasn't met me yet.</em><br /> -- Rodney Dangerfield</p>
+<p><em>It is a mistake to think you can solve any major problems just with potatoes.</em><br /> -- Douglas Adams</p>
