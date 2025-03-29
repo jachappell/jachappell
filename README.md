@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/science/33606">String Theory and the Black Hole War</a>
+* <a href="https://www.amon-hen.com/politics/33911">Another Example of President Shit for Brains’ mental decline</a>
+* <a href="https://www.amon-hen.com/music/33903">Beelzebub</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/science/33606">String Theory and the Black Hole War</a>
 * <a href="https://www.amon-hen.com/food/33897">Today the round noodles are out of love</a>
 * <a href="https://www.amon-hen.com/television/7032">MST3K 00K21 – The Legend of Dinosaurs</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Valentine Pontifex</a>
 * <a href="https://www.amon-hen.com/politics/33888">Last Week Tonight – S2 E18: Online Harassment, Charleston & Putin Theme Park</a>
 * <a href="https://www.amon-hen.com/religion/33875">Slaves, obey your earthly masters</a>
 * <a href="https://www.amon-hen.com/television/8316">MST3K Short 0518 – What About Juvenile Delinquency?</a>
-* <a href="https://www.amon-hen.com/movies/33879">Legend of Dinosaurs & Monster Birds (1977)</a>
-* <a href="https://www.amon-hen.com/music/33872">Roundabout (2025)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>It is a mistake to think you can solve any major problems just with potatoes.</em><br /> -- Douglas Adams</p>
+<p><em>Most people don't realize that large pieces of coral, which have been painted brown and attached to the skull by common wood screws, can make a child look like a deer.</em><br /> -- Jack Handey</p>
