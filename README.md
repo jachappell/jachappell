@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/television/25990">March 31</a>
+* <a href="https://www.amon-hen.com/politics/33901">Tasers & Excited Delirium</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/33934">Unkind men so often whither in the face of unkindness</a>
 * <a href="https://www.amon-hen.com/religion/33930">Wives should submit to their husbands in everything</a>
 * <a href="https://www.amon-hen.com/television/5967">MST3K Short 0520 – Last Clear Chance</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/movies/33908">Ring of Terror (1962)</a>
 * <a href="https://www.amon-hen.com/politics/33911">Another Example of President Shit for Brains’ mental decline</a>
 * <a href="https://www.amon-hen.com/music/33903">Beelzebub</a>
 * <a href="https://www.amon-hen.com/science/33606">String Theory and the Black Hole War</a>
-* <a href="https://www.amon-hen.com/food/33897">Today the round noodles are out of love</a>
-* <a href="https://www.amon-hen.com/television/7032">MST3K 00K21 – The Legend of Dinosaurs</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The only way to keep your health is to eat what you don't want, drink what you don't like, and do what you'd rather not.</em><br /> -- Mark Twain</p>
+<p><em>My wife's jealousy is getting ridiculous. The other day she looked at my calendar and wanted to know who May was.</em><br /> -- Rodney Dangerfield</p>
