@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/music/33969">A Different Kind of Love</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/33964">Utterly Deluded</a>
 * <a href="https://www.amon-hen.com/humor/33958">RiffTrax – Live and Learn</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/33961">Yet Another Example of President Shit for Brains’ Mental Decline</a>
 * <a href="https://www.amon-hen.com/humor/33952">Eat Pant</a>
 * <a href="https://www.amon-hen.com/television/5012">MST3K 0101 – The Crawling Eye</a>
 * <a href="https://www.amon-hen.com/politics/33949">Novel Legal Theory</a>
 * <a href="https://www.amon-hen.com/television/25990">March 31</a>
 * <a href="https://www.amon-hen.com/politics/33901">Tasers & Excited Delirium</a>
-* <a href="https://www.amon-hen.com/politics/33934">Unkind men so often whither in the face of unkindness</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>There is no nonsense so arrant that it cannot be made the creed of the vast majority by adequate government action.</em><br /> -- Bertrand Russell</p>
+<p><em>I'd rather be rich than stupid.</em><br /> -- Jack Handey</p>
