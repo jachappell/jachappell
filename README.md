@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/33969">A Different Kind of Love</a>
+* <a href="https://www.amon-hen.com/movies/33973">The Robot vs. the Aztec Mummy (1958)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/33969">A Different Kind of Love</a>
 * <a href="https://www.amon-hen.com/politics/33964">Utterly Deluded</a>
 * <a href="https://www.amon-hen.com/humor/33958">RiffTrax – Live and Learn</a>
 * <a href="https://www.amon-hen.com/politics/33961">Yet Another Example of President Shit for Brains’ Mental Decline</a>
@@ -11,11 +12,11 @@
 * <a href="https://www.amon-hen.com/television/5012">MST3K 0101 – The Crawling Eye</a>
 * <a href="https://www.amon-hen.com/politics/33949">Novel Legal Theory</a>
 * <a href="https://www.amon-hen.com/television/25990">March 31</a>
-* <a href="https://www.amon-hen.com/politics/33901">Tasers & Excited Delirium</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/history/3667">Bluecoats Alumni Corps Documentary</a>
 * <a href="https://www.drum-corps.net/news/3660">Drum Corps World – April 2025</a>
 * <a href="https://www.drum-corps.net/news/3656">Spirit Alumni Corps</a>
 * <a href="https://www.drum-corps.net/news/3649">Drum Corps World – March 2025</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/news/3626">Spartans pave path to World Class</a>
 * <a href="https://www.drum-corps.net/news/3621">2025 DCI Rules Congress proposals</a>
 * <a href="https://www.drum-corps.net/news/3619">The New York Skyliners Announce Move to SoundSport for the 2025 Season</a>
-* <a href="https://www.drum-corps.net/news/3615">Drum Corps World – January 2025</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I'd rather be rich than stupid.</em><br /> -- Jack Handey</p>
+<p><em>Oh my God.  This is just like that drug trip I saw in that movie while I was on that drug trip.</em><br /> -- Philip J. Fry</p>
