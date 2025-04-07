@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/33973">The Robot vs. the Aztec Mummy (1958)</a>
+* <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/33987">2022 Bluecoats Alumni Corps Documentary</a>
+* <a href="https://www.amon-hen.com/religion/33976">It took a line of thirty cubits to measure around it</a>
+* <a href="https://www.amon-hen.com/television/5807">MST3K Short 0524 – Design for Dreaming</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/33973">The Robot vs. the Aztec Mummy (1958)</a>
 * <a href="https://www.amon-hen.com/music/33969">A Different Kind of Love</a>
 * <a href="https://www.amon-hen.com/politics/33964">Utterly Deluded</a>
 * <a href="https://www.amon-hen.com/humor/33958">RiffTrax – Live and Learn</a>
 * <a href="https://www.amon-hen.com/politics/33961">Yet Another Example of President Shit for Brains’ Mental Decline</a>
 * <a href="https://www.amon-hen.com/humor/33952">Eat Pant</a>
-* <a href="https://www.amon-hen.com/television/5012">MST3K 0101 – The Crawling Eye</a>
-* <a href="https://www.amon-hen.com/politics/33949">Novel Legal Theory</a>
-* <a href="https://www.amon-hen.com/television/25990">March 31</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Oh my God.  This is just like that drug trip I saw in that movie while I was on that drug trip.</em><br /> -- Philip J. Fry</p>
+<p><em>Go not to the elves for counsel, for they will say both no and yes.</em><br /> -- J.R.R. Tolkien</p>
