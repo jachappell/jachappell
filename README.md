@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/33999">Trans Athletes</a>
+* <a href="https://www.amon-hen.com/television/5068">MST3K 0102 – The Robot vs. the Aztec Mummy</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/33999">Trans Athletes</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/33987">2022 Bluecoats Alumni Corps Documentary</a>
 * <a href="https://www.amon-hen.com/religion/33976">It took a line of thirty cubits to measure around it</a>
 * <a href="https://www.amon-hen.com/television/5807">MST3K Short 0524 – Design for Dreaming</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/music/33969">A Different Kind of Love</a>
 * <a href="https://www.amon-hen.com/politics/33964">Utterly Deluded</a>
 * <a href="https://www.amon-hen.com/humor/33958">RiffTrax – Live and Learn</a>
-* <a href="https://www.amon-hen.com/politics/33961">Yet Another Example of President Shit for Brains’ Mental Decline</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>All right, brain.  You don't like me and I don't like you, but let's just do this and I can get back to killing you with beer.</em><br /> -- Homer J. Simpson</p>
+<p><em>You can only be young once. But you can always be immature.</em><br /> -- Dave Barry</p>
