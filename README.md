@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/33994">Mmmm, Spam Spread</a>
+* <a href="https://www.amon-hen.com/science/34002">Following Faraday’s hint</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/33994">Mmmm, Spam Spread</a>
 * <a href="https://www.amon-hen.com/television/5068">MST3K 0102 – The Robot vs. the Aztec Mummy</a>
 * <a href="https://www.amon-hen.com/politics/33999">Trans Athletes</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/33987">2022 Bluecoats Alumni Corps Documentary</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/5807">MST3K Short 0524 – Design for Dreaming</a>
 * <a href="https://www.amon-hen.com/movies/33973">The Robot vs. the Aztec Mummy (1958)</a>
 * <a href="https://www.amon-hen.com/music/33969">A Different Kind of Love</a>
-* <a href="https://www.amon-hen.com/politics/33964">Utterly Deluded</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Although golf was originally restricted to wealthy, overweight Protestants, today it's open to anybody who owns hideous clothing.</em><br /> -- Dave Barry</p>
+<p><em>Seeing, contrary to popular wisdom, isn't believing. It's where belief stops, because it isn't needed any more.</em><br /> -- Terry Pratchett (<em>Pyramids</em>)</p>
