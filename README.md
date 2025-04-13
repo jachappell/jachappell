@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/9568">Children Of Sanchez</a>
+* <a href="https://www.amon-hen.com/movies/34009">The Sidehackers (1969)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/9568">Children Of Sanchez</a>
 * <a href="https://www.amon-hen.com/science/34002">Following Faraday’s hint</a>
 * <a href="https://www.amon-hen.com/food/33994">Mmmm, Spam Spread</a>
 * <a href="https://www.amon-hen.com/television/5068">MST3K 0102 – The Robot vs. the Aztec Mummy</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/33987">2022 Bluecoats Alumni Corps Documentary</a>
 * <a href="https://www.amon-hen.com/religion/33976">It took a line of thirty cubits to measure around it</a>
 * <a href="https://www.amon-hen.com/television/5807">MST3K Short 0524 – Design for Dreaming</a>
-* <a href="https://www.amon-hen.com/movies/33973">The Robot vs. the Aztec Mummy (1958)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Recently deceased blues guitarist Stevie Ray Vaughan "comes to" after his death.  He sees Jimi Hendrix sitting next to him, tuning his guitar.  "Holy cow," he thinks to himself, "this guy is my idol."  Over at the microphone, about to sing, are Jim Morrison and Janis Joplin, and the bassist is the late Barry Oakley of the Allman Brothers.  So Stevie Ray's thinking, "Oh, wow!  I've died and gone to rock and roll heaven." Just then, Karen Carpenter walks in, sits down at the drums, and says: "'Close to You'.  Hit it, boys!"</em><br /> -- Told by Penn Jillette, of magic/comedy duo Penn and Teller</p>
+<p><em>Contrary to what most people say, the most dangerous animal in the world is not the lion or the tiger or even the elephant. It's a shark riding on an elephant's back, just trampling and eating everything they see.</em><br /> -- Jack Handey</p>
