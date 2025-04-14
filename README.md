@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/34009">The Sidehackers (1969)</a>
+* <a href="https://www.amon-hen.com/religion/34012">And the bat</a>
+* <a href="https://www.amon-hen.com/television/5927">MST3K Short 0602 – A Date With Your Family</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/34009">The Sidehackers (1969)</a>
 * <a href="https://www.amon-hen.com/music/9568">Children Of Sanchez</a>
 * <a href="https://www.amon-hen.com/science/34002">Following Faraday’s hint</a>
 * <a href="https://www.amon-hen.com/food/33994">Mmmm, Spam Spread</a>
 * <a href="https://www.amon-hen.com/television/5068">MST3K 0102 – The Robot vs. the Aztec Mummy</a>
 * <a href="https://www.amon-hen.com/politics/33999">Trans Athletes</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/33987">2022 Bluecoats Alumni Corps Documentary</a>
-* <a href="https://www.amon-hen.com/religion/33976">It took a line of thirty cubits to measure around it</a>
-* <a href="https://www.amon-hen.com/television/5807">MST3K Short 0524 – Design for Dreaming</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Contrary to what most people say, the most dangerous animal in the world is not the lion or the tiger or even the elephant. It's a shark riding on an elephant's back, just trampling and eating everything they see.</em><br /> -- Jack Handey</p>
+<p><em>The basic idea behind malls is that they are more convenient than cities.  Cities contain streets, which are dangerous and crowded and difficult to park in.  Malls, on the other hand, have parking lots, which are also dangerous and crowded and difficult to park in, but -- here is the big difference -- in mall parking lots, THERE ARE NO RULES.  You're allowed to do anything.  You can drive as fast as you want in any direction you want.  I was once driving in a mall parking lot when my car was struck by a pickup truck being driven backward by a squat man with a tattoo that said "Charlie" on his forearm, who got out and explained to me, in great detail, why the accident was my fault, his reasoning being that he was violent and muscular, whereas I was neither.  This kind of reasoning is legally valid in mall parking lots.</em><br /> -- Dave Barry</p>
