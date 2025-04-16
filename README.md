@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/34039">Trump & Tariffs</a>
+* <a href="https://www.amon-hen.com/television/5081">MST3K 0103 – The Mad Monster</a>
+* <a href="https://www.amon-hen.com/quotes/325">Tax Day</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/34039">Trump & Tariffs</a>
 * <a href="https://www.amon-hen.com/religion/34012">And the bat</a>
 * <a href="https://www.amon-hen.com/television/5927">MST3K Short 0602 – A Date With Your Family</a>
 * <a href="https://www.amon-hen.com/movies/34009">The Sidehackers (1969)</a>
 * <a href="https://www.amon-hen.com/music/9568">Children Of Sanchez</a>
 * <a href="https://www.amon-hen.com/science/34002">Following Faraday’s hint</a>
 * <a href="https://www.amon-hen.com/food/33994">Mmmm, Spam Spread</a>
-* <a href="https://www.amon-hen.com/television/5068">MST3K 0102 – The Robot vs. the Aztec Mummy</a>
-* <a href="https://www.amon-hen.com/politics/33999">Trans Athletes</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/news/3671">Drum Corps World – May 2025</a>
 * <a href="https://www.drum-corps.net/history/3667">Bluecoats Alumni Corps Documentary</a>
 * <a href="https://www.drum-corps.net/news/3660">Drum Corps World – April 2025</a>
 * <a href="https://www.drum-corps.net/news/3656">Spirit Alumni Corps</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/news/3629">RESULTS: 2025 DCI Rules Congress</a>
 * <a href="https://www.drum-corps.net/news/3626">Spartans pave path to World Class</a>
 * <a href="https://www.drum-corps.net/news/3621">2025 DCI Rules Congress proposals</a>
-* <a href="https://www.drum-corps.net/news/3619">The New York Skyliners Announce Move to SoundSport for the 2025 Season</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Careful. We don't want to learn from this.</em><br /> -- Bill Watterson (<em>Calvin and Hobbes</em>)</p>
+<p><em>Capital punishment turns the state into a murderer. But imprisonment turns the state into a gay dungeon-master.</em><br /> -- Emo Philips </p>
