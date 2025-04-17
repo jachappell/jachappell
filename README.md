@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/food/34042">Mmmm, Spam ‘N’ Pancakes</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/5081">MST3K 0103 – The Mad Monster</a>
 * <a href="https://www.amon-hen.com/quotes/325">Tax Day</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/34039">Trump & Tariffs</a>
 * <a href="https://www.amon-hen.com/religion/34012">And the bat</a>
 * <a href="https://www.amon-hen.com/television/5927">MST3K Short 0602 – A Date With Your Family</a>
 * <a href="https://www.amon-hen.com/movies/34009">The Sidehackers (1969)</a>
 * <a href="https://www.amon-hen.com/music/9568">Children Of Sanchez</a>
 * <a href="https://www.amon-hen.com/science/34002">Following Faraday’s hint</a>
-* <a href="https://www.amon-hen.com/food/33994">Mmmm, Spam Spread</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Capital punishment turns the state into a murderer. But imprisonment turns the state into a gay dungeon-master.</em><br /> -- Emo Philips </p>
+<p><em>[The pamphlet] was very patriotic. That is, it talked about killing foreigners.</em><br /> -- Terry Pratchett (<em>Monstrous Regiment</em>)</p>
