@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/science/34052">Neuromorphic Computing</a>
+* <a href="https://www.amon-hen.com/music/34055">So Long Ago So Clear</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/science/34052">Neuromorphic Computing</a>
 * <a href="https://www.amon-hen.com/food/34042">Mmmm, Spam ‘N’ Pancakes</a>
 * <a href="https://www.amon-hen.com/television/5081">MST3K 0103 – The Mad Monster</a>
 * <a href="https://www.amon-hen.com/quotes/325">Tax Day</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/religion/34012">And the bat</a>
 * <a href="https://www.amon-hen.com/television/5927">MST3K Short 0602 – A Date With Your Family</a>
 * <a href="https://www.amon-hen.com/movies/34009">The Sidehackers (1969)</a>
-* <a href="https://www.amon-hen.com/music/9568">Children Of Sanchez</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>...it bugs me when people try to analyze jazz as an intellectual theorem. It's not. It's feeling.</em><br /> -- Bill Evans</p>
+<p><em>Documentation is like sex:  when it is good, it is very, very good; and when it is bad, it is better than nothing.</em><br /> -- Dick Brandon</p>
