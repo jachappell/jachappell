@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/religion/6429">Easter</a>
+* <a href="https://www.amon-hen.com/religion/34072">But these you may not eat</a>
+* <a href="https://www.amon-hen.com/television/6916">MST3K Short 0603 – The Selling Wizard</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/movies/34057">Jungle Goddess (1948)</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Tool of the Trade</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/34055">So Long Ago So Clear</a>
 * <a href="https://www.amon-hen.com/science/34052">Neuromorphic Computing</a>
 * <a href="https://www.amon-hen.com/food/34042">Mmmm, Spam ‘N’ Pancakes</a>
 * <a href="https://www.amon-hen.com/television/5081">MST3K 0103 – The Mad Monster</a>
-* <a href="https://www.amon-hen.com/quotes/325">Tax Day</a>
-* <a href="https://www.amon-hen.com/politics/34039">Trump & Tariffs</a>
-* <a href="https://www.amon-hen.com/religion/34012">And the bat</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>For the record, folks: I never took a shit on stage, and the closest I ever came to eating shit </em>anywhere<em> was at a Holiday Inn buffet in Fayetteville, North Carolina, in 1973.</em><br /> -- Frank Zappa</p>
+<p><em>Baseball is 90% mental, the other half is physical.</em><br /> -- Yogi Berra</p>
