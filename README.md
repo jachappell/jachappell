@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/34082">If Pete Hegseth is out</a>
+* <a href="https://www.amon-hen.com/politics/34060">Last Week Tonight – S2 E19: Transgender Rights, Obamacare & Leap Seconds</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/religion/6429">Easter</a>
 * <a href="https://www.amon-hen.com/religion/34072">But these you may not eat</a>
 * <a href="https://www.amon-hen.com/television/6916">MST3K Short 0603 – The Selling Wizard</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/movies/34057">Jungle Goddess (1948)</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Tool of the Trade</a>
 * <a href="https://www.amon-hen.com/music/34055">So Long Ago So Clear</a>
 * <a href="https://www.amon-hen.com/science/34052">Neuromorphic Computing</a>
-* <a href="https://www.amon-hen.com/food/34042">Mmmm, Spam ‘N’ Pancakes</a>
-* <a href="https://www.amon-hen.com/television/5081">MST3K 0103 – The Mad Monster</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Baseball is 90% mental, the other half is physical.</em><br /> -- Yogi Berra</p>
+<p><em>Leslie has a lot of qualities I find horrifying, but the worst one by far is how thoughtful she can be.</em><br /> -- Ron Swanson</p>
