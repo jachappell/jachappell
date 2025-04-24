@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/5440">MST3K 0104 – Women of the Prehistoric Planet</a>
+* <a href="https://www.amon-hen.com/food/34084">Mmmm, Bugger</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/5440">MST3K 0104 – Women of the Prehistoric Planet</a>
 * <a href="https://www.amon-hen.com/politics/34082">If Pete Hegseth is out</a>
 * <a href="https://www.amon-hen.com/politics/34060">Last Week Tonight – S2 E19: Transgender Rights, Obamacare & Leap Seconds</a>
 * <a href="https://www.amon-hen.com/religion/6429">Easter</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/6916">MST3K Short 0603 – The Selling Wizard</a>
 * <a href="https://www.amon-hen.com/movies/34057">Jungle Goddess (1948)</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Tool of the Trade</a>
-* <a href="https://www.amon-hen.com/music/34055">So Long Ago So Clear</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Twenty two thousand days.<br />Twenty two thousand days.<br />It's not a lot.<br />It's all you've got.<br />Twenty two thousand days.</em><br /> -- Moody Blues, "Twenty Two Thousand Days"</p>
+<p><em>This planet has - or rather had - a problem, which was this:  most of the people living on it were unhappy for pretty much of the time. Many solutions were suggested for this problem, but most of these were largely concerned with the movements of small green pieces of paper, which is odd because on the whole it wasnt the small green pieces of paper that were unhappy.</em><br /> -- Douglas Adams</p>
