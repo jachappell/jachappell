@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/religion/34089">Is Jude Law pope yet?</a>
+* <a href="https://www.amon-hen.com/music/34079">Love</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/religion/34089">Is Jude Law pope yet?</a>
 * <a href="https://www.amon-hen.com/food/34084">Mmmm, Bugger</a>
 * <a href="https://www.amon-hen.com/television/5440">MST3K 0104 – Women of the Prehistoric Planet</a>
 * <a href="https://www.amon-hen.com/politics/34082">If Pete Hegseth is out</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/religion/6429">Easter</a>
 * <a href="https://www.amon-hen.com/religion/34072">But these you may not eat</a>
 * <a href="https://www.amon-hen.com/television/6916">MST3K Short 0603 – The Selling Wizard</a>
-* <a href="https://www.amon-hen.com/movies/34057">Jungle Goddess (1948)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The answer to this is very simple.  It was a joke.  It had to be a number, an ordinary, smallish number, and I chose that one.  Binary representations, base thirteen, Tibetan monks are all complete nonsense.  I sat at my desk, stared into the garden and thought '42 will do' I typed it out.  End of story.</em><br /> -- Douglas Adams (on why "42" is The Answer...)</p>
+<p><em>One of the great attractions of patriotism - it fulfills our worst wishes. In the person of our nation we are able, vicariously, to bully and cheat. Bully and cheat, what's more, with a feeling that we are profoundly virtuous.</em><br /> -- Aldous Huxley</p>
