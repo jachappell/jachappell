@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/television/5504">MST3K 0105 – The Corpse Vanishes</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/religion/34114">I regret that I have to remove my name for consideration</a>
 * <a href="https://www.amon-hen.com/science/34112">RFK Jr. & HHS</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/religion/34097">Male and Female Servants</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34105">Selections from the Bluecoats’ 2025 Repertoire</a>
 * <a href="https://www.amon-hen.com/television/6434">MST3K Short 0607 – Uncle Jim’s Dairy Farm</a>
 * <a href="https://www.amon-hen.com/movies/34094">Rocket Attack USA (1958)</a>
 * <a href="https://www.amon-hen.com/music/34079">Love</a>
 * <a href="https://www.amon-hen.com/religion/34089">Is Jude Law pope yet?</a>
-* <a href="https://www.amon-hen.com/food/34084">Mmmm, Bugger</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>It is annoying to be honest to no purpose.</em><br /> -- Publius Ovidius Naso (Ovid)</p>
+<p><em>I believe in God, only I spell it Nature.</em><br /> -- Frank Lloyd Wright</p>
