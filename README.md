@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/music/34123">Dream State (Live)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/humor/34117">Minimalism</a>
 * <a href="https://www.amon-hen.com/humor/16088">First of May</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/34102">Mmmm, Mayostard</a>
 * <a href="https://www.amon-hen.com/books/297">Reading – Battle of the Atlantic (1): The U-Boat Campaign against Britain, 1939–41</a>
 * <a href="https://www.amon-hen.com/television/5504">MST3K 0105 – The Corpse Vanishes</a>
 * <a href="https://www.amon-hen.com/religion/34114">I regret that I have to remove my name for consideration</a>
 * <a href="https://www.amon-hen.com/science/34112">RFK Jr. & HHS</a>
 * <a href="https://www.amon-hen.com/religion/34097">Male and Female Servants</a>
-* <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34105">Selections from the Bluecoats’ 2025 Repertoire</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>All right, who did this? I'm not mad, I just want to know who did it so I can punish them.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>Marriage is the only adventure open to the cowardly.</em><br /> -- Voltaire</p>
