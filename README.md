@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/34129">Robot Holocaust (1987)</a>
+* <a href="https://www.amon-hen.com/books/297">Reading: Shakespeare’s Planet</a>
+* <a href="https://www.amon-hen.com/religion/34135">The man who marries a divorced woman commits adultery</a>
+* <a href="https://www.amon-hen.com/television/6149">MST3K Short 0608 – A Day At The Fair</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/34129">Robot Holocaust (1987)</a>
 * <a href="https://www.amon-hen.com/music/34123">Dream State (Live)</a>
 * <a href="https://www.amon-hen.com/humor/34117">Minimalism</a>
 * <a href="https://www.amon-hen.com/humor/16088">First of May</a>
 * <a href="https://www.amon-hen.com/television/34102">Mmmm, Mayostard</a>
-* <a href="https://www.amon-hen.com/books/297">Reading – Battle of the Atlantic (1): The U-Boat Campaign against Britain, 1939–41</a>
-* <a href="https://www.amon-hen.com/television/5504">MST3K 0105 – The Corpse Vanishes</a>
-* <a href="https://www.amon-hen.com/religion/34114">I regret that I have to remove my name for consideration</a>
-* <a href="https://www.amon-hen.com/science/34112">RFK Jr. & HHS</a>
+* <a href="https://www.amon-hen.com/books/33608">Mark Stille</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>America: The only country that matters. If you want to experience other "cultures," use an atlas or a ham radio.</em><br /> -- Ron Swanson</p>
+<p><em>Instead of trying to build newer and bigger weapons of destruction, we should be thinking about getting more use out of the ones we already have.</em><br /> -- Jack Handey</p>
