@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/34148">Mmmm, Schlitz</a>
+* <a href="https://www.amon-hen.com/science/34158">Optimizing our world with mathematical models</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/34148">Mmmm, Schlitz</a>
 * <a href="https://www.amon-hen.com/television/5561">MST3K 0106 – The Crawling Hand</a>
 * <a href="https://www.amon-hen.com/humor/6560">Cinco De Mayo</a>
 * <a href="https://www.amon-hen.com/politics/34144">Trump & Deportations</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/religion/34135">The man who marries a divorced woman commits adultery</a>
 * <a href="https://www.amon-hen.com/television/6149">MST3K Short 0608 – A Day At The Fair</a>
 * <a href="https://www.amon-hen.com/movies/34129">Robot Holocaust (1987)</a>
-* <a href="https://www.amon-hen.com/music/34123">Dream State (Live)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -30,17 +30,17 @@
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
 
+* <a href="https://www.storage-b.com/c/1057">CLion Is Now Free for Non-Commercial Use</a>
+* <a href="https://www.storage-b.com/humor/1052">Programmers Then and Now</a>
+* <a href="https://www.storage-b.com/c/1050">Strategies for Developing Safety-Critical Software in C++</a>
+* <a href="https://www.storage-b.com/ai/1048">What trillion-dollar problem is AI trying to solve?</a>
 * <a href="https://www.storage-b.com/math-numerical-analysis/1036">Hypot</a>
 * <a href="https://www.storage-b.com/c/1015">Uploading Consciousness</a>
 * <a href="https://www.storage-b.com/humor/1003">SCRUM: An Honest Ad</a>
 * <a href="https://www.storage-b.com/humor/996">Agile vs. Waterfall</a>
 * <a href="https://www.storage-b.com/c/969">Delivering Safe C++</a>
 * <a href="https://www.storage-b.com/c/962">Full Interview With the Creator of C++</a>
-* <a href="https://www.storage-b.com/humor/951">How To Regex</a>
-* <a href="https://www.storage-b.com/ai/908">Nightmare Fuel from Bing Image Creator</a>
-* <a href="https://www.storage-b.com/ai/904">We’re Safe</a>
-* <a href="https://www.storage-b.com/ai/901">Enjoy Your AI-generated Work</a>
 </details>
 
 # Quote of the Day
-<p><em>All of us were slowly losing that intellectual light that allows you always to tell the similar from the identical, the metaphorical from the real.</em><br /> -- Umberto Eco</p>
+<p><em>It isn't necessary to have relatives in Kansas City in order to be unhappy.</em><br /> -- Groucho Marx</p>
