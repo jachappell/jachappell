@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/34160">Undertow</a>
+* <a href="https://www.amon-hen.com/movies/34162">King Dinosaur (1955)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/34160">Undertow</a>
 * <a href="https://www.amon-hen.com/science/34158">Optimizing our world with mathematical models</a>
 * <a href="https://www.amon-hen.com/food/34148">Mmmm, Schlitz</a>
 * <a href="https://www.amon-hen.com/television/5561">MST3K 0106 – The Crawling Hand</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/34144">Trump & Deportations</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Shakespeare’s Planet</a>
 * <a href="https://www.amon-hen.com/religion/34135">The man who marries a divorced woman commits adultery</a>
-* <a href="https://www.amon-hen.com/television/6149">MST3K Short 0608 – A Day At The Fair</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>When a nice clean brain tumbles into the dirty street to lay among the discarded wrappers and spat-out gum wads of wickedness, you can't just pick it up and wash it off with soap and water; you have to think it clean from the inside out!</em><br /> -- The Tick</p>
+<p><em>I don't say that we ought to all misbehave, but we ought to look as if we could.</em><br /> -- Orson Welles</p>
