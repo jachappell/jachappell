@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/34162">King Dinosaur (1955)</a>
+* <a href="https://www.amon-hen.com/music/16121">Mother’s Day</a>
+* <a href="https://www.amon-hen.com/religion/34186">Including the women and children</a>
+* <a href="https://www.amon-hen.com/television/7459">MST3K Short 0609 – Why Study Industrial Arts?</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/34162">King Dinosaur (1955)</a>
 * <a href="https://www.amon-hen.com/music/34160">Undertow</a>
 * <a href="https://www.amon-hen.com/science/34158">Optimizing our world with mathematical models</a>
 * <a href="https://www.amon-hen.com/food/34148">Mmmm, Schlitz</a>
 * <a href="https://www.amon-hen.com/television/5561">MST3K 0106 – The Crawling Hand</a>
 * <a href="https://www.amon-hen.com/humor/6560">Cinco De Mayo</a>
-* <a href="https://www.amon-hen.com/politics/34144">Trump & Deportations</a>
-* <a href="https://www.amon-hen.com/books/297">Reading: Shakespeare’s Planet</a>
-* <a href="https://www.amon-hen.com/religion/34135">The man who marries a divorced woman commits adultery</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I don't say that we ought to all misbehave, but we ought to look as if we could.</em><br /> -- Orson Welles</p>
+<p><em>We used to laugh at Grandpa when he'd head off and go fishing. But we wouldn't be laughing that evening when he'd come back with some whore he picked up in town.</em><br /> -- Jack Handey</p>
