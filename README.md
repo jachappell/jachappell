@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/34194">Alliance Defending Freedom</a>
+* <a href="https://www.amon-hen.com/television/5622">MST3K 0107 – Robot Monster</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/34194">Alliance Defending Freedom</a>
 * <a href="https://www.amon-hen.com/music/16121">Mother’s Day</a>
 * <a href="https://www.amon-hen.com/religion/34186">Including the women and children</a>
 * <a href="https://www.amon-hen.com/television/7459">MST3K Short 0609 – Why Study Industrial Arts?</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/music/34160">Undertow</a>
 * <a href="https://www.amon-hen.com/science/34158">Optimizing our world with mathematical models</a>
 * <a href="https://www.amon-hen.com/food/34148">Mmmm, Schlitz</a>
-* <a href="https://www.amon-hen.com/television/5561">MST3K 0106 – The Crawling Hand</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>One of the major difficulties Trillian experienced in her relationship with Zaphod was learning to distinguish between him pretending to be stupid just to get people off their guard, pretending to be stupid because he couldn't be bothered to think and wanted someone else to do it for him, pretending to be so outrageously stupid to hide the fact that he actually didn't understand what was going on, and really being genuinely stupid.  He was reknowned for being quite clever and quite clearly was so -- but not all the time, which obviously worried him, hence the act.  He preferred people to be puzzled rather than contemptuous.  This above all appeared to Trillian to be genuinely stupid, but she could no longer be bothered to argue about.</em><br /> -- Douglas Adams (<em>The Hitchhiker's Guide to the Galaxy</em>)</p>
+<p><em>The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents.</em><br /> -- HP Lovecraft</p>
