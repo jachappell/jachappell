@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/religion/34167">Pope Leo XIV</a>
+* <a href="https://www.amon-hen.com/books/297">Reading: The Skies Discrowned</a>
+* <a href="https://www.amon-hen.com/politics/34202">Billionaires need your life jackets</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/religion/34167">Pope Leo XIV</a>
 * <a href="https://www.amon-hen.com/television/5622">MST3K 0107 – Robot Monster</a>
 * <a href="https://www.amon-hen.com/politics/34194">Alliance Defending Freedom</a>
 * <a href="https://www.amon-hen.com/music/16121">Mother’s Day</a>
 * <a href="https://www.amon-hen.com/religion/34186">Including the women and children</a>
 * <a href="https://www.amon-hen.com/television/7459">MST3K Short 0609 – Why Study Industrial Arts?</a>
 * <a href="https://www.amon-hen.com/movies/34162">King Dinosaur (1955)</a>
-* <a href="https://www.amon-hen.com/music/34160">Undertow</a>
-* <a href="https://www.amon-hen.com/science/34158">Optimizing our world with mathematical models</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The creed whose legitimacy is most easily challenged is likely to develop the strongest proselytizing impulse. It is doubtful whether a movement which does not profess some preposterous and patently irrational dogma can be possessed of that zealous drive which "must either win men or destroy the world." It is also plausible that those movements with the greatest inner contradiction between profession and practice-that is to say with a strong feeling of guilt-are likely to be the most fervent in imposing their faith on others.</em><br /> -- Eric Hoffer, <em>The True Believer</em>, 1951, section 88</p>
+<p><em>Economics is extremely useful as a form of employment for economists.</em><br /> -- John Kenneth Galbraith</p>
