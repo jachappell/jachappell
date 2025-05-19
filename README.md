@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/34215">First Spaceship On Venus (1960)</a>
+* <a href="https://www.amon-hen.com/religion/34227">Does not hate</a>
+* <a href="https://www.amon-hen.com/television/6161">MST3K Short 0610 – A Young Man’s Fancy</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/34215">First Spaceship On Venus (1960)</a>
 * <a href="https://www.amon-hen.com/music/34211">All Directions</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: The Skies Discrowned</a>
 * <a href="https://www.amon-hen.com/politics/34202">Billionaires need your life jackets</a>
 * <a href="https://www.amon-hen.com/religion/34167">Pope Leo XIV</a>
 * <a href="https://www.amon-hen.com/television/5622">MST3K 0107 – Robot Monster</a>
 * <a href="https://www.amon-hen.com/politics/34194">Alliance Defending Freedom</a>
-* <a href="https://www.amon-hen.com/music/16121">Mother’s Day</a>
-* <a href="https://www.amon-hen.com/religion/34186">Including the women and children</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Sometimes I think I'd be better off dead.  No, wait.  Not me, you.</em><br /> -- Jack Handey</p>
+<p><em>You don't appreciate a lot of stuff in school until you get older.  Little things, like being spanked every day by a middle aged woman -- stuff you pay good money for in later life.</em><br /> -- Emo Philips</p>
