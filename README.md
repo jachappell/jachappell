@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/34200">Delicious Indian Recipes for Every Day and Season</a>
+* <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34238">It’s-a-Me!</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/34200">Delicious Indian Recipes for Every Day and Season</a>
 * <a href="https://www.amon-hen.com/television/5752">MST3K 0108 – The Slime People</a>
 * <a href="https://www.amon-hen.com/politics/34231">Trump & The Press</a>
 * <a href="https://www.amon-hen.com/religion/34227">Does not hate</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/movies/34215">First Spaceship On Venus (1960)</a>
 * <a href="https://www.amon-hen.com/music/34211">All Directions</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: The Skies Discrowned</a>
-* <a href="https://www.amon-hen.com/politics/34202">Billionaires need your life jackets</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Give a man a fish and he will eat for a day.  Teach him how to fish, and he will sit in a boat and drink beer all day.</em><br /> -- George Carlin</p>
+<p><em>Politics is the art of looking for trouble, finding it, misdiagnosing it, and then misapplying the wrong remedies.</em><br /> -- Groucho Marx</p>
