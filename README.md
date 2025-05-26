@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/34236">It Conquered the World (1956)</a>
+* <a href="https://www.amon-hen.com/religion/34252">You may take these as plunder for yourselves</a>
+* <a href="https://www.amon-hen.com/television/5710">MST3K Short 0613 – Keeping Clean and Neat</a>
+* <a href="https://www.amon-hen.com/books/3512">Towel Day</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/34236">It Conquered the World (1956)</a>
 * <a href="https://www.amon-hen.com/music/34250">Hot Consuelo</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34238">It’s-a-Me!</a>
 * <a href="https://www.amon-hen.com/food/34200">Delicious Indian Recipes for Every Day and Season</a>
 * <a href="https://www.amon-hen.com/television/5752">MST3K 0108 – The Slime People</a>
 * <a href="https://www.amon-hen.com/politics/34231">Trump & The Press</a>
-* <a href="https://www.amon-hen.com/religion/34227">Does not hate</a>
-* <a href="https://www.amon-hen.com/television/6161">MST3K Short 0610 – A Young Man’s Fancy</a>
-* <a href="https://www.amon-hen.com/movies/34215">First Spaceship On Venus (1960)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>In religion and politics, people's beliefs and convictions are in almost every case gotten at second hand, and without examination.</em><br /> -- Mark Twain</p>
+<p><em>True, it returns "" for false, but "" is an even more interesting number than 0.</em><br /> -- Larry Wall in <199707300650.XAA05515@wall.org></p>
