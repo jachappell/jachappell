@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/science/34277">SpaceX loses contact with its Starship</a>
+* <a href="https://www.amon-hen.com/television/5886">MST3K 0109 – Project Moonbase</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/books/297">Reading – Japanese Combined Fleet 1941–42: The IJN at its zenith, Pearl Harbor to Midway</a>
 * <a href="https://www.amon-hen.com/politics/34233">Last Week Tonight – S2 E20: Stadiums, Iran & the Confederate Flag</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/religion/34252">You may take these as plunder for yourselves</a>
 * <a href="https://www.amon-hen.com/television/5710">MST3K Short 0613 – Keeping Clean and Neat</a>
 * <a href="https://www.amon-hen.com/books/3512">Towel Day</a>
 * <a href="https://www.amon-hen.com/movies/34236">It Conquered the World (1956)</a>
 * <a href="https://www.amon-hen.com/music/34250">Hot Consuelo</a>
-* <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34238">It’s-a-Me!</a>
-* <a href="https://www.amon-hen.com/food/34200">Delicious Indian Recipes for Every Day and Season</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Patriotism is the last refuge of a scoundrel.</em><br /> -- Samuel Johnson</p>
+<p><em>Seeing a murder on television... can help work off one's antagonisms. And if you haven't any antagonisms, the commercials will give you some.</em><br /> -- Alfred Hitchcock</p>
