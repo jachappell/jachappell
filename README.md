@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/34271">Mmmm, Peanut M&M’S</a>
+* <a href="https://www.amon-hen.com/science/34281">How physics connects our universe</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/34271">Mmmm, Peanut M&M’S</a>
 * <a href="https://www.amon-hen.com/science/34277">SpaceX loses contact with its Starship</a>
 * <a href="https://www.amon-hen.com/television/5886">MST3K 0109 – Project Moonbase</a>
 * <a href="https://www.amon-hen.com/books/297">Reading – Japanese Combined Fleet 1941–42: The IJN at its zenith, Pearl Harbor to Midway</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/religion/34252">You may take these as plunder for yourselves</a>
 * <a href="https://www.amon-hen.com/television/5710">MST3K Short 0613 – Keeping Clean and Neat</a>
 * <a href="https://www.amon-hen.com/books/3512">Towel Day</a>
-* <a href="https://www.amon-hen.com/movies/34236">It Conquered the World (1956)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Sergeant Colon had had a broad education.  He'd been to the School of My Dad Always Said, the College of It Stands to Reason, and was now a postgraduate student at the University of What Some Bloke In the Pub Told Me.</em><br /> -- Terry Pratchett</p>
+<p><em>Perhaps it is a peculiarity of mine that despite the fact that I am a professional performer, it is true that I have always preferred playing without an audience.</em><br /> -- Bill Evans</p>
