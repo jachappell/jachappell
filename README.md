@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/34283">You Don’t Know Me</a>
+* <a href="https://www.amon-hen.com/movies/31246">Galaxy Invader (1985)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/34283">You Don’t Know Me</a>
 * <a href="https://www.amon-hen.com/science/34281">How physics connects our universe</a>
 * <a href="https://www.amon-hen.com/food/34271">Mmmm, Peanut M&M’S</a>
 * <a href="https://www.amon-hen.com/science/34277">SpaceX loses contact with its Starship</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/books/297">Reading – Japanese Combined Fleet 1941–42: The IJN at its zenith, Pearl Harbor to Midway</a>
 * <a href="https://www.amon-hen.com/politics/34233">Last Week Tonight – S2 E20: Stadiums, Iran & the Confederate Flag</a>
 * <a href="https://www.amon-hen.com/religion/34252">You may take these as plunder for yourselves</a>
-* <a href="https://www.amon-hen.com/television/5710">MST3K Short 0613 – Keeping Clean and Neat</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>You see, boy?  The real money's in bootlegging!  Not in your childish vandalism.</em><br /> -- Homer J. Simpson</p>
+<p><em>Everywhere you go you'll see them searching,<br /> Everywhere you turn you'll feel the pain,<br /> Everyone is looking for the answer,<br /> Well look again.</em><br /> -- Moody Blues, "Lost in a Lost World"</p>
