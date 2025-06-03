@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/34301">Air Traffic Control</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/books/297">Reading – Japanese Combined Fleet 1942–43: Guadalcanal to the Solomons</a>
 * <a href="https://www.amon-hen.com/religion/34291">But he is not allowed to sell her to foreigners</a>
 * <a href="https://www.amon-hen.com/television/8550">MST3K Short 0616 – Are You Ready for Marriage?</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/movies/31246">Galaxy Invader (1985)</a>
 * <a href="https://www.amon-hen.com/music/34283">You Don’t Know Me</a>
 * <a href="https://www.amon-hen.com/science/34281">How physics connects our universe</a>
 * <a href="https://www.amon-hen.com/food/34271">Mmmm, Peanut M&M’S</a>
 * <a href="https://www.amon-hen.com/science/34277">SpaceX loses contact with its Starship</a>
-* <a href="https://www.amon-hen.com/television/5886">MST3K 0109 – Project Moonbase</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/news/3682">Drum Corps World – June 2025</a>
 * <a href="https://www.drum-corps.net/history/2241">Hawthorne Caballeros Alumni Corps (2005)</a>
 * <a href="https://www.drum-corps.net/history/2225">Chicago Royal Airs Alumni Corps (2002)</a>
 * <a href="https://www.drum-corps.net/history/2234">Mighty St. Joe’s Alumni Corps (1995)</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/news/3660">Drum Corps World – April 2025</a>
 * <a href="https://www.drum-corps.net/news/3656">Spirit Alumni Corps</a>
 * <a href="https://www.drum-corps.net/news/3649">Drum Corps World – March 2025</a>
-* <a href="https://www.drum-corps.net/news/3644">Guardians to forgo participation in the 2025 DCI season</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Excess on occasion is exhilarating.  It prevents moderation from acquiring the deadening effect of a habit.</em><br /> -- W. Somerset Maugham</p>
+<p><em>If all mankind minus one were of one opinion, mankind would be no more justified in silencing that one person than he, if he had the power, would be justified in silencing mankind.</em><br /> -- John Stuart Mill</p>
