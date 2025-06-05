@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/food/34303">Mmmm, All these vegatables</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/5977">MST3K 0110 – Robot Holocaust</a>
 * <a href="https://www.amon-hen.com/politics/34310">Hegseth Orders Navy to Strip Name of Gay Rights Icon Harvey Milk from Ship</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/34301">Air Traffic Control</a>
 * <a href="https://www.amon-hen.com/books/297">Reading – Japanese Combined Fleet 1942–43: Guadalcanal to the Solomons</a>
 * <a href="https://www.amon-hen.com/religion/34291">But he is not allowed to sell her to foreigners</a>
 * <a href="https://www.amon-hen.com/television/8550">MST3K Short 0616 – Are You Ready for Marriage?</a>
 * <a href="https://www.amon-hen.com/movies/31246">Galaxy Invader (1985)</a>
 * <a href="https://www.amon-hen.com/music/34283">You Don’t Know Me</a>
-* <a href="https://www.amon-hen.com/science/34281">How physics connects our universe</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Tragedy is when I cut my finger, comedy is when I walk into an open sewer and die.</em><br /> -- Mel Brooks</p>
+<p><em>If knowledge can create problems, it is not through ignorance that we can solve them.</em><br /> -- Isaac Asimov</p>
