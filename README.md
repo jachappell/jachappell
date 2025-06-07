@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/humor/34320">OK Google</a>
+* <a href="https://www.amon-hen.com/music/34325">Psycho Killer</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/humor/34320">OK Google</a>
 * <a href="https://www.amon-hen.com/food/34303">Mmmm, All these vegatables</a>
 * <a href="https://www.amon-hen.com/television/5977">MST3K 0110 – Robot Holocaust</a>
 * <a href="https://www.amon-hen.com/politics/34310">Hegseth Orders Navy to Strip Name of Gay Rights Icon Harvey Milk from Ship</a>
@@ -11,11 +12,11 @@
 * <a href="https://www.amon-hen.com/books/297">Reading – Japanese Combined Fleet 1942–43: Guadalcanal to the Solomons</a>
 * <a href="https://www.amon-hen.com/religion/34291">But he is not allowed to sell her to foreigners</a>
 * <a href="https://www.amon-hen.com/television/8550">MST3K Short 0616 – Are You Ready for Marriage?</a>
-* <a href="https://www.amon-hen.com/movies/31246">Galaxy Invader (1985)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/history/2251">Madison Scouts Alumni Corps (2006)</a>
 * <a href="https://www.drum-corps.net/news/3682">Drum Corps World – June 2025</a>
 * <a href="https://www.drum-corps.net/history/2241">Hawthorne Caballeros Alumni Corps (2005)</a>
 * <a href="https://www.drum-corps.net/history/2225">Chicago Royal Airs Alumni Corps (2002)</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/history/3667">Bluecoats Alumni Corps Documentary</a>
 * <a href="https://www.drum-corps.net/news/3660">Drum Corps World – April 2025</a>
 * <a href="https://www.drum-corps.net/news/3656">Spirit Alumni Corps</a>
-* <a href="https://www.drum-corps.net/news/3649">Drum Corps World – March 2025</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>To learn my teachings, I must first teach you how to learn.</em><br /> -- The Sphinx</p>
+<p><em>Ninety percent of everything is crap.</em><br /> -- Theodore Sturgeon</p>
