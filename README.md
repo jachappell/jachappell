@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/34344">Med Spas</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/34340">USS Shit for Brains</a>
 * <a href="https://www.amon-hen.com/religion/34333">A lingering disease of the bowels</a>
 * <a href="https://www.amon-hen.com/television/7198">MST3K Short 0618 – Out of this World</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/34329">“Big, Beautiful Bill”</a>
 * <a href="https://www.amon-hen.com/movies/30191">Night of the Blood Beast (1958)</a>
 * <a href="https://www.amon-hen.com/music/34325">Psycho Killer</a>
 * <a href="https://www.amon-hen.com/humor/34320">OK Google</a>
 * <a href="https://www.amon-hen.com/food/34303">Mmmm, All these vegatables</a>
-* <a href="https://www.amon-hen.com/television/5977">MST3K 0110 – Robot Holocaust</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>We Americans live in a nation where the medical-care system is second to none in the world, unless you count maybe 25 or 30 little scuzzball countries like Scotland that we could vaporize in seconds if we felt like it.</em><br /> -- Dave Barry</p>
+<p><em>The sermon was based on what he claimed was a well-known fact, that there were no Atheists in foxholes. I asked Jack what he thought of the sermon afterwards, and he said, "There's a Chaplain who never visited the front."</em><br /> -- Kurt Vonnegut Jr.</p>
