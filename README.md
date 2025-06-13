@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/34352">Mmmm, Improperly stored raw meat</a>
+* <a href="https://www.amon-hen.com/politics/34357">Robert E. Lee</a>
+* <a href="https://www.amon-hen.com/humor/34354">The Mads – Danger! Poison</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/34352">Mmmm, Improperly stored raw meat</a>
 * <a href="https://www.amon-hen.com/television/6031">MST3K 0111 – Moon Zero Two</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Player Piano</a>
 * <a href="https://www.amon-hen.com/politics/34344">Med Spas</a>
 * <a href="https://www.amon-hen.com/politics/34340">USS Shit for Brains</a>
 * <a href="https://www.amon-hen.com/religion/34333">A lingering disease of the bowels</a>
 * <a href="https://www.amon-hen.com/television/7198">MST3K Short 0618 – Out of this World</a>
-* <a href="https://www.amon-hen.com/politics/34329">“Big, Beautiful Bill”</a>
-* <a href="https://www.amon-hen.com/movies/30191">Night of the Blood Beast (1958)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Politicians should read science fiction, not westerns and detective stories.</em><br /> -- Arthur C. Clarke</p>
+<p><em>Barry, there is no hell. There is only France.</em><br /> -- Frank Zappa, "You Can't Do That On Stage Anymore"</p>
