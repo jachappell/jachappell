@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/34350">Everybody Laughs</a>
+* <a href="https://www.amon-hen.com/politics/34380">Don’t Rain on My Parade</a>
+* <a href="https://www.amon-hen.com/movies/34359">Miami Connection (1987)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/34350">Everybody Laughs</a>
 * <a href="https://www.amon-hen.com/politics/34357">Robert E. Lee</a>
 * <a href="https://www.amon-hen.com/humor/34354">The Mads – Danger! Poison</a>
 * <a href="https://www.amon-hen.com/politics/34352">Mmmm, Improperly stored raw meat</a>
 * <a href="https://www.amon-hen.com/television/6031">MST3K 0111 – Moon Zero Two</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Player Piano</a>
 * <a href="https://www.amon-hen.com/politics/34344">Med Spas</a>
-* <a href="https://www.amon-hen.com/politics/34340">USS Shit for Brains</a>
-* <a href="https://www.amon-hen.com/religion/34333">A lingering disease of the bowels</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I'm going to the backseat of my car with the woman I love, and I won't be back for TEN MINUTES.</em><br /> -- Homer J. Simpson</p>
+<p><em>There is only one bad word: taxes.</em><br /> -- Ron Swanson</p>
