@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/6094">MST3K 0112 – Untamed Youth</a>
+* <a href="https://www.amon-hen.com/humor/34377">Is Soup Gay?</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/6094">MST3K 0112 – Untamed Youth</a>
 * <a href="https://www.amon-hen.com/books/9720">Bloomsday</a>
 * <a href="https://www.amon-hen.com/politics/34383">Juvenile Justice</a>
 * <a href="https://www.amon-hen.com/religion/34367">Glancing wantonly with their eyes</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/34380">Don’t Rain on My Parade</a>
 * <a href="https://www.amon-hen.com/movies/34359">Miami Connection (1987)</a>
 * <a href="https://www.amon-hen.com/music/34350">Everybody Laughs</a>
-* <a href="https://www.amon-hen.com/politics/34357">Robert E. Lee</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I tell ya, I knew my morning wasn't going right.   When I put on my shirt the button fell off, when I picked up my briefcase, the handle fell off, I tell ya, I was afraid to go to the bathroom.</em><br /> -- Rodney Dangerfield</p>
+<p><em>I wonder if other dogs think poodles are members of a weird religious cult.</em><br /> -- Rita Rudner</p>
