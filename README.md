@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/34374">The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies (1964 )</a>
+* <a href="https://www.amon-hen.com/religion/34397">Get out of here, baldy!</a>
+* <a href="https://www.amon-hen.com/television/7110">MST3K Short 0621 – Money Talks!</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/34374">The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies (1964 )</a>
 * <a href="https://www.amon-hen.com/music/34308">Black Market</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34386">Bent Knee and The Bluecoats</a>
 * <a href="https://www.amon-hen.com/science/34390">SpaceX’s Starship explodes during routine test in Texas</a>
 * <a href="https://www.amon-hen.com/humor/34377">Is Soup Gay?</a>
 * <a href="https://www.amon-hen.com/television/6094">MST3K 0112 – Untamed Youth</a>
 * <a href="https://www.amon-hen.com/books/9720">Bloomsday</a>
-* <a href="https://www.amon-hen.com/politics/34383">Juvenile Justice</a>
-* <a href="https://www.amon-hen.com/religion/34367">Glancing wantonly with their eyes</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/news/3699">Drum Corps World – July 2025</a>
 * <a href="https://www.drum-corps.net/history/2258">Cavaliers Alumni Corps (2008)</a>
 * <a href="https://www.drum-corps.net/news/3693">The Bluecoats and Bent Knee</a>
 * <a href="https://www.drum-corps.net/history/2255">Anaheim Kingsmen Alumni Corps (2007)</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/history/2225">Chicago Royal Airs Alumni Corps (2002)</a>
 * <a href="https://www.drum-corps.net/history/2234">Mighty St. Joe’s Alumni Corps (1995)</a>
 * <a href="https://www.drum-corps.net/history/2222">27th Lancers Alumni Corps (1994)</a>
-* <a href="https://www.drum-corps.net/news/3671">Drum Corps World – May 2025</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>So, a graduate student, huh?  How come you guys can go to the moon but you can't make my shoes smell good?</em><br /> -- Homer J. Simpson</p>
+<p><em>I've recently noticed "as if for the first time" that when people pray they always look "upward" -- i.e. perpendicular to whatever place they're standing -- or kneeling or groveling. I deduce that they conceive of their "god" as topologically isomorphic to a huge donut, about a thousand miles wider than Earth.</em><br /> -- Robert Anton Wilson</p>
