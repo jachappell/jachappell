@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/34402">AI Slop</a>
+* <a href="https://www.amon-hen.com/television/6128">MST3K 0113 – The Black Scorpion</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/34402">AI Slop</a>
 * <a href="https://www.amon-hen.com/religion/34397">Get out of here, baldy!</a>
 * <a href="https://www.amon-hen.com/television/7110">MST3K Short 0621 – Money Talks!</a>
-* <a href="https://www.amon-hen.com/movies/34374">The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies (1964 )</a>
+* <a href="https://www.amon-hen.com/movies/34374">The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies (1964)</a>
 * <a href="https://www.amon-hen.com/music/34308">Black Market</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34386">Bent Knee and The Bluecoats</a>
 * <a href="https://www.amon-hen.com/science/34390">SpaceX’s Starship explodes during routine test in Texas</a>
 * <a href="https://www.amon-hen.com/humor/34377">Is Soup Gay?</a>
-* <a href="https://www.amon-hen.com/television/6094">MST3K 0112 – Untamed Youth</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I have examined all the known superstitions of the world, and I do not find in our particular superstition of Christianity one redeeming feature. They are all alike founded on fables and mythology.</em><br /> -- Thomas Jefferson</p>
+<p><em>We must respect the other fellow's religion, but only in the same sense and to the same extent that we respect his theory that his wife is beautiful and his children smart.</em><br /> -- H.L. Mencken</p>
