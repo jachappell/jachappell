@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/34404">Mmmm, Slow Meal</a>
+* <a href="https://www.amon-hen.com/science/34410">Trump Administration Ousts National Science Foundation from Headquarters Building</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/34404">Mmmm, Slow Meal</a>
 * <a href="https://www.amon-hen.com/television/6128">MST3K 0113 – The Black Scorpion</a>
 * <a href="https://www.amon-hen.com/politics/34402">AI Slop</a>
 * <a href="https://www.amon-hen.com/religion/34397">Get out of here, baldy!</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/movies/34374">The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies (1964)</a>
 * <a href="https://www.amon-hen.com/music/34308">Black Market</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34386">Bent Knee and The Bluecoats</a>
-* <a href="https://www.amon-hen.com/science/34390">SpaceX’s Starship explodes during routine test in Texas</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>All I wanted was to make the world a better place... and to make an assload of money.</em><br /> -- Jodene Sparks</p>
+<p><em>When the music changes, so does the dance.</em><br /> -- African proverb</p>
