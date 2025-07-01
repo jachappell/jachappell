@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/34439">Trump’s One Big Beautiful Bill</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/science/34436">This is a death wish, on a national and global scale</a>
 * <a href="https://www.amon-hen.com/religion/34427">Should consider their masters worthy of full respect</a>
 * <a href="https://www.amon-hen.com/television/6393">MST3K Short 0621 – Progress Island, U.S.A.</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34424">The Observer Effect</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34417">#Bloo25</a>
 * <a href="https://www.amon-hen.com/movies/34414">Lost Continent (1951)</a>
 * <a href="https://www.amon-hen.com/music/34363">Bellavia</a>
 * <a href="https://www.amon-hen.com/science/34410">Trump Administration Ousts National Science Foundation from Headquarters Building</a>
-* <a href="https://www.amon-hen.com/food/34404">Mmmm, Slow Meal</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Blow ye winds, like the trumpet blows, but without that noise.</em><br /> -- Jack Handey</p>
+<p><em>Clothes make the man.  Naked people have little or no influence on society.</em><br /> -- Mark Twain</p>
