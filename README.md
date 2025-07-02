@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/34439">Trump’s One Big Beautiful Bill</a>
+* <a href="https://www.amon-hen.com/television/6169">MST3K 0201 – Rocketship X-M</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/34439">Trump’s One Big Beautiful Bill</a>
 * <a href="https://www.amon-hen.com/science/34436">This is a death wish, on a national and global scale</a>
 * <a href="https://www.amon-hen.com/religion/34427">Should consider their masters worthy of full respect</a>
 * <a href="https://www.amon-hen.com/television/6393">MST3K Short 0621 – Progress Island, U.S.A.</a>
@@ -11,11 +12,11 @@
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34417">#Bloo25</a>
 * <a href="https://www.amon-hen.com/movies/34414">Lost Continent (1951)</a>
 * <a href="https://www.amon-hen.com/music/34363">Bellavia</a>
-* <a href="https://www.amon-hen.com/science/34410">Trump Administration Ousts National Science Foundation from Headquarters Building</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/3718">Corps Encore (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3712">Drums Along the Rockies (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3708">Barnum Festival: Champions on Parade (2025)</a>
 * <a href="https://www.drum-corps.net/history/2274">Star of Indiana Alumni Corps (2010)</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/history/2255">Anaheim Kingsmen Alumni Corps (2007)</a>
 * <a href="https://www.drum-corps.net/history/2251">Madison Scouts Alumni Corps (2006)</a>
 * <a href="https://www.drum-corps.net/news/3682">Drum Corps World – June 2025</a>
-* <a href="https://www.drum-corps.net/history/2241">Hawthorne Caballeros Alumni Corps (2005)</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Clothes make the man.  Naked people have little or no influence on society.</em><br /> -- Mark Twain</p>
+<p><em>Criminals are never very amusing.  It's because they're failures.  Those who make real money aren't counted as criminals.  This is a class distinction, not an ethical problem.</em><br /> -- Orson Welles</p>
