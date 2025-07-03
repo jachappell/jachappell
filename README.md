@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/6169">MST3K 0201 – Rocketship X-M</a>
+* <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34465">Not Too Late</a>
+* <a href="https://www.amon-hen.com/food/34441">Ham School</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/6169">MST3K 0201 – Rocketship X-M</a>
 * <a href="https://www.amon-hen.com/politics/34439">Trump’s One Big Beautiful Bill</a>
 * <a href="https://www.amon-hen.com/science/34436">This is a death wish, on a national and global scale</a>
 * <a href="https://www.amon-hen.com/religion/34427">Should consider their masters worthy of full respect</a>
 * <a href="https://www.amon-hen.com/television/6393">MST3K Short 0621 – Progress Island, U.S.A.</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34424">The Observer Effect</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34417">#Bloo25</a>
-* <a href="https://www.amon-hen.com/movies/34414">Lost Continent (1951)</a>
-* <a href="https://www.amon-hen.com/music/34363">Bellavia</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Criminals are never very amusing.  It's because they're failures.  Those who make real money aren't counted as criminals.  This is a class distinction, not an ethical problem.</em><br /> -- Orson Welles</p>
+<p><em>Fall is my favorite season in Los Angeles, watching the birds change color and fall from the trees.</em><br /> -- David Letterman</p>
