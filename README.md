@@ -2,20 +2,22 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/humor/34458">RiffTrax – The Talking Car</a>
+* <a href="https://www.amon-hen.com/music/34285">Fourth of July</a>
+* <a href="https://www.amon-hen.com/miscellaneous/26402">4th of July</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/humor/34458">RiffTrax – The Talking Car</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34465">Not Too Late</a>
 * <a href="https://www.amon-hen.com/food/34441">Ham School</a>
 * <a href="https://www.amon-hen.com/television/6169">MST3K 0201 – Rocketship X-M</a>
 * <a href="https://www.amon-hen.com/politics/34439">Trump’s One Big Beautiful Bill</a>
 * <a href="https://www.amon-hen.com/science/34436">This is a death wish, on a national and global scale</a>
 * <a href="https://www.amon-hen.com/religion/34427">Should consider their masters worthy of full respect</a>
-* <a href="https://www.amon-hen.com/television/6393">MST3K Short 0621 – Progress Island, U.S.A.</a>
-* <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34424">The Observer Effect</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/history/2276">Bridgemen Alumni Corps (2016)</a>
+* <a href="https://www.drum-corps.net/scores/dci/3738">Northwest Youth Music Games Portland (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3735">Show of Shows (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3731">Northwest Youth Music Games Seattle (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3727">Rotary Music Festival (2025)</a>
@@ -24,8 +26,6 @@
 * <a href="https://www.drum-corps.net/scores/dci/3708">Barnum Festival: Champions on Parade (2025)</a>
 * <a href="https://www.drum-corps.net/history/2274">Star of Indiana Alumni Corps (2010)</a>
 * <a href="https://www.drum-corps.net/news/3699">Drum Corps World – July 2025</a>
-* <a href="https://www.drum-corps.net/history/2258">Cavaliers Alumni Corps (2008)</a>
-* <a href="https://www.drum-corps.net/news/3693">The Bluecoats and Bent Knee</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The men the American public admire most extravagantly are the most daring liars; the men they detest most violently are those who try to tell them the truth.</em><br /> -- H.L. Mencken</p>
+<p><em>Humans are not proud of their ancestors, and rarely invite them round to dinner.</em><br /> -- Douglas Adams</p>
