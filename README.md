@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/34470">Last Week Tonight – S2 E21: Food Waste, Iran & El Chapo</a>
+* <a href="https://www.amon-hen.com/television/8495">MST3K 0202 – The Sidehackers</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/34470">Last Week Tonight – S2 E21: Food Waste, Iran & El Chapo</a>
 * <a href="https://www.amon-hen.com/religion/34476">Both of them have done what is detestable</a>
 * <a href="https://www.amon-hen.com/television/7293">MST3K Short 0623 – The Days of Our Years</a>
 * <a href="https://www.amon-hen.com/movies/34456">The Killer Shrews (1959)</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/miscellaneous/26402">4th of July</a>
 * <a href="https://www.amon-hen.com/humor/34458">RiffTrax – The Talking Car</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34465">Not Too Late</a>
-* <a href="https://www.amon-hen.com/food/34441">Ham School</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The whole town laughed at my great-grandfather, just because he worked hard and saved his money. True, working at the hardware store didn't pay much, but he felt it was better than what everybody else did, which was go up to the volcano and collect the gold nuggets it shot out every day. It turned out he was right. After forty years, the volcano petered out. Everybody left town, and the hardware store went broke. Finally he decided to collect gold nuggets too, but there weren't many left by then. Plus, he broke his leg and the doctor's bills were real high.</em><br /> -- Jack Handey</p>
+<p><em>In the Schrute family, the youngest child always raises the others. I've been raising children since I was a baby.</em><br /> -- Dwight Kurt Schrute III</p>
