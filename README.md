@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/8495">MST3K 0202 – The Sidehackers</a>
+* <a href="https://www.amon-hen.com/computing/34482">Mmmm, USB Food</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/8495">MST3K 0202 – The Sidehackers</a>
 * <a href="https://www.amon-hen.com/politics/34470">Last Week Tonight – S2 E21: Food Waste, Iran & El Chapo</a>
 * <a href="https://www.amon-hen.com/religion/34476">Both of them have done what is detestable</a>
 * <a href="https://www.amon-hen.com/television/7293">MST3K Short 0623 – The Days of Our Years</a>
@@ -11,11 +12,13 @@
 * <a href="https://www.amon-hen.com/music/34285">Fourth of July</a>
 * <a href="https://www.amon-hen.com/miscellaneous/26402">4th of July</a>
 * <a href="https://www.amon-hen.com/humor/34458">RiffTrax – The Talking Car</a>
-* <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34465">Not Too Late</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/3773">Resound (2025)</a>
+* <a href="https://www.drum-corps.net/scores/dci/3771">The Kiwanis Thunder of Drums (2025)</a>
+* <a href="https://www.drum-corps.net/scores/dci/3768">Drums Across America (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3763">Drums Across the Smokies  (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3759">DCI West (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3754">River City Rhapsody (2025)</a>
@@ -23,9 +26,6 @@
 * <a href="https://www.drum-corps.net/scores/dci/3744">CrownBEAT (2025)</a>
 * <a href="https://www.drum-corps.net/history/2276">Bridgemen Alumni Corps (2016)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3738">Northwest Youth Music Games Portland (2025)</a>
-* <a href="https://www.drum-corps.net/scores/dci/3735">Show of Shows (2025)</a>
-* <a href="https://www.drum-corps.net/scores/dci/3731">Northwest Youth Music Games Seattle (2025)</a>
-* <a href="https://www.drum-corps.net/scores/dci/3727">Rotary Music Festival (2025)</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>In the Schrute family, the youngest child always raises the others. I've been raising children since I was a baby.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>Solitude never hurt anyone.  Emily Dickinson lived alone, and she wrote some of the most beautiful poetry the world has ever known...  then went crazy as a loon.</em><br /> -- Lisa Simpson</p>
