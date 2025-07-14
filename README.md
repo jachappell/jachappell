@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/34493">The Beatniks (1959)</a>
+* <a href="https://www.amon-hen.com/television/6119">MST3K Short 0701 – Once Upon A Honeymoon</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/34493">The Beatniks (1959)</a>
 * <a href="https://www.amon-hen.com/music/drums-and-percussion/34488">Drumming: Pt. I</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: An Epitaph in Rust</a>
 * <a href="https://www.amon-hen.com/politics/34486">Trump is aggressively ignorant</a>
@@ -11,11 +12,11 @@
 * <a href="https://www.amon-hen.com/television/8495">MST3K 0202 – The Sidehackers</a>
 * <a href="https://www.amon-hen.com/politics/34470">Last Week Tonight – S2 E21: Food Waste, Iran & El Chapo</a>
 * <a href="https://www.amon-hen.com/religion/34476">Both of them have done what is detestable</a>
-* <a href="https://www.amon-hen.com/television/7293">MST3K Short 0623 – The Days of Our Years</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/3802">Drum Corps at the Rose Bowl (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3798">Cavalcade of Brass (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3795">DCI Little Rock (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3792">Drum Corps Grand Prix  (2025)</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/scores/dci/3779">Celebration in Brass (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3773">Resound (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3771">The Kiwanis Thunder of Drums (2025)</a>
-* <a href="https://www.drum-corps.net/scores/dci/3768">Drums Across America (2025)</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Cocaine is God's way of saying that you're making too much money.</em><br /> -- Robin Williams</p>
+<p><em>What I have done is to show that it is possible for the way the universe began to be determined by the laws of science.  In that case, it would not be necessary to appeal to God to decide how the universe began.  This doesn't prove that there is no God, only that God is not necessary.</em><br /> -- Stephen W. Hawking, Der <em>Spiegel</em>, 1989</p>
