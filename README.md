@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/drums-and-percussion/34508">Drumming: Pt. III</a>
+* <a href="https://www.amon-hen.com/movies/34514">Fire Maidens of Outer Space (1956)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/drums-and-percussion/34508">Drumming: Pt. III</a>
 * <a href="https://www.amon-hen.com/science/34505">RiffTrax – Why Study Science</a>
 * <a href="https://www.amon-hen.com/food/34501">Mmmm, Good luck surge come</a>
 * <a href="https://www.amon-hen.com/television/8560">MST3K 0203 – Jungle Goddess</a>
@@ -11,11 +12,13 @@
 * <a href="https://www.amon-hen.com/television/6119">MST3K Short 0701 – Once Upon A Honeymoon</a>
 * <a href="https://www.amon-hen.com/movies/34493">The Beatniks (1959)</a>
 * <a href="https://www.amon-hen.com/music/drums-and-percussion/34488">Drumming: Pt. I</a>
-* <a href="https://www.amon-hen.com/books/297">Reading: An Epitaph in Rust</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/3849">DCI Southwestern Championship (2025)</a>
+* <a href="https://www.drum-corps.net/scores/dci/3846">March On! (2025)</a>
+* <a href="https://www.drum-corps.net/scores/dci/3843">The Buccaneer Classic (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3839">DCI Houston (2025)</a>
 * <a href="https://www.drum-corps.net/history/2282">Bluecoats Alumni Corps (2022)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3832">DCI Denton  (2025)</a>
@@ -23,9 +26,6 @@
 * <a href="https://www.drum-corps.net/scores/dci/3825">DCI West Texas (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3822">DCI New Mexico (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3818">DCI Broken Arrow (2025)</a>
-* <a href="https://www.drum-corps.net/scores/dci/3815">Brass Impact (2025)</a>
-* <a href="https://www.drum-corps.net/scores/dci/3808">So Cal Classic: Open Class Pacific Championship Finals (2025)</a>
-* <a href="https://www.drum-corps.net/scores/dci/3805">Drums Across the Desert (2025)</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>A functioning police state needs no police.</em><br /> -- William S. Burroughs</p>
+<p><em>Sometimes I think the surest sign that intelligent life exists elsewhere in the universe is that none of it has tried to contact us.</em><br /> -- Bill Watterson (<em>Calvin and Hobbes</em>)</p>
