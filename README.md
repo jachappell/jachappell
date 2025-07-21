@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/34514">Fire Maidens of Outer Space (1956)</a>
+* <a href="https://www.amon-hen.com/science/3871">First Moon Landing</a>
+* <a href="https://www.amon-hen.com/television/7498">MST3K Short 0702 – The Chicken of Tomorrow</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/34514">Fire Maidens of Outer Space (1956)</a>
 * <a href="https://www.amon-hen.com/music/drums-and-percussion/34508">Drumming: Pt. III</a>
 * <a href="https://www.amon-hen.com/science/34505">RiffTrax – Why Study Science</a>
 * <a href="https://www.amon-hen.com/food/34501">Mmmm, Good luck surge come</a>
 * <a href="https://www.amon-hen.com/television/8560">MST3K 0203 – Jungle Goddess</a>
 * <a href="https://www.amon-hen.com/politics/34497">Last Week Tonight – S2 E22: Mandatory Minimums, Iran & FIFA Update</a>
 * <a href="https://www.amon-hen.com/television/6119">MST3K Short 0701 – Once Upon A Honeymoon</a>
-* <a href="https://www.amon-hen.com/movies/34493">The Beatniks (1959)</a>
-* <a href="https://www.amon-hen.com/music/drums-and-percussion/34488">Drumming: Pt. I</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/3858">DCI Dallas (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3849">DCI Southwestern Championship (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3846">March On! (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3843">The Buccaneer Classic (2025)</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/scores/dci/3829">DCI Waco  (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3825">DCI West Texas (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3822">DCI New Mexico (2025)</a>
-* <a href="https://www.drum-corps.net/scores/dci/3818">DCI Broken Arrow (2025)</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Sometimes I think the surest sign that intelligent life exists elsewhere in the universe is that none of it has tried to contact us.</em><br /> -- Bill Watterson (<em>Calvin and Hobbes</em>)</p>
+<p><em>Maybe in order to understand mankind, we have to look at the word itself: "Mankind". Basically, it's made up of two separate words - "mank" and "ind". What do these words mean? It's a mystery, and that's why so is mankind.</em><br /> -- Jack Handey</p>
