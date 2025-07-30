@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/34554">Gang Databases</a>
+* <a href="https://www.amon-hen.com/television/8680">MST3K 0205 – Rocket Attack USA</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/34554">Gang Databases</a>
 * <a href="https://www.amon-hen.com/politics/34547">Cheater</a>
 * <a href="https://www.amon-hen.com/television/5880">MST3K Short 0906 – Century 21 Calling</a>
 * <a href="https://www.amon-hen.com/movies/34536">Attack of the Eye Creatures (1967)</a>
@@ -11,21 +12,20 @@
 * <a href="https://www.amon-hen.com/humor/34533">RiffTrax – Masks of Grass</a>
 * <a href="https://www.amon-hen.com/food/34527">Mmmm, Manwich</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Dying Inside</a>
-* <a href="https://www.amon-hen.com/television/8609">MST3K 0204 – Catalina Caper</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/3944">Brass at the Beach (2025)</a>
+* <a href="https://www.drum-corps.net/scores/dci/3941">Soaring Sounds (2025)</a>
+* <a href="https://www.drum-corps.net/scores/dci/3938">DCI Delaware (2025)</a>
+* <a href="https://www.drum-corps.net/news/3934">Broadway on a football field</a>
 * <a href="https://www.drum-corps.net/scores/dci/3931">Summer Music Games in Cincinnati (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3925">DCI in Motion (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3922">NightBEAT (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3919">Midwest Classic (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3914">DCI Southeastern Championship (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3911">Bushwackers Invitational (2025)</a>
-* <a href="https://www.drum-corps.net/news/3903">Drum Corps World – July 25, 2025</a>
-* <a href="https://www.drum-corps.net/scores/dci/3900">DCI Nashville (2025)</a>
-* <a href="https://www.drum-corps.net/scores/dci/3897">Drums on Parade (2025)</a>
-* <a href="https://www.drum-corps.net/scores/dci/3893">DCI Birmingham (2025)</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>God made food; the devil the cooks.</em><br /> -- James Joyce</p>
+<p><em>You can't crush ideas by suppressing them. You can only crush them by ignoring them.</em><br /> -- Ursula K. Le Guin</p>
