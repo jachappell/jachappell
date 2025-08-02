@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/computing/internet/www/34570">The only good websites…</a>
+* <a href="https://www.amon-hen.com/music/34562">Piano Phase</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/34570">The only good websites…</a>
 * <a href="https://www.amon-hen.com/food/34556">Mmmm, Stitching Humiliation</a>
 * <a href="https://www.amon-hen.com/television/8680">MST3K 0205 – Rocket Attack USA</a>
 * <a href="https://www.amon-hen.com/politics/34554">Gang Databases</a>
@@ -11,11 +12,12 @@
 * <a href="https://www.amon-hen.com/television/5880">MST3K Short 0906 – Century 21 Calling</a>
 * <a href="https://www.amon-hen.com/movies/34536">Attack of the Eye Creatures (1967)</a>
 * <a href="https://www.amon-hen.com/music/34511">Dream State</a>
-* <a href="https://www.amon-hen.com/humor/34533">RiffTrax – Masks of Grass</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/3960">DCI Eastern Classic – Friday (2025)</a>
+* <a href="https://www.drum-corps.net/history/3341">Crossmen 50th Anniversary Alumni Corps (2024)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3955">DCI Central Ohio (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3950">DCI Huntington (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3947">DCI Glassboro (2025)</a>
@@ -24,8 +26,6 @@
 * <a href="https://www.drum-corps.net/scores/dci/3938">DCI Delaware (2025)</a>
 * <a href="https://www.drum-corps.net/news/3934">Broadway on a football field</a>
 * <a href="https://www.drum-corps.net/scores/dci/3931">Summer Music Games in Cincinnati (2025)</a>
-* <a href="https://www.drum-corps.net/scores/dci/3925">DCI in Motion (2025)</a>
-* <a href="https://www.drum-corps.net/scores/dci/3922">NightBEAT (2025)</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I wish outer space guys would conquer the Earth and make people their pets, because I'd like to have one of those little beds with my name on it.</em><br /> -- Jack Handey</p>
+<p><em>Utility is when you have one telephone, luxury is when you have two, opulence is when you have three -- and paradise is when you have none.</em><br /> -- Doug Larson</p>
