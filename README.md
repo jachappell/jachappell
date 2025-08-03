@@ -2,30 +2,30 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/34562">Piano Phase</a>
+* <a href="https://www.amon-hen.com/chappells-show/34589">USCGC Taney</a>
+* <a href="https://www.amon-hen.com/movies/34573">Monster a Go-Go (1965)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/34562">Piano Phase</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/34570">The only good websites…</a>
 * <a href="https://www.amon-hen.com/food/34556">Mmmm, Stitching Humiliation</a>
 * <a href="https://www.amon-hen.com/television/8680">MST3K 0205 – Rocket Attack USA</a>
 * <a href="https://www.amon-hen.com/politics/34554">Gang Databases</a>
 * <a href="https://www.amon-hen.com/politics/34547">Cheater</a>
 * <a href="https://www.amon-hen.com/television/5880">MST3K Short 0906 – Century 21 Calling</a>
-* <a href="https://www.amon-hen.com/movies/34536">Attack of the Eye Creatures (1967)</a>
-* <a href="https://www.amon-hen.com/music/34511">Dream State</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/3975">DCI Williamsport (2025)</a>
+* <a href="https://www.drum-corps.net/scores/dci/3972">DCI Michigan  (2025)</a>
+* <a href="https://www.drum-corps.net/scores/dci/3969">DCI Eastern Classic – Saturday (2025)</a>
+* <a href="https://www.drum-corps.net/news/3965">Drum Corps World – August 1, 2025</a>
+* <a href="https://www.drum-corps.net/scores/dci/3963">SoundSport Festival – Williamsport</a>
 * <a href="https://www.drum-corps.net/scores/dci/3960">DCI Eastern Classic – Friday (2025)</a>
 * <a href="https://www.drum-corps.net/history/3341">Crossmen 50th Anniversary Alumni Corps (2024)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3955">DCI Central Ohio (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3950">DCI Huntington (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3947">DCI Glassboro (2025)</a>
-* <a href="https://www.drum-corps.net/scores/dci/3944">Brass at the Beach (2025)</a>
-* <a href="https://www.drum-corps.net/scores/dci/3941">Soaring Sounds (2025)</a>
-* <a href="https://www.drum-corps.net/scores/dci/3938">DCI Delaware (2025)</a>
-* <a href="https://www.drum-corps.net/news/3934">Broadway on a football field</a>
-* <a href="https://www.drum-corps.net/scores/dci/3931">Summer Music Games in Cincinnati (2025)</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Utility is when you have one telephone, luxury is when you have two, opulence is when you have three -- and paradise is when you have none.</em><br /> -- Doug Larson</p>
+<p><em>In the fight between you and the world, back the world.</em><br /> -- Frank Zappa</p>
