@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/34655">Immigration Enforcement</a>
+* <a href="https://www.amon-hen.com/television/8733">MST3K 0207 – Wild Rebels</a>
+* <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/32714">12 August 2022</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/34655">Immigration Enforcement</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: A City on Mars</a>
 * <a href="https://www.amon-hen.com/television/6358">MST3K Short 1012 – A Case Of Spring Fever</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34611">2025 DCI World Championships – Indianapolis, IN</a>
 * <a href="https://www.amon-hen.com/computing/internet/34651">Nobody really cares anymore</a>
 * <a href="https://www.amon-hen.com/religion/34633">Rock: It’s Your Decision (1982)</a>
 * <a href="https://www.amon-hen.com/music/34609">Dream State (Brighter Night)</a>
-* <a href="https://www.amon-hen.com/politics/34631">Actual Election Fraud</a>
-* <a href="https://www.amon-hen.com/politics/34605">Our government arbitrarily decided we should stop doing that</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/history/3371">August 12, 2022</a>
 * <a href="https://www.drum-corps.net/scores/dci/4027">2025 DCI World Championship Finals</a>
 * <a href="https://www.drum-corps.net/news/4024">2025 SoundSport International Music & Food Festival</a>
 * <a href="https://www.drum-corps.net/scores/dci/4021">2025 DCI All-Age World Championship</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/scores/dci/4007">2025 DCI World Championship Prelims</a>
 * <a href="https://www.drum-corps.net/brass/4003">Bluecoats 2025 Encore Performance</a>
 * <a href="https://www.drum-corps.net/scores/dci/4000">2025 DCI Open Class World Championship Finals</a>
-* <a href="https://www.drum-corps.net/scores/dci/3992">2025 DCI Open Class World Championship Prelims</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>You never see animals going through the absurd and often horrible fooleries of magic and religion....  Only man behaves with such gratuitous folly.  It is the price he has to pay for being intelligent but not, as yet, quite intelligent enough.</em><br /> -- Aldous Huxley</p>
+<p><em>If only more Christians read their bibles there'd be less Christians.</em><br /> -- Derek W. Clayton</p>
