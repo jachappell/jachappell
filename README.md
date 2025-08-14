@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/food/34665">The Meat of Many Uses</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/8733">MST3K 0207 – Wild Rebels</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/32714">12 August 2022</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/34655">Immigration Enforcement</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: A City on Mars</a>
 * <a href="https://www.amon-hen.com/television/6358">MST3K Short 1012 – A Case Of Spring Fever</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/34611">2025 DCI World Championships – Indianapolis, IN</a>
 * <a href="https://www.amon-hen.com/computing/internet/34651">Nobody really cares anymore</a>
 * <a href="https://www.amon-hen.com/religion/34633">Rock: It’s Your Decision (1982)</a>
-* <a href="https://www.amon-hen.com/music/34609">Dream State (Brighter Night)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>If only more Christians read their bibles there'd be less Christians.</em><br /> -- Derek W. Clayton</p>
+<p><em>A child can go only so far in life without potty training.  It is not mere coincidence that six of the last seven presidents were potty trained, not to mention nearly half of the nation's state legislators.</em><br /> -- Dave Barry</p>
