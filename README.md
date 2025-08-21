@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/8791">MST3K 0208 – Lost Continent</a>
+* <a href="https://www.amon-hen.com/food/34694">Mmmm, Real Mayonnaise</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/8791">MST3K 0208 – Lost Continent</a>
 * <a href="https://www.amon-hen.com/politics/34698">Make America Healthy Again</a>
 * <a href="https://www.amon-hen.com/humor/32756">MST3K Short 1304 – Sleep For Health</a>
 * <a href="https://www.amon-hen.com/politics/34690">Very severe consequences</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/music/34616">Solitude</a>
 * <a href="https://www.amon-hen.com/politics/34682">Kennedy Center Honors</a>
 * <a href="https://www.amon-hen.com/politics/34670">At least they’re more honest now</a>
-* <a href="https://www.amon-hen.com/food/34665">The Meat of Many Uses</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I woke up this morning with a bloody nose.  I thought, "how did this get into bed with me?"</em><br /> -- Emo Philips</p>
+<p><em>Is there another word for synonym?</em><br /> -- George Carlin</p>
