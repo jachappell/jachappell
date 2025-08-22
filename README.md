@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/34694">Mmmm, Real Mayonnaise</a>
+* <a href="https://www.amon-hen.com/humor/34716">RiffTrax – The Myths Of Shoplifting</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/34694">Mmmm, Real Mayonnaise</a>
 * <a href="https://www.amon-hen.com/television/8791">MST3K 0208 – Lost Continent</a>
 * <a href="https://www.amon-hen.com/politics/34698">Make America Healthy Again</a>
 * <a href="https://www.amon-hen.com/humor/32756">MST3K Short 1304 – Sleep For Health</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/movies/34672">The Amazing Transparent Man (1960)</a>
 * <a href="https://www.amon-hen.com/music/34616">Solitude</a>
 * <a href="https://www.amon-hen.com/politics/34682">Kennedy Center Honors</a>
-* <a href="https://www.amon-hen.com/politics/34670">At least they’re more honest now</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Is there another word for synonym?</em><br /> -- George Carlin</p>
+<p><em>If it looks like a duck, and quacks like a duck, we have at least to consider the possibility that we have a small aquatic bird of the family anatidae on our hands.</em><br /> -- Douglas Adams</p>
