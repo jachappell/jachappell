@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/humor/34716">RiffTrax – The Myths Of Shoplifting</a>
+* <a href="https://www.amon-hen.com/music/34658">Dream State (Dark Day)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/humor/34716">RiffTrax – The Myths Of Shoplifting</a>
 * <a href="https://www.amon-hen.com/food/34694">Mmmm, Real Mayonnaise</a>
 * <a href="https://www.amon-hen.com/television/8791">MST3K 0208 – Lost Continent</a>
 * <a href="https://www.amon-hen.com/politics/34698">Make America Healthy Again</a>
@@ -11,11 +12,11 @@
 * <a href="https://www.amon-hen.com/politics/34690">Very severe consequences</a>
 * <a href="https://www.amon-hen.com/movies/34672">The Amazing Transparent Man (1960)</a>
 * <a href="https://www.amon-hen.com/music/34616">Solitude</a>
-* <a href="https://www.amon-hen.com/politics/34682">Kennedy Center Honors</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/news/4039">Bruno Zuccala, who helped shape generations in drum corps, dies at 68</a>
 * <a href="https://www.drum-corps.net/news/4034">Drum Corps World – August 18, 2025</a>
 * <a href="https://www.drum-corps.net/history/3371">August 12, 2022</a>
 * <a href="https://www.drum-corps.net/scores/dci/4027">2025 DCI World Championship Finals</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/scores/dci/4014">2025 DCI World Championship Semifinals</a>
 * <a href="https://www.drum-corps.net/scores/dci/4010">2025 DCI All-Age Class Championships</a>
 * <a href="https://www.drum-corps.net/scores/dci/4007">2025 DCI World Championship Prelims</a>
-* <a href="https://www.drum-corps.net/brass/4003">Bluecoats 2025 Encore Performance</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>If it looks like a duck, and quacks like a duck, we have at least to consider the possibility that we have a small aquatic bird of the family anatidae on our hands.</em><br /> -- Douglas Adams</p>
+<p><em>If it keeps up, man will atrophy all his limbs but the push-button finger.</em><br /> -- Frank Lloyd Wright</p>
