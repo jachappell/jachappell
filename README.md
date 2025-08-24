@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/34658">Dream State (Dark Day)</a>
+* <a href="https://www.amon-hen.com/movies/34675">The Human Duplicators (1965)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/34658">Dream State (Dark Day)</a>
 * <a href="https://www.amon-hen.com/humor/34716">RiffTrax – The Myths Of Shoplifting</a>
 * <a href="https://www.amon-hen.com/food/34694">Mmmm, Real Mayonnaise</a>
 * <a href="https://www.amon-hen.com/television/8791">MST3K 0208 – Lost Continent</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/humor/32756">MST3K Short 1304 – Sleep For Health</a>
 * <a href="https://www.amon-hen.com/politics/34690">Very severe consequences</a>
 * <a href="https://www.amon-hen.com/movies/34672">The Amazing Transparent Man (1960)</a>
-* <a href="https://www.amon-hen.com/music/34616">Solitude</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>If it keeps up, man will atrophy all his limbs but the push-button finger.</em><br /> -- Frank Lloyd Wright</p>
+<p><em>Most people are bothered by those passages of Scripture they do not understand, but the passages that bother me are those I do understand.</em><br /> -- Mark Twain</p>
