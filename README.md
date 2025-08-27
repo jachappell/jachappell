@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/34701">Last Week Tonight – S2 E24: Sex Education, GOP debate & Whole Foods</a>
+* <a href="https://www.amon-hen.com/television/4242">MST3K 0209 – The Hellcats</a>
+* <a href="https://www.amon-hen.com/politics/34727">Mike Lindell & MyStore</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/34701">Last Week Tonight – S2 E24: Sex Education, GOP debate & Whole Foods</a>
 * <a href="https://www.amon-hen.com/television/32643">MST3K Short 1310 – Let’s Keep Food Safe to Eat</a>
 * <a href="https://www.amon-hen.com/movies/34675">The Human Duplicators (1965)</a>
 * <a href="https://www.amon-hen.com/music/34658">Dream State (Dark Day)</a>
 * <a href="https://www.amon-hen.com/humor/34716">RiffTrax – The Myths Of Shoplifting</a>
 * <a href="https://www.amon-hen.com/food/34694">Mmmm, Real Mayonnaise</a>
 * <a href="https://www.amon-hen.com/television/8791">MST3K 0208 – Lost Continent</a>
-* <a href="https://www.amon-hen.com/politics/34698">Make America Healthy Again</a>
-* <a href="https://www.amon-hen.com/humor/32756">MST3K Short 1304 – Sleep For Health</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I've had a perfectly wonderful evening.  But this wasn't it.</em><br /> -- Groucho Marx</p>
+<p><em>Someday I want to be rich. Some people get so rich they lose all respect for humanity. That's how rich I want to be.</em><br /> -- Rita Rudner</p>
