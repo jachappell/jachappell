@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/humor/34724">RiffTrax – With An All-Star Cast</a>
+* <a href="https://www.amon-hen.com/science/34721">Sean Carroll explains why physics is both simple and impossible</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/humor/34724">RiffTrax – With An All-Star Cast</a>
 * <a href="https://www.amon-hen.com/television/4242">MST3K 0209 – The Hellcats</a>
 * <a href="https://www.amon-hen.com/politics/34727">Mike Lindell & MyStore</a>
 * <a href="https://www.amon-hen.com/politics/34701">Last Week Tonight – S2 E24: Sex Education, GOP debate & Whole Foods</a>
@@ -11,11 +12,11 @@
 * <a href="https://www.amon-hen.com/movies/34675">The Human Duplicators (1965)</a>
 * <a href="https://www.amon-hen.com/music/34658">Dream State (Dark Day)</a>
 * <a href="https://www.amon-hen.com/humor/34716">RiffTrax – The Myths Of Shoplifting</a>
-* <a href="https://www.amon-hen.com/food/34694">Mmmm, Real Mayonnaise</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/news/4047">Drum Corps World – September 2025</a>
 * <a href="https://www.drum-corps.net/news/4039">Bruno Zuccala, who helped shape generations in drum corps, dies at 68</a>
 * <a href="https://www.drum-corps.net/news/4034">Drum Corps World – August 18, 2025</a>
 * <a href="https://www.drum-corps.net/history/3371">August 12, 2022</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/history/4017">Spirit of Atlanta 50th Anniversary Alumni Corps (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4014">2025 DCI World Championship Semifinals</a>
 * <a href="https://www.drum-corps.net/scores/dci/4010">2025 DCI All-Age Class Championships</a>
-* <a href="https://www.drum-corps.net/scores/dci/4007">2025 DCI World Championship Prelims</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I'll die if I miss </em>Scooby-Doo<em>.</em><br /> -- Neil Pye</p>
+<p><em>We've got a blind date with Destiny -- and it looks like she's ordered the lobster.</em><br /> -- The Shoveler</p>
