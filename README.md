@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/science/34721">Sean Carroll explains why physics is both simple and impossible</a>
+* <a href="https://www.amon-hen.com/music/34660">Motto</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/science/34721">Sean Carroll explains why physics is both simple and impossible</a>
 * <a href="https://www.amon-hen.com/humor/34724">RiffTrax – With An All-Star Cast</a>
 * <a href="https://www.amon-hen.com/television/4242">MST3K 0209 – The Hellcats</a>
 * <a href="https://www.amon-hen.com/politics/34727">Mike Lindell & MyStore</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/32643">MST3K Short 1310 – Let’s Keep Food Safe to Eat</a>
 * <a href="https://www.amon-hen.com/movies/34675">The Human Duplicators (1965)</a>
 * <a href="https://www.amon-hen.com/music/34658">Dream State (Dark Day)</a>
-* <a href="https://www.amon-hen.com/humor/34716">RiffTrax – The Myths Of Shoplifting</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>We've got a blind date with Destiny -- and it looks like she's ordered the lobster.</em><br /> -- The Shoveler</p>
+<p><em>A master drummer must have seven eyes.</em><br /> -- African proverb</p>
