@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/34575">O.K. Connery (1967)</a>
+* <a href="https://www.amon-hen.com/television/32649">MST3K Short 1312 – Better Breakfast, U.S.A.</a>
+* <a href="https://www.amon-hen.com/books/297">Reading: Vacuum Diagrams</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/34575">O.K. Connery (1967)</a>
 * <a href="https://www.amon-hen.com/music/34660">Motto</a>
 * <a href="https://www.amon-hen.com/science/34721">Sean Carroll explains why physics is both simple and impossible</a>
 * <a href="https://www.amon-hen.com/humor/34724">RiffTrax – With An All-Star Cast</a>
 * <a href="https://www.amon-hen.com/television/4242">MST3K 0209 – The Hellcats</a>
 * <a href="https://www.amon-hen.com/politics/34727">Mike Lindell & MyStore</a>
 * <a href="https://www.amon-hen.com/politics/34701">Last Week Tonight – S2 E24: Sex Education, GOP debate & Whole Foods</a>
-* <a href="https://www.amon-hen.com/television/32643">MST3K Short 1310 – Let’s Keep Food Safe to Eat</a>
-* <a href="https://www.amon-hen.com/movies/34675">The Human Duplicators (1965)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I used to think that cyberspace was fifty years away.  What I thought was fifty years away, was only ten years away.  And what I thought was ten years away... it was already here.  I just wasn't aware of it yet.</em><br /> -- Bruce Sterling</p>
+<p><em>Anybody who wants religion is welcome to it, as far as I'm concerned -- I support your right to enjoy it.  However, I would appreciate it if you exhibited more respect for the rights of those people who do not wish to share your dogma, rapture or necrodestination.</em><br /> -- Frank Zappa</p>
