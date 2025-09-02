@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/34703">Last Week Tonight – S2 E25: Televangelism & New Zealand’s Flag</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/32649">MST3K Short 1312 – Better Breakfast, U.S.A.</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Vacuum Diagrams</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/movies/34575">O.K. Connery (1967)</a>
 * <a href="https://www.amon-hen.com/music/34660">Motto</a>
 * <a href="https://www.amon-hen.com/science/34721">Sean Carroll explains why physics is both simple and impossible</a>
 * <a href="https://www.amon-hen.com/humor/34724">RiffTrax – With An All-Star Cast</a>
 * <a href="https://www.amon-hen.com/television/4242">MST3K 0209 – The Hellcats</a>
 * <a href="https://www.amon-hen.com/politics/34727">Mike Lindell & MyStore</a>
-* <a href="https://www.amon-hen.com/politics/34701">Last Week Tonight – S2 E24: Sex Education, GOP debate & Whole Foods</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Anybody who wants religion is welcome to it, as far as I'm concerned -- I support your right to enjoy it.  However, I would appreciate it if you exhibited more respect for the rights of those people who do not wish to share your dogma, rapture or necrodestination.</em><br /> -- Frank Zappa</p>
+<p><em>I come from a long line of fighters. My maternal grandfather was the toughest guy I ever knew. World War II veteran, killed 20 men, then spent the rest of the war in an Allied prison camp. My father battled blood pressure and obesity all his life. Different kind of fight.</em><br /> -- Dwight Kurt Schrute III</p>
