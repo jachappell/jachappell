@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/food/34582">Mmmm, Removed Benefits</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/8852">MST3K 0210 – King Dinosaur</a>
 * <a href="https://www.amon-hen.com/politics/34734">The Baileys</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/34703">Last Week Tonight – S2 E25: Televangelism & New Zealand’s Flag</a>
 * <a href="https://www.amon-hen.com/television/32649">MST3K Short 1312 – Better Breakfast, U.S.A.</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Vacuum Diagrams</a>
 * <a href="https://www.amon-hen.com/movies/34575">O.K. Connery (1967)</a>
 * <a href="https://www.amon-hen.com/music/34660">Motto</a>
 * <a href="https://www.amon-hen.com/science/34721">Sean Carroll explains why physics is both simple and impossible</a>
-* <a href="https://www.amon-hen.com/humor/34724">RiffTrax – With An All-Star Cast</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Work was impossible.  The geeks had broken my spirit.  They had done too many things wrong.  It was never like this for Mencken.  He lived like a Prussian gambler -- sweating worse than Bryan on some nights and drunker than Judas on others.  It was all a dehumanized nightmare...and these raddled cretins have the gall to complain about my deadlines.</em><br /> -- Hunter Thompson, "Bad Nerves in Fat City" (<em>Generation of Swine</em>)</p>
+<p><em>I remember when I was a kid I used to come home from Sunday School and my mother would get drunk and try to make pancakes.</em><br /> -- George Carlin</p>
