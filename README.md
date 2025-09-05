@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/34582">Mmmm, Removed Benefits</a>
+* <a href="https://www.amon-hen.com/humor/34705">The Mads – Tom Thumb in King Arthur’s Court</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/34582">Mmmm, Removed Benefits</a>
 * <a href="https://www.amon-hen.com/television/8852">MST3K 0210 – King Dinosaur</a>
 * <a href="https://www.amon-hen.com/politics/34734">The Baileys</a>
 * <a href="https://www.amon-hen.com/politics/34703">Last Week Tonight – S2 E25: Televangelism & New Zealand’s Flag</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/books/297">Reading: Vacuum Diagrams</a>
 * <a href="https://www.amon-hen.com/movies/34575">O.K. Connery (1967)</a>
 * <a href="https://www.amon-hen.com/music/34660">Motto</a>
-* <a href="https://www.amon-hen.com/science/34721">Sean Carroll explains why physics is both simple and impossible</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I remember when I was a kid I used to come home from Sunday School and my mother would get drunk and try to make pancakes.</em><br /> -- George Carlin</p>
+<p><em>If you live long enough, the venerability factor creeps in; first, you get accused of things you never did, and later, credited for virtues you never had.</em><br /> -- I. F. Stone</p>
