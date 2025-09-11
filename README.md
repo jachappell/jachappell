@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/8904">MST3K 0211 – First Spaceship on Venus</a>
+* <a href="https://www.amon-hen.com/food/34755">Mmmm, More Ground Bork</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/8904">MST3K 0211 – First Spaceship on Venus</a>
 * <a href="https://www.amon-hen.com/politics/34752">Trump vs. Higher Education</a>
 * <a href="https://www.amon-hen.com/politics/34746">These two depraved assholes would never pray</a>
 * <a href="https://www.amon-hen.com/humor/2988">MST3K Short – Assignment: Venezuela</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/music/34662">Television Love</a>
 * <a href="https://www.amon-hen.com/humor/34705">The Mads – Tom Thumb in King Arthur’s Court</a>
 * <a href="https://www.amon-hen.com/food/34582">Mmmm, Removed Benefits</a>
-* <a href="https://www.amon-hen.com/television/8852">MST3K 0210 – King Dinosaur</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Oh, well, of course, everything looks bad if you remember it.</em><br /> -- Homer J. Simpson</p>
+<p><em>Men are from Earth, women are from Earth.  Deal with it.</em><br /> -- George Carlin</p>
