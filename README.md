@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/music/34761">Bend The Clock</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/34775">Charlie Kirk</a>
 * <a href="https://www.amon-hen.com/politics/34770">Never Forget</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/food/34755">Mmmm, More Ground Bork</a>
 * <a href="https://www.amon-hen.com/television/8904">MST3K 0211 – First Spaceship on Venus</a>
 * <a href="https://www.amon-hen.com/politics/34752">Trump vs. Higher Education</a>
 * <a href="https://www.amon-hen.com/politics/34746">These two depraved assholes would never pray</a>
 * <a href="https://www.amon-hen.com/humor/2988">MST3K Short – Assignment: Venezuela</a>
 * <a href="https://www.amon-hen.com/movies/34579">The Starfighters (1964)</a>
-* <a href="https://www.amon-hen.com/music/34662">Television Love</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I think someone should have had the decency to tell me the luncheon was free.  To make someone run out with potato salad in his hand, pretending he's throwing up, is not what I call hospitality.</em><br /> -- Jack Handey</p>
+<p><em>A paranoid is someone who knows a little of what's going on.</em><br /> -- William S. Burroughs</p>
