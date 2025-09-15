@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/television/8892">MST3K Short 0102 – Radar Men from the Moon 1</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/34788">Charlie Kirk’s Legacy Deserves No Mourning</a>
 * <a href="https://www.amon-hen.com/movies/34785">Kitten with a Whip (1964)</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/34761">Bend The Clock</a>
 * <a href="https://www.amon-hen.com/politics/34775">Charlie Kirk</a>
 * <a href="https://www.amon-hen.com/politics/34770">Never Forget</a>
 * <a href="https://www.amon-hen.com/food/34755">Mmmm, More Ground Bork</a>
 * <a href="https://www.amon-hen.com/television/8904">MST3K 0211 – First Spaceship on Venus</a>
 * <a href="https://www.amon-hen.com/politics/34752">Trump vs. Higher Education</a>
-* <a href="https://www.amon-hen.com/politics/34746">These two depraved assholes would never pray</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Eternal suffering awaits all those who question God's infinite love.</em><br /> -- Bill Hicks</p>
+<p><em>Gods don't like people not doing much work. People who aren't busy all the time might start to think.</em><br /> -- Terry Pratchett (<em>Small Gods</em>)</p>
