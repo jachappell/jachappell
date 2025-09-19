@@ -2,6 +2,7 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/chappells-show/34804">SCANTS</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/food/34796">Mmmm, More Real Mayonnaise</a>
 * <a href="https://www.amon-hen.com/television/8947">MST3K 0212 – Godzilla vs. Megalon</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/movies/34785">Kitten with a Whip (1964)</a>
 * <a href="https://www.amon-hen.com/music/34761">Bend The Clock</a>
 * <a href="https://www.amon-hen.com/politics/34775">Charlie Kirk</a>
-* <a href="https://www.amon-hen.com/politics/34770">Never Forget</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
