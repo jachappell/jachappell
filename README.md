@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/chappells-show/34804">SCANTS</a>
+* <a href="https://www.amon-hen.com/science/34816">The science and research budget cuts happening now are wanton, senseless arson</a>
+* <a href="https://www.amon-hen.com/music/34806">The Big Sky</a>
+* <a href="https://www.amon-hen.com/weirdness/1025">Talk Like a Pirate Day</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/chappells-show/34804">SCANTS</a>
 * <a href="https://www.amon-hen.com/food/34796">Mmmm, More Real Mayonnaise</a>
 * <a href="https://www.amon-hen.com/television/8947">MST3K 0212 – Godzilla vs. Megalon</a>
 * <a href="https://www.amon-hen.com/politics/34780">Last Week Tonight – S2 E26: LGBT Discrimination, Church Update & Korea</a>
 * <a href="https://www.amon-hen.com/television/8892">MST3K Short 0102 – Radar Men from the Moon 1</a>
 * <a href="https://www.amon-hen.com/politics/34788">Charlie Kirk’s Legacy Deserves No Mourning</a>
-* <a href="https://www.amon-hen.com/movies/34785">Kitten with a Whip (1964)</a>
-* <a href="https://www.amon-hen.com/music/34761">Bend The Clock</a>
-* <a href="https://www.amon-hen.com/politics/34775">Charlie Kirk</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/news/4051">Drum Corps World – October 2025</a>
 * <a href="https://www.drum-corps.net/news/4047">Drum Corps World – September 2025</a>
 * <a href="https://www.drum-corps.net/news/4039">Bruno Zuccala, who helped shape generations in drum corps, dies at 68</a>
 * <a href="https://www.drum-corps.net/news/4034">Drum Corps World – August 18, 2025</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/scores/dci/4021">2025 DCI All-Age World Championship</a>
 * <a href="https://www.drum-corps.net/history/4017">Spirit of Atlanta 50th Anniversary Alumni Corps (2025)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4014">2025 DCI World Championship Semifinals</a>
-* <a href="https://www.drum-corps.net/scores/dci/4010">2025 DCI All-Age Class Championships</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The startling truth finally became apparent, and it was this: Numbers written on restaurant checks do not follow the same mathematical laws as numbers written on any other pieces of paper in any other parts of the Universe.  This single statement took the scientific world by storm.  So many mathematical conferences got held in such good restaurants that many of the finest minds of a generation died of obesity and heart failure, and the science of mathematics was put back by years.</em><br /> -- Douglas Adams</p>
+<p><em>The human mind is a dangerous plaything, boys.  When it's used for evil, watch out!  But when it's used for good, then things are much nicer.</em><br /> -- The Tick</p>
