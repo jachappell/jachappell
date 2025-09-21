@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/movies/34810">Racket Girls (1951)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/science/34816">The science and research budget cuts happening now are wanton, senseless arson</a>
 * <a href="https://www.amon-hen.com/music/34806">The Big Sky</a>
 * <a href="https://www.amon-hen.com/weirdness/1025">Talk Like a Pirate Day</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/chappells-show/34804">SCANTS</a>
 * <a href="https://www.amon-hen.com/food/34796">Mmmm, More Real Mayonnaise</a>
 * <a href="https://www.amon-hen.com/television/8947">MST3K 0212 – Godzilla vs. Megalon</a>
 * <a href="https://www.amon-hen.com/politics/34780">Last Week Tonight – S2 E26: LGBT Discrimination, Church Update & Korea</a>
 * <a href="https://www.amon-hen.com/television/8892">MST3K Short 0102 – Radar Men from the Moon 1</a>
-* <a href="https://www.amon-hen.com/politics/34788">Charlie Kirk’s Legacy Deserves No Mourning</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The human mind is a dangerous plaything, boys.  When it's used for evil, watch out!  But when it's used for good, then things are much nicer.</em><br /> -- The Tick</p>
+<p><em>In Paris they simply stared when I spoke to them in French; I never did succeed in making those idiots understand their language.</em><br /> -- Mark Twain</p>
