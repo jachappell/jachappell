@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/34822">Jimmy Kimmel & the FCC</a>
+* <a href="https://www.amon-hen.com/television/9001">MST3K 0213 – Godzilla vs. the Sea Monster</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/34822">Jimmy Kimmel & the FCC</a>
 * <a href="https://www.amon-hen.com/television/8940">MST3K Short 0103 – Radar Men from the Moon 2</a>
 * <a href="https://www.amon-hen.com/movies/34810">Racket Girls (1951)</a>
 * <a href="https://www.amon-hen.com/science/34816">The science and research budget cuts happening now are wanton, senseless arson</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/weirdness/1025">Talk Like a Pirate Day</a>
 * <a href="https://www.amon-hen.com/chappells-show/34804">SCANTS</a>
 * <a href="https://www.amon-hen.com/food/34796">Mmmm, More Real Mayonnaise</a>
-* <a href="https://www.amon-hen.com/television/8947">MST3K 0212 – Godzilla vs. Megalon</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I don't know what you could say about a day in which you have seen four beautiful sunsets.</em><br /> -- John Glenn</p>
+<p><em>You're not going crazy!  You're going sane in a crazy world!</em><br /> -- The Tick</p>
