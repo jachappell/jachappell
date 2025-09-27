@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/books/34830">The War on Science</a>
+* <a href="https://www.amon-hen.com/music/34835">Language Is a Virus</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/books/34830">The War on Science</a>
 * <a href="https://www.amon-hen.com/food/34825">Mmmm, U. S. Government Approved</a>
 * <a href="https://www.amon-hen.com/television/9001">MST3K 0213 – Godzilla vs. the Sea Monster</a>
 * <a href="https://www.amon-hen.com/politics/34822">Jimmy Kimmel & the FCC</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/movies/34810">Racket Girls (1951)</a>
 * <a href="https://www.amon-hen.com/science/34816">The science and research budget cuts happening now are wanton, senseless arson</a>
 * <a href="https://www.amon-hen.com/music/34806">The Big Sky</a>
-* <a href="https://www.amon-hen.com/weirdness/1025">Talk Like a Pirate Day</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>My mother didn't breast-feed me.  She said she liked me as a friend.</em><br /> -- Rodney Dangerfield</p>
+<p><em>That chill, my young non-friend, is probably the cold breath of the reaper breathing down your neck.</em><br /> -- Captain Hazel 'Hank' Murphy</p>
