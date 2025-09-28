@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/34835">Language Is a Virus</a>
+* <a href="https://www.amon-hen.com/politics/34842">Charlie Kirk didn’t go to college</a>
+* <a href="https://www.amon-hen.com/movies/34838">The Sword and the Dragon (1960)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/34835">Language Is a Virus</a>
 * <a href="https://www.amon-hen.com/books/34830">The War on Science</a>
 * <a href="https://www.amon-hen.com/food/34825">Mmmm, U. S. Government Approved</a>
 * <a href="https://www.amon-hen.com/television/9001">MST3K 0213 – Godzilla vs. the Sea Monster</a>
 * <a href="https://www.amon-hen.com/politics/34822">Jimmy Kimmel & the FCC</a>
 * <a href="https://www.amon-hen.com/television/8940">MST3K Short 0103 – Radar Men from the Moon 2</a>
 * <a href="https://www.amon-hen.com/movies/34810">Racket Girls (1951)</a>
-* <a href="https://www.amon-hen.com/science/34816">The science and research budget cuts happening now are wanton, senseless arson</a>
-* <a href="https://www.amon-hen.com/music/34806">The Big Sky</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/news/4060">Spartans approved for DCI World Class membership</a>
 * <a href="https://www.drum-corps.net/news/4051">Drum Corps World – October 2025</a>
 * <a href="https://www.drum-corps.net/news/4047">Drum Corps World – September 2025</a>
 * <a href="https://www.drum-corps.net/news/4039">Bruno Zuccala, who helped shape generations in drum corps, dies at 68</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/news/4024">2025 SoundSport International Music & Food Festival</a>
 * <a href="https://www.drum-corps.net/scores/dci/4021">2025 DCI All-Age World Championship</a>
 * <a href="https://www.drum-corps.net/history/4017">Spirit of Atlanta 50th Anniversary Alumni Corps (2025)</a>
-* <a href="https://www.drum-corps.net/scores/dci/4014">2025 DCI World Championship Semifinals</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>That chill, my young non-friend, is probably the cold breath of the reaper breathing down your neck.</em><br /> -- Captain Hazel 'Hank' Murphy</p>
+<p><em>Men freely believe that what they wish to desire.</em><br /> -- Julius Caesar</p>
