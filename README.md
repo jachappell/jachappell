@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/34871">Netanyahu</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/34863">Posting this for no particular reason…</a>
 * <a href="https://www.amon-hen.com/politics/34857">War Ravaged Portland</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: The Astonishing</a>
 * <a href="https://www.amon-hen.com/television/8988">MST3K Short 0105 – Radar Men from the Moon 3</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/34842">Charlie Kirk didn’t go to college</a>
 * <a href="https://www.amon-hen.com/movies/34838">The Sword and the Dragon (1960)</a>
 * <a href="https://www.amon-hen.com/music/34835">Language Is a Virus</a>
 * <a href="https://www.amon-hen.com/books/34830">The War on Science</a>
-* <a href="https://www.amon-hen.com/food/34825">Mmmm, U. S. Government Approved</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>A plumbing system is very much like your electrical system, except that instead of electricity, it has water, and instead of wires, it has pipes, and instead of radios and waffle irons, it has faucets and toilets.  So the truth is that your plumbing systems is nothing at all like your  electrical system, which is good, because electricity can kill you.</em><br /> -- Dave Barry</p>
+<p><em>The persistence of erroneous beliefs exacerbates the widespread anachronistic failure to recognize the urgent problems that face humanity on this planet.</em><br /> -- Murray Gell-Mann</p>
