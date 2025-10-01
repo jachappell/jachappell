@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/34871">Netanyahu</a>
+* <a href="https://www.amon-hen.com/television/9053">MST3K 0301 – Cave Dwellers</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/34871">Netanyahu</a>
 * <a href="https://www.amon-hen.com/politics/34863">Posting this for no particular reason…</a>
 * <a href="https://www.amon-hen.com/politics/34857">War Ravaged Portland</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: The Astonishing</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/34842">Charlie Kirk didn’t go to college</a>
 * <a href="https://www.amon-hen.com/movies/34838">The Sword and the Dragon (1960)</a>
 * <a href="https://www.amon-hen.com/music/34835">Language Is a Virus</a>
-* <a href="https://www.amon-hen.com/books/34830">The War on Science</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The persistence of erroneous beliefs exacerbates the widespread anachronistic failure to recognize the urgent problems that face humanity on this planet.</em><br /> -- Murray Gell-Mann</p>
+<p><em>Well, once again we find that clowning and anarchy don't mix.</em><br /> -- The Tick</p>
