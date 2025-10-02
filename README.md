@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/9053">MST3K 0301 – Cave Dwellers</a>
+* <a href="https://www.amon-hen.com/food/34874">Mmmm, Grated</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/9053">MST3K 0301 – Cave Dwellers</a>
 * <a href="https://www.amon-hen.com/politics/34871">Netanyahu</a>
 * <a href="https://www.amon-hen.com/politics/34863">Posting this for no particular reason…</a>
 * <a href="https://www.amon-hen.com/politics/34857">War Ravaged Portland</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/8988">MST3K Short 0105 – Radar Men from the Moon 3</a>
 * <a href="https://www.amon-hen.com/politics/34842">Charlie Kirk didn’t go to college</a>
 * <a href="https://www.amon-hen.com/movies/34838">The Sword and the Dragon (1960)</a>
-* <a href="https://www.amon-hen.com/music/34835">Language Is a Virus</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Well, once again we find that clowning and anarchy don't mix.</em><br /> -- The Tick</p>
+<p><em>I figure that if God actually does exist, He's big enough to understand an honest difference of opinion.</em><br /> -- Isaac Asimov</p>
