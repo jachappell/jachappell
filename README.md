@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/34884">Overture 1928 / Strange Déjà Vu</a>
+* <a href="https://www.amon-hen.com/religion/34890">Mount Hideaway Mysteries: Exes and Oh No’s (2018)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/34884">Overture 1928 / Strange Déjà Vu</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/34879">Marinas and Yacht Clubs</a>
 * <a href="https://www.amon-hen.com/food/34874">Mmmm, Grated</a>
 * <a href="https://www.amon-hen.com/television/9053">MST3K 0301 – Cave Dwellers</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/34863">Posting this for no particular reason…</a>
 * <a href="https://www.amon-hen.com/politics/34857">War Ravaged Portland</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: The Astonishing</a>
-* <a href="https://www.amon-hen.com/television/8988">MST3K Short 0105 – Radar Men from the Moon 3</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Never hurts to have a second set of prints on a gun.</em><br /> -- Nelson Muntz</p>
+<p><em>Everyone has a purpose in life. Perhaps yours is watching television.</em><br /> -- David Letterman</p>
