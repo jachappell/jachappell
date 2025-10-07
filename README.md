@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/9038">MST3K Short 0107 – Radar Men from the Moon 4</a>
+* <a href="https://www.amon-hen.com/politics/34894">Presidential Libraries</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/9038">MST3K Short 0107 – Radar Men from the Moon 4</a>
 * <a href="https://www.amon-hen.com/religion/34890">Mount Hideaway Mysteries: Exes and Oh No’s (2018)</a>
 * <a href="https://www.amon-hen.com/music/34884">Overture 1928 / Strange Déjà Vu</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/34879">Marinas and Yacht Clubs</a>
@@ -11,12 +12,11 @@
 * <a href="https://www.amon-hen.com/television/9053">MST3K 0301 – Cave Dwellers</a>
 * <a href="https://www.amon-hen.com/politics/34871">Netanyahu</a>
 * <a href="https://www.amon-hen.com/politics/34863">Posting this for no particular reason…</a>
-* <a href="https://www.amon-hen.com/politics/34857">War Ravaged Portland</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
-* <a href="https://www.drum-corps.net/news/4068">Yikes!</a>
+* <a href="https://www.drum-corps.net/news/4068">Phantom Regiment 2026 Alumni Corps – 620 Members</a>
 * <a href="https://www.drum-corps.net/news/4060">Spartans approved for DCI World Class membership</a>
 * <a href="https://www.drum-corps.net/news/4051">Drum Corps World – October 2025</a>
 * <a href="https://www.drum-corps.net/news/4047">Drum Corps World – September 2025</a>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Don't worry, son.  I'm sure he's up in heaven right now laughing it up with all the other celebrities: John Dilinger, Ty Cobb, Joseph Stalin.</em><br /> -- Homer J. Simpson</p>
+<p><em>There is nothing so absurd but some philosopher has said it.</em><br /> -- Cicero</p>
