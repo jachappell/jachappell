@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/3242">MST3K 0302 – Gamera</a>
+* <a href="https://www.amon-hen.com/food/34896">Mmmm, Potato Drink</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/3242">MST3K 0302 – Gamera</a>
 * <a href="https://www.amon-hen.com/politics/34894">Presidential Libraries</a>
 * <a href="https://www.amon-hen.com/television/9038">MST3K Short 0107 – Radar Men from the Moon 4</a>
 * <a href="https://www.amon-hen.com/religion/34890">Mount Hideaway Mysteries: Exes and Oh No’s (2018)</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/computing/internet/www/34879">Marinas and Yacht Clubs</a>
 * <a href="https://www.amon-hen.com/food/34874">Mmmm, Grated</a>
 * <a href="https://www.amon-hen.com/television/9053">MST3K 0301 – Cave Dwellers</a>
-* <a href="https://www.amon-hen.com/politics/34871">Netanyahu</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>My central memory of that time seems to hang on one or five or maybe forty nights -- or very early mornings -- when I left the Fillmore half-crazy and, instead of going home, aimed the big 650 Lightning across the Bay Bridge at a hundred miles an hour ... booming through the Treasure Island tunnel at the lights of Oakland and Berkeley and Richmond, not quite sure which turnoff to take when I got to the other end ... but being absolutely certain that no matter which way I went I would come to a place where people were just as high and wild as I was: no doubt at all about that.</em><br /> -- Hunter S. Thompson</p>
+<p><em>I can't understand why people are frightened of new ideas. I'm frightened of the old ones.</em><br /> -- John Cage</p>
