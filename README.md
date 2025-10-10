@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/34896">Mmmm, Potato Drink</a>
+* <a href="https://www.amon-hen.com/politics/34903">How it’s going</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/34896">Mmmm, Potato Drink</a>
 * <a href="https://www.amon-hen.com/television/3242">MST3K 0302 – Gamera</a>
 * <a href="https://www.amon-hen.com/politics/34894">Presidential Libraries</a>
 * <a href="https://www.amon-hen.com/television/9038">MST3K Short 0107 – Radar Men from the Moon 4</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/music/34884">Overture 1928 / Strange Déjà Vu</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/34879">Marinas and Yacht Clubs</a>
 * <a href="https://www.amon-hen.com/food/34874">Mmmm, Grated</a>
-* <a href="https://www.amon-hen.com/television/9053">MST3K 0301 – Cave Dwellers</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I can't understand why people are frightened of new ideas. I'm frightened of the old ones.</em><br /> -- John Cage</p>
+<p><em>We had it tough ... I had to get up at 9 o'clock at night, half an hour before I went to bed, eat a lump of dry poison, work 29 hours down mill, and when we came home our Dad would kill us, and dance about on our grave singing Halelleuia ...</em><br /> -- Monty Python</p>
