@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/34903">How it’s going</a>
+* <a href="https://www.amon-hen.com/music/34908">Are We Dreaming?</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/34903">How it’s going</a>
 * <a href="https://www.amon-hen.com/food/34896">Mmmm, Potato Drink</a>
 * <a href="https://www.amon-hen.com/television/3242">MST3K 0302 – Gamera</a>
 * <a href="https://www.amon-hen.com/politics/34894">Presidential Libraries</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/religion/34890">Mount Hideaway Mysteries: Exes and Oh No’s (2018)</a>
 * <a href="https://www.amon-hen.com/music/34884">Overture 1928 / Strange Déjà Vu</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/34879">Marinas and Yacht Clubs</a>
-* <a href="https://www.amon-hen.com/food/34874">Mmmm, Grated</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>We had it tough ... I had to get up at 9 o'clock at night, half an hour before I went to bed, eat a lump of dry poison, work 29 hours down mill, and when we came home our Dad would kill us, and dance about on our grave singing Halelleuia ...</em><br /> -- Monty Python</p>
+<p><em>Many people think that history is a dull subject. Dull? Is it "dull" that Jesse James once got bitten on the forehead by an ant, and at first it didn't seem like anything, but then the bite got worse and worse, so he went to a doctor in town, and the secretary told him to wait, so he sat down and waited, and waited, and waited, and waited, and then finally he got to see the doctor, and the doctor put some salve on it? You call that dull?</em><br /> -- Jack Handey</p>
