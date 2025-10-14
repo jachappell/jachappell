@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/34944">Bari Weiss</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/chappells-show/34924">Korea: 1989</a>
 * <a href="https://www.amon-hen.com/television/9111">MST3K Short 0107 – Radar Men from the Moon 5</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/religion/34888">Mount Hideaway Mysteries: Heartache and Homecoming (2022)</a>
 * <a href="https://www.amon-hen.com/music/34908">Are We Dreaming?</a>
 * <a href="https://www.amon-hen.com/politics/34903">How it’s going</a>
 * <a href="https://www.amon-hen.com/food/34896">Mmmm, Potato Drink</a>
 * <a href="https://www.amon-hen.com/television/3242">MST3K 0302 – Gamera</a>
 * <a href="https://www.amon-hen.com/politics/34894">Presidential Libraries</a>
-* <a href="https://www.amon-hen.com/television/9038">MST3K Short 0107 – Radar Men from the Moon 4</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Jazz is not dead...it just smells funny.</em><br /> -- Frank Zappa</p>
+<p><em>The History of every major Galactic Civilization tends to pass through three distinct and recognizable phases, those of Survival, Inquiry, and Sophistication, otherwise known as the How, Why, and Where phases.  For instance, the first phase is characterized by the question "How can we eat?" the second by "Why do we eat?" and the third by "Where shall we have lunch?".</em><br /> -- Douglas Adams (<em>The Hitchhiker's Guide to the Galaxy</em>)</p>
