@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/3750">MST3K 0303 – Pod People</a>
+* <a href="https://www.amon-hen.com/food/34949">Mmmm, Stupid Duck’s Egg</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/3750">MST3K 0303 – Pod People</a>
 * <a href="https://www.amon-hen.com/politics/34944">Bari Weiss</a>
 * <a href="https://www.amon-hen.com/chappells-show/34924">Korea: 1989</a>
 * <a href="https://www.amon-hen.com/television/9111">MST3K Short 0107 – Radar Men from the Moon 5</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/music/34908">Are We Dreaming?</a>
 * <a href="https://www.amon-hen.com/politics/34903">How it’s going</a>
 * <a href="https://www.amon-hen.com/food/34896">Mmmm, Potato Drink</a>
-* <a href="https://www.amon-hen.com/television/3242">MST3K 0302 – Gamera</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Anyone who beats their male or female slave with a rod must be punished if the slave dies as a direct result, but they are not to be punished if the slave recovers after a day or two, since the slave is their property.</em><br /> -- Exodus 21:20-21:21</p>
+<p><em>We could jam in Joe's garage,<br />we didn't have no dope or LSD,<br />but a coupl'o'quarts o'beer,<br />would fix it so the intonation,<br />would not offend your ear.</em><br /> -- Frank Zappa</p>
