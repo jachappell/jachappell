@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/television/9161">MST3K Short 0108 – Radar Men from the Moon 6</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/books/297">Reading – The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook</a>
 * <a href="https://www.amon-hen.com/movies/34886">Danger!! Death Ray (1967)</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/34982">They really think we’re fucking stupid</a>
 * <a href="https://www.amon-hen.com/music/34966">Barstool Warrior (Quarantième Live à Paris)</a>
 * <a href="https://www.amon-hen.com/politics/34968">Leaked Chat</a>
 * <a href="https://www.amon-hen.com/chappells-show/34956">Israel: 1993</a>
 * <a href="https://www.amon-hen.com/food/34949">Mmmm, Stupid Duck’s Egg</a>
 * <a href="https://www.amon-hen.com/television/3750">MST3K 0303 – Pod People</a>
-* <a href="https://www.amon-hen.com/politics/34944">Bari Weiss</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>There's nothing so tragic as seeing a family pulled apart by something as simple as a pack of wolves.</em><br /> -- Jack Handey</p>
+<p><em>You can only be young once. But you can always be immature.</em><br /> -- Dave Barry</p>
