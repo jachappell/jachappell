@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/34975">Last Week Tonight – S2 E27: Public Defenders, Church Shutdown & Queen Elizabeth</a>
+* <a href="https://www.amon-hen.com/television/9123">MST3K 0304 – Gamera vs. Barugon</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/34975">Last Week Tonight – S2 E27: Public Defenders, Church Shutdown & Queen Elizabeth</a>
 * <a href="https://www.amon-hen.com/television/9161">MST3K Short 0108 – Radar Men from the Moon 6</a>
 * <a href="https://www.amon-hen.com/books/297">Reading – The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook</a>
 * <a href="https://www.amon-hen.com/movies/34886">Danger!! Death Ray (1967)</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/music/34966">Barstool Warrior (Quarantième Live à Paris)</a>
 * <a href="https://www.amon-hen.com/politics/34968">Leaked Chat</a>
 * <a href="https://www.amon-hen.com/chappells-show/34956">Israel: 1993</a>
-* <a href="https://www.amon-hen.com/food/34949">Mmmm, Stupid Duck’s Egg</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>All science is either physics or stamp collecting.</em><br /> -- Ernest Rutherford</p>
+<p><em>In West Virginia I never stop for gas, because I'm afraid I'll be caught and made someone's mountain wife. And then I'll probably grow to like the guy and end up with ten scrawny, filthy kids named Shane who always ask, "Momma, how come you don't talk like us?"</em><br /> -- Kathleen Madigan</p>
