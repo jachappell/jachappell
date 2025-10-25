@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/35003">Air Bud Pt. II</a>
+* <a href="https://www.amon-hen.com/music/14240">A Change of Seasons</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/35003">Air Bud Pt. II</a>
 * <a href="https://www.amon-hen.com/food/34996">Mmmm, Creamed Herring Fillets</a>
 * <a href="https://www.amon-hen.com/television/9123">MST3K 0304 – Gamera vs. Barugon</a>
 * <a href="https://www.amon-hen.com/politics/34975">Last Week Tonight – S2 E27: Public Defenders, Church Shutdown & Queen Elizabeth</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/books/297">Reading – The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook</a>
 * <a href="https://www.amon-hen.com/movies/34886">Danger!! Death Ray (1967)</a>
 * <a href="https://www.amon-hen.com/politics/34982">They really think we’re fucking stupid</a>
-* <a href="https://www.amon-hen.com/music/34966">Barstool Warrior (Quarantième Live à Paris)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -30,7 +30,8 @@
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
 
-* <a href="https://www.storage-b.com/ai/1105">Not Even Close</a>
+* <a href="https://www.storage-b.com/jac/1131">Closer but still wrong</a>
+* <a href="https://www.storage-b.com/jac/1105">Not Even Close</a>
 * <a href="https://www.storage-b.com/math-numerical-analysis/1081">Crummy Code from Copilot</a>
 * <a href="https://www.storage-b.com/humor/1067">Meeting Driven Development</a>
 * <a href="https://www.storage-b.com/c/1057">CLion Is Now Free for Non-Commercial Use</a>
@@ -39,8 +40,7 @@
 * <a href="https://www.storage-b.com/ai/1048">What trillion-dollar problem is AI trying to solve?</a>
 * <a href="https://www.storage-b.com/math-numerical-analysis/1036">Hypot</a>
 * <a href="https://www.storage-b.com/c/1015">Uploading Consciousness</a>
-* <a href="https://www.storage-b.com/humor/1003">SCRUM: An Honest Ad</a>
 </details>
 
 # Quote of the Day
-<p><em>Isn't pomo really one big cover-up for for the failure of the French to write a truly interesting novel ever since a sports car ate Albert Camus?</em><br /> -- John Leonard</p>
+<p><em>Any man who afflicts the human race with ideas must be prepared to see them misunderstood.</em><br /> -- H.L. Mencken</p>
