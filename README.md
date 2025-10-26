@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/14240">A Change of Seasons</a>
+* <a href="https://www.amon-hen.com/movies/35010">The Unearthly (1957)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/14240">A Change of Seasons</a>
 * <a href="https://www.amon-hen.com/television/35003">Air Bud Pt. II</a>
 * <a href="https://www.amon-hen.com/food/34996">Mmmm, Creamed Herring Fillets</a>
 * <a href="https://www.amon-hen.com/television/9123">MST3K 0304 – Gamera vs. Barugon</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/9161">MST3K Short 0108 – Radar Men from the Moon 6</a>
 * <a href="https://www.amon-hen.com/books/297">Reading – The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final Voyage of Captain James Cook</a>
 * <a href="https://www.amon-hen.com/movies/34886">Danger!! Death Ray (1967)</a>
-* <a href="https://www.amon-hen.com/politics/34982">They really think we’re fucking stupid</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Any man who afflicts the human race with ideas must be prepared to see them misunderstood.</em><br /> -- H.L. Mencken</p>
+<p><em>Like all great theologies, Bill O'Reilly's can be boiled down to one sentence: there must be a God, because I don't know how things work.</em><br /> -- Stephen Colbert</p>
