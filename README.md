@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/television/16893">The Paul Lynde Halloween Special</a>
+* <a href="https://www.amon-hen.com/politics/35041">American Beef and Rice</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/9172">MST3K 0305 – Stranded in Space</a>
 * <a href="https://www.amon-hen.com/chappells-show/35043">Plotty McPlotface</a>
 * <a href="https://www.amon-hen.com/politics/35030">Python Software Foundation</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/drums-and-percussion/35026">Jack DeJohnette</a>
 * <a href="https://www.amon-hen.com/politics/35023">Medicare Advantage</a>
 * <a href="https://www.amon-hen.com/television/9222">MST3K Short 0109 – Radar Men from the Moon 7</a>
 * <a href="https://www.amon-hen.com/movies/35010">The Unearthly (1957)</a>
-* <a href="https://www.amon-hen.com/music/14240">A Change of Seasons</a>
-* <a href="https://www.amon-hen.com/television/35003">Air Bud Pt. II</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -28,4 +28,19 @@
 * <a href="https://www.drum-corps.net/scores/dci/4027">2025 DCI World Championship Finals</a>
 </details>
 
-<details>
+<details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
+
+* <a href="https://www.storage-b.com/jac/1131">Closer but still wrong</a>
+* <a href="https://www.storage-b.com/jac/1105">Not Even Close</a>
+* <a href="https://www.storage-b.com/math-numerical-analysis/1081">Crummy Code from Copilot</a>
+* <a href="https://www.storage-b.com/humor/1067">Meeting Driven Development</a>
+* <a href="https://www.storage-b.com/c/1057">CLion Is Now Free for Non-Commercial Use</a>
+* <a href="https://www.storage-b.com/humor/1052">Programmers Then and Now</a>
+* <a href="https://www.storage-b.com/c/1050">Strategies for Developing Safety-Critical Software in C++</a>
+* <a href="https://www.storage-b.com/ai/1048">What trillion-dollar problem is AI trying to solve?</a>
+* <a href="https://www.storage-b.com/math-numerical-analysis/1036">Hypot</a>
+* <a href="https://www.storage-b.com/c/1015">Uploading Consciousness</a>
+</details>
+
+# Quote of the Day
+<p><em>Don't go around saying the world owes you a living.  The world owes you nothing.  It was here first.</em><br /> -- Mark Twain</p>
