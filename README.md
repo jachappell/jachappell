@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/humor/28278">The Mads – Halloween Safety</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/16893">The Paul Lynde Halloween Special</a>
 * <a href="https://www.amon-hen.com/politics/35041">American Beef and Rice</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/9172">MST3K 0305 – Stranded in Space</a>
 * <a href="https://www.amon-hen.com/chappells-show/35043">Plotty McPlotface</a>
 * <a href="https://www.amon-hen.com/politics/35030">Python Software Foundation</a>
 * <a href="https://www.amon-hen.com/music/drums-and-percussion/35026">Jack DeJohnette</a>
 * <a href="https://www.amon-hen.com/politics/35023">Medicare Advantage</a>
 * <a href="https://www.amon-hen.com/television/9222">MST3K Short 0109 – Radar Men from the Moon 7</a>
-* <a href="https://www.amon-hen.com/movies/35010">The Unearthly (1957)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/news/4088">Mandarins Drum and Bugle Corps Announces Strategic Hiatus for 2026 Season</a>
 * <a href="https://www.drum-corps.net/news/4086">Drum Corps World – November 2025</a>
 * <a href="https://www.drum-corps.net/history/4078">Top 5 Allentown Scores</a>
 * <a href="https://www.drum-corps.net/news/4068">Phantom Regiment 2026 Alumni Corps – 620 Members</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/news/4039">Bruno Zuccala, who helped shape generations in drum corps, dies at 68</a>
 * <a href="https://www.drum-corps.net/news/4034">Drum Corps World – August 18, 2025</a>
 * <a href="https://www.drum-corps.net/history/3371">August 12, 2022</a>
-* <a href="https://www.drum-corps.net/scores/dci/4027">2025 DCI World Championship Finals</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Don't go around saying the world owes you a living.  The world owes you nothing.  It was here first.</em><br /> -- Mark Twain</p>
+<p><em>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ.</em><br /> -- Ephesians 6:5</p>
