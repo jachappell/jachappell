@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/books/35093">Temu Erik Larson</a>
+* <a href="https://www.amon-hen.com/movies/35077">Horrors of Spider Island (1960)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/35014">Ghostbusters</a>
 * <a href="https://www.amon-hen.com/cleveland/jcu/35087">45 Years Ago</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/humor/28278">The Mads – Halloween Safety</a>
 * <a href="https://www.amon-hen.com/television/16893">The Paul Lynde Halloween Special</a>
 * <a href="https://www.amon-hen.com/politics/35041">American Beef and Rice</a>
 * <a href="https://www.amon-hen.com/television/9172">MST3K 0305 – Stranded in Space</a>
 * <a href="https://www.amon-hen.com/chappells-show/35043">Plotty McPlotface</a>
-* <a href="https://www.amon-hen.com/politics/35030">Python Software Foundation</a>
-* <a href="https://www.amon-hen.com/music/drums-and-percussion/35026">Jack DeJohnette</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I think it's the duty of the comedian to find out where the line is drawn and cross it deliberately.</em><br /> -- George Carlin</p>
+<p><em>I'm just trying to make a smudge on the collective unconscious.</em><br /> -- David Letterman</p>
