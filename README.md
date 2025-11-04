@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/9258">MST3K Short 0109 – Radar Men from the Moon 8</a>
+* <a href="https://www.amon-hen.com/politics/35108">Police Chases</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/9258">MST3K Short 0109 – Radar Men from the Moon 8</a>
 * <a href="https://www.amon-hen.com/books/35093">Temu Erik Larson</a>
 * <a href="https://www.amon-hen.com/movies/35077">Horrors of Spider Island (1960)</a>
 * <a href="https://www.amon-hen.com/music/35014">Ghostbusters</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/humor/28278">The Mads – Halloween Safety</a>
 * <a href="https://www.amon-hen.com/television/16893">The Paul Lynde Halloween Special</a>
 * <a href="https://www.amon-hen.com/politics/35041">American Beef and Rice</a>
-* <a href="https://www.amon-hen.com/television/9172">MST3K 0305 – Stranded in Space</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Life, to me, is like a quiet forest pool, one that needs a direct hit from a big rock half-buried in the ground. You pull and you pull, but you can't get the rock out of the ground. So you give it a good kick, but you lose your balance and go skidding down the hill toward the pool. Then out comes a big Hawaiian man who was screwing his wife beside the pool because they thought it was real pretty. He tells you to get out of there, but you start faking it, like you're talking Hawaiian, and then he gets mad and chases you...</em><br /> -- Jack Handey</p>
+<p><em>...I don't think music turns people into social liabilities. Because you hear a lyric -- there's no medical proof that a person hearing a lyric is going to act out the lyric. There's also no medical proof that if you hear any collection of vowels and consonants, that the hearing of that collection is going to send you to Hell.</em><br /> -- Frank Zappa</p>
