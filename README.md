@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/35108">Police Chases</a>
+* <a href="https://www.amon-hen.com/television/3504">MST3K 0306 – Time of the Apes</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/35108">Police Chases</a>
 * <a href="https://www.amon-hen.com/television/9258">MST3K Short 0109 – Radar Men from the Moon 8</a>
 * <a href="https://www.amon-hen.com/books/35093">Temu Erik Larson</a>
 * <a href="https://www.amon-hen.com/movies/35077">Horrors of Spider Island (1960)</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/cleveland/jcu/35087">45 Years Ago</a>
 * <a href="https://www.amon-hen.com/humor/28278">The Mads – Halloween Safety</a>
 * <a href="https://www.amon-hen.com/television/16893">The Paul Lynde Halloween Special</a>
-* <a href="https://www.amon-hen.com/politics/35041">American Beef and Rice</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>...I don't think music turns people into social liabilities. Because you hear a lyric -- there's no medical proof that a person hearing a lyric is going to act out the lyric. There's also no medical proof that if you hear any collection of vowels and consonants, that the hearing of that collection is going to send you to Hell.</em><br /> -- Frank Zappa</p>
+<p><em>It ain't supposed to make sense; it's faith.  Faith is something that you believe that nobody in his right mind would believe.</em><br /> -- Archie Bunker</p>
