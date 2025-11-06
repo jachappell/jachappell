@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/3504">MST3K 0306 – Time of the Apes</a>
+* <a href="https://www.amon-hen.com/food/35032">Mmmm, Explosive Corn</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/3504">MST3K 0306 – Time of the Apes</a>
 * <a href="https://www.amon-hen.com/politics/35108">Police Chases</a>
 * <a href="https://www.amon-hen.com/television/9258">MST3K Short 0109 – Radar Men from the Moon 8</a>
 * <a href="https://www.amon-hen.com/books/35093">Temu Erik Larson</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/music/35014">Ghostbusters</a>
 * <a href="https://www.amon-hen.com/cleveland/jcu/35087">45 Years Ago</a>
 * <a href="https://www.amon-hen.com/humor/28278">The Mads – Halloween Safety</a>
-* <a href="https://www.amon-hen.com/television/16893">The Paul Lynde Halloween Special</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>It ain't supposed to make sense; it's faith.  Faith is something that you believe that nobody in his right mind would believe.</em><br /> -- Archie Bunker</p>
+<p><em>The first Great Steward, Parrafin the Climber, was employed in King Chloroplast's kitchen as second scullery boy when the old King met a tragic death.  He apparently fell backward by accident on a dozen salad forks.  Simultaneously the true heir, his son Carotene, mysteriously fled the city, complaining of some sort of plot and a lot of threatening notes left on his breakfast tray.  At the time, this looked suspicious what with his father's death, and Carotene was suspected of foul play.  Then the rest of the King's relatives began to drop dead one after the other in an odd fashion.  Some were found strangled with dishrags and some succumbed to food poisoning.  A few were found drowned in the soup vats, and one was attacked by assailants unknown and beaten to death with a pot roast.  At least three appear to have thrown themselves backward on salad forks, perhaps in a noble gesture of grief over the King's untimely end.  Finally there was no one left in Minas Troney who was either eligible or willing to wear the accursed crown, and the rule of Twodor was up for grabs.  The scullery slave Parrafin bravely accepted the Stewardship of Twodor until that day when a lineal descendant of Carotene's returns to reclaim his rightful throne, conquer Twodor's enemies, and revamp the postal system.</em><br /> -- Harvard Lampoon (<em>Bored of the Rings</em>)</p>
