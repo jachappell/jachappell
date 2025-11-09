@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/movies/35118">The Minis (2007)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/chappells-show/35131">The Plot Thickens</a>
 * <a href="https://www.amon-hen.com/music/35115">Fruit Bat</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Desolation Island</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/chappells-show/35110">My First Business Card</a>
 * <a href="https://www.amon-hen.com/food/35032">Mmmm, Explosive Corn</a>
 * <a href="https://www.amon-hen.com/television/3504">MST3K 0306 – Time of the Apes</a>
 * <a href="https://www.amon-hen.com/politics/35108">Police Chases</a>
 * <a href="https://www.amon-hen.com/television/9258">MST3K Short 0109 – Radar Men from the Moon 8</a>
-* <a href="https://www.amon-hen.com/books/35093">Temu Erik Larson</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>A man of genius makes no mistakes.  His errors are volitional and are the portals of discovery.</em><br /> -- James Joyce (<em>Ulysses</em>)</p>
+<p><em>If thine enemy wrong thee, buy each of his children a drum.</em><br /> -- African proverb</p>
