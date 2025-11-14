@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/35126">Mmmm, Damp Proof Salt</a>
+* <a href="https://www.amon-hen.com/science/35144">The Lone Genius Myth</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/35126">Mmmm, Damp Proof Salt</a>
 * <a href="https://www.amon-hen.com/television/6298">MST3K 0307 – Daddy-O</a>
 * <a href="https://www.amon-hen.com/music/2651">The Gales of November</a>
 * <a href="https://www.amon-hen.com/politics/35147">Felony Murder</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/movies/35118">The Minis (2007)</a>
 * <a href="https://www.amon-hen.com/chappells-show/35131">The Plot Thickens</a>
 * <a href="https://www.amon-hen.com/music/35115">Fruit Bat</a>
-* <a href="https://www.amon-hen.com/books/297">Reading: Desolation Island</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>If all else fails, immortality can always be assured by spectacular error.</em><br /> -- John Kenneth Galbraith</p>
+<p><em>When you look at yourself from a universal standpoint, something inside always reminds or informs you that there are bigger and better things to worry about.</em><br /> -- Albert Einstein</p>
