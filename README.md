@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/science/35144">The Lone Genius Myth</a>
+* <a href="https://www.amon-hen.com/music/35151">Night Terror (Live)</a>
+* <a href="https://www.amon-hen.com/politics/35160">Conspiracies</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/science/35144">The Lone Genius Myth</a>
 * <a href="https://www.amon-hen.com/food/35126">Mmmm, Damp Proof Salt</a>
 * <a href="https://www.amon-hen.com/television/6298">MST3K 0307 – Daddy-O</a>
 * <a href="https://www.amon-hen.com/music/2651">The Gales of November</a>
 * <a href="https://www.amon-hen.com/politics/35147">Felony Murder</a>
 * <a href="https://www.amon-hen.com/television/9299">MST3K Short 0110 – Radar Men from the Moon 9</a>
 * <a href="https://www.amon-hen.com/movies/35118">The Minis (2007)</a>
-* <a href="https://www.amon-hen.com/chappells-show/35131">The Plot Thickens</a>
-* <a href="https://www.amon-hen.com/music/35115">Fruit Bat</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -30,6 +30,7 @@
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
 
+* <a href="https://www.storage-b.com/jac/1139">CompTIA Security+ ce Certification</a>
 * <a href="https://www.storage-b.com/jac/1131">Closer but still wrong</a>
 * <a href="https://www.storage-b.com/jac/1105">Not Even Close</a>
 * <a href="https://www.storage-b.com/math-numerical-analysis/1081">Crummy Code from Copilot</a>
@@ -39,8 +40,7 @@
 * <a href="https://www.storage-b.com/c/1050">Strategies for Developing Safety-Critical Software in C++</a>
 * <a href="https://www.storage-b.com/ai/1048">What trillion-dollar problem is AI trying to solve?</a>
 * <a href="https://www.storage-b.com/math-numerical-analysis/1036">Hypot</a>
-* <a href="https://www.storage-b.com/c/1015">Uploading Consciousness</a>
 </details>
 
 # Quote of the Day
-<p><em>When you look at yourself from a universal standpoint, something inside always reminds or informs you that there are bigger and better things to worry about.</em><br /> -- Albert Einstein</p>
+<p><em>So you got the fax. So why didn't you add it to the rÃ©sumÃ©? What do you mean? Of course, martial arts training is relevant. Oh, excuse me, I know about a billion Asians that would beg to differ. Yeah, I get a little frustrated when I'm dealing with incompetence! Well, you know what? You can go to hell, too, and I will see you there burning. Fine. Oh, wait, so you'll let me know when you've made a decision?</em><br /> -- Dwight Kurt Schrute III</p>
