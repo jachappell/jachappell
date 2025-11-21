@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/35202">Mmmm, Salt</a>
+* <a href="https://www.amon-hen.com/politics/35212">RiffTrax – Duck And Cover</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/35202">Mmmm, Salt</a>
 * <a href="https://www.amon-hen.com/television/9230">MST3K 0308 – Gamera vs Gaos</a>
 * <a href="https://www.amon-hen.com/politics/35198">Public Media</a>
 * <a href="https://www.amon-hen.com/chappells-show/35171">KMTRI</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/chappells-show/35165">CompTIA Security+ ce Certification</a>
 * <a href="https://www.amon-hen.com/movies/35154">Ikarie XB-1 (1963)</a>
 * <a href="https://www.amon-hen.com/music/35151">Night Terror (Live)</a>
-* <a href="https://www.amon-hen.com/politics/35160">Conspiracies</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Only women shave beneath the neck.</em><br /> -- Ron Swanson</p>
+<p><em>May the forces of evil become confused on the way to your house.</em><br /> -- George Carlin</p>
