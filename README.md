@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/chappells-show/35239">More KMTRI</a>
+* <a href="https://www.amon-hen.com/movies/35219">Hamlet (1948)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/35214">The Gates Of Delirium (2023)</a>
 * <a href="https://www.amon-hen.com/science/35232">Imploded Real Good</a>
 * <a href="https://www.amon-hen.com/politics/35225">Dennis Hastert</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/35212">RiffTrax – Duck And Cover</a>
 * <a href="https://www.amon-hen.com/food/35202">Mmmm, Salt</a>
 * <a href="https://www.amon-hen.com/television/9230">MST3K 0308 – Gamera vs Gaos</a>
 * <a href="https://www.amon-hen.com/politics/35198">Public Media</a>
-* <a href="https://www.amon-hen.com/chappells-show/35171">KMTRI</a>
-* <a href="https://www.amon-hen.com/television/12906">MST3K Short 0203 – The Phantom Creeps 1</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The less I know about other people's affairs, the happier I am. I'm not interested in caring about people. I once worked with a guy for three years and never learned his name. Best friend I ever had. We still never talk sometimes.</em><br /> -- Ron Swanson</p>
+<p><em>Certainly, in the topsy-turvy world of heavy rock, having a good solid piece of wood in your hand is often useful.</em><br /> -- Ian Faith</p>
