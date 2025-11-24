@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/television/12945">MST3K Short 0205 – The Phantom Creeps 2</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/chappells-show/35239">More KMTRI</a>
 * <a href="https://www.amon-hen.com/movies/35219">Hamlet (1948)</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/35214">The Gates Of Delirium (2023)</a>
 * <a href="https://www.amon-hen.com/science/35232">Imploded Real Good</a>
 * <a href="https://www.amon-hen.com/politics/35225">Dennis Hastert</a>
 * <a href="https://www.amon-hen.com/politics/35212">RiffTrax – Duck And Cover</a>
 * <a href="https://www.amon-hen.com/food/35202">Mmmm, Salt</a>
 * <a href="https://www.amon-hen.com/television/9230">MST3K 0308 – Gamera vs Gaos</a>
-* <a href="https://www.amon-hen.com/politics/35198">Public Media</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/news/4097">Drum Corps World – December 2025</a>
 * <a href="https://www.drum-corps.net/news/4092">2026 Drum Corps International Tour Schedule</a>
 * <a href="https://www.drum-corps.net/news/4088">Mandarins Drum and Bugle Corps Announces Strategic Hiatus for 2026 Season</a>
 * <a href="https://www.drum-corps.net/news/4086">Drum Corps World – November 2025</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/news/4051">Drum Corps World – October 2025</a>
 * <a href="https://www.drum-corps.net/news/4047">Drum Corps World – September 2025</a>
 * <a href="https://www.drum-corps.net/news/4039">Bruno Zuccala, who helped shape generations in drum corps, dies at 68</a>
-* <a href="https://www.drum-corps.net/news/4034">Drum Corps World – August 18, 2025</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Certainly, in the topsy-turvy world of heavy rock, having a good solid piece of wood in your hand is often useful.</em><br /> -- Ian Faith</p>
+<p><em>The Web brings people together because no matter what kind of a twisted sexual mutant you happen to be, you've got millions of pals out there. Type in 'Find people that have sex with goats that are on fire' and the computer will say, 'Specify type of goat.'</em><br /> -- Richard Jeni</p>
