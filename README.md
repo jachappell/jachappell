@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/12945">MST3K Short 0205 – The Phantom Creeps 2</a>
+* <a href="https://www.amon-hen.com/television/35268">Air Bud Pt. III</a>
+* <a href="https://www.amon-hen.com/politics/35206">Last Week Tonight – S2 E28: Migrants & Refugees, the Pope & Volkswagen</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/12945">MST3K Short 0205 – The Phantom Creeps 2</a>
 * <a href="https://www.amon-hen.com/chappells-show/35239">More KMTRI</a>
 * <a href="https://www.amon-hen.com/movies/35219">Hamlet (1948)</a>
 * <a href="https://www.amon-hen.com/music/35214">The Gates Of Delirium (2023)</a>
 * <a href="https://www.amon-hen.com/science/35232">Imploded Real Good</a>
 * <a href="https://www.amon-hen.com/politics/35225">Dennis Hastert</a>
 * <a href="https://www.amon-hen.com/politics/35212">RiffTrax – Duck And Cover</a>
-* <a href="https://www.amon-hen.com/food/35202">Mmmm, Salt</a>
-* <a href="https://www.amon-hen.com/television/9230">MST3K 0308 – Gamera vs Gaos</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The Web brings people together because no matter what kind of a twisted sexual mutant you happen to be, you've got millions of pals out there. Type in 'Find people that have sex with goats that are on fire' and the computer will say, 'Specify type of goat.'</em><br /> -- Richard Jeni</p>
+<p><em>If life was fair, Elvis would be alive and all the impersonators would be dead.</em><br /> -- Johnny Carson</p>
