@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/food/2753">Butterballs of Doom</a>
+* <a href="https://www.amon-hen.com/politics/35283">Re-posting this for no particular reason…</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/12915">MST3K 0309 – The Amazing Colossal Man</a>
 * <a href="https://www.amon-hen.com/computing/35273">The next tech breakthrough</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/35268">Air Bud Pt. III</a>
 * <a href="https://www.amon-hen.com/politics/35206">Last Week Tonight – S2 E28: Migrants & Refugees, the Pope & Volkswagen</a>
 * <a href="https://www.amon-hen.com/television/12945">MST3K Short 0205 – The Phantom Creeps 2</a>
 * <a href="https://www.amon-hen.com/chappells-show/35239">More KMTRI</a>
 * <a href="https://www.amon-hen.com/movies/35219">Hamlet (1948)</a>
-* <a href="https://www.amon-hen.com/music/35214">The Gates Of Delirium (2023)</a>
-* <a href="https://www.amon-hen.com/science/35232">Imploded Real Good</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Fishing relaxes me. It's like yoga, except I still get to kill something.</em><br /> -- Ron Swanson</p>
+<p><em>I'm starting to suspect there's more than one tri-state area.</em><br /> -- Stephen Colbert</p>
