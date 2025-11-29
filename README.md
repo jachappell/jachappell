@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/music/35263">Money (Dream Theater)</a>
+* <a href="https://www.amon-hen.com/quotes/248">Happy Holidays</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/humor/35288">RiffTrax – Fun in Balloonland</a>
 * <a href="https://www.amon-hen.com/religion/35256">One Man Died for All</a>
 * <a href="https://www.amon-hen.com/humor/792">Happy Thanksgiving</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/food/2753">Butterballs of Doom</a>
 * <a href="https://www.amon-hen.com/politics/35283">Re-posting this for no particular reason…</a>
 * <a href="https://www.amon-hen.com/television/12915">MST3K 0309 – The Amazing Colossal Man</a>
 * <a href="https://www.amon-hen.com/computing/35273">The next tech breakthrough</a>
-* <a href="https://www.amon-hen.com/television/35268">Air Bud Pt. III</a>
-* <a href="https://www.amon-hen.com/politics/35206">Last Week Tonight – S2 E28: Migrants & Refugees, the Pope & Volkswagen</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em><strong>Sen. Danforth</strong>:  There is nothing on the face of the album which would notify you if the record has pornographics material or material glorifying violence?<br /> <strong>Tipper Gore</strong>:  No, there is nothing that would suggest that to me.<br /> <strong>Frank Zappa</strong>:  I would say that a buzz saw blade between the guy's legs on the album cover is good indication that it's not for little Johnny.</em><br /> -- The Senate Commerce Committee hearing on rock lyrics, from <em>The Village Voice</em>, 6 Oct 1985</p>
+<p><em>Mr. Pibb is a duplicate of Dr. Pepper, but it's a bullshit duplicate, because it didn't even get its degree.</em><br /> -- Mitch Hedberg</p>
