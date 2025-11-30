@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/movies/35280">Frankenstein (1910)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/35263">Money (Dream Theater)</a>
 * <a href="https://www.amon-hen.com/quotes/248">Happy Holidays</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/humor/35288">RiffTrax – Fun in Balloonland</a>
 * <a href="https://www.amon-hen.com/religion/35256">One Man Died for All</a>
 * <a href="https://www.amon-hen.com/humor/792">Happy Thanksgiving</a>
 * <a href="https://www.amon-hen.com/food/2753">Butterballs of Doom</a>
 * <a href="https://www.amon-hen.com/politics/35283">Re-posting this for no particular reason…</a>
 * <a href="https://www.amon-hen.com/television/12915">MST3K 0309 – The Amazing Colossal Man</a>
-* <a href="https://www.amon-hen.com/computing/35273">The next tech breakthrough</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Mr. Pibb is a duplicate of Dr. Pepper, but it's a bullshit duplicate, because it didn't even get its degree.</em><br /> -- Mitch Hedberg</p>
+<p><em>The universe is a big place, perhaps the biggest.</em><br /> -- Kilgore Trout</p>
