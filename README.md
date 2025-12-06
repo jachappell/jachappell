@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/music/35307">Chase The Clouds Away</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/humor/35334">RiffTrax – Night Before Christmas</a>
 * <a href="https://www.amon-hen.com/television/28367">RiffTrax – The Star Wars Holiday Special</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/food/35299">Mmmm, Fruit Rings</a>
 * <a href="https://www.amon-hen.com/television/35291">MST3K 1101 – Reptilicus</a>
 * <a href="https://www.amon-hen.com/politics/35332">When traveling this holiday season</a>
 * <a href="https://www.amon-hen.com/music/35315">David Byrne: Tiny Desk Concert</a>
 * <a href="https://www.amon-hen.com/politics/35209">Last Week Tonight – S2 E29: Mental Health, Russia & The UN</a>
 * <a href="https://www.amon-hen.com/humor/5023">Cyber Monday</a>
-* <a href="https://www.amon-hen.com/television/12987">MST3K Short 0206 – The Phantom Creeps 3</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Mmmm, sacrilicious.</em><br /> -- Homer J. Simpson</p>
+<p><em>We tune bacause we care.</em><br /> -- Stan Ridgway (<em>Tuff Sheds and Carrot Cake</em>)</p>
