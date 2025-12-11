@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/food/35340">Mmmm, Fruit Cake</a>
+* <a href="https://www.amon-hen.com/science/35364">If you hear someone saying cooling will be easier in space…</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/35294">MST3K 1102 – Cry Wilderness</a>
 * <a href="https://www.amon-hen.com/music/35322">NMIXX: Tiny Desk Korea</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/35217">Last Week Tonight – S2 E30: North Dakota, Syria & FIFA</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: The Fellowship of the Ring</a>
 * <a href="https://www.amon-hen.com/television/6290">MST3K Short 0210 – X Marks the Spot</a>
 * <a href="https://www.amon-hen.com/religion/1762">Alvistide</a>
 * <a href="https://www.amon-hen.com/politics/35348">TEMU Peace Prize</a>
-* <a href="https://www.amon-hen.com/movies/25362">A Christmas Carol (1910)</a>
-* <a href="https://www.amon-hen.com/music/35307">Chase The Clouds Away</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The more data I punch in this card, the lighter it becomes, and the lower the mailing cost.</em><br /> -- S. Kelly-Bootle (<em>The Devil's DP Dictionary</em>)</p>
+<p><em>The universe may have a purpose, but nothing we know suggests that, if so, this purpose has any similarity to ours.</em><br /> -- Bertrand Russell</p>
