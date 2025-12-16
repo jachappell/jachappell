@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/6272">MST3K Short 0307 – Alphabet Antics</a>
+* <a href="https://www.amon-hen.com/politics/35221">Last Week Tonight – S2 E31: Canadian Elections, Misquotes & Mexico</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/6272">MST3K Short 0307 – Alphabet Antics</a>
 * <a href="https://www.amon-hen.com/movies/25398">Scrooge (1935)</a>
 * <a href="https://www.amon-hen.com/music/17141">Easier Said Than Done</a>
 * <a href="https://www.amon-hen.com/politics/35378">There were better options</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/food/35340">Mmmm, Fruit Cake</a>
 * <a href="https://www.amon-hen.com/science/35364">If you hear someone saying cooling will be easier in space…</a>
 * <a href="https://www.amon-hen.com/television/35294">MST3K 1102 – Cry Wilderness</a>
-* <a href="https://www.amon-hen.com/music/35322">NMIXX: Tiny Desk Korea</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The two most beautiful words in the English language are "Cheque Enclosed."</em><br /> -- Dorothy Parker</p>
+<p><em>Well, I don't really think that the end can be assessed as of itself as being the end because what does the end feel like?  It's like saying when you try to extrapolate the end of the universe, you say, if the universe is indeed infinite, then how - what does that mean?  How far is all the way, and then if it stops, what's stopping it, and what's behind what's stopping it?  So, what's the end, you know, is my question to you.</em><br /> -- David St. Hubbins</p>
