@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/35389">MST3K 1113 – The Christmas That Almost Wasn’t</a>
+* <a href="https://www.amon-hen.com/music/15453">We Three Kings of Orient Are</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/35389">MST3K 1113 – The Christmas That Almost Wasn’t</a>
 * <a href="https://www.amon-hen.com/food/35360">Mmmm, More Fruit Cake</a>
 * <a href="https://www.amon-hen.com/television/5079">MST3K 0321 – Santa Claus Conquers the Martians</a>
 * <a href="https://www.amon-hen.com/music/35345">Anna Meredith: Tiny Desk Concert</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/6272">MST3K Short 0307 – Alphabet Antics</a>
 * <a href="https://www.amon-hen.com/movies/25398">Scrooge (1935)</a>
 * <a href="https://www.amon-hen.com/music/17141">Easier Said Than Done</a>
-* <a href="https://www.amon-hen.com/politics/35378">There were better options</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Risch's decision procedure for integration, not surprisingly, uses a recursion on the number and type of the extensions from the rational functions needed to represent the integrand.  Although the algorithm follows and critically depends upon the appropriate structure of the input, as in the case of multivariate factorization, we cannot claim that the algorithm is a natural one.  In fact, the creator of differential algebra, Ritt, committed suicide in the early 1950's, largely, it is claimed, because few paid attention to his work.  Probably he would have received more attention had he obtained the algorithm as well.</em><br /> -- Joel Moses, <em>Algorithms and Complexity</em>, ed. J.F. Traub</p>
+<p><em>The difference between a Miracle and a Fact is exactly the difference between a mermaid and a seal.</em><br /> -- Mark Twain</p>
