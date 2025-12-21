@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/15453">We Three Kings of Orient Are</a>
+* <a href="https://www.amon-hen.com/movies/25451">Scrooge (1951)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/15453">We Three Kings of Orient Are</a>
 * <a href="https://www.amon-hen.com/television/35389">MST3K 1113 – The Christmas That Almost Wasn’t</a>
 * <a href="https://www.amon-hen.com/food/35360">Mmmm, More Fruit Cake</a>
 * <a href="https://www.amon-hen.com/television/5079">MST3K 0321 – Santa Claus Conquers the Martians</a>
@@ -11,11 +12,11 @@
 * <a href="https://www.amon-hen.com/politics/35221">Last Week Tonight – S2 E31: Canadian Elections, Misquotes & Mexico</a>
 * <a href="https://www.amon-hen.com/television/6272">MST3K Short 0307 – Alphabet Antics</a>
 * <a href="https://www.amon-hen.com/movies/25398">Scrooge (1935)</a>
-* <a href="https://www.amon-hen.com/music/17141">Easier Said Than Done</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/news/4108">Drum Corps World – January 2026</a>
 * <a href="https://www.drum-corps.net/news/4104">Marching Music Downloads store to be retired after December 31, 2025</a>
 * <a href="https://www.drum-corps.net/news/4097">Drum Corps World – December 2025</a>
 * <a href="https://www.drum-corps.net/news/4092">2026 Drum Corps International Tour Schedule</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/news/4068">Phantom Regiment 2026 Alumni Corps – 620 Members</a>
 * <a href="https://www.drum-corps.net/news/4060">Spartans approved for DCI World Class membership</a>
 * <a href="https://www.drum-corps.net/news/4051">Drum Corps World – October 2025</a>
-* <a href="https://www.drum-corps.net/news/4047">Drum Corps World – September 2025</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The difference between a Miracle and a Fact is exactly the difference between a mermaid and a seal.</em><br /> -- Mark Twain</p>
+<p><em>If you ever teach a yodeling class, probably the hardest thing is to keep the students from just trying to yodel right off. You see, we build to that.</em><br /> -- Jack Handey</p>
