@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/25451">Scrooge (1951)</a>
+* <a href="https://www.amon-hen.com/television/9535">MST3K Short 0311 – Snow Thrills</a>
+* <a href="https://www.amon-hen.com/miscellaneous/1766">National Flashlight Day</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/25451">Scrooge (1951)</a>
 * <a href="https://www.amon-hen.com/music/15453">We Three Kings of Orient Are</a>
 * <a href="https://www.amon-hen.com/television/35389">MST3K 1113 – The Christmas That Almost Wasn’t</a>
 * <a href="https://www.amon-hen.com/food/35360">Mmmm, More Fruit Cake</a>
 * <a href="https://www.amon-hen.com/television/5079">MST3K 0321 – Santa Claus Conquers the Martians</a>
 * <a href="https://www.amon-hen.com/music/35345">Anna Meredith: Tiny Desk Concert</a>
 * <a href="https://www.amon-hen.com/politics/35221">Last Week Tonight – S2 E31: Canadian Elections, Misquotes & Mexico</a>
-* <a href="https://www.amon-hen.com/television/6272">MST3K Short 0307 – Alphabet Antics</a>
-* <a href="https://www.amon-hen.com/movies/25398">Scrooge (1935)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>If you ever teach a yodeling class, probably the hardest thing is to keep the students from just trying to yodel right off. You see, we build to that.</em><br /> -- Jack Handey</p>
+<p><em>He says gods like to see an atheist around. Gives them something to aim at.</em><br /> -- Terry Pratchett (<em>Small Gods</em>)</p>
