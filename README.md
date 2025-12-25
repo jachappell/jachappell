@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/food/35396">Mmmm, Mayonnaise gelatin mold garnished with genuine manger hay</a>
+* <a href="https://www.amon-hen.com/books/35435">Jólabókaflóð</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/5073">MST3K 0521 – Santa Claus</a>
 * <a href="https://www.amon-hen.com/science/35421">Worse than you think</a>
 * <a href="https://www.amon-hen.com/politics/35417">Shit for Brains Class Battleship</a>
 * <a href="https://www.amon-hen.com/religion/35414">Christmas Shoes</a>
 * <a href="https://www.amon-hen.com/music/35403">Sixpence None the Richer: Tiny Desk Concert</a>
 * <a href="https://www.amon-hen.com/humor/18780">Happy Festivus!</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/humor/5249">Festivus is Coming</a>
-* <a href="https://www.amon-hen.com/politics/35326">Last Week Tonight – S2 E32: Medicaid Gap, China & Syria</a>
-* <a href="https://www.amon-hen.com/television/9535">MST3K Short 0311 – Snow Thrills</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Like my parents, I have never been a regular church member or churchgoer.  It doesn't seem plausible to me that there is the kind of God who watches over human affairs, listens to prayers, and tries to guide people to follow His precepts -- there is just too much misery and cruelty for that.  On the other hand, I respect and envy the people who get inspiration from their religions.</em><br /> -- Benjamin Spock</p>
+<p><em>You don't appreciate a lot of stuff in school until you get older.  Little things, like being spanked every day by a middle aged woman -- stuff you pay good money for in later life.</em><br /> -- Emo Philips</p>
