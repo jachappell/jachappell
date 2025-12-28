@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/movies/35428">The Return (1980)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/35408">Land Of Make Believe (1995)</a>
 * <a href="https://www.amon-hen.com/politics/35447">Conservative Grievance Circuit</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/books/35441">Newtonian Swag: 2025</a>
 * <a href="https://www.amon-hen.com/television/29995">Kate Bush Christmas Special (1979)</a>
 * <a href="https://www.amon-hen.com/food/35396">Mmmm, Mayonnaise gelatin mold garnished with genuine manger hay</a>
 * <a href="https://www.amon-hen.com/books/35435">Jólabókaflóð</a>
 * <a href="https://www.amon-hen.com/television/5073">MST3K 0521 – Santa Claus</a>
 * <a href="https://www.amon-hen.com/science/35421">Worse than you think</a>
-* <a href="https://www.amon-hen.com/politics/35417">Shit for Brains Class Battleship</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Everywhere I go I'm asked if I think the university stifles writers.  My opinion is that they don't stifle enough of them.  There's many a bestseller that could have been prevented by a good teacher.</em><br /> -- Flannery O'Connor</p>
+<p><em>What's another word for </em>thesaurus<em>?</em><br /> -- Stephen Wright</p>
