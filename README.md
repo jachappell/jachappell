@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/television/35431">MSK3K 1103 – The Time Travelers</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: The Two Towers</a>
 * <a href="https://www.amon-hen.com/politics/35357">Last Week Tonight – S2 E33: Prisoner Re-entry, Bilal Chatman & UK Surveillance</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/7145">MST3K Short 0313 – Speech: Using Your Voice</a>
 * <a href="https://www.amon-hen.com/movies/35428">The Return (1980)</a>
 * <a href="https://www.amon-hen.com/music/35408">Land Of Make Believe (1995)</a>
 * <a href="https://www.amon-hen.com/politics/35447">Conservative Grievance Circuit</a>
 * <a href="https://www.amon-hen.com/books/35441">Newtonian Swag: 2025</a>
 * <a href="https://www.amon-hen.com/television/29995">Kate Bush Christmas Special (1979)</a>
-* <a href="https://www.amon-hen.com/food/35396">Mmmm, Mayonnaise gelatin mold garnished with genuine manger hay</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>My wife and I were happy for twenty years. Then we met.</em><br /> -- Rodney Dangerfield</p>
+<p><em>It may be that the old astrologers had the truth exactly reversed, when they believed that the stars controlled the destinies of men. The time may come when men control the destinies of stars.</em><br /> -- Arthur C. Clarke</p>
