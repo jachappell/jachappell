@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/movies/35464">Kronos (1957)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/35482">Cognitive Decline</a>
 * <a href="https://www.amon-hen.com/music/35462">Inca Roads</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/site-news/35475">Summary of 2025</a>
 * <a href="https://www.amon-hen.com/chappells-show/35394">2025: Yet Another Shitty Year in Review</a>
 * <a href="https://www.amon-hen.com/politics/35470">Melania</a>
 * <a href="https://www.amon-hen.com/politics/35468">Believe it or not, Donald Trump has been the President before</a>
 * <a href="https://www.amon-hen.com/cleveland/35454">Mmmm, Refugee Beans</a>
 * <a href="https://www.amon-hen.com/television/35431">MST3K 1103 – The Time Travelers</a>
-* <a href="https://www.amon-hen.com/books/297">Reading: The Two Towers</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I'm not a bad guy.  I work hard and I love my kids.  So why should I spend half my Sunday hearing about how I'm going to Hell?</em><br /> -- Homer J. Simpson</p>
+<p><em>My religion consists of a humble admiration of the illimitable superior spirit who reveals himself in the slight details we are able to perceive with our frail and feeble mind.</em><br /> -- Albert Einstein</p>
