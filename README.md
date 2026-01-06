@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/6520">MST3K Short 0315 – Aquatic Wizards</a>
+* <a href="https://www.amon-hen.com/politics/35491">We rule that Wendy’s now</a>
+* <a href="https://www.amon-hen.com/politics/35478">Last Week Tonight – S2 E34: Daily Fantasy Sports, France & India</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/6520">MST3K Short 0315 – Aquatic Wizards</a>
 * <a href="https://www.amon-hen.com/movies/35464">Kronos (1957)</a>
 * <a href="https://www.amon-hen.com/politics/35482">Cognitive Decline</a>
 * <a href="https://www.amon-hen.com/music/35462">Inca Roads</a>
 * <a href="https://www.amon-hen.com/site-news/35475">Summary of 2025</a>
 * <a href="https://www.amon-hen.com/chappells-show/35394">2025: Yet Another Shitty Year in Review</a>
 * <a href="https://www.amon-hen.com/politics/35470">Melania</a>
-* <a href="https://www.amon-hen.com/politics/35468">Believe it or not, Donald Trump has been the President before</a>
-* <a href="https://www.amon-hen.com/cleveland/35454">Mmmm, Refugee Beans</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>You see?  You see?  Your stupid minds!  Stupid!  Stupid!</em><br /> -- Eros (<em>Plan 9 from Outer Space</em>)</p>
+<p><em>If knowledge can create problems, it is not through ignorance that we can solve them.</em><br /> -- Isaac Asimov</p>
