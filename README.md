@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/35484">Mmmm, Sugar</a>
+* <a href="https://www.amon-hen.com/television/35502">RiffTrax – Leadfoot</a>
+* <a href="https://www.amon-hen.com/politics/35515">Shameless, twisted liars</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/35484">Mmmm, Sugar</a>
 * <a href="https://www.amon-hen.com/television/35480">MST3K 1104 – Avalanche</a>
 * <a href="https://www.amon-hen.com/politics/35494">Whatever happened to that guy?</a>
 * <a href="https://www.amon-hen.com/politics/35491">We rule that Wendy’s now</a>
 * <a href="https://www.amon-hen.com/politics/35478">Last Week Tonight – S2 E34: Daily Fantasy Sports, France & India</a>
 * <a href="https://www.amon-hen.com/television/6520">MST3K Short 0315 – Aquatic Wizards</a>
 * <a href="https://www.amon-hen.com/movies/35464">Kronos (1957)</a>
-* <a href="https://www.amon-hen.com/politics/35482">Cognitive Decline</a>
-* <a href="https://www.amon-hen.com/music/35462">Inca Roads</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I have a hobby.  I have the world's largest collection of sea shells.  I keep it scattered on beaches all over the world.  Maybe you've seen some of it.</em><br /> -- Stephen Wright</p>
+<p><em>The great nations have always acted like gangsters and the small nations like prostitutes.</em><br /> -- Stanley Kubrick</p>
