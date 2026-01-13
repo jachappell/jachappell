@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/35521">Last Week Tonight – S2 E35: Pennies, Paris & Finale</a>
+* <a href="https://www.amon-hen.com/books/297">Reading: The Lord of the Rings Illustrated</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/35535">Gullible, easily-misled dolts</a>
 * <a href="https://www.amon-hen.com/television/8481">MST3K Short 0317 – The Home Economics Story</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/35529">A Tale of Failure in Four Parts</a>
 * <a href="https://www.amon-hen.com/politics/34910">I never anticipated seeing this many videos of people being murdered</a>
 * <a href="https://www.amon-hen.com/movies/35497">Avalanche (1978)</a>
 * <a href="https://www.amon-hen.com/television/17252">Jolly Sluzzle Tag!</a>
 * <a href="https://www.amon-hen.com/music/35500">Once Upon a Love Time</a>
-* <a href="https://www.amon-hen.com/television/35502">RiffTrax – Leadfoot</a>
-* <a href="https://www.amon-hen.com/politics/35515">Shameless, twisted liars</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The new millennium sucks! What a disappointment!  What's the difference between the old millennium and the new millennium? Nothing!  It's the same load of crap with a "2" in the front. When I was a kid, I am old enough so that when I was a kid, I looked forward to the new millennium.  When I was young, I said, "I'm gonna live through a change! A massive change! Things are gonna be different! Things are gonna be great!"  Screwed again!  No flying cars!  No flying cars!</em><br /> -- Lewis Black</p>
+<p><em>Most rock journalism is people who can't write interviewing people who can't talk for people who can't read.</em><br /> -- Frank Zappa</p>
