@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/television/35540">MST3K 1105 – The Beast of Hollow Mountain</a>
+* <a href="https://www.amon-hen.com/politics/35552">That Dilbert Guy,  1957 –  2026</a>
+* <a href="https://www.amon-hen.com/politics/35550">ICE was created in 2003</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/35521">Last Week Tonight – S2 E35: Pennies, Paris & Finale</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: The Lord of the Rings Illustrated</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/35535">Gullible, easily-misled dolts</a>
 * <a href="https://www.amon-hen.com/television/8481">MST3K Short 0317 – The Home Economics Story</a>
 * <a href="https://www.amon-hen.com/politics/35529">A Tale of Failure in Four Parts</a>
 * <a href="https://www.amon-hen.com/politics/34910">I never anticipated seeing this many videos of people being murdered</a>
-* <a href="https://www.amon-hen.com/movies/35497">Avalanche (1978)</a>
-* <a href="https://www.amon-hen.com/television/17252">Jolly Sluzzle Tag!</a>
-* <a href="https://www.amon-hen.com/music/35500">Once Upon a Love Time</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Most rock journalism is people who can't write interviewing people who can't talk for people who can't read.</em><br /> -- Frank Zappa</p>
+<p><em>Strange women lying in ponds distributing swords is no basis for a system of government!  Supreme executive power is derived by a mandate from the masses, not from some farcical aquatic ceremony!</em><br /> -- Monty Python</p>
