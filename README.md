@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/food/35585">Mmmm, Instant Mashed Potatoes</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/35526">MST3K 1106 – Starcrash</a>
 * <a href="https://www.amon-hen.com/music/35589">Better Oblivion Community Center: Tiny Desk Concert</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/35572">Last Week Tonight – S3 E1: Voting, New Zealand & Antonin Scalia</a>
 * <a href="https://www.amon-hen.com/television/646">MST3K Short 0319 – Mr. B Natural</a>
 * <a href="https://www.amon-hen.com/politics/35581">Unique combination of evil and stupid</a>
 * <a href="https://www.amon-hen.com/politics/35579">If the governor were a football coach, he would be fired</a>
 * <a href="https://www.amon-hen.com/movies/35568">Attack of the Super Monsters (1982)</a>
 * <a href="https://www.amon-hen.com/music/35565">Fall Down</a>
-* <a href="https://www.amon-hen.com/television/34985">RiffTrax – A Magical Field Trip to the Denver Mint</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>"Creation science" has not entered the curriculum for a reason so simple and so basic that we often forget to mention it: because it is false, and because good teachers understand exactly why it is false.  What could be more destructive of that most fragile yet most precious commodity in our entire intellectual heritage -- good teaching -- than a bill forcing honorable teachers to sully their sacred trust by granting equal treatment to a doctrine not only known to be false, but calculated to undermine any general understanding of science as an enterprise?</em><br /> -- Stephen Jay Gould</p>
+<p><em>Never have I encountered such foul, mindless perversity!  Have you considered a career in the church?</em><br /> -- Bishop of Bath and Wells (<em>Blackadder II</em>)</p>
