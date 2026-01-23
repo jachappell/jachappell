@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/35585">Mmmm, Instant Mashed Potatoes</a>
+* <a href="https://www.amon-hen.com/science/35594">Pretending quantum mechanics makes sense</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/35585">Mmmm, Instant Mashed Potatoes</a>
 * <a href="https://www.amon-hen.com/television/35526">MST3K 1106 – Starcrash</a>
 * <a href="https://www.amon-hen.com/music/35589">Better Oblivion Community Center: Tiny Desk Concert</a>
 * <a href="https://www.amon-hen.com/politics/35572">Last Week Tonight – S3 E1: Voting, New Zealand & Antonin Scalia</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/35581">Unique combination of evil and stupid</a>
 * <a href="https://www.amon-hen.com/politics/35579">If the governor were a football coach, he would be fired</a>
 * <a href="https://www.amon-hen.com/movies/35568">Attack of the Super Monsters (1982)</a>
-* <a href="https://www.amon-hen.com/music/35565">Fall Down</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Never have I encountered such foul, mindless perversity!  Have you considered a career in the church?</em><br /> -- Bishop of Bath and Wells (<em>Blackadder II</em>)</p>
+<p><em>In the space of one hundred and seventy-six years the Mississippi has shortened itself two hundred and forty-two miles.  Therefore ... in the Old Silurian Period the Mississippi River was upward of one million three hundred thousand miles long ... seven hundred and forty-two years from now the Mississippi will be only a mile and three-quarters long.  ... There is something fascinating about science.  One gets such wholesome returns of conjecture out of such a trifling investment of fact.</em><br /> -- Mark Twain</p>
