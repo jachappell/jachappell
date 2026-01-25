@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/humor/35605">Charade (1963)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/1231">Hollow Years</a>
 * <a href="https://www.amon-hen.com/boats/15635">Happy Bounty Day!</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/science/35594">Pretending quantum mechanics makes sense</a>
 * <a href="https://www.amon-hen.com/food/35585">Mmmm, Instant Mashed Potatoes</a>
 * <a href="https://www.amon-hen.com/television/35526">MST3K 1106 – Starcrash</a>
 * <a href="https://www.amon-hen.com/music/35589">Better Oblivion Community Center: Tiny Desk Concert</a>
 * <a href="https://www.amon-hen.com/politics/35572">Last Week Tonight – S3 E1: Voting, New Zealand & Antonin Scalia</a>
 * <a href="https://www.amon-hen.com/television/646">MST3K Short 0319 – Mr. B Natural</a>
-* <a href="https://www.amon-hen.com/politics/35581">Unique combination of evil and stupid</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Facts are meaningless.  You can use facts to prove anything that's even remotely true.</em><br /> -- Homer J. Simpson</p>
+<p><em>If there is no wind, row.</em><br /> -- Polish proverb</p>
