@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/35609">Last Week Tonight – S3 E2: Abortion Laws, Donald Trump & the Supreme Court</a>
+* <a href="https://www.amon-hen.com/television/35612">MST3K 1107 – The Land that Time Forgot</a>
+* <a href="https://www.amon-hen.com/music/35632">The Lamb Lies Down on Broadway Illustrated</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/35609">Last Week Tonight – S3 E2: Abortion Laws, Donald Trump & the Supreme Court</a>
 * <a href="https://www.amon-hen.com/politics/35624">This country is in crisis because of its reckless and deranged leadership</a>
 * <a href="https://www.amon-hen.com/television/7405">MST3K Short 0320 – Appreciating Our Parents</a>
 * <a href="https://www.amon-hen.com/humor/35605">Charade (1963)</a>
 * <a href="https://www.amon-hen.com/music/1231">Hollow Years</a>
 * <a href="https://www.amon-hen.com/boats/15635">Happy Bounty Day!</a>
 * <a href="https://www.amon-hen.com/science/35594">Pretending quantum mechanics makes sense</a>
-* <a href="https://www.amon-hen.com/food/35585">Mmmm, Instant Mashed Potatoes</a>
-* <a href="https://www.amon-hen.com/television/35526">MST3K 1106 – Starcrash</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The Internet is the most powerful stupidity amplifier ever invented.  It's like television without the television part.</em><br /> -- James "Kibo" Perry</p>
+<p><em>Most people don't realize that large pieces of coral, which have been painted brown and attached to the skull by common wood screws, can make a child look like a deer.</em><br /> -- Jack Handey</p>
