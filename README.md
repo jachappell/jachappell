@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/music/35663">All I Want</a>
+* <a href="https://www.amon-hen.com/religion/35672">I will send you thoughts and prayers</a>
+* <a href="https://www.amon-hen.com/politics/35668">Premeditated Murder</a>
+* <a href="https://www.amon-hen.com/books/297">Reading – Metropolis Pt. 2: Scenes From a Memory</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/science/35656">Rubio is no Isaac Newton…</a>
 * <a href="https://www.amon-hen.com/humor/35649">RiffTrax – Meet Mrs. Swensen!</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/food/35618">Mmmm, Scandinavian Buffet Loaf</a>
 * <a href="https://www.amon-hen.com/television/35612">MST3K 1107 – The Land that Time Forgot</a>
 * <a href="https://www.amon-hen.com/music/35632">The Lamb Lies Down on Broadway Illustrated</a>
-* <a href="https://www.amon-hen.com/politics/35609">Last Week Tonight – S3 E2: Abortion Laws, Donald Trump & the Supreme Court</a>
-* <a href="https://www.amon-hen.com/politics/35624">This country is in crisis because of its reckless and deranged leadership</a>
-* <a href="https://www.amon-hen.com/television/7405">MST3K Short 0320 – Appreciating Our Parents</a>
-* <a href="https://www.amon-hen.com/humor/35605">Charade (1963)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I hope, when they die, cartoon characters have to answer for their sins.</em><br /> -- Jack Handey</p>
+<p><em>He who hasn't hacked assembly language as a youth has no heart.  He who does as an adult has no brain.</em><br /> -- John Moore</p>
