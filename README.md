@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/6108">MST3K Short 0320 – Posture Pals</a>
+* <a href="https://www.amon-hen.com/humor/35700">Mystery Science Theater 3000: The RiffTrax Experiments</a>
+* <a href="https://www.amon-hen.com/politics/35683">Last Week Tonight – S3 E3: Donald Trump, Egypt & Guantánamo Bay</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/6108">MST3K Short 0320 – Posture Pals</a>
 * <a href="https://www.amon-hen.com/politics/35690">Utterly pathetic and historically unprecedented</a>
 * <a href="https://www.amon-hen.com/movies/35616">The Land That Time Forgot (1974)</a>
 * <a href="https://www.amon-hen.com/music/35663">All I Want</a>
 * <a href="https://www.amon-hen.com/religion/35672">I will send you thoughts and prayers</a>
 * <a href="https://www.amon-hen.com/politics/35668">Premeditated Murder</a>
 * <a href="https://www.amon-hen.com/books/297">Reading – Metropolis Pt. 2: Scenes From a Memory</a>
-* <a href="https://www.amon-hen.com/science/35656">Rubio is no Isaac Newton…</a>
-* <a href="https://www.amon-hen.com/humor/35649">RiffTrax – Meet Mrs. Swensen!</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Listen, not a year goes by, not a year, that I don't hear about some escalator accident involving some bastard kid which could have easily been avoided had some parent - I don't care which one - but some parent conditioned him to fear and respect that escalator.</em><br /> -- Brodie Bruce</p>
+<p><em>Because all you of Earth are idiots!</em><br /> -- Eros (<em>Plan 9 from Outer Space</em>)</p>
