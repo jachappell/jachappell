@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/television/35688">MST3K 1108 – The Loves of Hercules</a>
+* <a href="https://www.amon-hen.com/politics/35696">National Trump Shit His Pants on National Television Day</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/humor/35700">Mystery Science Theater 3000: The RiffTrax Experiments</a>
 * <a href="https://www.amon-hen.com/politics/35683">Last Week Tonight – S3 E3: Donald Trump, Egypt & Guantánamo Bay</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/6108">MST3K Short 0320 – Posture Pals</a>
 * <a href="https://www.amon-hen.com/politics/35690">Utterly pathetic and historically unprecedented</a>
 * <a href="https://www.amon-hen.com/movies/35616">The Land That Time Forgot (1974)</a>
 * <a href="https://www.amon-hen.com/music/35663">All I Want</a>
 * <a href="https://www.amon-hen.com/religion/35672">I will send you thoughts and prayers</a>
-* <a href="https://www.amon-hen.com/politics/35668">Premeditated Murder</a>
-* <a href="https://www.amon-hen.com/books/297">Reading – Metropolis Pt. 2: Scenes From a Memory</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/news/4120">Drum Corps World – February 2026</a>
 * <a href="https://www.drum-corps.net/news/4116">Rhythm IN BLUE & JER Announce 2026 Creative Partnership</a>
 * <a href="https://www.drum-corps.net/news/4113">DCI All-Age Class moves to unified competitive format</a>
 * <a href="https://www.drum-corps.net/news/4108">Drum Corps World – January 2026</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/news/4088">Mandarins Drum and Bugle Corps Announces Strategic Hiatus for 2026 Season</a>
 * <a href="https://www.drum-corps.net/news/4086">Drum Corps World – November 2025</a>
 * <a href="https://www.drum-corps.net/history/4078">Top 5 Allentown Scores</a>
-* <a href="https://www.drum-corps.net/news/4068">Phantom Regiment 2026 Alumni Corps – 620 Members</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Because all you of Earth are idiots!</em><br /> -- Eros (<em>Plan 9 from Outer Space</em>)</p>
+<p><em>OK, but I don't want anyone thinking we're robosexuals.</em><br /> -- Bender Unit 22</p>
