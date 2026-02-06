@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/philosophy/35628">Except in the case of cheese</a>
+* <a href="https://www.amon-hen.com/humor/35711">RiffTrax – Appreciating Our Parents</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/philosophy/35628">Except in the case of cheese</a>
 * <a href="https://www.amon-hen.com/television/35688">MST3K 1108 – The Loves of Hercules</a>
 * <a href="https://www.amon-hen.com/politics/35696">National Trump Shit His Pants on National Television Day</a>
 * <a href="https://www.amon-hen.com/humor/35700">Mystery Science Theater 3000: The RiffTrax Experiments</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/6108">MST3K Short 0320 – Posture Pals</a>
 * <a href="https://www.amon-hen.com/politics/35690">Utterly pathetic and historically unprecedented</a>
 * <a href="https://www.amon-hen.com/movies/35616">The Land That Time Forgot (1974)</a>
-* <a href="https://www.amon-hen.com/music/35663">All I Want</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>On my death bed, my final wish is to have my ex-wives rushed to my side so I can use my dying breath to tell them both to go to Hell one last time. Would I get married again? Oh, absolutely. If you don't believe in love, what's the point of living?</em><br /> -- Ron Swanson</p>
+<p><em>Once he had one leg in the White House and the nation trembled under his roars.  Now he is a tinpot pope in the Coca-Cola belt and a brother to the forlorn pastors who belabor halfwits in galvanized iron tabernacles behind the railroad yards.</em><br /> -- H. L. Mencken, writing of William Jennings Bryan, counsel for the supporters of Tennessee's anti-evolution law at the Scopes "Monkey Trial" in 1925.</p>
