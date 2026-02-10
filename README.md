@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/35726">Last Week Tonight – S3 E4: Special Districts, 2016 Election & Texas Republicans</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/humor/35718">Superb Owl LX #SuperbOwl #SuperbOwlLX</a>
 * <a href="https://www.amon-hen.com/television/9714">MST3K Short 0406 – Undersea Kingdom 1</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/movies/35679">The Land that Time Forgot (2009)</a>
 * <a href="https://www.amon-hen.com/music/35713">Walk On The Ocean</a>
 * <a href="https://www.amon-hen.com/humor/35711">RiffTrax – Appreciating Our Parents</a>
 * <a href="https://www.amon-hen.com/philosophy/35628">Except in the case of cheese</a>
 * <a href="https://www.amon-hen.com/television/35688">MST3K 1108 – The Loves of Hercules</a>
 * <a href="https://www.amon-hen.com/politics/35696">National Trump Shit His Pants on National Television Day</a>
-* <a href="https://www.amon-hen.com/humor/35700">Mystery Science Theater 3000: The RiffTrax Experiments</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Turkey can never beat cow.</em><br /> -- Ron Swanson</p>
+<p><em>Once I got poison ivy on my brain and the only way I could scratch it was to think about sandpaper.</em><br /> -- Stephen Wright</p>
