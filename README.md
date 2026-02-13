@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/humor/35747">RiffTrax – Basketball is FUN!</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/food/35740">Mmmm, Roasted Sucking Pigeon</a>
 * <a href="https://www.amon-hen.com/science/35745">SpaceX Shifts Focus</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/35732">MST3K 1109 – Yongary</a>
 * <a href="https://www.amon-hen.com/television/35735">The Mads are back!</a>
 * <a href="https://www.amon-hen.com/politics/35726">Last Week Tonight – S3 E4: Special Districts, 2016 Election & Texas Republicans</a>
 * <a href="https://www.amon-hen.com/humor/35718">Superb Owl LX #SuperbOwl #SuperbOwlLX</a>
 * <a href="https://www.amon-hen.com/television/9714">MST3K Short 0406 – Undersea Kingdom 1</a>
 * <a href="https://www.amon-hen.com/movies/35679">The Land that Time Forgot (2009)</a>
-* <a href="https://www.amon-hen.com/music/35713">Walk On The Ocean</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Some men are born mediocre, some men achieve mediocrity, and some men have mediocrity thrust upon them.</em><br /> -- Joseph Heller (<em>Catch-22</em>)</p>
+<p><em>When I was a child, the other children in my neighborhood would taunt me, calling me "noodle-head" or "neo-Calvinist" So I would run after them, but lucky for them the chain would snap tight and pull me back.</em><br /> -- Emo Philips </p>
