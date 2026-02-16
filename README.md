@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/35768">Toilet Seat Cocaine</a>
+* <a href="https://www.amon-hen.com/television/7246">MST3K Short 0407 – Junior Rodeo Daredevils</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/religion/35752">Gramps Goes to College (2014)</a>
+* <a href="https://www.amon-hen.com/humor/871">Happy Valentine’s Day</a>
 * <a href="https://www.amon-hen.com/music/35750">Something’s Always Wrong</a>
 * <a href="https://www.amon-hen.com/science/35757">You can’t repeal a scientific finding</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/humor/35747">RiffTrax – Basketball is FUN!</a>
 * <a href="https://www.amon-hen.com/food/35740">Mmmm, Roasted Sucking Pigeon</a>
 * <a href="https://www.amon-hen.com/science/35745">SpaceX Shifts Focus</a>
-* <a href="https://www.amon-hen.com/television/35732">MST3K 1109 – Yongary</a>
-* <a href="https://www.amon-hen.com/television/35735">The Mads are back!</a>
-* <a href="https://www.amon-hen.com/politics/35726">Last Week Tonight – S3 E4: Special Districts, 2016 Election & Texas Republicans</a>
-* <a href="https://www.amon-hen.com/humor/35718">Superb Owl LX #SuperbOwl #SuperbOwlLX</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Any sufficiently advanced technology is indistinguishable from magic.</em><br /> -- Arthur C. Clarke</p>
+<p><em>Don't start an argument with somebody who has a microphone when you don't. They'll make you look like chopped liver.</em><br /> -- Harlan Ellison</p>
