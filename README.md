@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/35780">ICE & DHS</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/35768">Toilet Seat Cocaine</a>
 * <a href="https://www.amon-hen.com/television/7246">MST3K Short 0407 – Junior Rodeo Daredevils</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/religion/35752">Gramps Goes to College (2014)</a>
 * <a href="https://www.amon-hen.com/humor/871">Happy Valentine’s Day</a>
 * <a href="https://www.amon-hen.com/music/35750">Something’s Always Wrong</a>
 * <a href="https://www.amon-hen.com/science/35757">You can’t repeal a scientific finding</a>
 * <a href="https://www.amon-hen.com/humor/35747">RiffTrax – Basketball is FUN!</a>
 * <a href="https://www.amon-hen.com/food/35740">Mmmm, Roasted Sucking Pigeon</a>
-* <a href="https://www.amon-hen.com/science/35745">SpaceX Shifts Focus</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Don't start an argument with somebody who has a microphone when you don't. They'll make you look like chopped liver.</em><br /> -- Harlan Ellison</p>
+<p><em>There are two ways of constructing a software design.  One way is to make it so simple that there are obviously no deficiencies and the other is to make it so complicated that there are no obvious deficiencies.</em><br /> -- Charles Anthony Richard Hoare</p>
