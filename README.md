@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/science/35784">Can Science Explain Everything?</a>
+* <a href="https://www.amon-hen.com/music/35788">Animal</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/science/35784">Can Science Explain Everything?</a>
 * <a href="https://www.amon-hen.com/politics/35774">Beef Tallow Fries</a>
 * <a href="https://www.amon-hen.com/television/35765">MST3K 1110 –  Wizards of the Lost Kingdom</a>
 * <a href="https://www.amon-hen.com/politics/35780">ICE & DHS</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/7246">MST3K Short 0407 – Junior Rodeo Daredevils</a>
 * <a href="https://www.amon-hen.com/religion/35752">Gramps Goes to College (2014)</a>
 * <a href="https://www.amon-hen.com/humor/871">Happy Valentine’s Day</a>
-* <a href="https://www.amon-hen.com/music/35750">Something’s Always Wrong</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The music business is a cruel and shallow money trench, a long plastic hallway where thieves and pimps run free, and good men die like dogs.  There's also a negative side.</em><br /> -- Hunter S. Thompson</p>
+<p><em>Blow ye winds, like the trumpet blows, but without that noise.</em><br /> -- Jack Handey</p>
