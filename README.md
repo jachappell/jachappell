@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/television/9774">MST3K Short 0409 – Undersea Kingdom 2</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Project Hail Mary</a>
 * <a href="https://www.amon-hen.com/movies/35792">Married Too Young (1962)</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/35788">Animal</a>
 * <a href="https://www.amon-hen.com/science/35784">Can Science Explain Everything?</a>
 * <a href="https://www.amon-hen.com/politics/35774">Beef Tallow Fries</a>
 * <a href="https://www.amon-hen.com/television/35765">MST3K 1110 –  Wizards of the Lost Kingdom</a>
 * <a href="https://www.amon-hen.com/politics/35780">ICE & DHS</a>
 * <a href="https://www.amon-hen.com/politics/35768">Toilet Seat Cocaine</a>
-* <a href="https://www.amon-hen.com/television/7246">MST3K Short 0407 – Junior Rodeo Daredevils</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>These go to eleven.</em><br /> -- Nigel Tufnel</p>
+<p><em>A functioning police state needs no police.</em><br /> -- William S. Burroughs</p>
