@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/35808">Twitter</a>
+* <a href="https://www.amon-hen.com/television/35804">MST3K 1111 – Wizards of the Lost Kingdom II</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/35808">Twitter</a>
 * <a href="https://www.amon-hen.com/television/9774">MST3K Short 0409 – Undersea Kingdom 2</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Project Hail Mary</a>
 * <a href="https://www.amon-hen.com/movies/35792">Married Too Young (1962)</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/science/35784">Can Science Explain Everything?</a>
 * <a href="https://www.amon-hen.com/politics/35774">Beef Tallow Fries</a>
 * <a href="https://www.amon-hen.com/television/35765">MST3K 1110 –  Wizards of the Lost Kingdom</a>
-* <a href="https://www.amon-hen.com/politics/35780">ICE & DHS</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I gained nothing at all from Supreme Enlightenment, and for that very reason it is called Supreme Enlightenment.</em><br /> -- Gotama Buddha</p>
+<p><em>Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity.</em><br /> -- Charles Mingus</p>
