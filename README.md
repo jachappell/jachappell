@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/35804">MST3K 1111 – Wizards of the Lost Kingdom II</a>
+* <a href="https://www.amon-hen.com/food/35811">Mmmm, Abuse Machine</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/35804">MST3K 1111 – Wizards of the Lost Kingdom II</a>
 * <a href="https://www.amon-hen.com/politics/35808">Twitter</a>
 * <a href="https://www.amon-hen.com/television/9774">MST3K Short 0409 – Undersea Kingdom 2</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Project Hail Mary</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/music/35788">Animal</a>
 * <a href="https://www.amon-hen.com/science/35784">Can Science Explain Everything?</a>
 * <a href="https://www.amon-hen.com/politics/35774">Beef Tallow Fries</a>
-* <a href="https://www.amon-hen.com/television/35765">MST3K 1110 –  Wizards of the Lost Kingdom</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity.</em><br /> -- Charles Mingus</p>
+<p><em>... we must counterpose the overwhelming judgment provided by consistent observations and inferences by the thousands.  The earth is billions of years old and its living creatures are linked by ties of evolutionary descent.  Scientists stand accused of promoting dogma by so stating, but do we brand people illiberal when they proclaim that the earth is neither flat nor at the center of the universe?  Science *has* taught us some things with confidence!  Evolution on an ancient earth is as well established as our planet's shape and position.  Our continuing struggle to understand how evolution happens (the "theory of evolution") does not cast our documentation of its occurrence -- the "fact of evolution" -- into doubt.</em><br /> -- Stephen Jay Gould, "The Verdict on Creationism", <em>The Skeptical Inquirer</em>, Vol. XII No. 2.</p>
