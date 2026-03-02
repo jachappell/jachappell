@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/35847">The Creeping Terror (1964)</a>
+* <a href="https://www.amon-hen.com/television/8717">MST3K Short 0413 – General Hospital 1</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/35847">The Creeping Terror (1964)</a>
 * <a href="https://www.amon-hen.com/music/35816">The Bell Ringer</a>
 * <a href="https://www.amon-hen.com/politics/35849">Riley’s Law</a>
 * <a href="https://www.amon-hen.com/humor/28140">RiffTrax –  Shake Hands with Danger</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/35804">MST3K 1111 – Wizards of the Lost Kingdom II</a>
 * <a href="https://www.amon-hen.com/politics/35808">Twitter</a>
 * <a href="https://www.amon-hen.com/television/9774">MST3K Short 0409 – Undersea Kingdom 2</a>
-* <a href="https://www.amon-hen.com/books/297">Reading: Project Hail Mary</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>They say no man is an island. False! I am an island, and this island is volcanic, and it's about to erupt with the hot molten lava of strategy.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>There comes a time in the affairs of a man when he has to take the bull by the tail and face the situation.</em><br /> -- W. C. Fields</p>
