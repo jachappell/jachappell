@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/35910">The Wedding List</a>
+* <a href="https://www.amon-hen.com/books/297">Reading: Axiom’s End</a>
+* <a href="https://www.amon-hen.com/politics/35928">War with Iran</a>
+* <a href="https://www.amon-hen.com/movies/35914">Cry Wilderness (1987)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/35910">The Wedding List</a>
 * <a href="https://www.amon-hen.com/humor/35905">RiffTrax – An Airplane Trip By Jet</a>
 * <a href="https://www.amon-hen.com/food/35875">Only one person at a time</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/35892">March 4th</a>
-* <a href="https://www.amon-hen.com/books/297">Reading: Twenty Five Mystery Science Theater 3000 Films That Changed My Life In No Way Whatsoever</a>
+* <a href="https://www.amon-hen.com/books/5588">MST3K</a>
 * <a href="https://www.amon-hen.com/television/35858">MST3K 1112 –  Carnival Magic</a>
-* <a href="https://www.amon-hen.com/music/35872">Buddy Guy: Tiny Desk Concert</a>
-* <a href="https://www.amon-hen.com/politics/35866">Police Body Cameras</a>
-* <a href="https://www.amon-hen.com/television/8717">MST3K Short 0413 – General Hospital 1</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Better not take a dog on the space shuttle, because if he sticks his head out when you're coming home his face might burn up.</em><br /> -- Jack Handey</p>
+<p><em>It was I, you fools!  The man you trusted wasn't Wavy Gravy at all!  And all this time, I've been smoking harmless tobacco.</em><br /> -- Charles Montgomery Burns</p>
