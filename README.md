@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/35936">USAID</a>
+* <a href="https://www.amon-hen.com/television/35860">MST3K 1114 – At the Earth’s Core</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/35936">USAID</a>
 * <a href="https://www.amon-hen.com/cleveland/jcu/35939">April 29, 1971</a>
 * <a href="https://www.amon-hen.com/television/8781">MST3K Short 0415 – General Hospital 2</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Axiom’s End</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/movies/35914">Cry Wilderness (1987)</a>
 * <a href="https://www.amon-hen.com/music/35910">The Wedding List</a>
 * <a href="https://www.amon-hen.com/humor/35905">RiffTrax – An Airplane Trip By Jet</a>
-* <a href="https://www.amon-hen.com/food/35875">Only one person at a time</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The future is here.  It's just not widely distributed yet.</em><br /> -- William Gibson</p>
+<p><em>The only function of economic forecasting is to make astrology look respectable.</em><br /> -- John Kenneth Galbraith</p>
