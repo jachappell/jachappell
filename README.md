@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/chappells-show/35948">Star Technologies Graphicon 1700S</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/humor/35964">The Three Genders</a>
 * <a href="https://www.amon-hen.com/food/35920">Mmmm, Lay’s Classic Potato Chips</a>
 * <a href="https://www.amon-hen.com/politics/35945">When Empires Fall</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/35860">MST3K 1114 – At the Earth’s Core</a>
 * <a href="https://www.amon-hen.com/politics/35936">USAID</a>
 * <a href="https://www.amon-hen.com/cleveland/jcu/35939">April 29, 1971</a>
 * <a href="https://www.amon-hen.com/television/8781">MST3K Short 0415 – General Hospital 2</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Axiom’s End</a>
-* <a href="https://www.amon-hen.com/politics/35928">War with Iran</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I can win an argument on any topic, against any opponent. People know this, and steer clear of me at parties. Often, as a sign of their great respect, they don't even invite me.</em><br /> -- Dave Barry</p>
+<p><em>It is always easier to believe than to deny. Our minds are naturally affirmative.</em><br /> -- John Burroughs</p>
