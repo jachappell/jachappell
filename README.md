@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/35986">J.D. Vance</a>
+* <a href="https://www.amon-hen.com/television/35977">MST3K 1201 –  Mac and Me</a>
+* <a href="https://www.amon-hen.com/books/35990">Dune: Part Three Preview</a>
+* <a href="https://www.amon-hen.com/miscellaneous/9105">Saint Patrick’s Day</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/35986">J.D. Vance</a>
 * <a href="https://www.amon-hen.com/television/8838">MST3K Short 0417 – General Hospital 3</a>
 * <a href="https://www.amon-hen.com/science/6177">pi Day</a>
 * <a href="https://www.amon-hen.com/movies/35677">Caspero: The Return of the Storyteller (2015)</a>
 * <a href="https://www.amon-hen.com/music/1853">Knife and Fork</a>
 * <a href="https://www.amon-hen.com/chappells-show/35948">Star Technologies Graphicon 1700S</a>
-* <a href="https://www.amon-hen.com/humor/35964">The Three Genders</a>
-* <a href="https://www.amon-hen.com/food/35920">Mmmm, Lay’s Classic Potato Chips</a>
-* <a href="https://www.amon-hen.com/politics/35945">When Empires Fall</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I wanted to go to college, so I went to my dad and said, "Dad, can I have a hundred thousand dollars to go to college?" And he said, "Go ask your mother", so I went to her and said "Can I have a hundred thousand to go to college?" And she said, "Ask you father", so I went to him and said "Can I have a hundred thousand?" And he said "Ask your mother." And as I was going to my mother I tripped and hit my head on the coffee table, and my mother said "Fifteen-love, my serve again."</em><br /> -- Emo Philips </p>
+<p><em>When you're part of a team, you stand up for your teammates. Your loyalty is to them. You protect them through good and bad, because they'd do the same for you.</em><br /> -- Yogi Berra</p>
