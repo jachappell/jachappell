@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/science/35989">Another deeply worrisome trend</a>
+* <a href="https://www.amon-hen.com/politics/36023">Chuck Norris</a>
+* <a href="https://www.amon-hen.com/music/36006">99.9F°</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/science/35989">Another deeply worrisome trend</a>
 * <a href="https://www.amon-hen.com/cleveland/jcu/36019">March 18, 1972</a>
 * <a href="https://www.amon-hen.com/politics/36004">Let’s all hop on the asshole train!</a>
 * <a href="https://www.amon-hen.com/humor/35994">Rational Milk</a>
 * <a href="https://www.amon-hen.com/television/35977">MST3K 1201 –  Mac and Me</a>
 * <a href="https://www.amon-hen.com/books/35990">Dune: Part Three Preview</a>
 * <a href="https://www.amon-hen.com/miscellaneous/9105">Saint Patrick’s Day</a>
-* <a href="https://www.amon-hen.com/politics/35986">J.D. Vance</a>
-* <a href="https://www.amon-hen.com/television/8838">MST3K Short 0417 – General Hospital 3</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Too many of us look upon Americans as dollar chasers. This is a cruel libel, even if it is reiterated thoughtlessly by the Americans themselves.</em><br /> -- Albert Einstein</p>
+<p><em>It's such a fine line between stupid, and clever.</em><br /> -- David St. Hubbins</p>
