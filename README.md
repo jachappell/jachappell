@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/8596">MST3K Short 0419 – Johnny at the Fair</a>
+* <a href="https://www.amon-hen.com/politics/36033">Police Stings</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/8596">MST3K Short 0419 – Johnny at the Fair</a>
 * <a href="https://www.amon-hen.com/movies/36008">Robinson Crusoe on Mars (1964)</a>
 * <a href="https://www.amon-hen.com/politics/36023">Chuck Norris</a>
 * <a href="https://www.amon-hen.com/music/36006">99.9F°</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/cleveland/jcu/36019">March 18, 1972</a>
 * <a href="https://www.amon-hen.com/politics/36004">Let’s all hop on the asshole train!</a>
 * <a href="https://www.amon-hen.com/humor/35994">Rational Milk</a>
-* <a href="https://www.amon-hen.com/television/35977">MST3K 1201 –  Mac and Me</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>God's given me a gift.  I shovel well.  I shovel very well.</em><br /> -- The Shoveler</p>
+<p><em>Here's my card. It's got my cell number, my pager number, my home number and my other pager number. I never take vacations, I never get sick. And I don't celebrate any major holidays.</em><br /> -- Dwight Kurt Schrute III</p>
