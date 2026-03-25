@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/36033">Police Stings</a>
+* <a href="https://www.amon-hen.com/television/36028">MST3K 00K03 – Star Force: Fugitive Alien II</a>
+* <a href="https://www.amon-hen.com/humor/36035">We have no law to fit your crime</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/36033">Police Stings</a>
 * <a href="https://www.amon-hen.com/television/8596">MST3K Short 0419 – Johnny at the Fair</a>
 * <a href="https://www.amon-hen.com/movies/36008">Robinson Crusoe on Mars (1964)</a>
 * <a href="https://www.amon-hen.com/politics/36023">Chuck Norris</a>
 * <a href="https://www.amon-hen.com/music/36006">99.9F°</a>
 * <a href="https://www.amon-hen.com/science/35989">Another deeply worrisome trend</a>
 * <a href="https://www.amon-hen.com/cleveland/jcu/36019">March 18, 1972</a>
-* <a href="https://www.amon-hen.com/politics/36004">Let’s all hop on the asshole train!</a>
-* <a href="https://www.amon-hen.com/humor/35994">Rational Milk</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Here's my card. It's got my cell number, my pager number, my home number and my other pager number. I never take vacations, I never get sick. And I don't celebrate any major holidays.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>In ancient times, hundreds of years before the dawn of history, an ancient race of people... the Druids.  No one knows who they were or what they were doing...</em><br /> -- Nigel Tufnel</p>
