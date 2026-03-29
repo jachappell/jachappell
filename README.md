@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/36056">Cucamonga</a>
+* <a href="https://www.amon-hen.com/movies/36058">The Day Time Ended (1980)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/36056">Cucamonga</a>
 * <a href="https://www.amon-hen.com/books/36051">The work of his whole life is desecrated and turned into a bunch of IPs</a>
 * <a href="https://www.amon-hen.com/humor/36043">Five Guys</a>
 * <a href="https://www.amon-hen.com/television/36028">MST3K 00K03 – Star Force: Fugitive Alien II</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/36033">Police Stings</a>
 * <a href="https://www.amon-hen.com/television/8596">MST3K Short 0419 – Johnny at the Fair</a>
 * <a href="https://www.amon-hen.com/movies/36008">Robinson Crusoe on Mars (1964)</a>
-* <a href="https://www.amon-hen.com/politics/36023">Chuck Norris</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I can't stand cheap people. It makes me real mad when someone says something like, "Hey, when are you going to pay me that $100 you owe me?" or "Do you have that $50 you borrowed?" Man, quit being so cheap!</em><br /> -- Jack Handey</p>
+<p><em>It is common sense to take a method and try it.  If it fails, admit it frankly and try another.  But above all, try something.</em><br /> -- Franklin D. Roosevelt</p>
