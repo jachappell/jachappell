@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/36078">Viktor Orbán</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/9354">MST3K Short 0421 – Circus on Ice</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Truth of the Divine</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/movies/36058">The Day Time Ended (1980)</a>
 * <a href="https://www.amon-hen.com/music/36056">Cucamonga</a>
 * <a href="https://www.amon-hen.com/books/36051">The work of his whole life is desecrated and turned into a bunch of IPs</a>
 * <a href="https://www.amon-hen.com/humor/36043">Five Guys</a>
 * <a href="https://www.amon-hen.com/television/36028">MST3K 00K03 – Star Force: Fugitive Alien II</a>
 * <a href="https://www.amon-hen.com/humor/36035">We have no law to fit your crime</a>
-* <a href="https://www.amon-hen.com/politics/36033">Police Stings</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>A wise man proportions his belief to the evidence.</em><br /> -- David Hume</p>
+<p><em>Life... is like a grapefruit. It's orange and squishy, and has a few pips in it, and some folks have half a one for breakfast.</em><br /> -- Douglas Adams</p>
