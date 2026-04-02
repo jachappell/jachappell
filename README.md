@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/food/36081">Mmmm, Fried Spiral Potatose</a>
+* <a href="https://www.amon-hen.com/television/27390">March 32</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/35980">MST3K 1202 –  Atlantic Rim</a>
 * <a href="https://www.amon-hen.com/movies/36072">Cheaper Than Cheep</a>
 * <a href="https://www.amon-hen.com/television/25990">March 31</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/36078">Viktor Orbán</a>
 * <a href="https://www.amon-hen.com/television/9354">MST3K Short 0421 – Circus on Ice</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: Truth of the Divine</a>
 * <a href="https://www.amon-hen.com/movies/36058">The Day Time Ended (1980)</a>
-* <a href="https://www.amon-hen.com/music/36056">Cucamonga</a>
-* <a href="https://www.amon-hen.com/books/36051">The work of his whole life is desecrated and turned into a bunch of IPs</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Leave it to a girl to take the fun out of sex discrimination.</em><br /> -- Bill Watterson (<em>Calvin and Hobbes</em>)</p>
+<p><em>It was the Law of the Sea, they said.  Civilization ends at the waterline.  Beyond that, we all enter the food chain, and not always right at the top.</em><br /> -- Hunter S. Thompson</p>
