@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/music/36088">When We Are Singing</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/religion/36093">The Last Supper</a>
 * <a href="https://www.amon-hen.com/books/36108">AI is a useful tool for certain aspects of the craft</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/food/36081">Mmmm, Fried Spiral Potatose</a>
 * <a href="https://www.amon-hen.com/television/27390">March 32</a>
 * <a href="https://www.amon-hen.com/television/35980">MST3K 1202 –  Atlantic Rim</a>
 * <a href="https://www.amon-hen.com/movies/36072">Cheaper Than Cheep</a>
 * <a href="https://www.amon-hen.com/television/25990">March 31</a>
 * <a href="https://www.amon-hen.com/politics/36078">Viktor Orbán</a>
-* <a href="https://www.amon-hen.com/television/9354">MST3K Short 0421 – Circus on Ice</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Perhaps it is a peculiarity of mine that despite the fact that I am a professional performer, it is true that I have always preferred playing without an audience.</em><br /> -- Bill Evans</p>
+<p><em>The most happy marriage I can imagine to myself would be the union of a deaf man to a blind woman.</em><br /> -- Samuel Taylor Coleridge</p>
