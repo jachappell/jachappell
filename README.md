@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/36145">Trump posted this on Easter Sunday!</a>
+* <a href="https://www.amon-hen.com/television/6082">MST3K Short 0422 – Here Comes The Circus</a>
+* <a href="https://www.amon-hen.com/religion/6429">Easter</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/science/36118">It’s hard to imagine an external enemy causing more long-term damage to this country</a>
 * <a href="https://www.amon-hen.com/movies/36104">Yeti: Giant of the 20th Century (1977)</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/36088">When We Are Singing</a>
 * <a href="https://www.amon-hen.com/religion/36093">The Last Supper</a>
 * <a href="https://www.amon-hen.com/books/36108">AI is a useful tool for certain aspects of the craft</a>
 * <a href="https://www.amon-hen.com/food/36081">Mmmm, Fried Spiral Potatose</a>
-* <a href="https://www.amon-hen.com/television/27390">March 32</a>
-* <a href="https://www.amon-hen.com/television/35980">MST3K 1202 –  Atlantic Rim</a>
-* <a href="https://www.amon-hen.com/movies/36072">Cheaper Than Cheep</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>It has always been the prerogative of children and half-wits to point out that the emperor has no clothes. But the half-wit remains a half-wit, and the emperor remains an emperor.</em><br /> -- Neil Gaiman</p>
+<p><em>Religion supports nobody.  It has to be supported.  It produces no wheat, no corn; it ploughs no land; it fells no forests.  It is a perpetual mendicant. It lives on the labors of others, and then has the arrogance to pretend that it supports the giver.</em><br /> -- Robert G. Ingersoll</p>
