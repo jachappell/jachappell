@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/36150">Last Week Tonight – S3 E5: Encryption, Trump Rally & International Women’s Day</a>
+* <a href="https://www.amon-hen.com/television/36113">MST3K 1203 – Lords of the Deep</a>
+* <a href="https://www.amon-hen.com/music/36154">King Crimson In Concert – Live In Munich, 1982</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/36150">Last Week Tonight – S3 E5: Encryption, Trump Rally & International Women’s Day</a>
 * <a href="https://www.amon-hen.com/politics/36145">Trump posted this on Easter Sunday!</a>
 * <a href="https://www.amon-hen.com/television/6082">MST3K Short 0422 – Here Comes The Circus</a>
 * <a href="https://www.amon-hen.com/religion/6429">Easter</a>
 * <a href="https://www.amon-hen.com/science/36118">It’s hard to imagine an external enemy causing more long-term damage to this country</a>
 * <a href="https://www.amon-hen.com/movies/36104">Yeti: Giant of the 20th Century (1977)</a>
 * <a href="https://www.amon-hen.com/music/36088">When We Are Singing</a>
-* <a href="https://www.amon-hen.com/religion/36093">The Last Supper</a>
-* <a href="https://www.amon-hen.com/books/36108">AI is a useful tool for certain aspects of the craft</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>You know something, folks, as ridiculous as this sounds, I would rather feel the sweet breath of my beautiful wife on the back of my neck as I sleep than stuff dollar bills into some stranger's G-string.</em><br /> -- Homer J. Simpson</p>
+<p><em>Of all the tall tales, I think my favorite is the one about Eli Whitney and the interchangeable parts.</em><br /> -- Jack Handey</p>
