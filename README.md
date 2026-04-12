@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/movies/36171">Atlantic Rim (2013)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/36187">President Shit for Brains’ Monumental Arch</a>
 * <a href="https://www.amon-hen.com/music/36169">Wowie Zowie</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/36179">EFF is Leaving Twtter</a>
 * <a href="https://www.amon-hen.com/movies/34359">RiffTrax – Miami Connection</a>
 * <a href="https://www.amon-hen.com/cleveland/36098">Mmmm, Ground Round Hamburg™</a>
 * <a href="https://www.amon-hen.com/television/36113">MST3K 1203 – Lords of the Deep</a>
 * <a href="https://www.amon-hen.com/music/36154">King Crimson In Concert – Live In Munich, 1982</a>
 * <a href="https://www.amon-hen.com/politics/36150">Last Week Tonight – S3 E5: Encryption, Trump Rally & International Women’s Day</a>
-* <a href="https://www.amon-hen.com/politics/36145">Trump posted this on Easter Sunday!</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>In science, "fact" can only mean "confirmed to such a degree that it would be perverse to withhold provisional assent." I suppose that apples might start to rise tomorrow, but the possibility does not merit equal time in physics classrooms.</em><br /> -- Stephen J. Gould</p>
+<p><em>It is annoying to be honest to no purpose.</em><br /> -- Publius Ovidius Naso (Ovid)</p>
