@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/36202">Last Week Tonight –  S3 E6: Border Wall, Merrick Garland & Brazil</a>
+* <a href="https://www.amon-hen.com/television/36116">MST3K 1204 – The Day Time Ended</a>
+* <a href="https://www.amon-hen.com/music/36205">Mannequin Pussy: Tiny Desk Concert</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/36202">Last Week Tonight –  S3 E6: Border Wall, Merrick Garland & Brazil</a>
 * <a href="https://www.amon-hen.com/television/7070">MST3K Short 0423 – Hired! 1</a>
 * <a href="https://www.amon-hen.com/movies/36171">Atlantic Rim (2013)</a>
 * <a href="https://www.amon-hen.com/politics/36187">President Shit for Brains’ Monumental Arch</a>
 * <a href="https://www.amon-hen.com/music/36169">Wowie Zowie</a>
 * <a href="https://www.amon-hen.com/politics/36179">EFF is Leaving Twtter</a>
 * <a href="https://www.amon-hen.com/movies/34359">RiffTrax – Miami Connection</a>
-* <a href="https://www.amon-hen.com/cleveland/36098">Mmmm, Ground Round Hamburg™</a>
-* <a href="https://www.amon-hen.com/television/36113">MST3K 1203 – Lords of the Deep</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>OK, everyone: shut up! And look at me! Welcome to "Visions of Nature." This room has several paintings in it. Some are big, some are small. People did them and they're here now. I believe that after this is over, they'll be hung in government buildings. Why the government is involved in an art show is beyond me. I also think it's pointless for a human to paint scenes of nature when they could just go outside and stand in it. Anyway, please do not misinterpret the fact that I am talking right now as genuine interest in art and attempt to discuss it with me further. End of speech.</em><br /> -- Ron Swanson</p>
+<p><em>I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living. It's a way of looking at life through the wrong end of a telescope and that enables you to laugh at all of life's realities.</em><br /> -- Theodore Seuss Geisel</p>
