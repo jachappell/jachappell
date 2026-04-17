@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/television/36220">Do not taunt Happy Fun Ball</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/food/36207">Mmmm, Kellogg’s Frosted Flakes</a>
 * <a href="https://www.amon-hen.com/site-news/36216">7,000th Post</a>
 * <a href="https://www.amon-hen.com/quotes/325">Tax Day</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/36116">MST3K 1204 – The Day Time Ended</a>
 * <a href="https://www.amon-hen.com/music/36205">Mannequin Pussy: Tiny Desk Concert</a>
 * <a href="https://www.amon-hen.com/politics/36202">Last Week Tonight –  S3 E6: Border Wall, Merrick Garland & Brazil</a>
 * <a href="https://www.amon-hen.com/television/7070">MST3K Short 0423 – Hired! 1</a>
 * <a href="https://www.amon-hen.com/movies/36171">Atlantic Rim (2013)</a>
-* <a href="https://www.amon-hen.com/politics/36187">President Shit for Brains’ Monumental Arch</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>This perpetual motion machine she made is a joke: It just keeps going faster and faster.  Lisa, get in here! In this house, we obey the laws of THERMODYNAMICS!</em><br /> -- Homer J. Simpson</p>
+<p><em>You look like a woman who appreciates the finer things in life. Come over here and feel my velour bedspread.</em><br /> -- Captain Zapp Brannigan</p>
