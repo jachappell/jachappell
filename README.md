@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/36199">Ramble On (2026)</a>
+* <a href="https://www.amon-hen.com/movies/36194">Killer Fish (1979)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/36199">Ramble On (2026)</a>
 * <a href="https://www.amon-hen.com/television/36220">Do not taunt Happy Fun Ball</a>
 * <a href="https://www.amon-hen.com/food/36207">Mmmm, Kellogg’s Frosted Flakes</a>
 * <a href="https://www.amon-hen.com/site-news/36216">7,000th Post</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/36116">MST3K 1204 – The Day Time Ended</a>
 * <a href="https://www.amon-hen.com/music/36205">Mannequin Pussy: Tiny Desk Concert</a>
 * <a href="https://www.amon-hen.com/politics/36202">Last Week Tonight –  S3 E6: Border Wall, Merrick Garland & Brazil</a>
-* <a href="https://www.amon-hen.com/television/7070">MST3K Short 0423 – Hired! 1</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Then you have to say one or other of two things.  Either God only speaks to a very small percentage of mankind--which happens to include yourself--or He deliberately says things are not true in talking to the consciences of savages.</em><br /> -- Bertrand Russell </p>
+<p><em>Comedy is simply a funny way of being serious.</em><br /> -- Peter Ustinov</p>
