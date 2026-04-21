@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/12858">MST3K Short 0424 – Hired! 2</a>
+* <a href="https://www.amon-hen.com/politics/36263">Arc de Triomphe</a>
+* <a href="https://www.amon-hen.com/politics/36239">Prediction Markets</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/12858">MST3K Short 0424 – Hired! 2</a>
 * <a href="https://www.amon-hen.com/movies/36194">Killer Fish (1979)</a>
 * <a href="https://www.amon-hen.com/music/36199">Ramble On (2026)</a>
 * <a href="https://www.amon-hen.com/television/36220">Do not taunt Happy Fun Ball</a>
 * <a href="https://www.amon-hen.com/food/36207">Mmmm, Kellogg’s Frosted Flakes</a>
 * <a href="https://www.amon-hen.com/site-news/36216">7,000th Post</a>
 * <a href="https://www.amon-hen.com/quotes/325">Tax Day</a>
-* <a href="https://www.amon-hen.com/television/36116">MST3K 1204 – The Day Time Ended</a>
-* <a href="https://www.amon-hen.com/music/36205">Mannequin Pussy: Tiny Desk Concert</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>It all happened at the beginning of that turbulent decade known as the eighties.  Those were idealistic days: the candidacy of John Anderson, the rise of Supertramp.  It was an exciting time to be young.</em><br /> -- Homer J. Simpson</p>
+<p><em>Sometimes when you look in his eyes you get the feeling that someone else is driving.</em><br /> -- David Letterman</p>
