@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/food/36265">Mmmm, Irregular Bread</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/36120">MST3K 1205 – Killer Fish</a>
 * <a href="https://www.amon-hen.com/music/36242">Suzanne Vega: Tiny Desk Concert</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/36263">Arc de Triomphe</a>
 * <a href="https://www.amon-hen.com/politics/36239">Prediction Markets</a>
 * <a href="https://www.amon-hen.com/television/12858">MST3K Short 0424 – Hired! 2</a>
 * <a href="https://www.amon-hen.com/movies/36194">Killer Fish (1979)</a>
 * <a href="https://www.amon-hen.com/music/36199">Ramble On (2026)</a>
 * <a href="https://www.amon-hen.com/television/36220">Do not taunt Happy Fun Ball</a>
-* <a href="https://www.amon-hen.com/food/36207">Mmmm, Kellogg’s Frosted Flakes</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>And, isn't sanity really just a one-trick pony anyway?  I mean all you get is one trick, rational thinking, but when you're good and crazy, oooh, oooh, oooh, the sky is the limit!</em><br /> -- The Tick</p>
+<p><em>The basic tool for the manipulation of reality is the manipulation of words. If you can control the meaning of words, you can control the people who must use the words.</em><br /> -- Philip K. Dick</p>
