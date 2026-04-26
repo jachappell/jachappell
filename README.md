@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/36272">Village of the Sun</a>
+* <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36361">Selections from the Bluecoats’ 2026 Repertoire</a>
+* <a href="https://www.amon-hen.com/movies/36274">Ator, the Fighting Eagle (1982)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/36272">Village of the Sun</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36256">1979 Drum Corps Fiesta</a>
 * <a href="https://www.amon-hen.com/food/36265">Mmmm, Irregular Bread</a>
 * <a href="https://www.amon-hen.com/television/36120">MST3K 1205 – Killer Fish</a>
 * <a href="https://www.amon-hen.com/music/36242">Suzanne Vega: Tiny Desk Concert</a>
 * <a href="https://www.amon-hen.com/politics/36263">Arc de Triomphe</a>
 * <a href="https://www.amon-hen.com/politics/36239">Prediction Markets</a>
-* <a href="https://www.amon-hen.com/television/12858">MST3K Short 0424 – Hired! 2</a>
-* <a href="https://www.amon-hen.com/movies/36194">Killer Fish (1979)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Saliva causes cancer, but only if swallowed in small amounts over a long period of time.</em><br /> -- George Carlin</p>
+<p><em>Diamonds on velvets on goldens on vixen<br />On comet &amp; cupid on donner &amp; blitzen<br />On up &amp; away &amp; afar &amp; a go-go<br />Escape from the weight of your corporate logo!</em><br /> -- Frank Zappa</p>
