@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/36385">AI Chatbots</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/cleveland/jcu/36369">John Carroll University wide receiver Tyren Montgomery signed with the Tennessee Titans</a>
 * <a href="https://www.amon-hen.com/television/6024">MST3K Short 0503 – What to Do on a Date</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/cleveland/jcu/36375">April 25, 1980</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36361">Selections from the Bluecoats’ 2026 Repertoire</a>
 * <a href="https://www.amon-hen.com/movies/36274">Ator, the Fighting Eagle (1982)</a>
 * <a href="https://www.amon-hen.com/music/36272">Village of the Sun</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36256">1979 Drum Corps Fiesta</a>
 * <a href="https://www.amon-hen.com/food/36265">Mmmm, Irregular Bread</a>
-* <a href="https://www.amon-hen.com/television/36120">MST3K 1205 – Killer Fish</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened.  Happiness never decreases by being shared.</em><br /> -- Siddhartha Gautama</p>
+<p><em>I signed with the Milwaukee Braves for three-thousand dollars.  That bothered my dad at the time because he didn't have that kind of dough.  But he eventually scraped it up.</em><br /> -- Bob Uecker</p>
