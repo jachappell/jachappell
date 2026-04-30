@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/36234">MST3K 1206 – Ator, the Fighting Eagle</a>
+* <a href="https://www.amon-hen.com/food/36380">Mmmm, Unlicked Happiness</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/36234">MST3K 1206 – Ator, the Fighting Eagle</a>
 * <a href="https://www.amon-hen.com/politics/36385">AI Chatbots</a>
 * <a href="https://www.amon-hen.com/cleveland/jcu/36369">John Carroll University wide receiver Tyren Montgomery signed with the Tennessee Titans</a>
 * <a href="https://www.amon-hen.com/television/6024">MST3K Short 0503 – What to Do on a Date</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36361">Selections from the Bluecoats’ 2026 Repertoire</a>
 * <a href="https://www.amon-hen.com/movies/36274">Ator, the Fighting Eagle (1982)</a>
 * <a href="https://www.amon-hen.com/music/36272">Village of the Sun</a>
-* <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36256">1979 Drum Corps Fiesta</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Well, ya see, Norm, it's like this. A herd of buffalo can only move as fast as the slowest buffalo. And when the herd is hunted, it is the slowest and weakest ones at the back that are killed first. This natural selection is good for the herd as a whole because the general speed and health of the group keeps improving by the regular killing of the weakest members.<br /><br />In much the same way, the human brain can only operate as fast as the slowest brain cells. Excessive intake of alcohol, as we know, kills brain cells. But naturally, it attacks the slowest and weakest brain cells first. In this way, regular consumption of beer eliminates the weaker brain cells, making the brain a faster and more efficient machine. That's why you always feel smarter after a few beers.</em><br /> -- Clifford C. Clavin Jr.</p>
+<p><em>Anybody who watches three games of football in a row should be declared brain dead.</em><br /> -- Erma Bombeck</p>
