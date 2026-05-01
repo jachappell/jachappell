@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/36380">Mmmm, Unlicked Happiness</a>
+* <a href="https://www.amon-hen.com/politics/36393">Erika Kirk</a>
+* <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36343">2002 DCI World Championships – Division I Semifinals</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/36380">Mmmm, Unlicked Happiness</a>
 * <a href="https://www.amon-hen.com/television/36234">MST3K 1206 – Ator, the Fighting Eagle</a>
 * <a href="https://www.amon-hen.com/politics/36385">AI Chatbots</a>
 * <a href="https://www.amon-hen.com/cleveland/jcu/36369">John Carroll University wide receiver Tyren Montgomery signed with the Tennessee Titans</a>
 * <a href="https://www.amon-hen.com/television/6024">MST3K Short 0503 – What to Do on a Date</a>
 * <a href="https://www.amon-hen.com/cleveland/jcu/36375">April 25, 1980</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36361">Selections from the Bluecoats’ 2026 Repertoire</a>
-* <a href="https://www.amon-hen.com/movies/36274">Ator, the Fighting Eagle (1982)</a>
-* <a href="https://www.amon-hen.com/music/36272">Village of the Sun</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Anybody who watches three games of football in a row should be declared brain dead.</em><br /> -- Erma Bombeck</p>
+<p><em>It is better to deserve honors and not have them than to have them and not to deserve them.</em><br /> -- Mark Twain</p>
