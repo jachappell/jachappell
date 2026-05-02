@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/music/36365">Children Of Sanchez (1995)</a>
+* <a href="https://www.amon-hen.com/humor/16088">First of May</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/36393">Erika Kirk</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36343">2002 DCI World Championships – Division I Semifinals</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/food/36380">Mmmm, Unlicked Happiness</a>
 * <a href="https://www.amon-hen.com/television/36234">MST3K 1206 – Ator, the Fighting Eagle</a>
 * <a href="https://www.amon-hen.com/politics/36385">AI Chatbots</a>
 * <a href="https://www.amon-hen.com/cleveland/jcu/36369">John Carroll University wide receiver Tyren Montgomery signed with the Tennessee Titans</a>
 * <a href="https://www.amon-hen.com/television/6024">MST3K Short 0503 – What to Do on a Date</a>
-* <a href="https://www.amon-hen.com/cleveland/jcu/36375">April 25, 1980</a>
-* <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36361">Selections from the Bluecoats’ 2026 Repertoire</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -30,6 +30,7 @@
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
 
+* <a href="https://www.storage-b.com/retrocomputing/1175">2,000 shaded polygons at 30 Hz</a>
 * <a href="https://www.storage-b.com/ai/1152">Blue Doats</a>
 * <a href="https://www.storage-b.com/ai/1147">Bostoo Yook Yarters</a>
 * <a href="https://www.storage-b.com/jac/1139">CompTIA Security+ ce Certification</a>
@@ -39,8 +40,7 @@
 * <a href="https://www.storage-b.com/humor/1067">Meeting Driven Development</a>
 * <a href="https://www.storage-b.com/c/1057">CLion Is Now Free for Non-Commercial Use</a>
 * <a href="https://www.storage-b.com/humor/1052">Programmers Then and Now</a>
-* <a href="https://www.storage-b.com/c/1050">Strategies for Developing Safety-Critical Software in C++</a>
 </details>
 
 # Quote of the Day
-<p><em>It is better to deserve honors and not have them than to have them and not to deserve them.</em><br /> -- Mark Twain</p>
+<p><em>When you die, if you get a choice between going to regular heaven or pie heaven, choose pie heaven.  It might be a trick, but if it's not, ummmm, boy.</em><br /> -- Jack Handey</p>
