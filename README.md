@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/36410">Gas Station Drugs</a>
+* <a href="https://www.amon-hen.com/television/36401">MST3K 1301 – Santo in the Treasure of Dracula</a>
+* <a href="https://www.amon-hen.com/humor/6560">Cinco De Mayo</a>
+* <a href="https://www.amon-hen.com/books/297">Reading: Apostles of Mercy</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/36410">Gas Station Drugs</a>
 * <a href="https://www.amon-hen.com/television/6061">MST3K Short 0507 – The Truck Farmer</a>
 * <a href="https://www.amon-hen.com/movies/36388">The Screaming Skull (1958)</a>
 * <a href="https://www.amon-hen.com/music/36365">Children Of Sanchez (1995)</a>
 * <a href="https://www.amon-hen.com/humor/16088">First of May</a>
 * <a href="https://www.amon-hen.com/politics/36393">Erika Kirk</a>
-* <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36343">2002 DCI World Championships – Division I Semifinals</a>
-* <a href="https://www.amon-hen.com/food/36380">Mmmm, Unlicked Happiness</a>
-* <a href="https://www.amon-hen.com/television/36234">MST3K 1206 – Ator, the Fighting Eagle</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The more syllables a euphemism has, the further divorced from reality it is.</em><br /> -- George Carlin</p>
+<p><em>Too bad you can't buy a voodoo globe so that you could make the earth spin real fast and freak everybody out.</em><br /> -- Jack Handey</p>
