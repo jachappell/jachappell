@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/books/36445">May 9th</a>
+* <a href="https://www.amon-hen.com/politics/36441">Second Epstein suicide note</a>
+* <a href="https://www.amon-hen.com/religion/36433">A Thief in the Night (1973)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/36417">Love for Sale</a>
 * <a href="https://www.amon-hen.com/computing/ai/36435">AI does not exist</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/humor/36428">Are you dumb and bad at everything?</a>
 * <a href="https://www.amon-hen.com/humor/36424">RiffTrax – The Baggs</a>
 * <a href="https://www.amon-hen.com/food/36412">Mmmm, Three Kinds of Explosions</a>
 * <a href="https://www.amon-hen.com/television/36401">MST3K 1301 – Santo in the Treasure of Dracula</a>
-* <a href="https://www.amon-hen.com/humor/6560">Cinco De Mayo</a>
-* <a href="https://www.amon-hen.com/books/297">Reading: Apostles of Mercy</a>
-* <a href="https://www.amon-hen.com/politics/36410">Gas Station Drugs</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I think a good product would be "Baby Duck Hat". It's a fake baby duck, which you strap on top of your head. Then you go swimming underwater until you find a mommy duck and her babies, and you join them. Then, all of a sudden, you stand up out of the water and roar like Godzilla. Man, those ducks really take off! Also, Baby Duck Hat is good for parties.</em><br /> -- Jack Handey</p>
+<p><em>Destiny is a good thing to accept when it's going your way.  When it isn't, don't call it destiny; call it injustice, treachery, or simple bad luck.</em><br /> -- Joseph Heller (<em>God Knows</em>)</p>
