@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/music/16121">Mother’s Day</a>
+* <a href="https://www.amon-hen.com/television/13676">MST3K Short 0510 – Body Care And Grooming</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/books/36445">May 9th</a>
 * <a href="https://www.amon-hen.com/politics/36441">Second Epstein suicide note</a>
 * <a href="https://www.amon-hen.com/religion/36433">A Thief in the Night (1973)</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/36417">Love for Sale</a>
 * <a href="https://www.amon-hen.com/computing/ai/36435">AI does not exist</a>
 * <a href="https://www.amon-hen.com/humor/36428">Are you dumb and bad at everything?</a>
 * <a href="https://www.amon-hen.com/humor/36424">RiffTrax – The Baggs</a>
-* <a href="https://www.amon-hen.com/food/36412">Mmmm, Three Kinds of Explosions</a>
-* <a href="https://www.amon-hen.com/television/36401">MST3K 1301 – Santo in the Treasure of Dracula</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Destiny is a good thing to accept when it's going your way.  When it isn't, don't call it destiny; call it injustice, treachery, or simple bad luck.</em><br /> -- Joseph Heller (<em>God Knows</em>)</p>
+<p><em>I come from a long line of fighters. My maternal grandfather was the toughest guy I ever knew. World War II veteran, killed 20 men, then spent the rest of the war in an Allied prison camp. My father battled blood pressure and obesity all his life. Different kind of fight.</em><br /> -- Dwight Kurt Schrute III</p>
