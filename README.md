@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/36439">MST3K 1302 – Robot Wars</a>
+* <a href="https://www.amon-hen.com/food/36453">Mmmm, Rich People Fried Rice</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/36439">MST3K 1302 – Robot Wars</a>
 * <a href="https://www.amon-hen.com/politics/36450">The Shadow Docket</a>
 * <a href="https://www.amon-hen.com/music/16121">Mother’s Day</a>
 * <a href="https://www.amon-hen.com/television/13676">MST3K Short 0510 – Body Care And Grooming</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/36441">Second Epstein suicide note</a>
 * <a href="https://www.amon-hen.com/religion/36433">A Thief in the Night (1973)</a>
 * <a href="https://www.amon-hen.com/music/36417">Love for Sale</a>
-* <a href="https://www.amon-hen.com/computing/ai/36435">AI does not exist</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>You know what, I am gonna have that third steak after all.</em><br /> -- Ron Swanson</p>
+<p><em>"What shall we do?" said Twoflower.<br /><br />"Panic?" said Rincewind hopefully.  He always held that panic was the best means of survival; back in the olden days, his theory went, people faced with hungry sabretoothed tigers could be divided very simply into those who panicked and those who stood there saying "What a magnificent brute!" and "Here, pussy."</em><br /> -- Terry Pratchett (<em>The Light Fantastic</em>)</p>
