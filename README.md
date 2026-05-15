@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/36453">Mmmm, Rich People Fried Rice</a>
+* <a href="https://www.amon-hen.com/computing/windows/36460">My Computer</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/36453">Mmmm, Rich People Fried Rice</a>
 * <a href="https://www.amon-hen.com/television/36439">MST3K 1302 – Robot Wars</a>
 * <a href="https://www.amon-hen.com/politics/36450">The Shadow Docket</a>
 * <a href="https://www.amon-hen.com/music/16121">Mother’s Day</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/books/36445">May 9th</a>
 * <a href="https://www.amon-hen.com/politics/36441">Second Epstein suicide note</a>
 * <a href="https://www.amon-hen.com/religion/36433">A Thief in the Night (1973)</a>
-* <a href="https://www.amon-hen.com/music/36417">Love for Sale</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>"What shall we do?" said Twoflower.<br /><br />"Panic?" said Rincewind hopefully.  He always held that panic was the best means of survival; back in the olden days, his theory went, people faced with hungry sabretoothed tigers could be divided very simply into those who panicked and those who stood there saying "What a magnificent brute!" and "Here, pussy."</em><br /> -- Terry Pratchett (<em>The Light Fantastic</em>)</p>
+<p><em>One of the great attractions of patriotism - it fulfills our worst wishes. In the person of our nation we are able, vicariously, to bully and cheat. Bully and cheat, what's more, with a feeling that we are profoundly virtuous.</em><br /> -- Aldous Huxley</p>
