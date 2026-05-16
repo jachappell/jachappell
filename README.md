@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/computing/windows/36460">My Computer</a>
+* <a href="https://www.amon-hen.com/music/36457">The Lady Don’t Mind</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/computing/windows/36460">My Computer</a>
 * <a href="https://www.amon-hen.com/food/36453">Mmmm, Rich People Fried Rice</a>
 * <a href="https://www.amon-hen.com/television/36439">MST3K 1302 – Robot Wars</a>
 * <a href="https://www.amon-hen.com/politics/36450">The Shadow Docket</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/13676">MST3K Short 0510 – Body Care And Grooming</a>
 * <a href="https://www.amon-hen.com/books/36445">May 9th</a>
 * <a href="https://www.amon-hen.com/politics/36441">Second Epstein suicide note</a>
-* <a href="https://www.amon-hen.com/religion/36433">A Thief in the Night (1973)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>One of the great attractions of patriotism - it fulfills our worst wishes. In the person of our nation we are able, vicariously, to bully and cheat. Bully and cheat, what's more, with a feeling that we are profoundly virtuous.</em><br /> -- Aldous Huxley</p>
+<p><em></em>Sex and the City 2<em> is the story of, and I mean this in the nicest way possible, four shopaholic whores.</em><br /> -- Stephen Colbert</p>
