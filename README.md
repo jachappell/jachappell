@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/36457">The Lady Don’t Mind</a>
+* <a href="https://www.amon-hen.com/politics/36478">Hearts Are Trump (2020)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/36457">The Lady Don’t Mind</a>
 * <a href="https://www.amon-hen.com/computing/windows/36460">My Computer</a>
 * <a href="https://www.amon-hen.com/food/36453">Mmmm, Rich People Fried Rice</a>
 * <a href="https://www.amon-hen.com/television/36439">MST3K 1302 – Robot Wars</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/music/16121">Mother’s Day</a>
 * <a href="https://www.amon-hen.com/television/13676">MST3K Short 0510 – Body Care And Grooming</a>
 * <a href="https://www.amon-hen.com/books/36445">May 9th</a>
-* <a href="https://www.amon-hen.com/politics/36441">Second Epstein suicide note</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em></em>Sex and the City 2<em> is the story of, and I mean this in the nicest way possible, four shopaholic whores.</em><br /> -- Stephen Colbert</p>
+<p><em>Carob works on the principle that, when mixed with the right combination of fats and sugar, it can duplicate chocolate in color and texture. Of course, the same can be said of dirt.</em><br /> -- Sandra Boynton</p>
