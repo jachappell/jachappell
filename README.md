@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/36478">Hearts Are Trump (2020)</a>
+* <a href="https://www.amon-hen.com/television/8667">MST3K Short 0514 – Is This Love?</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/36478">Hearts Are Trump (2020)</a>
 * <a href="https://www.amon-hen.com/music/36457">The Lady Don’t Mind</a>
 * <a href="https://www.amon-hen.com/computing/windows/36460">My Computer</a>
 * <a href="https://www.amon-hen.com/food/36453">Mmmm, Rich People Fried Rice</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/36450">The Shadow Docket</a>
 * <a href="https://www.amon-hen.com/music/16121">Mother’s Day</a>
 * <a href="https://www.amon-hen.com/television/13676">MST3K Short 0510 – Body Care And Grooming</a>
-* <a href="https://www.amon-hen.com/books/36445">May 9th</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Carob works on the principle that, when mixed with the right combination of fats and sugar, it can duplicate chocolate in color and texture. Of course, the same can be said of dirt.</em><br /> -- Sandra Boynton</p>
+<p><em>If you're a horse, and someone gets on you, and falls off, and then gets right back on you, I think you should buck him off right away.</em><br /> -- Jack Handey</p>
