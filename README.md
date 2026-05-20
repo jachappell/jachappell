@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/36569">Structured Settlements & Factoring Companies</a>
+* <a href="https://www.amon-hen.com/television/36566">MST3K 1303 – Beyond Atlantis</a>
+* <a href="https://www.amon-hen.com/science/36583">SpaceX’s IPO valuation makes no sense whatsoever</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/36569">Structured Settlements & Factoring Companies</a>
 * <a href="https://www.amon-hen.com/television/8667">MST3K Short 0514 – Is This Love?</a>
 * <a href="https://www.amon-hen.com/politics/36478">Hearts Are Trump (2020)</a>
 * <a href="https://www.amon-hen.com/music/36457">The Lady Don’t Mind</a>
 * <a href="https://www.amon-hen.com/computing/windows/36460">My Computer</a>
 * <a href="https://www.amon-hen.com/food/36453">Mmmm, Rich People Fried Rice</a>
 * <a href="https://www.amon-hen.com/television/36439">MST3K 1302 – Robot Wars</a>
-* <a href="https://www.amon-hen.com/politics/36450">The Shadow Docket</a>
-* <a href="https://www.amon-hen.com/music/16121">Mother’s Day</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I'm looking for something beautiful and cheap for a lady who is one of those things!</em><br /> -- Doctor John A. Zoidberg</p>
+<p><em>Like most of life's problems, this one can be solved with bending.</em><br /> -- Bender Unit 22</p>
