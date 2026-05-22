@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/36579">Mmmm, Fuck to fry the beef river powder</a>
+* <a href="https://www.amon-hen.com/humor/31913">RiffTrax – Ator, The Fighting Eagle</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/36579">Mmmm, Fuck to fry the beef river powder</a>
 * <a href="https://www.amon-hen.com/television/36566">MST3K 1303 – Beyond Atlantis</a>
 * <a href="https://www.amon-hen.com/science/36583">SpaceX’s IPO valuation makes no sense whatsoever</a>
 * <a href="https://www.amon-hen.com/politics/36569">Structured Settlements & Factoring Companies</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/36478">Hearts Are Trump (2020)</a>
 * <a href="https://www.amon-hen.com/music/36457">The Lady Don’t Mind</a>
 * <a href="https://www.amon-hen.com/computing/windows/36460">My Computer</a>
-* <a href="https://www.amon-hen.com/food/36453">Mmmm, Rich People Fried Rice</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>If I lived back in the wild west days, instead of carrying a six-gun in my holster, I'd carry a soldering iron. That way, if some smart-aleck cowboy said something like "Hey, look. He's carrying a soldering iron!" and started laughing, and everybody else started laughing, I could just say, "That's right, it's a soldering iron. The soldering iron of justice." Then everybody would get real quiet and ashamed, because they had made fun of the soldering iron of justice, and I could probably hit them up for a free drink.</em><br /> -- Jack Handey</p>
+<p><em>Oh, so, just 'cause a robot wants to kill humans that makes him a radical?</em><br /> -- Bender Unit 22</p>
