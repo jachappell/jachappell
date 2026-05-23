@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/humor/31913">RiffTrax – Ator, The Fighting Eagle</a>
+* <a href="https://www.amon-hen.com/music/36574">End of the Line (Stan Ridgeway)</a>
+* <a href="https://www.amon-hen.com/politics/36597">Stephen Colbert was so good at his job…</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/humor/31913">RiffTrax – Ator, The Fighting Eagle</a>
 * <a href="https://www.amon-hen.com/food/36579">Mmmm, Fuck to fry the beef river powder</a>
 * <a href="https://www.amon-hen.com/television/36566">MST3K 1303 – Beyond Atlantis</a>
 * <a href="https://www.amon-hen.com/science/36583">SpaceX’s IPO valuation makes no sense whatsoever</a>
 * <a href="https://www.amon-hen.com/politics/36569">Structured Settlements & Factoring Companies</a>
 * <a href="https://www.amon-hen.com/television/8667">MST3K Short 0514 – Is This Love?</a>
 * <a href="https://www.amon-hen.com/politics/36478">Hearts Are Trump (2020)</a>
-* <a href="https://www.amon-hen.com/music/36457">The Lady Don’t Mind</a>
-* <a href="https://www.amon-hen.com/computing/windows/36460">My Computer</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/news/4161">Drum Corps International announces leadership transition</a>
 * <a href="https://www.drum-corps.net/news/4153">“Big, Loud & Live” returns to theaters nationwide, August 6, 2026</a>
 * <a href="https://www.drum-corps.net/miscellaneous/4134">March Forth</a>
 * <a href="https://www.drum-corps.net/news/4131">Open Class World Championship to relocate to Dayton’s Welcome Stadium</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/news/4097">Drum Corps World – December 2025</a>
 * <a href="https://www.drum-corps.net/news/4092">2026 Drum Corps International Tour Schedule</a>
 * <a href="https://www.drum-corps.net/news/4088">Mandarins Drum and Bugle Corps Announces Strategic Hiatus for 2026 Season</a>
-* <a href="https://www.drum-corps.net/news/4086">Drum Corps World – November 2025</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Oh, so, just 'cause a robot wants to kill humans that makes him a radical?</em><br /> -- Bender Unit 22</p>
+<p><em>I'm swelling with patriotic mucus!</em><br /> -- Doctor John A. Zoidberg</p>
