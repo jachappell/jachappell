@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/movies/36595">The Wizard of Mars (1965)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/36574">End of the Line (Stan Ridgeway)</a>
 * <a href="https://www.amon-hen.com/politics/36597">Stephen Colbert was so good at his job…</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/humor/31913">RiffTrax – Ator, The Fighting Eagle</a>
 * <a href="https://www.amon-hen.com/food/36579">Mmmm, Fuck to fry the beef river powder</a>
 * <a href="https://www.amon-hen.com/television/36566">MST3K 1303 – Beyond Atlantis</a>
 * <a href="https://www.amon-hen.com/science/36583">SpaceX’s IPO valuation makes no sense whatsoever</a>
 * <a href="https://www.amon-hen.com/politics/36569">Structured Settlements & Factoring Companies</a>
 * <a href="https://www.amon-hen.com/television/8667">MST3K Short 0514 – Is This Love?</a>
-* <a href="https://www.amon-hen.com/politics/36478">Hearts Are Trump (2020)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I'm swelling with patriotic mucus!</em><br /> -- Doctor John A. Zoidberg</p>
+<p><em>The concept of the rock-guitar solo in the eightees has pretty much been reduced to: Weedly-weedly-wee, make a face, hold your guitar like it's your weenie, point it heavenward, and look like you're really doing something.  Then, you geta big ovation while the the smoke bombs go off, and the motorized lights in your truss twirl around.</em><br /> -- Frank Zappa</p>
