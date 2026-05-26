@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/7352">MST3K Short 0515 – Cheating</a>
+* <a href="https://www.amon-hen.com/politics/36604">Last Week Tonight – S3 E7: Congressional Fundraising, Nuclear Powers & The Yankees</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/7352">MST3K Short 0515 – Cheating</a>
 * <a href="https://www.amon-hen.com/movies/36595">The Wizard of Mars (1965)</a>
 * <a href="https://www.amon-hen.com/music/36574">End of the Line (Stan Ridgeway)</a>
 * <a href="https://www.amon-hen.com/politics/36597">Stephen Colbert was so good at his job…</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/food/36579">Mmmm, Fuck to fry the beef river powder</a>
 * <a href="https://www.amon-hen.com/television/36566">MST3K 1303 – Beyond Atlantis</a>
 * <a href="https://www.amon-hen.com/science/36583">SpaceX’s IPO valuation makes no sense whatsoever</a>
-* <a href="https://www.amon-hen.com/politics/36569">Structured Settlements & Factoring Companies</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Normally, I don't condone leaving early, but I have an appointment with the horse doctor. How that horse became a doctor, I don't know. No, I'm kidding. He's just a regular doctor who shoots your horse in the head when its leg is broken.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>Yep. My ex-wife Tammy cheated on me, then we divorced, then last week I ran into her sister Beth here; turns out she hates Tammy too, so we started dating. It's like a fairy tale!</em><br /> -- Ron Swanson</p>
