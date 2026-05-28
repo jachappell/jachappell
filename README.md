@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/food/36599">Mmmm, Edible Meat</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/36607">MST3K 1304 – Munchie</a>
 * <a href="https://www.amon-hen.com/music/36656">Laurie Anderson: Tiny Desk Concert</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/36604">Last Week Tonight – S3 E7: Congressional Fundraising, Nuclear Powers & The Yankees</a>
 * <a href="https://www.amon-hen.com/television/7352">MST3K Short 0515 – Cheating</a>
 * <a href="https://www.amon-hen.com/movies/36595">The Wizard of Mars (1965)</a>
 * <a href="https://www.amon-hen.com/music/36574">End of the Line (Stan Ridgeway)</a>
 * <a href="https://www.amon-hen.com/politics/36597">Stephen Colbert was so good at his job…</a>
 * <a href="https://www.amon-hen.com/humor/31913">RiffTrax – Ator, The Fighting Eagle</a>
-* <a href="https://www.amon-hen.com/food/36579">Mmmm, Fuck to fry the beef river powder</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>If you don't live it, It won't come out of your horn.</em><br /> -- Charlie Parker</p>
+<p><em>Traffic signals in New York are just rough guidelines.</em><br /> -- David Letterman</p>
