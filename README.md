@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/36599">Mmmm, Edible Meat</a>
+* <a href="https://www.amon-hen.com/humor/9831">Cinematic Titanic – Doomsday Machine</a>
+* <a href="https://www.amon-hen.com/computing/ai/36666">They stole the internet’s knowledge</a>
+* <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36664">How one song took the 1979 DCI Tour by storm</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/36599">Mmmm, Edible Meat</a>
 * <a href="https://www.amon-hen.com/television/36607">MST3K 1304 – Munchie</a>
 * <a href="https://www.amon-hen.com/music/36656">Laurie Anderson: Tiny Desk Concert</a>
 * <a href="https://www.amon-hen.com/politics/36604">Last Week Tonight – S3 E7: Congressional Fundraising, Nuclear Powers & The Yankees</a>
 * <a href="https://www.amon-hen.com/television/7352">MST3K Short 0515 – Cheating</a>
 * <a href="https://www.amon-hen.com/movies/36595">The Wizard of Mars (1965)</a>
-* <a href="https://www.amon-hen.com/music/36574">End of the Line (Stan Ridgeway)</a>
-* <a href="https://www.amon-hen.com/politics/36597">Stephen Colbert was so good at his job…</a>
-* <a href="https://www.amon-hen.com/humor/31913">RiffTrax – Ator, The Fighting Eagle</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/history/4163">Children of Sanchez</a>
 * <a href="https://www.drum-corps.net/news/4161">Drum Corps International announces leadership transition</a>
 * <a href="https://www.drum-corps.net/news/4153">“Big, Loud & Live” returns to theaters nationwide, August 6, 2026</a>
 * <a href="https://www.drum-corps.net/miscellaneous/4134">March Forth</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/news/4104">Marching Music Downloads store to be retired after December 31, 2025</a>
 * <a href="https://www.drum-corps.net/news/4097">Drum Corps World – December 2025</a>
 * <a href="https://www.drum-corps.net/news/4092">2026 Drum Corps International Tour Schedule</a>
-* <a href="https://www.drum-corps.net/news/4088">Mandarins Drum and Bugle Corps Announces Strategic Hiatus for 2026 Season</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Traffic signals in New York are just rough guidelines.</em><br /> -- David Letterman</p>
+<p><em>When my mother was pregnant with me, they did an ultrasound and found she was having twins. When they did another ultrasound a few weeks later, they discovered that I had resorbed the other fetus. Do I regret this? No. I believe his tissues has made me stronger. I now have the strength of a grown man and a little baby.</em><br /> -- Dwight Kurt Schrute III</p>
