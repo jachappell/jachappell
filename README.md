@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/music/36662">Like Little Soldiers</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/humor/9831">Cinematic Titanic – Doomsday Machine</a>
 * <a href="https://www.amon-hen.com/computing/ai/36666">They stole the internet’s knowledge</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36664">How one song took the 1979 DCI Tour by storm</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/food/36599">Mmmm, Edible Meat</a>
 * <a href="https://www.amon-hen.com/television/36607">MST3K 1304 – Munchie</a>
 * <a href="https://www.amon-hen.com/music/36656">Laurie Anderson: Tiny Desk Concert</a>
 * <a href="https://www.amon-hen.com/politics/36604">Last Week Tonight – S3 E7: Congressional Fundraising, Nuclear Powers & The Yankees</a>
 * <a href="https://www.amon-hen.com/television/7352">MST3K Short 0515 – Cheating</a>
-* <a href="https://www.amon-hen.com/movies/36595">The Wizard of Mars (1965)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>When my mother was pregnant with me, they did an ultrasound and found she was having twins. When they did another ultrasound a few weeks later, they discovered that I had resorbed the other fetus. Do I regret this? No. I believe his tissues has made me stronger. I now have the strength of a grown man and a little baby.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>When you encounter seemingly good advice that contradicts other seemingly good advice, ignore them both.</em><br /> -- Al Franken</p>
