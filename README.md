@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/television/8316">MST3K Short 0518 – What About Juvenile Delinquency?</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/religion/36669">Best Friends Eternally (2015)</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: The Adventures of Tom Bombadil</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/36662">Like Little Soldiers</a>
 * <a href="https://www.amon-hen.com/humor/9831">Cinematic Titanic – Doomsday Machine</a>
 * <a href="https://www.amon-hen.com/computing/ai/36666">They stole the internet’s knowledge</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36664">How one song took the 1979 DCI Tour by storm</a>
 * <a href="https://www.amon-hen.com/food/36599">Mmmm, Edible Meat</a>
 * <a href="https://www.amon-hen.com/television/36607">MST3K 1304 – Munchie</a>
-* <a href="https://www.amon-hen.com/music/36656">Laurie Anderson: Tiny Desk Concert</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.</em><br /> -- Douglas Adams</p>
+<p><em>I'm starting to suspect there's more than one tri-state area.</em><br /> -- Stephen Colbert</p>
