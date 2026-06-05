@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/36701">Drink Safe Before Driving</a>
+* <a href="https://www.amon-hen.com/humor/36696">Cinematic Titanic – The Wasp Woman</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/36701">Drink Safe Before Driving</a>
 * <a href="https://www.amon-hen.com/television/36694">MST3K 1305 – Doctor Mordrid</a>
 * <a href="https://www.amon-hen.com/politics/36699">Trump’s Pardons</a>
 * <a href="https://www.amon-hen.com/television/8316">MST3K Short 0518 – What About Juvenile Delinquency?</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/books/297">Reading: The Adventures of Tom Bombadil</a>
 * <a href="https://www.amon-hen.com/music/36662">Like Little Soldiers</a>
 * <a href="https://www.amon-hen.com/humor/9831">Cinematic Titanic – Doomsday Machine</a>
-* <a href="https://www.amon-hen.com/computing/ai/36666">They stole the internet’s knowledge</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Christopher Columbus, as everyone knows, is honored by posterity because he was the last to discover America.</em><br /> -- James Joyce</p>
+<p><em>Don't mess with the volcano my man, 'cause I will go Pompeii on your... butt.</em><br /> -- Mr. Furious</p>
