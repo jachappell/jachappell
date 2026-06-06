@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/humor/36696">Cinematic Titanic – The Wasp Woman</a>
+* <a href="https://www.amon-hen.com/music/36707">Inhale Exhale</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/humor/36696">Cinematic Titanic – The Wasp Woman</a>
 * <a href="https://www.amon-hen.com/food/36701">Drink Safe Before Driving</a>
 * <a href="https://www.amon-hen.com/television/36694">MST3K 1305 – Doctor Mordrid</a>
 * <a href="https://www.amon-hen.com/politics/36699">Trump’s Pardons</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/religion/36669">Best Friends Eternally (2015)</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: The Adventures of Tom Bombadil</a>
 * <a href="https://www.amon-hen.com/music/36662">Like Little Soldiers</a>
-* <a href="https://www.amon-hen.com/humor/9831">Cinematic Titanic – Doomsday Machine</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -30,6 +30,7 @@
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
 
+* <a href="https://www.storage-b.com/c/1183">The Story of C++</a>
 * <a href="https://www.storage-b.com/retrocomputing/1175">2,000 shaded polygons at 30 Hz</a>
 * <a href="https://www.storage-b.com/ai/1152">Blue Doats</a>
 * <a href="https://www.storage-b.com/ai/1147">Bostoo Yook Yarters</a>
@@ -39,8 +40,7 @@
 * <a href="https://www.storage-b.com/math-numerical-analysis/1081">Crummy Code from Copilot</a>
 * <a href="https://www.storage-b.com/humor/1067">Meeting Driven Development</a>
 * <a href="https://www.storage-b.com/c/1057">CLion Is Now Free for Non-Commercial Use</a>
-* <a href="https://www.storage-b.com/humor/1052">Programmers Then and Now</a>
 </details>
 
 # Quote of the Day
-<p><em>Don't mess with the volcano my man, 'cause I will go Pompeii on your... butt.</em><br /> -- Mr. Furious</p>
+<p><em>Either this man is dead or my watch has stopped.</em><br /> -- Groucho Marx</p>
