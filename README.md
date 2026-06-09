@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/5967">MST3K Short 0520 – Last Clear Chance</a>
+* <a href="https://www.amon-hen.com/politics/36759">They have laws to protect your privacy</a>
+* <a href="https://www.amon-hen.com/politics/36753">New College of Florida</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/5967">MST3K Short 0520 – Last Clear Chance</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: The Start, 1904–1930 (Twentieth Century Journey Book 1)</a>
 * <a href="https://www.amon-hen.com/religion/30515">Best Friends Recycled (2016)</a>
 * <a href="https://www.amon-hen.com/music/36707">Inhale Exhale</a>
 * <a href="https://www.amon-hen.com/humor/36696">Cinematic Titanic – The Wasp Woman</a>
 * <a href="https://www.amon-hen.com/food/36701">Drink Safe Before Driving</a>
 * <a href="https://www.amon-hen.com/television/36694">MST3K 1305 – Doctor Mordrid</a>
-* <a href="https://www.amon-hen.com/politics/36699">Trump’s Pardons</a>
-* <a href="https://www.amon-hen.com/television/8316">MST3K Short 0518 – What About Juvenile Delinquency?</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I call this turf 'n' turf. It's a 16 oz T-bone and a 24 oz porterhouse. Also, whiskey and a cigar. I am going to consume all of this at the same time because I am a free American.</em><br /> -- Ron Swanson</p>
+<p><em>Ask not what you can do for your country.  Ask what's for lunch.</em><br /> -- Orson Welles</p>
