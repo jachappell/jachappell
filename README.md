@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36473">June 14, 1927</a>
+* <a href="https://www.amon-hen.com/television/5807">MST3K Short 0524 – Design for Dreaming</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/science/36787">Russell Vought is Destroying American Science</a>
 * <a href="https://www.amon-hen.com/religion/30583">Best Friends Genetically Modified (2022)</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/23287">I’ve Seen All Good People</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36761">I made it into a Funliner Top 10</a>
 * <a href="https://www.amon-hen.com/humor/36718">Cinematic Titanic – East Meets Watts</a>
 * <a href="https://www.amon-hen.com/food/36743">Mmmm, Ham Pinwheels</a>
 * <a href="https://www.amon-hen.com/television/36715">MST3K 1306 – Demon Squad</a>
-* <a href="https://www.amon-hen.com/politics/36759">They have laws to protect your privacy</a>
-* <a href="https://www.amon-hen.com/politics/36753">New College of Florida</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Ye shall know the truth, and the truth shall make you mad.</em><br /> -- Aldous Huxley</p>
+<p><em>I think the best indication that there is no God is that Stevie Ray Vaughan got killed and Celine Dion reproduced.</em><br /> -- Kevin Enns (SKEPTIC Mailing List)</p>
