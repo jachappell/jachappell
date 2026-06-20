@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/36823">Everything Donald Trump touches turns to shit</a>
+* <a href="https://www.amon-hen.com/music/36781">The Wheel Has Come Full Circle</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/36816">Throwing Vance under the bus</a>
 * <a href="https://www.amon-hen.com/humor/16728">Cinematic Titanic – The Astral Factor</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/36811">Most unfortunate unintended consequences</a>
 * <a href="https://www.amon-hen.com/food/36749">Mmmm, Patio Lamb</a>
 * <a href="https://www.amon-hen.com/television/36783">MST3K 1307 – Gamera vs. Jiger</a>
 * <a href="https://www.amon-hen.com/politics/36807">When you’re the least popular person at a party…</a>
 * <a href="https://www.amon-hen.com/politics/36797">Straightforward white nationalist great replacement rhetoric</a>
-* <a href="https://www.amon-hen.com/politics/36791">UK & Makerfield Election</a>
-* <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36473">June 14, 1927</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I may not have gone where I intended to go, but I think I have ended up where I needed to be.</em><br /> -- Douglas Adams</p>
+<p><em>Bender's a genius!</em><br /> -- Bender Unit 22</p>
