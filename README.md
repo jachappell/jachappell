@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/movies/36793">H. G. Wells’ The Shape of Things to Come (1979)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/36823">Everything Donald Trump touches turns to shit</a>
 * <a href="https://www.amon-hen.com/music/36781">The Wheel Has Come Full Circle</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/36816">Throwing Vance under the bus</a>
 * <a href="https://www.amon-hen.com/humor/16728">Cinematic Titanic – The Astral Factor</a>
 * <a href="https://www.amon-hen.com/politics/36811">Most unfortunate unintended consequences</a>
 * <a href="https://www.amon-hen.com/food/36749">Mmmm, Patio Lamb</a>
 * <a href="https://www.amon-hen.com/television/36783">MST3K 1307 – Gamera vs. Jiger</a>
 * <a href="https://www.amon-hen.com/politics/36807">When you’re the least popular person at a party…</a>
-* <a href="https://www.amon-hen.com/politics/36797">Straightforward white nationalist great replacement rhetoric</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Bender's a genius!</em><br /> -- Bender Unit 22</p>
+<p><em>Trillions and trillions of prayers every day asking and begging and pleading for favors. 'Do this' 'Gimme that' 'I want a new car' 'I want a better job'.  And most of this praying takes place on Sunday.  And I say fine, pray for anything you want.  Pray for anything.  But...what about the divine plan?  Remember that? The divine plan. Long time ago god made a divine plan.  Gave it a lot of thought. Decided it was a good plan. Put it into practice.  And for billion and billions of years the divine plan has been doing just fine.  Now you come along and pray for something. Well, suppose the thing you want isn't in god's divine plan.  What do you want him to do?  Change his plan?  Just for you? Doesn't it seem a little arrogant? It's a divine plan. What's the use of being god if every run-down schmuck with a two dollar prayer book can come along and fuck up your plan?  And here's something else, another problem you might have; suppose your prayers aren't answered. What do you say? 'Well it's god's will. God's will be done.' Fine, but if it gods will and he's going to do whatever he wants to anyway; why the fuck bother praying in the first place? Seems like a big waste of time to me. Couldn't you just skip the praying part and get right to his will?</em><br /> -- George Carlin</p>
