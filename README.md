@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/food/36836">Mmmm, Cheese Financier Cake</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/36827">MST3K 1308 – The Batwoman</a>
 * <a href="https://www.amon-hen.com/music/36840">Stanley Clarke: Tiny Desk Concert</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/36848">Feral Hogs</a>
 * <a href="https://www.amon-hen.com/television/5927">MST3K Short 0602 – A Date With Your Family</a>
 * <a href="https://www.amon-hen.com/movies/36793">H. G. Wells’ The Shape of Things to Come (1979)</a>
 * <a href="https://www.amon-hen.com/politics/36823">Everything Donald Trump touches turns to shit</a>
 * <a href="https://www.amon-hen.com/music/36781">The Wheel Has Come Full Circle</a>
 * <a href="https://www.amon-hen.com/politics/36816">Throwing Vance under the bus</a>
-* <a href="https://www.amon-hen.com/humor/16728">Cinematic Titanic – The Astral Factor</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>We're talking about whether any independent contractors working on the uncompleted death star were innocent victims when the rebels destroyed it.</em><br /> -- Dante Hicks</p>
+<p><em>And then I was confronted with N'Sync, Aerosmith and Britney Spears to*gether*.  The trifecta from *Hell*.</em><br /> -- Lewis Black</p>
