@@ -2,20 +2,22 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36884">#Bloo26</a>
+* <a href="https://www.amon-hen.com/religion/36859">Old Rugged Cross (2016)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/36876">President Shit for Brains doesn’t know how passports work</a>
 * <a href="https://www.amon-hen.com/music/36821">Familiarity</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/humor/36834">Cinematic Titanic – Danger On Tiki Island</a>
 * <a href="https://www.amon-hen.com/food/36836">Mmmm, Cheese Financier Cake</a>
 * <a href="https://www.amon-hen.com/television/36827">MST3K 1308 – The Batwoman</a>
 * <a href="https://www.amon-hen.com/music/36840">Stanley Clarke: Tiny Desk Concert</a>
 * <a href="https://www.amon-hen.com/politics/36848">Feral Hogs</a>
-* <a href="https://www.amon-hen.com/television/5927">MST3K Short 0602 – A Date With Your Family</a>
-* <a href="https://www.amon-hen.com/movies/36793">H. G. Wells’ The Shape of Things to Come (1979)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/4195">Drums Along the Rockies (2026)</a>
+* <a href="https://www.drum-corps.net/scores/dci/4192">Barnum Festival: Champions on Parade (2026)</a>
 * <a href="https://www.drum-corps.net/news/4175">DCI Houston To Be Relocated</a>
 * <a href="https://www.drum-corps.net/news/4167">Pete Emmons, who pioneered asymmetrical drill writing in the late 1970s, dies at 80</a>
 * <a href="https://www.drum-corps.net/history/4163">Children of Sanchez</a>
@@ -24,8 +26,6 @@
 * <a href="https://www.drum-corps.net/miscellaneous/4134">March Forth</a>
 * <a href="https://www.drum-corps.net/news/4131">Open Class World Championship to relocate to Dayton’s Welcome Stadium</a>
 * <a href="https://www.drum-corps.net/news/4116">Rhythm IN BLUE & JER Announce 2026 Creative Partnership</a>
-* <a href="https://www.drum-corps.net/news/4113">DCI All-Age Class moves to unified competitive format</a>
-* <a href="https://www.drum-corps.net/news/4104">Marching Music Downloads store to be retired after December 31, 2025</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>This planet has - or rather had - a problem, which was this:  most of the people living on it were unhappy for pretty much of the time. Many solutions were suggested for this problem, but most of these were largely concerned with the movements of small green pieces of paper, which is odd because on the whole it wasnt the small green pieces of paper that were unhappy.</em><br /> -- Douglas Adams</p>
+<p><em>Don't expect any mercy during the great robot wars.</em><br /> -- Jodene Sparks</p>
