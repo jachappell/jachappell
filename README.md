@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/television/6916">MST3K Short 0603 – The Selling Wizard</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36884">#Bloo26</a>
 * <a href="https://www.amon-hen.com/religion/36859">Old Rugged Cross (2016)</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/36876">President Shit for Brains doesn’t know how passports work</a>
 * <a href="https://www.amon-hen.com/music/36821">Familiarity</a>
 * <a href="https://www.amon-hen.com/humor/36834">Cinematic Titanic – Danger On Tiki Island</a>
 * <a href="https://www.amon-hen.com/food/36836">Mmmm, Cheese Financier Cake</a>
 * <a href="https://www.amon-hen.com/television/36827">MST3K 1308 – The Batwoman</a>
 * <a href="https://www.amon-hen.com/music/36840">Stanley Clarke: Tiny Desk Concert</a>
-* <a href="https://www.amon-hen.com/politics/36848">Feral Hogs</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/4198">Corps Encore (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4195">Drums Along the Rockies (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4192">Barnum Festival: Champions on Parade (2026)</a>
 * <a href="https://www.drum-corps.net/news/4175">DCI Houston To Be Relocated</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/news/4153">“Big, Loud & Live” returns to theaters nationwide, August 6, 2026</a>
 * <a href="https://www.drum-corps.net/miscellaneous/4134">March Forth</a>
 * <a href="https://www.drum-corps.net/news/4131">Open Class World Championship to relocate to Dayton’s Welcome Stadium</a>
-* <a href="https://www.drum-corps.net/news/4116">Rhythm IN BLUE & JER Announce 2026 Creative Partnership</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Don't expect any mercy during the great robot wars.</em><br /> -- Jodene Sparks</p>
+<p><em>Don't worry, son.  I'm sure he's up in heaven right now laughing it up with all the other celebrities: John Dilinger, Ty Cobb, Joseph Stalin.</em><br /> -- Homer J. Simpson</p>
