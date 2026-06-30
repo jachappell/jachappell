@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/6916">MST3K Short 0603 – The Selling Wizard</a>
+* <a href="https://www.amon-hen.com/politics/36889">Redistricting</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/6916">MST3K Short 0603 – The Selling Wizard</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36884">#Bloo26</a>
 * <a href="https://www.amon-hen.com/religion/36859">Old Rugged Cross (2016)</a>
 * <a href="https://www.amon-hen.com/politics/36876">President Shit for Brains doesn’t know how passports work</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/humor/36834">Cinematic Titanic – Danger On Tiki Island</a>
 * <a href="https://www.amon-hen.com/food/36836">Mmmm, Cheese Financier Cake</a>
 * <a href="https://www.amon-hen.com/television/36827">MST3K 1308 – The Batwoman</a>
-* <a href="https://www.amon-hen.com/music/36840">Stanley Clarke: Tiny Desk Concert</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Don't worry, son.  I'm sure he's up in heaven right now laughing it up with all the other celebrities: John Dilinger, Ty Cobb, Joseph Stalin.</em><br /> -- Homer J. Simpson</p>
+<p><em>Seeing a murder on television... can help work off one's antagonisms. And if you haven't any antagonisms, the commercials will give you some.</em><br /> -- Alfred Hitchcock</p>
