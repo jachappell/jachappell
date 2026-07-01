@@ -2,20 +2,22 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/36889">Redistricting</a>
+* <a href="https://www.amon-hen.com/television/36830">MST3K 1309 – The Million Eyes of Sumuru</a>
+* <a href="https://www.amon-hen.com/music/36897">Uranium City</a>
+* <a href="https://www.amon-hen.com/books/36891">Tech Oligarchs and Science Fiction</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/36889">Redistricting</a>
 * <a href="https://www.amon-hen.com/television/6916">MST3K Short 0603 – The Selling Wizard</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36884">#Bloo26</a>
 * <a href="https://www.amon-hen.com/religion/36859">Old Rugged Cross (2016)</a>
 * <a href="https://www.amon-hen.com/politics/36876">President Shit for Brains doesn’t know how passports work</a>
 * <a href="https://www.amon-hen.com/music/36821">Familiarity</a>
-* <a href="https://www.amon-hen.com/humor/36834">Cinematic Titanic – Danger On Tiki Island</a>
-* <a href="https://www.amon-hen.com/food/36836">Mmmm, Cheese Financier Cake</a>
-* <a href="https://www.amon-hen.com/television/36827">MST3K 1308 – The Batwoman</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/4204">Northwest Youth Music Games Seattle  (2026)</a>
+* <a href="https://www.drum-corps.net/news/4202">Drum Corps International appoints Brad Furlano as Chief Executive Officer</a>
 * <a href="https://www.drum-corps.net/scores/dci/4198">Corps Encore (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4195">Drums Along the Rockies (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4192">Barnum Festival: Champions on Parade (2026)</a>
@@ -24,8 +26,6 @@
 * <a href="https://www.drum-corps.net/history/4163">Children of Sanchez</a>
 * <a href="https://www.drum-corps.net/news/4161">Drum Corps International announces leadership transition</a>
 * <a href="https://www.drum-corps.net/news/4153">“Big, Loud & Live” returns to theaters nationwide, August 6, 2026</a>
-* <a href="https://www.drum-corps.net/miscellaneous/4134">March Forth</a>
-* <a href="https://www.drum-corps.net/news/4131">Open Class World Championship to relocate to Dayton’s Welcome Stadium</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Seeing a murder on television... can help work off one's antagonisms. And if you haven't any antagonisms, the commercials will give you some.</em><br /> -- Alfred Hitchcock</p>
+<p><em>Human history becomes more and more a race between education and catastrophe.</em><br /> -- H.G. Wells</p>
