@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/food/36842">Mmmm, Pre-War Quality</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/36830">MST3K 1309 – The Million Eyes of Sumuru</a>
 * <a href="https://www.amon-hen.com/music/36897">Uranium City</a>
 * <a href="https://www.amon-hen.com/books/36891">Tech Oligarchs and Science Fiction</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/36889">Redistricting</a>
 * <a href="https://www.amon-hen.com/television/6916">MST3K Short 0603 – The Selling Wizard</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36884">#Bloo26</a>
 * <a href="https://www.amon-hen.com/religion/36859">Old Rugged Cross (2016)</a>
 * <a href="https://www.amon-hen.com/politics/36876">President Shit for Brains doesn’t know how passports work</a>
-* <a href="https://www.amon-hen.com/music/36821">Familiarity</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/4208">Drums Across Nebraska (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4204">Northwest Youth Music Games Seattle  (2026)</a>
 * <a href="https://www.drum-corps.net/news/4202">Drum Corps International appoints Brad Furlano as Chief Executive Officer</a>
 * <a href="https://www.drum-corps.net/scores/dci/4198">Corps Encore (2026)</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/news/4167">Pete Emmons, who pioneered asymmetrical drill writing in the late 1970s, dies at 80</a>
 * <a href="https://www.drum-corps.net/history/4163">Children of Sanchez</a>
 * <a href="https://www.drum-corps.net/news/4161">Drum Corps International announces leadership transition</a>
-* <a href="https://www.drum-corps.net/news/4153">“Big, Loud & Live” returns to theaters nationwide, August 6, 2026</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Human history becomes more and more a race between education and catastrophe.</em><br /> -- H.G. Wells</p>
+<p><em>I would rather be exposed to the inconveniences attending too much liberty than to those attending too small a degree of it.</em><br /> -- Thomas Jefferson</p>
