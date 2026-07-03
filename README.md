@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/36842">Mmmm, Pre-War Quality</a>
+* <a href="https://www.amon-hen.com/humor/36881">Cinematic Titanic – The Alien Factor</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/36842">Mmmm, Pre-War Quality</a>
 * <a href="https://www.amon-hen.com/television/36830">MST3K 1309 – The Million Eyes of Sumuru</a>
 * <a href="https://www.amon-hen.com/music/36897">Uranium City</a>
 * <a href="https://www.amon-hen.com/books/36891">Tech Oligarchs and Science Fiction</a>
@@ -11,11 +12,11 @@
 * <a href="https://www.amon-hen.com/television/6916">MST3K Short 0603 – The Selling Wizard</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36884">#Bloo26</a>
 * <a href="https://www.amon-hen.com/religion/36859">Old Rugged Cross (2016)</a>
-* <a href="https://www.amon-hen.com/politics/36876">President Shit for Brains doesn’t know how passports work</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/4211">Northwest Youth Music Games Portland (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4208">Drums Across Nebraska (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4204">Northwest Youth Music Games Seattle  (2026)</a>
 * <a href="https://www.drum-corps.net/news/4202">Drum Corps International appoints Brad Furlano as Chief Executive Officer</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/news/4175">DCI Houston To Be Relocated</a>
 * <a href="https://www.drum-corps.net/news/4167">Pete Emmons, who pioneered asymmetrical drill writing in the late 1970s, dies at 80</a>
 * <a href="https://www.drum-corps.net/history/4163">Children of Sanchez</a>
-* <a href="https://www.drum-corps.net/news/4161">Drum Corps International announces leadership transition</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I would rather be exposed to the inconveniences attending too much liberty than to those attending too small a degree of it.</em><br /> -- Thomas Jefferson</p>
+<p><em>Go back to bed, America, your government has figured out how it all transpired, go back to bed America, your government is in control again. Here, here's American Gladiators. Watch this, shut up, go back to bed America, here is American Gladiators, here is 56 channels of it! Watch these pituitary retards bang their fucking skulls together and congratulate you on living in the land of freedom. Here you go America - you are free to do what we tell you! You are free to do what we tell you!</em><br /> -- Bill Hicks</p>
