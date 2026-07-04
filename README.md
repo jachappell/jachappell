@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/humor/36881">Cinematic Titanic – The Alien Factor</a>
+* <a href="https://www.amon-hen.com/music/36874">Ritual Being</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/humor/36881">Cinematic Titanic – The Alien Factor</a>
 * <a href="https://www.amon-hen.com/food/36842">Mmmm, Pre-War Quality</a>
 * <a href="https://www.amon-hen.com/television/36830">MST3K 1309 – The Million Eyes of Sumuru</a>
 * <a href="https://www.amon-hen.com/music/36897">Uranium City</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/36889">Redistricting</a>
 * <a href="https://www.amon-hen.com/television/6916">MST3K Short 0603 – The Selling Wizard</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36884">#Bloo26</a>
-* <a href="https://www.amon-hen.com/religion/36859">Old Rugged Cross (2016)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Go back to bed, America, your government has figured out how it all transpired, go back to bed America, your government is in control again. Here, here's American Gladiators. Watch this, shut up, go back to bed America, here is American Gladiators, here is 56 channels of it! Watch these pituitary retards bang their fucking skulls together and congratulate you on living in the land of freedom. Here you go America - you are free to do what we tell you! You are free to do what we tell you!</em><br /> -- Bill Hicks</p>
+<p><em>The primary cause of failure in electrical appliances is an expired warranty.  Often, you can get an appliance running again simply by changing the warranty expiration date with a 15/64-inch felt-tipped marker.</em><br /> -- Dave Barry, "The Taming of the Screw"</p>
