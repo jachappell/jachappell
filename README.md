@@ -2,20 +2,22 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/36874">Ritual Being</a>
+* <a href="https://www.amon-hen.com/politics/36926">Probably the most purely anti-American thing ever said</a>
+* <a href="https://www.amon-hen.com/politics/27808">RiffTrax –  Patriotism</a>
+* <a href="https://www.amon-hen.com/miscellaneous/26402">4th of July</a>
+* <a href="https://www.amon-hen.com/movies/36900">Mr. Smith Goes to Washington (1939)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/36874">Ritual Being</a>
 * <a href="https://www.amon-hen.com/humor/36881">Cinematic Titanic – The Alien Factor</a>
 * <a href="https://www.amon-hen.com/food/36842">Mmmm, Pre-War Quality</a>
 * <a href="https://www.amon-hen.com/television/36830">MST3K 1309 – The Million Eyes of Sumuru</a>
 * <a href="https://www.amon-hen.com/music/36897">Uranium City</a>
-* <a href="https://www.amon-hen.com/books/36891">Tech Oligarchs and Science Fiction</a>
-* <a href="https://www.amon-hen.com/politics/36889">Redistricting</a>
-* <a href="https://www.amon-hen.com/television/6916">MST3K Short 0603 – The Selling Wizard</a>
-* <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36884">#Bloo26</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/news/4224">Mandarins 2027 Update</a>
+* <a href="https://www.drum-corps.net/scores/dci/4220">DCI Capital Classic (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4211">Northwest Youth Music Games Portland (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4208">Drums Across Nebraska (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4204">Northwest Youth Music Games Seattle  (2026)</a>
@@ -24,8 +26,6 @@
 * <a href="https://www.drum-corps.net/scores/dci/4195">Drums Along the Rockies (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4192">Barnum Festival: Champions on Parade (2026)</a>
 * <a href="https://www.drum-corps.net/news/4175">DCI Houston To Be Relocated</a>
-* <a href="https://www.drum-corps.net/news/4167">Pete Emmons, who pioneered asymmetrical drill writing in the late 1970s, dies at 80</a>
-* <a href="https://www.drum-corps.net/history/4163">Children of Sanchez</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The primary cause of failure in electrical appliances is an expired warranty.  Often, you can get an appliance running again simply by changing the warranty expiration date with a 15/64-inch felt-tipped marker.</em><br /> -- Dave Barry, "The Taming of the Screw"</p>
+<p><em>You must lash out with every limb, like the octopus who plays the drums.</em><br /> -- The Sphinx</p>
