@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/humor/36932">Cinematic Titanic – War of the Insects</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/books/36941">Dune: Part Three – Trailer</a>
 * <a href="https://www.amon-hen.com/food/36920">Mmmm, Fat Spread</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/36918">MST3K 1310 – H.G. Wells’ The Shape of Things to Come</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36930">Bridge Over Troubled Water (2026)</a>
 * <a href="https://www.amon-hen.com/politics/36912">Last Week Tonight – S3 E8: Credit Reports, Panama Papers & Alabama</a>
 * <a href="https://www.amon-hen.com/television/6434">MST3K Short 0607 – Uncle Jim’s Dairy Farm</a>
 * <a href="https://www.amon-hen.com/politics/36926">Probably the most purely anti-American thing ever said</a>
 * <a href="https://www.amon-hen.com/politics/27808">RiffTrax –  Patriotism</a>
-* <a href="https://www.amon-hen.com/miscellaneous/26402">4th of July</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/4262">DCI Northern Alabama (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4257">Drums Across America  (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4247">The Kiwanis Thunder of Drums (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4241">Drums Across the Smokies (2026)</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/scores/dci/4220">DCI Capital Classic (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4211">Northwest Youth Music Games Portland (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4208">Drums Across Nebraska (2026)</a>
-* <a href="https://www.drum-corps.net/scores/dci/4204">Northwest Youth Music Games Seattle  (2026)</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Imagine if every Thursday your shoes exploded if you tied them the usual way.  This happens to us all the time with computers, and nobody thinks of complaining.</em><br /> -- Jeff Raskin (interviewed in <em>Doctor Dobb's Journal</em>)</p>
+<p><em>The aim of a joke is not to degrade the human being but to remind him that he is already degraded.</em><br /> -- George Orwell</p>
