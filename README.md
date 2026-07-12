@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/drums-and-percussion/36902">Don’t Look Down</a>
+* <a href="https://www.amon-hen.com/movies/36935">Jesse James Meets Frankenstein’s Daughter (1966)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/drums-and-percussion/36902">Don’t Look Down</a>
 * <a href="https://www.amon-hen.com/humor/36932">Cinematic Titanic – War of the Insects</a>
 * <a href="https://www.amon-hen.com/books/36941">Dune: Part Three – Trailer</a>
 * <a href="https://www.amon-hen.com/food/36920">Mmmm, Fat Spread</a>
@@ -11,11 +12,13 @@
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/36930">Bridge Over Troubled Water (2026)</a>
 * <a href="https://www.amon-hen.com/politics/36912">Last Week Tonight – S3 E8: Credit Reports, Panama Papers & Alabama</a>
 * <a href="https://www.amon-hen.com/television/6434">MST3K Short 0607 – Uncle Jim’s Dairy Farm</a>
-* <a href="https://www.amon-hen.com/politics/36926">Probably the most purely anti-American thing ever said</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/4284">The Whitewater Classic  (2026)</a>
+* <a href="https://www.drum-corps.net/scores/dci/4281">Drum Corps Grand Prix (2026)</a>
+* <a href="https://www.drum-corps.net/scores/dci/4275">Western Corps Connection (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4271">Cavalcade of Brass (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4268">Music on the March (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4265">Gold Showcase (2026)</a>
@@ -23,9 +26,6 @@
 * <a href="https://www.drum-corps.net/scores/dci/4257">Drums Across America  (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4247">The Kiwanis Thunder of Drums (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4241">Drums Across the Smokies (2026)</a>
-* <a href="https://www.drum-corps.net/scores/dci/4234">DCI West (2026)</a>
-* <a href="https://www.drum-corps.net/scores/dci/4229">River City Rhapsody (2026)</a>
-* <a href="https://www.drum-corps.net/news/4224">Mandarins 2027 Update</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>A tyrant must put on the appearance of uncommon devotion to religion. Subjects are less apprehensive of illegal treatment from a ruler whom they consider godfearing and pious. On the other hand, they do less easily move against him, believing that he has the gods on his side.</em><br /> -- Aristotle (384-322 BCE), "Politics"</p>
+<p><em>I don't do drugs, or worship the devil.</em><br /> -- Rick Bode (<em>Champagne and Bullets</em>)</p>
