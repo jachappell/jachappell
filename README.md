@@ -2,20 +2,23 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/36914">Last Week Tonight – S3 E9: Lead, Putin & Germany</a>
+* <a href="https://www.amon-hen.com/television/36950">MST3K 1311 – The Mask</a>
+* <a href="https://www.amon-hen.com/politics/36964">Trump doesn’t force people to do bad things</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/books/297">Reading: The Anubis Gates</a>
+* <a href="https://www.amon-hen.com/politics/36914">Last Week Tonight – S3 E9: Lead, Putin & Germany</a>
 * <a href="https://www.amon-hen.com/television/6149">MST3K Short 0608 – A Day At The Fair</a>
 * <a href="https://www.amon-hen.com/politics/36954">Lindsey Graham, 1955 – 2026</a>
 * <a href="https://www.amon-hen.com/movies/36935">Jesse James Meets Frankenstein’s Daughter (1966)</a>
 * <a href="https://www.amon-hen.com/music/drums-and-percussion/36902">Don’t Look Down</a>
 * <a href="https://www.amon-hen.com/humor/36932">Cinematic Titanic – War of the Insects</a>
-* <a href="https://www.amon-hen.com/books/36941">Dune: Part Three – Trailer</a>
-* <a href="https://www.amon-hen.com/food/36920">Mmmm, Fat Spread</a>
-* <a href="https://www.amon-hen.com/television/36918">MST3K 1310 – H.G. Wells’ The Shape of Things to Come</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/4310">DCI New Mexico (2026)</a>
+* <a href="https://www.drum-corps.net/scores/dci/4307">DCI Broken Arrow  (2026)</a>
+* <a href="https://www.drum-corps.net/scores/dci/4303">DCI Hutchinson (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4296">Brass Impact (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4293">So Cal Classic: Open Class Pacific Championship Finals (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4290">Drum Corps at the Rose Bowl (2026)</a>
@@ -23,9 +26,6 @@
 * <a href="https://www.drum-corps.net/scores/dci/4281">Drum Corps Grand Prix (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4275">Western Corps Connection (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4271">Cavalcade of Brass (2026)</a>
-* <a href="https://www.drum-corps.net/scores/dci/4268">Music on the March (2026)</a>
-* <a href="https://www.drum-corps.net/scores/dci/4265">Gold Showcase (2026)</a>
-* <a href="https://www.drum-corps.net/scores/dci/4262">DCI Northern Alabama (2026)</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Oh my God!  Space aliens!  Don't eat me, I have a wife and kids!  Eat them.</em><br /> -- Homer J. Simpson</p>
+<p><em>Ah ha-ha, chess! The ancient contest of wits!  Two opponenets: mano a mano.  Braino a braino.  And look! Magnets for ease of travel!  You could play chess on the moon!</em><br /> -- The Tick</p>
