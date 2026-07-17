@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/36937">Mmmm, Pant Based Sausage Rolls</a>
+* <a href="https://www.amon-hen.com/music/36988">Why ARW Never Made an Album</a>
+* <a href="https://www.amon-hen.com/science/36978">The MAGAs do their own scientific research</a>
+* <a href="https://www.amon-hen.com/politics/36976">American soldiers to receive gender-affirming care</a>
+* <a href="https://www.amon-hen.com/humor/36970">RiffTrax – Beginning Responsibility: Taking Care of Things</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/36937">Mmmm, Pant Based Sausage Rolls</a>
 * <a href="https://www.amon-hen.com/television/36950">MST3K 1311 – The Mask</a>
 * <a href="https://www.amon-hen.com/politics/36964">Trump doesn’t force people to do bad things</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: The Anubis Gates</a>
 * <a href="https://www.amon-hen.com/politics/36914">Last Week Tonight – S3 E9: Lead, Putin & Germany</a>
-* <a href="https://www.amon-hen.com/television/6149">MST3K Short 0608 – A Day At The Fair</a>
-* <a href="https://www.amon-hen.com/politics/36954">Lindsey Graham, 1955 – 2026</a>
-* <a href="https://www.amon-hen.com/movies/36935">Jesse James Meets Frankenstein’s Daughter (1966)</a>
-* <a href="https://www.amon-hen.com/music/drums-and-percussion/36902">Don’t Look Down</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/4326">DCI Central Texas (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4310">DCI New Mexico (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4307">DCI Broken Arrow  (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4303">DCI Hutchinson (2026)</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/scores/dci/4284">The Whitewater Classic  (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4281">Drum Corps Grand Prix (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4275">Western Corps Connection (2026)</a>
-* <a href="https://www.drum-corps.net/scores/dci/4271">Cavalcade of Brass (2026)</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Religion is fundamentally opposed to everything I hold in veneration--courage, clear thinking, honesty, fairness, and, above all, love of the truth.</em><br /> -- H.L. Mencken</p>
+<p><em>All I wanted was to make the world a better place... and to make an assload of money.</em><br /> -- Jodene Sparks</p>
