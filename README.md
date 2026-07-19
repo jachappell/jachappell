@@ -2,20 +2,22 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/religion/36984">Old Fashioned (2014)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/36904">fullmoon</a>
 * <a href="https://www.amon-hen.com/books/37004">Furious that Chris Nolan would disregard historical accuracy</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/36988">Why ARW Never Made an Album</a>
 * <a href="https://www.amon-hen.com/science/36978">The MAGAs do their own scientific research</a>
 * <a href="https://www.amon-hen.com/politics/36976">American soldiers to receive gender-affirming care</a>
 * <a href="https://www.amon-hen.com/humor/36970">RiffTrax – Beginning Responsibility: Taking Care of Things</a>
 * <a href="https://www.amon-hen.com/food/36937">Mmmm, Pant Based Sausage Rolls</a>
 * <a href="https://www.amon-hen.com/television/36950">MST3K 1311 – The Mask</a>
-* <a href="https://www.amon-hen.com/politics/36964">Trump doesn’t force people to do bad things</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/4353">DCI Southwestern Championship (2026)</a>
+* <a href="https://www.drum-corps.net/scores/dci/4349">The Buccaneer Classic  (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4340">DCI Houston (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4330">DCI Denton (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4326">DCI Central Texas (2026)</a>
@@ -24,8 +26,6 @@
 * <a href="https://www.drum-corps.net/scores/dci/4303">DCI Hutchinson (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4296">Brass Impact (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4293">So Cal Classic: Open Class Pacific Championship Finals (2026)</a>
-* <a href="https://www.drum-corps.net/scores/dci/4290">Drum Corps at the Rose Bowl (2026)</a>
-* <a href="https://www.drum-corps.net/scores/dci/4284">The Whitewater Classic  (2026)</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>In real life it is always the anvil that breaks the hammer.</em><br /> -- George Orwell</p>
+<p><em>Patriotism is the last refuge of a scoundrel.</em><br /> -- Samuel Johnson</p>
