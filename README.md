@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/7459">MST3K Short 0609 – Why Study Industrial Arts?</a>
+* <a href="https://www.amon-hen.com/politics/36916">Last Week Tonight – S3 E10: Puerto Rico, Obama & Norway</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/7459">MST3K Short 0609 – Why Study Industrial Arts?</a>
 * <a href="https://www.amon-hen.com/religion/36984">Old Fashioned (2014)</a>
 * <a href="https://www.amon-hen.com/music/36904">fullmoon</a>
 * <a href="https://www.amon-hen.com/books/37004">Furious that Chris Nolan would disregard historical accuracy</a>
@@ -11,21 +12,20 @@
 * <a href="https://www.amon-hen.com/science/36978">The MAGAs do their own scientific research</a>
 * <a href="https://www.amon-hen.com/politics/36976">American soldiers to receive gender-affirming care</a>
 * <a href="https://www.amon-hen.com/humor/36970">RiffTrax – Beginning Responsibility: Taking Care of Things</a>
-* <a href="https://www.amon-hen.com/food/36937">Mmmm, Pant Based Sausage Rolls</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/1764">DCI McKinney (2026)</a>
+* <a href="https://www.drum-corps.net/scores/dci/3857">DCI Dallas (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4353">DCI Southwestern Championship (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4349">The Buccaneer Classic  (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4340">DCI Houston (2026)</a>
+* <a href="https://www.drum-corps.net/history/4365">Phantom Regiment Alumni Corps on track for massive Semifinals performance</a>
 * <a href="https://www.drum-corps.net/scores/dci/4330">DCI Denton (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4326">DCI Central Texas (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4310">DCI New Mexico (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4307">DCI Broken Arrow  (2026)</a>
-* <a href="https://www.drum-corps.net/scores/dci/4303">DCI Hutchinson (2026)</a>
-* <a href="https://www.drum-corps.net/scores/dci/4296">Brass Impact (2026)</a>
-* <a href="https://www.drum-corps.net/scores/dci/4293">So Cal Classic: Open Class Pacific Championship Finals (2026)</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>As the one guy said to the other guy when he was getting fed up, "I'm getting fed up."</em><br /> -- Vyvyan Basterd </p>
+<p><em>Well I don't have anything else planned for today, let's get drunk!</em><br /> -- Bender Unit 22</p>
