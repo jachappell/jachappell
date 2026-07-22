@@ -2,20 +2,21 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/36916">Last Week Tonight – S3 E10: Puerto Rico, Obama & Norway</a>
+* <a href="https://www.amon-hen.com/television/36952">MST3K 1312 – The Bubble</a>
+* <a href="https://www.amon-hen.com/politics/37014">You can’t get pasta at Olive Garden without a picture ID!</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/36916">Last Week Tonight – S3 E10: Puerto Rico, Obama & Norway</a>
 * <a href="https://www.amon-hen.com/television/7459">MST3K Short 0609 – Why Study Industrial Arts?</a>
 * <a href="https://www.amon-hen.com/religion/36984">Old Fashioned (2014)</a>
 * <a href="https://www.amon-hen.com/music/36904">fullmoon</a>
 * <a href="https://www.amon-hen.com/books/37004">Furious that Chris Nolan would disregard historical accuracy</a>
 * <a href="https://www.amon-hen.com/music/36988">Why ARW Never Made an Album</a>
 * <a href="https://www.amon-hen.com/science/36978">The MAGAs do their own scientific research</a>
-* <a href="https://www.amon-hen.com/politics/36976">American soldiers to receive gender-affirming care</a>
-* <a href="https://www.amon-hen.com/humor/36970">RiffTrax – Beginning Responsibility: Taking Care of Things</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/4372">DCI St. Louis (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/1764">DCI McKinney (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/3857">DCI Dallas (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4353">DCI Southwestern Championship (2026)</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/scores/dci/4330">DCI Denton (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4326">DCI Central Texas (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4310">DCI New Mexico (2026)</a>
-* <a href="https://www.drum-corps.net/scores/dci/4307">DCI Broken Arrow  (2026)</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Well I don't have anything else planned for today, let's get drunk!</em><br /> -- Bender Unit 22</p>
+<p><em>Like my parents, I have never been a regular church member or churchgoer.  It doesn't seem plausible to me that there is the kind of God who watches over human affairs, listens to prayers, and tries to guide people to follow His precepts -- there is just too much misery and cruelty for that.  On the other hand, I respect and envy the people who get inspiration from their religions.</em><br /> -- Benjamin Spock</p>
