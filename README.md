@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/37006">Mmmm, Runch</a>
+* <a href="https://www.amon-hen.com/humor/37023">RiffTrax – Read On From Left To Right</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/37006">Mmmm, Runch</a>
 * <a href="https://www.amon-hen.com/television/36952">MST3K 1312 – The Bubble</a>
 * <a href="https://www.amon-hen.com/politics/37014">You can’t get pasta at Olive Garden without a picture ID!</a>
 * <a href="https://www.amon-hen.com/politics/36916">Last Week Tonight – S3 E10: Puerto Rico, Obama & Norway</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/religion/36984">Old Fashioned (2014)</a>
 * <a href="https://www.amon-hen.com/music/36904">fullmoon</a>
 * <a href="https://www.amon-hen.com/books/37004">Furious that Chris Nolan would disregard historical accuracy</a>
-* <a href="https://www.amon-hen.com/music/36988">Why ARW Never Made an Album</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I want to share something with you -- the three little sentences that will get you through life.  Number one, "Cover for me."  Number two, "Oh, good idea, boss." Number three, "It was like that when I got here."</em><br /> -- Homer J. Simpson</p>
+<p><em>Rembrandt's first name was Beauregard, which is why he never used it.</em><br /> -- Dave Barry</p>
