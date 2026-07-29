@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/37028">Trump & Crypto</a>
+* <a href="https://www.amon-hen.com/television/3198">MST3K 0310 – Fugitive Alien</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/37028">Trump & Crypto</a>
 * <a href="https://www.amon-hen.com/television/6161">MST3K Short 0610 – A Young Man’s Fancy</a>
 * <a href="https://www.amon-hen.com/movies/36986">Doctor Mordrid (1992)</a>
 * <a href="https://www.amon-hen.com/music/36906">God Only Knows</a>
@@ -11,11 +12,11 @@
 * <a href="https://www.amon-hen.com/food/37006">Mmmm, Runch</a>
 * <a href="https://www.amon-hen.com/television/36952">MST3K 1312 – The Bubble</a>
 * <a href="https://www.amon-hen.com/politics/37014">You can’t get pasta at Olive Garden without a picture ID!</a>
-* <a href="https://www.amon-hen.com/politics/36916">Last Week Tonight – S3 E10: Puerto Rico, Obama & Norway</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/4498">Brass at the Beach (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4482">NightBEAT (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4480">DCI in Motion (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4458">Midwestern Championship (2026)</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/scores/dci/4441">DCI Birmingham (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4443">Drums on Parade (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4438">DCI Middle Tennessee (2026)</a>
-* <a href="https://www.drum-corps.net/scores/dci/4394">DCI Syracuse  (2026)</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>No. Men should die for lies. But the truth is too precious to die for.</em><br /> -- Terry Pratchett (<em>Small Gods</em>)</p>
+<p><em>An intellectual is a person who has discovered something more interesting than sex.</em><br /> -- Aldous Huxley</p>
