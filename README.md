@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/3198">MST3K 0310 – Fugitive Alien</a>
+* <a href="https://www.amon-hen.com/food/37032">Mmmm, Violently Beaten Lemon Tea</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/3198">MST3K 0310 – Fugitive Alien</a>
 * <a href="https://www.amon-hen.com/politics/37028">Trump & Crypto</a>
 * <a href="https://www.amon-hen.com/television/6161">MST3K Short 0610 – A Young Man’s Fancy</a>
 * <a href="https://www.amon-hen.com/movies/36986">Doctor Mordrid (1992)</a>
@@ -11,11 +12,13 @@
 * <a href="https://www.amon-hen.com/humor/37023">RiffTrax – Read On From Left To Right</a>
 * <a href="https://www.amon-hen.com/food/37006">Mmmm, Runch</a>
 * <a href="https://www.amon-hen.com/television/36952">MST3K 1312 – The Bubble</a>
-* <a href="https://www.amon-hen.com/politics/37014">You can’t get pasta at Olive Garden without a picture ID!</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/scores/dci/4505">Summer Music Games of Southwest Virginia (2026)</a>
+* <a href="https://www.drum-corps.net/scores/dci/4491">DCI Huntington (2026)</a>
+* <a href="https://www.drum-corps.net/news/4108">DCI Magazine Summer 2026</a>
 * <a href="https://www.drum-corps.net/scores/dci/4498">Brass at the Beach (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4482">NightBEAT (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4480">DCI in Motion (2026)</a>
@@ -23,9 +26,6 @@
 * <a href="https://www.drum-corps.net/scores/dci/4462">DCI Southeastern Championship (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4467">Music on the Mountain (2026)</a>
 * <a href="https://www.drum-corps.net/scores/dci/4464">Bushwackers Invitational (2026)</a>
-* <a href="https://www.drum-corps.net/scores/dci/4441">DCI Birmingham (2026)</a>
-* <a href="https://www.drum-corps.net/scores/dci/4443">Drums on Parade (2026)</a>
-* <a href="https://www.drum-corps.net/scores/dci/4438">DCI Middle Tennessee (2026)</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>An intellectual is a person who has discovered something more interesting than sex.</em><br /> -- Aldous Huxley</p>
+<p><em>In these matters the only certainty is that there is nothing certain.</em><br /> -- Pliny the Elder</p>
