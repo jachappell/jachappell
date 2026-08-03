@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/37041">Fugitive Alien (1986)</a>
+* <a href="https://www.amon-hen.com/television/5710">MST3K Short 0613 – Keeping Clean and Neat</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/37041">Fugitive Alien (1986)</a>
 * <a href="https://www.amon-hen.com/music/36908">Hot Saturn</a>
 * <a href="https://www.amon-hen.com/politics/37046">US government map of Africa mislabels every country at global conference</a>
 * <a href="https://www.amon-hen.com/science/37037">Are the laws of physics real?</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/3198">MST3K 0310 – Fugitive Alien</a>
 * <a href="https://www.amon-hen.com/politics/37028">Trump & Crypto</a>
 * <a href="https://www.amon-hen.com/television/6161">MST3K Short 0610 – A Young Man’s Fancy</a>
-* <a href="https://www.amon-hen.com/movies/36986">Doctor Mordrid (1992)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>It's like something out of that twilighty show about that zone.</em><br /> -- Homer J. Simpson</p>
+<p><em>Ethics are so annoying.  I avoid them on principle.</em><br /> -- Darby Conley</p>
