@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/9261">MST3K 0311 – It Conquered the World</a>
+* <a href="https://www.amon-hen.com/politics/37072">Republicans, summed up</a>
+* <a href="https://www.amon-hen.com/food/37058">No more effortless toppings!</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/9261">MST3K 0311 – It Conquered the World</a>
 * <a href="https://www.amon-hen.com/politics/37066">Anti-trans sports policies harm all girls</a>
 * <a href="https://www.amon-hen.com/politics/37056">Police Surveillance Technology</a>
 * <a href="https://www.amon-hen.com/television/5710">MST3K Short 0613 – Keeping Clean and Neat</a>
 * <a href="https://www.amon-hen.com/movies/37041">Fugitive Alien (1986)</a>
 * <a href="https://www.amon-hen.com/music/36908">Hot Saturn</a>
 * <a href="https://www.amon-hen.com/politics/37046">US government map of Africa mislabels every country at global conference</a>
-* <a href="https://www.amon-hen.com/science/37037">Are the laws of physics real?</a>
-* <a href="https://www.amon-hen.com/food/37032">Mmmm, Violently Beaten Lemon Tea</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>It was amazing, this mystic business.  You tell them a lie, and then when you don't need it anymore you tell them another lie and tell them they're progressing along the road to wisdom.  Then instead of laughing they follow you even more, hoping that at the heart of all the lies they'll find the truth.  And bit by bit they accept the unacceptable.  Amazing.</em><br /> -- Terry Pratchett (<em>Guards! Guards!</em>)</p>
+<p><em>If only is was as easy to banish hunger by rubbing the belly as it is to masturbate.</em><br /> -- Diogenes the Cynic</p>
