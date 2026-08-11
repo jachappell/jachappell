@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/37085">Trump & the DOJ</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/8550">MST3K Short 0616 – Are You Ready for Marriage?</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/37077">2026 DCI World Championships – Indianapolis, IN</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/movies/37044">Star Force: Fugitive Alien II (1987)</a>
 * <a href="https://www.amon-hen.com/music/37064">Autumn Leaves (1964)</a>
 * <a href="https://www.amon-hen.com/politics/37074">Wars are won by logistics</a>
 * <a href="https://www.amon-hen.com/humor/37070">RiffTrax – Holiday From Rules</a>
 * <a href="https://www.amon-hen.com/politics/37072">Republicans, summed up</a>
 * <a href="https://www.amon-hen.com/food/37058">No more effortless toppings!</a>
-* <a href="https://www.amon-hen.com/television/9261">MST3K 0311 – It Conquered the World</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Life, to me, is like a quiet forest pool, one that needs a direct hit from a big rock half-buried in the ground. You pull and you pull, but you can't get the rock out of the ground. So you give it a good kick, but you lose your balance and go skidding down the hill toward the pool. Then out comes a big Hawaiian man who was screwing his wife beside the pool because they thought it was real pretty. He tells you to get out of there, but you start faking it, like you're talking Hawaiian, and then he gets mad and chases you...</em><br /> -- Jack Handey</p>
+<p><em>I have a switch in my apartment that doesn't do anything.  Every once in a while I turn it on and off.  On and off.  On and off.  One day I got a call from a woman in France who said "Cut it out!"</em><br /> -- Stephen Wright</p>
