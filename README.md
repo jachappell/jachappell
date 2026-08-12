@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/37085">Trump & the DOJ</a>
+* <a href="https://www.amon-hen.com/television/9307">MST3K 0312 – Gamera vs. Guiron</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/37085">Trump & the DOJ</a>
 * <a href="https://www.amon-hen.com/television/8550">MST3K Short 0616 – Are You Ready for Marriage?</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/37077">2026 DCI World Championships – Indianapolis, IN</a>
 * <a href="https://www.amon-hen.com/movies/37044">Star Force: Fugitive Alien II (1987)</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/37074">Wars are won by logistics</a>
 * <a href="https://www.amon-hen.com/humor/37070">RiffTrax – Holiday From Rules</a>
 * <a href="https://www.amon-hen.com/politics/37072">Republicans, summed up</a>
-* <a href="https://www.amon-hen.com/food/37058">No more effortless toppings!</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I have a switch in my apartment that doesn't do anything.  Every once in a while I turn it on and off.  On and off.  On and off.  One day I got a call from a woman in France who said "Cut it out!"</em><br /> -- Stephen Wright</p>
+<p><em>Yet golden treasure inside is hid.</em><br /> -- J.R.R. Tolkien</p>
