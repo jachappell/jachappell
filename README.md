@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/37122">MAGA 2 will be worse</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/food/37092">Fancy Restaurant Food</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/32714">12 August 2022</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/9307">MST3K 0312 – Gamera vs. Guiron</a>
 * <a href="https://www.amon-hen.com/politics/37085">Trump & the DOJ</a>
 * <a href="https://www.amon-hen.com/television/8550">MST3K Short 0616 – Are You Ready for Marriage?</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/37077">2026 DCI World Championships – Indianapolis, IN</a>
 * <a href="https://www.amon-hen.com/movies/37044">Star Force: Fugitive Alien II (1987)</a>
 * <a href="https://www.amon-hen.com/music/37064">Autumn Leaves (1964)</a>
-* <a href="https://www.amon-hen.com/politics/37074">Wars are won by logistics</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The whole town laughed at my great-grandfather, just because he worked hard and saved his money. True, working at the hardware store didn't pay much, but he felt it was better than what everybody else did, which was go up to the volcano and collect the gold nuggets it shot out every day. It turned out he was right. After forty years, the volcano petered out. Everybody left town, and the hardware store went broke. Finally he decided to collect gold nuggets too, but there weren't many left by then. Plus, he broke his leg and the doctor's bills were real high.</em><br /> -- Jack Handey</p>
+<p><em>This item demonstrates how stupid the average American is.  Every ninety minutes someone in this country is hit by a train. A train, okay?  Trains are on tracks;  they can't come and get you.  They can't surprise you when you step off a curb.  You have to go to them.  Got that?</em><br /> -- George Carlin</p>
