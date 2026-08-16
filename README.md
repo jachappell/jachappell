@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/37118">Paramour</a>
+* <a href="https://www.amon-hen.com/movies/37114">Journey to the Seventh Planet (1962)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/37118">Paramour</a>
 * <a href="https://www.amon-hen.com/politics/37122">MAGA 2 will be worse</a>
 * <a href="https://www.amon-hen.com/food/37092">Fancy Restaurant Food</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/32714">12 August 2022</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/37085">Trump & the DOJ</a>
 * <a href="https://www.amon-hen.com/television/8550">MST3K Short 0616 – Are You Ready for Marriage?</a>
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/37077">2026 DCI World Championships – Indianapolis, IN</a>
-* <a href="https://www.amon-hen.com/movies/37044">Star Force: Fugitive Alien II (1987)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Indeed, history is nothing more than a tableau of crimes and misfortunes.</em><br /> -- Voltaire</p>
+<p><em>What have been [Christianity's] fruits? More or less in all places, pride and indolence in the Clergy, ignorance and servility in the laity; in both, superstition, bigotry and persecution.</em><br /> -- James Madison</p>
