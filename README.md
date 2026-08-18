@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/7198">MST3K Short 0618 – Out of this World</a>
+* <a href="https://www.amon-hen.com/politics/37131">Fetal Personhood</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/7198">MST3K Short 0618 – Out of this World</a>
 * <a href="https://www.amon-hen.com/movies/37114">Journey to the Seventh Planet (1962)</a>
 * <a href="https://www.amon-hen.com/music/37118">Paramour</a>
 * <a href="https://www.amon-hen.com/politics/37122">MAGA 2 will be worse</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/32714">12 August 2022</a>
 * <a href="https://www.amon-hen.com/television/9307">MST3K 0312 – Gamera vs. Guiron</a>
 * <a href="https://www.amon-hen.com/politics/37085">Trump & the DOJ</a>
-* <a href="https://www.amon-hen.com/television/8550">MST3K Short 0616 – Are You Ready for Marriage?</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>You can tell how far we have to go, when FORTRAN is the language of supercomputers.</em><br /> -- Steven Feiner</p>
+<p><em>If you really want something in life you have to work for it.  Now quiet, they're about to announce the lottery numbers.</em><br /> -- Homer J. Simpson</p>
