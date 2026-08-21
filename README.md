@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/37133">Mmmm, Cone Soup</a>
+* <a href="https://www.amon-hen.com/television/37142">Japanese Theater</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/37133">Mmmm, Cone Soup</a>
 * <a href="https://www.amon-hen.com/television/12952">MST3K 0313 – Earth vs. the Spider</a>
 * <a href="https://www.amon-hen.com/politics/37131">Fetal Personhood</a>
 * <a href="https://www.amon-hen.com/television/7198">MST3K Short 0618 – Out of this World</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/music/37118">Paramour</a>
 * <a href="https://www.amon-hen.com/politics/37122">MAGA 2 will be worse</a>
 * <a href="https://www.amon-hen.com/food/37092">Fancy Restaurant Food</a>
-* <a href="https://www.amon-hen.com/music/drum-and-bugle-corps/32714">12 August 2022</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>If fifty million people say a foolish thing, it's still a foolish thing.</em><br /> -- Anatole France</p>
+<p><em>A 7 day waiting period to buy a gun?  That's stupid.  Nobody can remain mad that long.</em><br /> -- Emo Philips </p>
