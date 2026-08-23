@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/television/37146">Alexander the Great (1963)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/37138">Dowager</a>
 * <a href="https://www.amon-hen.com/politics/37150">I predicted this would happen</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/37142">Japanese Theater</a>
 * <a href="https://www.amon-hen.com/food/37133">Mmmm, Cone Soup</a>
 * <a href="https://www.amon-hen.com/television/12952">MST3K 0313 – Earth vs. the Spider</a>
 * <a href="https://www.amon-hen.com/politics/37131">Fetal Personhood</a>
 * <a href="https://www.amon-hen.com/television/7198">MST3K Short 0618 – Out of this World</a>
 * <a href="https://www.amon-hen.com/movies/37114">Journey to the Seventh Planet (1962)</a>
-* <a href="https://www.amon-hen.com/music/37118">Paramour</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The last time somebody said, "I find I can write much better with a word processor.", I replied, "They used to say the same thing about drugs."</em><br /> -- Roy Blount, Jr.</p>
+<p><em>I wish outer space guys would conquer the Earth and make people their pets, because I'd like to have one of those little beds with my name on it.</em><br /> -- Jack Handey</p>
