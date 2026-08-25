@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/37172">Subscriptions</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/37170">The president is stupid</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: The Nightmare Years, 1930–1940</a>
 * <a href="https://www.amon-hen.com/television/9575">MST3K Short 0619 – Speech: Platform, Posture and Appearance</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/37146">Alexander the Great (1963)</a>
 * <a href="https://www.amon-hen.com/music/37138">Dowager</a>
 * <a href="https://www.amon-hen.com/politics/37150">I predicted this would happen</a>
 * <a href="https://www.amon-hen.com/television/37142">Japanese Theater</a>
 * <a href="https://www.amon-hen.com/food/37133">Mmmm, Cone Soup</a>
-* <a href="https://www.amon-hen.com/television/12952">MST3K 0313 – Earth vs. the Spider</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>No, forget the glass Woodhouse, just give me the pitcher.  For I am a sinner in the hands of an angry God. Bloody Mary, full of vodka, blessed are you among cocktails.  Pray for me now and at the hour of my death, which I hope is soon. Amen.</em><br /> -- Sterling Archer</p>
+<p><em>Two oil changes for the price of one! Now if I could afford the one, and the car.</em><br /> -- Doctor John A. Zoidberg</p>
