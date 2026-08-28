@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/37179">Crap Meat</a>
+* <a href="https://www.amon-hen.com/politics/37216">Is he going to rename the months?</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/37179">Crap Meat</a>
 * <a href="https://www.amon-hen.com/television/13001">MST3K 0314 – Mighty Jack</a>
 * <a href="https://www.amon-hen.com/music/37194">The universe is nothing but random chaos</a>
 * <a href="https://www.amon-hen.com/humor/37177">‘Weird Al’ Yankovic: Tiny Desk Concert</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/37170">The president is stupid</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: The Nightmare Years, 1930–1940</a>
 * <a href="https://www.amon-hen.com/television/9575">MST3K Short 0619 – Speech: Platform, Posture and Appearance</a>
-* <a href="https://www.amon-hen.com/television/37146">Alexander the Great (1963)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Non Illegitimus Carborundum.</em></p>
+<p><em>Don't gain the world and lose your soul, wisdom is better than silver or gold.</em><br /> -- Bob Marley</p>
