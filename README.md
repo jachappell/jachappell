@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/movies/37183">Space Mutiny (1988)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/37226">Affirmative action for MAGA</a>
 * <a href="https://www.amon-hen.com/music/37188">Orlok</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/37216">Is he going to rename the months?</a>
 * <a href="https://www.amon-hen.com/food/37179">Crap Meat</a>
 * <a href="https://www.amon-hen.com/television/13001">MST3K 0314 – Mighty Jack</a>
 * <a href="https://www.amon-hen.com/music/37194">The universe is nothing but random chaos</a>
 * <a href="https://www.amon-hen.com/humor/37177">‘Weird Al’ Yankovic: Tiny Desk Concert</a>
 * <a href="https://www.amon-hen.com/politics/37172">Subscriptions</a>
-* <a href="https://www.amon-hen.com/politics/37170">The president is stupid</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>That which is hateful to you, do not do to your fellow. That is the whole Torah; the rest is the explanation; go and learn.</em><br /> -- Hillel the Elder</p>
+<p><em>At my lemonade stand I used to give the first glass away free and charge five dollars for the second glass. The refill contained the antidote.</em><br /> -- Emo Philips</p>
