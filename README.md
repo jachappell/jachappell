@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/37183">Space Mutiny (1988)</a>
+* <a href="https://www.amon-hen.com/television/7110">MST3K Short 0621 – Money Talks!</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/37183">Space Mutiny (1988)</a>
 * <a href="https://www.amon-hen.com/politics/37226">Affirmative action for MAGA</a>
 * <a href="https://www.amon-hen.com/music/37188">Orlok</a>
 * <a href="https://www.amon-hen.com/politics/37216">Is he going to rename the months?</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/13001">MST3K 0314 – Mighty Jack</a>
 * <a href="https://www.amon-hen.com/music/37194">The universe is nothing but random chaos</a>
 * <a href="https://www.amon-hen.com/humor/37177">‘Weird Al’ Yankovic: Tiny Desk Concert</a>
-* <a href="https://www.amon-hen.com/politics/37172">Subscriptions</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>At my lemonade stand I used to give the first glass away free and charge five dollars for the second glass. The refill contained the antidote.</em><br /> -- Emo Philips</p>
+<p><em>What I envy most about tater tots is the way they stay young and innocent forever.</em><br /> -- Stephen Colbert</p>
