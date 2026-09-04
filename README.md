@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/humor/37197">Mmmm, Ring Around the Tuna</a>
+* <a href="https://www.amon-hen.com/politics/37238">A Principled Fiscal Conservative</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/humor/37197">Mmmm, Ring Around the Tuna</a>
 * <a href="https://www.amon-hen.com/television/13094">MST3K 0315 – Teenage Caveman</a>
 * <a href="https://www.amon-hen.com/science/37199">Last Week Tonight – S3 E11: Scientific Studies, Trump & North Korea</a>
 * <a href="https://www.amon-hen.com/television/7110">MST3K Short 0621 – Money Talks!</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/37226">Affirmative action for MAGA</a>
 * <a href="https://www.amon-hen.com/music/37188">Orlok</a>
 * <a href="https://www.amon-hen.com/politics/37216">Is he going to rename the months?</a>
-* <a href="https://www.amon-hen.com/food/37179">Crap Meat</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The less I know about other people's affairs, the happier I am. I'm not interested in caring about people. I once worked with a guy for three years and never learned his name. Best friend I ever had. We still never talk sometimes.</em><br /> -- Ron Swanson</p>
+<p><em>In Washington, only two kinds of religion are tolerated: vague beliefs strongly affirmed and strong beliefs vaguely expressed.</em><br /> -- Eugene McCarthy</p>
