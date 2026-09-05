@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/37238">A Principled Fiscal Conservative</a>
+* <a href="https://www.amon-hen.com/music/37244">The Vapours</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/37238">A Principled Fiscal Conservative</a>
 * <a href="https://www.amon-hen.com/humor/37197">Mmmm, Ring Around the Tuna</a>
 * <a href="https://www.amon-hen.com/television/13094">MST3K 0315 – Teenage Caveman</a>
 * <a href="https://www.amon-hen.com/science/37199">Last Week Tonight – S3 E11: Scientific Studies, Trump & North Korea</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/movies/37183">Space Mutiny (1988)</a>
 * <a href="https://www.amon-hen.com/politics/37226">Affirmative action for MAGA</a>
 * <a href="https://www.amon-hen.com/music/37188">Orlok</a>
-* <a href="https://www.amon-hen.com/politics/37216">Is he going to rename the months?</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>In Washington, only two kinds of religion are tolerated: vague beliefs strongly affirmed and strong beliefs vaguely expressed.</em><br /> -- Eugene McCarthy</p>
+<p><em>In a mad world only the mad are sane.</em><br /> -- Akira Kurosawa</p>
