@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/37244">The Vapours</a>
+* <a href="https://www.amon-hen.com/movies/37208">Time Chasers (1994)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/37244">The Vapours</a>
 * <a href="https://www.amon-hen.com/politics/37238">A Principled Fiscal Conservative</a>
 * <a href="https://www.amon-hen.com/humor/37197">Mmmm, Ring Around the Tuna</a>
 * <a href="https://www.amon-hen.com/television/13094">MST3K 0315 – Teenage Caveman</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/7110">MST3K Short 0621 – Money Talks!</a>
 * <a href="https://www.amon-hen.com/movies/37183">Space Mutiny (1988)</a>
 * <a href="https://www.amon-hen.com/politics/37226">Affirmative action for MAGA</a>
-* <a href="https://www.amon-hen.com/music/37188">Orlok</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>In a mad world only the mad are sane.</em><br /> -- Akira Kurosawa</p>
+<p><em>Mmmm, purple.</em><br /> -- Homer J. Simpson</p>
