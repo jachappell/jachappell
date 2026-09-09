@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/37202">Last Week Tonight – S3 E12: 911, Trump & Queen Elizabeth</a>
+* <a href="https://www.amon-hen.com/television/3720">MST3K 0316 – Gamera vs. Zigra</a>
+* <a href="https://www.amon-hen.com/television/37266">New MST3K Theme</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/37202">Last Week Tonight – S3 E12: 911, Trump & Queen Elizabeth</a>
 * <a href="https://www.amon-hen.com/television/6393">MST3K Short 0621 – Progress Island, U.S.A.</a>
 * <a href="https://www.amon-hen.com/movies/37208">Time Chasers (1994)</a>
 * <a href="https://www.amon-hen.com/music/37244">The Vapours</a>
 * <a href="https://www.amon-hen.com/politics/37238">A Principled Fiscal Conservative</a>
 * <a href="https://www.amon-hen.com/humor/37197">Mmmm, Ring Around the Tuna</a>
 * <a href="https://www.amon-hen.com/television/13094">MST3K 0315 – Teenage Caveman</a>
-* <a href="https://www.amon-hen.com/science/37199">Last Week Tonight – S3 E11: Scientific Studies, Trump & North Korea</a>
-* <a href="https://www.amon-hen.com/television/7110">MST3K Short 0621 – Money Talks!</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I hate quotations.  Tell me what you know.</em><br /> -- Ralph Waldo Emerson</p>
+<p><em>This so-called "new religion" is nothing but a pack of weird rituals and chants, designed to take away the money of fools.  Let us say the Lord's Prayer 40 times, but first, let's pass the collection plate!</em><br /> -- Reverend Timothy Lovejoy</p>
