@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/37220">Mmmm, Mozzarella Stuffed Pretzel Nuggets</a>
+* <a href="https://www.amon-hen.com/skeptic/37250">Sea Serpents In Lake Michigan</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/37220">Mmmm, Mozzarella Stuffed Pretzel Nuggets</a>
 * <a href="https://www.amon-hen.com/television/3720">MST3K 0316 – Gamera vs. Zigra</a>
 * <a href="https://www.amon-hen.com/television/37266">New MST3K Theme</a>
 * <a href="https://www.amon-hen.com/politics/37202">Last Week Tonight – S3 E12: 911, Trump & Queen Elizabeth</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/movies/37208">Time Chasers (1994)</a>
 * <a href="https://www.amon-hen.com/music/37244">The Vapours</a>
 * <a href="https://www.amon-hen.com/politics/37238">A Principled Fiscal Conservative</a>
-* <a href="https://www.amon-hen.com/humor/37197">Mmmm, Ring Around the Tuna</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I have been Michael's number two guy for about five years, and we make a great team. Why, we're like one of those classic, famous teams. He's like Mozart and I'm like Mozart's friend. No, I'm like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart, you're gonna get a bullet in your head, courtesy of Butch Cassidy.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>Utility is when you have one telephone, luxury is when you have two, opulence is when you have three -- and paradise is when you have none.</em><br /> -- Doug Larson</p>
