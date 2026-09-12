@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/skeptic/37250">Sea Serpents In Lake Michigan</a>
+* <a href="https://www.amon-hen.com/music/37246">Something Helpful</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/skeptic/37250">Sea Serpents In Lake Michigan</a>
 * <a href="https://www.amon-hen.com/politics/37220">Mmmm, Mozzarella Stuffed Pretzel Nuggets</a>
 * <a href="https://www.amon-hen.com/television/3720">MST3K 0316 – Gamera vs. Zigra</a>
 * <a href="https://www.amon-hen.com/television/37266">New MST3K Theme</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/6393">MST3K Short 0621 – Progress Island, U.S.A.</a>
 * <a href="https://www.amon-hen.com/movies/37208">Time Chasers (1994)</a>
 * <a href="https://www.amon-hen.com/music/37244">The Vapours</a>
-* <a href="https://www.amon-hen.com/politics/37238">A Principled Fiscal Conservative</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Utility is when you have one telephone, luxury is when you have two, opulence is when you have three -- and paradise is when you have none.</em><br /> -- Doug Larson</p>
+<p><em>We are number one! All others are number two, or lower.</em><br /> -- The Sphinx</p>
