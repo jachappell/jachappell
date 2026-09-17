@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/food/37228">Mmmm, Wendy’s Stromboli</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/9362">MST3K 0317 – The Viking Women and the Sea Serpent</a>
 * <a href="https://www.amon-hen.com/television/37271">The RiffTrax Experiments</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/37204">Last Week Tonight – S3 E13: Primaries & Caucuses, Chechnya & Venezuela</a>
 * <a href="https://www.amon-hen.com/television/7293">MST3K Short 0623 – The Days of Our Years</a>
 * <a href="https://www.amon-hen.com/movies/37242">Destination Inner Space (1966)</a>
 * <a href="https://www.amon-hen.com/music/37246">Something Helpful</a>
 * <a href="https://www.amon-hen.com/skeptic/37250">Sea Serpents In Lake Michigan</a>
 * <a href="https://www.amon-hen.com/politics/37220">Mmmm, Mozzarella Stuffed Pretzel Nuggets</a>
-* <a href="https://www.amon-hen.com/television/3720">MST3K 0316 – Gamera vs. Zigra</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Go to Heaven for the climate, Hell for the company.</em><br /> -- Mark Twain</p>
+<p><em>That chill, my young non-friend, is probably the cold breath of the reaper breathing down your neck.</em><br /> -- Captain Hazel 'Hank' Murphy</p>
