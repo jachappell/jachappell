@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/37275">Mitch McConnell Returns to the Senate</a>
+* <a href="https://www.amon-hen.com/music/18548">Black Napkins</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/37275">Mitch McConnell Returns to the Senate</a>
 * <a href="https://www.amon-hen.com/food/37228">Mmmm, Wendy’s Stromboli</a>
 * <a href="https://www.amon-hen.com/television/9362">MST3K 0317 – The Viking Women and the Sea Serpent</a>
 * <a href="https://www.amon-hen.com/television/37271">The RiffTrax Experiments</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/7293">MST3K Short 0623 – The Days of Our Years</a>
 * <a href="https://www.amon-hen.com/movies/37242">Destination Inner Space (1966)</a>
 * <a href="https://www.amon-hen.com/music/37246">Something Helpful</a>
-* <a href="https://www.amon-hen.com/skeptic/37250">Sea Serpents In Lake Michigan</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>In the game of chess you can never let your adversary see your pieces.</em><br /> -- Captain Zapp Brannigan</p>
+<p><em>If life was fair, Elvis would be alive and all the impersonators would be dead.</em><br /> -- Johnny Carson</p>
