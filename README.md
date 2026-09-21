@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/television/6119">MST3K Short 0701 – Once Upon A Honeymoon</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/movies/37280">Attack of the Giant Leeches (1959)</a>
 * <a href="https://www.amon-hen.com/weirdness/1025">Talk Like a Pirate Day</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/music/18548">Black Napkins</a>
 * <a href="https://www.amon-hen.com/politics/37275">Mitch McConnell Returns to the Senate</a>
 * <a href="https://www.amon-hen.com/food/37228">Mmmm, Wendy’s Stromboli</a>
 * <a href="https://www.amon-hen.com/television/9362">MST3K 0317 – The Viking Women and the Sea Serpent</a>
 * <a href="https://www.amon-hen.com/television/37271">The RiffTrax Experiments</a>
 * <a href="https://www.amon-hen.com/politics/37204">Last Week Tonight – S3 E13: Primaries & Caucuses, Chechnya & Venezuela</a>
-* <a href="https://www.amon-hen.com/television/7293">MST3K Short 0623 – The Days of Our Years</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Say what you will about the Ten Commandments, you must always come back to the pleasant fact that there are only ten of them.</em><br /> -- H.L. Mencken</p>
+<p><em>An anthropologist at Tulane has just come back from a field trip to New Guinea with reports of a tribe so primitive that they have Tide but not new Tide with lemon-fresh Borax.</em><br /> -- David Letterman</p>
