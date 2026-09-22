@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/6119">MST3K Short 0701 – Once Upon A Honeymoon</a>
+* <a href="https://www.amon-hen.com/politics/37296">UnitedHealthcare & UnitedHealth Group</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/6119">MST3K Short 0701 – Once Upon A Honeymoon</a>
 * <a href="https://www.amon-hen.com/movies/37280">Attack of the Giant Leeches (1959)</a>
 * <a href="https://www.amon-hen.com/weirdness/1025">Talk Like a Pirate Day</a>
 * <a href="https://www.amon-hen.com/music/18548">Black Napkins</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/food/37228">Mmmm, Wendy’s Stromboli</a>
 * <a href="https://www.amon-hen.com/television/9362">MST3K 0317 – The Viking Women and the Sea Serpent</a>
 * <a href="https://www.amon-hen.com/television/37271">The RiffTrax Experiments</a>
-* <a href="https://www.amon-hen.com/politics/37204">Last Week Tonight – S3 E13: Primaries & Caucuses, Chechnya & Venezuela</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>An anthropologist at Tulane has just come back from a field trip to New Guinea with reports of a tribe so primitive that they have Tide but not new Tide with lemon-fresh Borax.</em><br /> -- David Letterman</p>
+<p><em>There she lusted after her lovers, whose genitals were like those of donkeys and whose emission was like that of horses.</em><br /> -- Ezekiel 23:20</p>
