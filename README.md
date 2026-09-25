@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/food/37285">Mmmm, Lucky Charms</a>
+* <a href="https://www.amon-hen.com/humor/37286">RiffTrax – Space Mutiny</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/food/37285">Mmmm, Lucky Charms</a>
 * <a href="https://www.amon-hen.com/television/4380">MST3K 0318 – Star Force: Fugitive Alien II</a>
 * <a href="https://www.amon-hen.com/politics/20592">Trump TV</a>
 * <a href="https://www.amon-hen.com/politics/37296">UnitedHealthcare & UnitedHealth Group</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/movies/37280">Attack of the Giant Leeches (1959)</a>
 * <a href="https://www.amon-hen.com/weirdness/1025">Talk Like a Pirate Day</a>
 * <a href="https://www.amon-hen.com/music/18548">Black Napkins</a>
-* <a href="https://www.amon-hen.com/politics/37275">Mitch McConnell Returns to the Senate</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>We used to laugh at Grandpa when he'd head off and go fishing. But we wouldn't be laughing that evening when he'd come back with some whore he picked up in town.</em><br /> -- Jack Handey</p>
+<p><em>Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity.</em><br /> -- Charles Mingus</p>
