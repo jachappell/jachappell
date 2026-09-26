@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/humor/37286">RiffTrax – Space Mutiny</a>
+* <a href="https://www.amon-hen.com/music/37300">Florentine Pogen</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/humor/37286">RiffTrax – Space Mutiny</a>
 * <a href="https://www.amon-hen.com/food/37285">Mmmm, Lucky Charms</a>
 * <a href="https://www.amon-hen.com/television/4380">MST3K 0318 – Star Force: Fugitive Alien II</a>
 * <a href="https://www.amon-hen.com/politics/20592">Trump TV</a>
@@ -11,11 +12,11 @@
 * <a href="https://www.amon-hen.com/television/6119">MST3K Short 0701 – Once Upon A Honeymoon</a>
 * <a href="https://www.amon-hen.com/movies/37280">Attack of the Giant Leeches (1959)</a>
 * <a href="https://www.amon-hen.com/weirdness/1025">Talk Like a Pirate Day</a>
-* <a href="https://www.amon-hen.com/music/18548">Black Napkins</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
 
+* <a href="https://www.drum-corps.net/news/4653">Steve Vickers, longtime publisher of Drum Corps World, dies at 77</a>
 * <a href="https://www.drum-corps.net/news/4648">Genesis will be on hiatus for the 2027 drum corps season</a>
 * <a href="https://www.drum-corps.net/history/3371">August 12, 2022</a>
 * <a href="https://www.drum-corps.net/scores/dci/4614">2026 DCI World Championship Finals</a>
@@ -25,7 +26,6 @@
 * <a href="https://www.drum-corps.net/scores/dci/4592">2026 DCI World Championship Semifinals</a>
 * <a href="https://www.drum-corps.net/scores/dci/4588">2026 DCI All-Age World Championship Prelims</a>
 * <a href="https://www.drum-corps.net/scores/dci/4577">2026 DCI World Championship Prelims</a>
-* <a href="https://www.drum-corps.net/scores/dci/4570">2026 DCI Open Class World Championship Finals</a>
 </details>
 
 <details><summary> <a href="https://www.storage-b.com">Storage B</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity.</em><br /> -- Charles Mingus</p>
+<p><em>The difference between a Miracle and a Fact is exactly the difference between a mermaid and a seal.</em><br /> -- Mark Twain</p>
