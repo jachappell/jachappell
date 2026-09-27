@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/37300">Florentine Pogen</a>
+* <a href="https://www.amon-hen.com/movies/37302">The Sinister Urge (1960)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/37300">Florentine Pogen</a>
 * <a href="https://www.amon-hen.com/humor/37286">RiffTrax – Space Mutiny</a>
 * <a href="https://www.amon-hen.com/food/37285">Mmmm, Lucky Charms</a>
 * <a href="https://www.amon-hen.com/television/4380">MST3K 0318 – Star Force: Fugitive Alien II</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/37296">UnitedHealthcare & UnitedHealth Group</a>
 * <a href="https://www.amon-hen.com/television/6119">MST3K Short 0701 – Once Upon A Honeymoon</a>
 * <a href="https://www.amon-hen.com/movies/37280">Attack of the Giant Leeches (1959)</a>
-* <a href="https://www.amon-hen.com/weirdness/1025">Talk Like a Pirate Day</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The difference between a Miracle and a Fact is exactly the difference between a mermaid and a seal.</em><br /> -- Mark Twain</p>
+<p><em>Humans are not proud of their ancestors, and rarely invite them round to dinner.</em><br /> -- Douglas Adams</p>
