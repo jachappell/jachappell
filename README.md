@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/37302">The Sinister Urge (1960)</a>
+* <a href="https://www.amon-hen.com/cleveland/37306">The Doomed Cleveland Balloonfest of 1986</a>
+* <a href="https://www.amon-hen.com/television/7498">MST3K Short 0702 – The Chicken of Tomorrow</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/37302">The Sinister Urge (1960)</a>
 * <a href="https://www.amon-hen.com/music/37300">Florentine Pogen</a>
 * <a href="https://www.amon-hen.com/humor/37286">RiffTrax – Space Mutiny</a>
 * <a href="https://www.amon-hen.com/food/37285">Mmmm, Lucky Charms</a>
 * <a href="https://www.amon-hen.com/television/4380">MST3K 0318 – Star Force: Fugitive Alien II</a>
 * <a href="https://www.amon-hen.com/politics/20592">Trump TV</a>
 * <a href="https://www.amon-hen.com/politics/37296">UnitedHealthcare & UnitedHealth Group</a>
-* <a href="https://www.amon-hen.com/television/6119">MST3K Short 0701 – Once Upon A Honeymoon</a>
-* <a href="https://www.amon-hen.com/movies/37280">Attack of the Giant Leeches (1959)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Humans are not proud of their ancestors, and rarely invite them round to dinner.</em><br /> -- Douglas Adams</p>
+<p><em>I look into the mirror<br />I see no happiness<br />All the warmth I gave you<br />Has turned to emptiness<br />The love we had has fallen<br />The love we used to share<br />You've left me here believing<br />In love that wasn't there</em><br /> -- Yes</p>
