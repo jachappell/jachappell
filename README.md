@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/37310">Brazil Elections 2026</a>
+* <a href="https://www.amon-hen.com/television/9465">MST3K 0319 – War of the Colossal Beast</a>
+* <a href="https://www.amon-hen.com/politics/37325">Senator Eric Schmitt beclowns himself</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/37310">Brazil Elections 2026</a>
 * <a href="https://www.amon-hen.com/cleveland/37306">The Doomed Cleveland Balloonfest of 1986</a>
 * <a href="https://www.amon-hen.com/television/7498">MST3K Short 0702 – The Chicken of Tomorrow</a>
 * <a href="https://www.amon-hen.com/movies/37302">The Sinister Urge (1960)</a>
 * <a href="https://www.amon-hen.com/music/37300">Florentine Pogen</a>
 * <a href="https://www.amon-hen.com/humor/37286">RiffTrax – Space Mutiny</a>
 * <a href="https://www.amon-hen.com/food/37285">Mmmm, Lucky Charms</a>
-* <a href="https://www.amon-hen.com/television/4380">MST3K 0318 – Star Force: Fugitive Alien II</a>
-* <a href="https://www.amon-hen.com/politics/20592">Trump TV</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Most people can't bear to sit in church for an hour on Sundays. How are they supposed to live somewhere very similar to it for eternity?</em><br /> -- Mark Twain</p>
+<p><em>Bishops move diagonally. That's why they often turn up where the kings don't expect them to be.</em><br /> -- Terry Pratchett (<em>Small Gods</em>)</p>
