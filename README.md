@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/food/37312">Naan Pizza</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/9465">MST3K 0319 – War of the Colossal Beast</a>
 * <a href="https://www.amon-hen.com/politics/37325">Senator Eric Schmitt beclowns himself</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/37310">Brazil Elections 2026</a>
 * <a href="https://www.amon-hen.com/cleveland/37306">The Doomed Cleveland Balloonfest of 1986</a>
 * <a href="https://www.amon-hen.com/television/7498">MST3K Short 0702 – The Chicken of Tomorrow</a>
 * <a href="https://www.amon-hen.com/movies/37302">The Sinister Urge (1960)</a>
 * <a href="https://www.amon-hen.com/music/37300">Florentine Pogen</a>
 * <a href="https://www.amon-hen.com/humor/37286">RiffTrax – Space Mutiny</a>
-* <a href="https://www.amon-hen.com/food/37285">Mmmm, Lucky Charms</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Bishops move diagonally. That's why they often turn up where the kings don't expect them to be.</em><br /> -- Terry Pratchett (<em>Small Gods</em>)</p>
+<p><em>God does not play dice with the universe; He plays an ineffable game of his own devising, which might be compared, from the perspective of any of the other players, to being involved in an obscure and complex version of poker in a pitch dark room, with blank cards, for infinite stakes, with a dealer who won't tell you the rules, and who smiles all the time.</em><br /> -- Terry Pratchett (<em>Good Omens</em>)</p>
