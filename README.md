@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/37320">Batman Meets Mr. Fizz (1965)</a>
+* <a href="https://www.amon-hen.com/music/37330">Survival</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/37320">Batman Meets Mr. Fizz (1965)</a>
 * <a href="https://www.amon-hen.com/food/37312">Naan Pizza</a>
 * <a href="https://www.amon-hen.com/television/9465">MST3K 0319 – War of the Colossal Beast</a>
 * <a href="https://www.amon-hen.com/politics/37325">Senator Eric Schmitt beclowns himself</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/cleveland/37306">The Doomed Cleveland Balloonfest of 1986</a>
 * <a href="https://www.amon-hen.com/television/7498">MST3K Short 0702 – The Chicken of Tomorrow</a>
 * <a href="https://www.amon-hen.com/movies/37302">The Sinister Urge (1960)</a>
-* <a href="https://www.amon-hen.com/music/37300">Florentine Pogen</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>See these?  American donuts.  Glazed, powdered, and raspberry-filled.  Now, how's that for freedom of choice.</em><br /> -- Homer J. Simpson</p>
+<p><em>Blow ye winds, like the trumpet blows, but without that noise.</em><br /> -- Jack Handey</p>
