@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/28233">Night of the Living Dead (1968)</a>
+* <a href="https://www.amon-hen.com/television/5880">MST3K Short 0906 – Century 21 Calling</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/28233">Night of the Living Dead (1968)</a>
 * <a href="https://www.amon-hen.com/music/37330">Survival</a>
 * <a href="https://www.amon-hen.com/movies/37320">Batman Meets Mr. Fizz (1965)</a>
 * <a href="https://www.amon-hen.com/food/37312">Naan Pizza</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/37325">Senator Eric Schmitt beclowns himself</a>
 * <a href="https://www.amon-hen.com/politics/37310">Brazil Elections 2026</a>
 * <a href="https://www.amon-hen.com/cleveland/37306">The Doomed Cleveland Balloonfest of 1986</a>
-* <a href="https://www.amon-hen.com/television/7498">MST3K Short 0702 – The Chicken of Tomorrow</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Too bad when I was a kid there wasn't a guy in our class that everybody called the "Cricket Boy", because I would have liked to stand up in class and tell everybody, "You can make fun of the Cricket Boy if you want to, but to me he's just like everybody else." Then everybody would leave the Cricket Boy alone, and I'd invite him over to spend the night at my house, but after about five minutes of that loud chirping I'd have to kick him out. Maybe later we could get up a petition to get the Cricket Family run out of town. Bye, Cricket Boy.</em><br /> -- Jack Handey</p>
+<p><em>I believe that a scientist looking at nonscientific problems is just as dumb as the next guy.</em><br /> -- Richard P. Feynman</p>
