@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/5880">MST3K Short 0906 – Century 21 Calling</a>
+* <a href="https://www.amon-hen.com/politics/37346">Transcript from Time interview with Trump</a>
+* <a href="https://www.amon-hen.com/politics/37344">The Secret Service</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/5880">MST3K Short 0906 – Century 21 Calling</a>
 * <a href="https://www.amon-hen.com/movies/28233">Night of the Living Dead (1968)</a>
 * <a href="https://www.amon-hen.com/music/37330">Survival</a>
 * <a href="https://www.amon-hen.com/movies/37320">Batman Meets Mr. Fizz (1965)</a>
 * <a href="https://www.amon-hen.com/food/37312">Naan Pizza</a>
 * <a href="https://www.amon-hen.com/television/9465">MST3K 0319 – War of the Colossal Beast</a>
 * <a href="https://www.amon-hen.com/politics/37325">Senator Eric Schmitt beclowns himself</a>
-* <a href="https://www.amon-hen.com/politics/37310">Brazil Elections 2026</a>
-* <a href="https://www.amon-hen.com/cleveland/37306">The Doomed Cleveland Balloonfest of 1986</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I believe that a scientist looking at nonscientific problems is just as dumb as the next guy.</em><br /> -- Richard P. Feynman</p>
+<p><em>We Americans live in a nation where the medical-care system is second to none in the world, unless you count maybe 25 or 30 little scuzzball countries like Scotland that we could vaporize in seconds if we felt like it.</em><br /> -- Dave Barry</p>
