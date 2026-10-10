@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/books/37367">Story Time with Senator John Kennedy</a>
+* <a href="https://www.amon-hen.com/music/37370">Dog Breath Variations & Uncle Meat</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/books/37367">Story Time with Senator John Kennedy</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: We Keep the Dead Close</a>
 * <a href="https://www.amon-hen.com/food/37348">Mmmm, Rasagna</a>
 * <a href="https://www.amon-hen.com/television/7414">MST3K 0320 – The Unearthly</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/37346">Transcript from Time interview with Trump</a>
 * <a href="https://www.amon-hen.com/politics/37344">The Secret Service</a>
 * <a href="https://www.amon-hen.com/television/5880">MST3K Short 0906 – Century 21 Calling</a>
-* <a href="https://www.amon-hen.com/movies/28233">Night of the Living Dead (1968)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I do not suppose I shall be remembered for anything.  But I don't think about my work in those terms.  It is just as vulgar to work for the sake of posterity as to work for the sake of money.</em><br /> -- Orson Welles</p>
+<p><em>Words are the litmus paper of the minds. If you find yourself in the power of someone who will use the word "commence" in cold blood, go somewhere else very quickly. But if they say "Enter", don't stop to pack.</em><br /> -- Terry Pratchett (<em>Small Gods</em>)</p>
