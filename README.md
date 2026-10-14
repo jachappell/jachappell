@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/37373">Generic Drugs</a>
+* <a href="https://www.amon-hen.com/television/9509">MST3K 0322 – Master Ninja I</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/37373">Generic Drugs</a>
 * <a href="https://www.amon-hen.com/television/5816">MST3K Short 0912 – Robot Rumpus</a>
 * <a href="https://www.amon-hen.com/movies/28266">House on Haunted Hill (1959)</a>
 * <a href="https://www.amon-hen.com/music/37370">Dog Breath Variations & Uncle Meat</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/books/297">Reading: We Keep the Dead Close</a>
 * <a href="https://www.amon-hen.com/food/37348">Mmmm, Rasagna</a>
 * <a href="https://www.amon-hen.com/television/7414">MST3K 0320 – The Unearthly</a>
-* <a href="https://www.amon-hen.com/politics/37353">Social Permission for Bigotry</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>We do not know what we want and yet we are responsible for what we are - that is the fact.</em><br /> -- Jean-Paul Sartre</p>
+<p><em>Cannibals prefer those who have no spines.</em><br /> -- Stanislaw Lem</p>
