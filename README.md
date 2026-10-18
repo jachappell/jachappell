@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/music/37381">Taken</a>
+* <a href="https://www.amon-hen.com/movies/23929">The Cabinet Of Dr. Caligari (1920)</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/music/37381">Taken</a>
 * <a href="https://www.amon-hen.com/television/37388">Good Hang – Marcello Hernández</a>
 * <a href="https://www.amon-hen.com/food/37377">Mmmm, Material In Season</a>
 * <a href="https://www.amon-hen.com/television/9509">MST3K 0322 – Master Ninja I</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/5816">MST3K Short 0912 – Robot Rumpus</a>
 * <a href="https://www.amon-hen.com/movies/28266">House on Haunted Hill (1959)</a>
 * <a href="https://www.amon-hen.com/music/37370">Dog Breath Variations & Uncle Meat</a>
-* <a href="https://www.amon-hen.com/books/37367">Story Time with Senator John Kennedy</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Always be wary of any helpful item that weighs less than its operating manual.</em><br /> -- Terry Pratchett</p>
+<p><em>Reminds me of my safari in Africa.  Somebody forgot the corkscrew and for several days we had to live on nothing but food and water.</em><br /> -- W. C. Fields</p>
