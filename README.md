@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/6358">MST3K Short 1012 – A Case Of Spring Fever</a>
+* <a href="https://www.amon-hen.com/books/297">Reading: War Year</a>
+* <a href="https://www.amon-hen.com/politics/37375">Last Week Tonight – S3 E14:  Debt Buyers & Trump Lawsuits</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/6358">MST3K Short 1012 – A Case Of Spring Fever</a>
 * <a href="https://www.amon-hen.com/movies/23929">The Cabinet Of Dr. Caligari (1920)</a>
 * <a href="https://www.amon-hen.com/music/37381">Taken</a>
 * <a href="https://www.amon-hen.com/television/37388">Good Hang – Marcello Hernández</a>
 * <a href="https://www.amon-hen.com/food/37377">Mmmm, Material In Season</a>
 * <a href="https://www.amon-hen.com/television/9509">MST3K 0322 – Master Ninja I</a>
 * <a href="https://www.amon-hen.com/politics/37373">Generic Drugs</a>
-* <a href="https://www.amon-hen.com/television/5816">MST3K Short 0912 – Robot Rumpus</a>
-* <a href="https://www.amon-hen.com/movies/28266">House on Haunted Hill (1959)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>This perpetual motion machine she made is a joke: It just keeps going faster and faster.  Lisa, get in here! In this house, we obey the laws of THERMODYNAMICS!</em><br /> -- Homer J. Simpson</p>
+<p><em>I'm not normally a praying man, but if you're up there, save me, Superman!</em><br /> -- Homer J. Simpson</p>
