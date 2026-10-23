@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/humor/37399">Mmmm, Syd’s Olive Loaf</a>
+* <a href="https://www.amon-hen.com/politics/37411">Former Josh Hawley Aide</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/humor/37399">Mmmm, Syd’s Olive Loaf</a>
 * <a href="https://www.amon-hen.com/television/9538">MST3K 0323 – The Castle of Fu Manchu</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: War Year</a>
 * <a href="https://www.amon-hen.com/politics/37375">Last Week Tonight – S3 E14:  Debt Buyers & Trump Lawsuits</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/movies/23929">The Cabinet Of Dr. Caligari (1920)</a>
 * <a href="https://www.amon-hen.com/music/37381">Taken</a>
 * <a href="https://www.amon-hen.com/television/37388">Good Hang – Marcello Hernández</a>
-* <a href="https://www.amon-hen.com/food/37377">Mmmm, Material In Season</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em></em>Empire<em> had the better ending.  I mean, Luke gets his hand cut off, finds out Vader's his father, Han gets frozen and taken away by Boba Fett.  It ends on such a down note.  I mean, that's what life is, a series of down endings.  All </em>Jedi<em> had was a bunch of Muppets.</em><br /> -- Dante Hicks</p>
+<p><em>Platitude: an idea (a) that is admitted to be true by everyone, and (b) that is not true.</em><br /> -- H.L. Mencken</p>
