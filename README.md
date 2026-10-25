@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/movies/25759">White Zombie (1932)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: A Native’s Return</a>
 * <a href="https://www.amon-hen.com/music/37414">Dupree’s Paradise</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/37411">Former Josh Hawley Aide</a>
 * <a href="https://www.amon-hen.com/humor/37399">Mmmm, Syd’s Olive Loaf</a>
 * <a href="https://www.amon-hen.com/television/9538">MST3K 0323 – The Castle of Fu Manchu</a>
 * <a href="https://www.amon-hen.com/books/14340">Joe Haldeman</a>
 * <a href="https://www.amon-hen.com/politics/37375">Last Week Tonight – S3 E14:  Debt Buyers & Trump Lawsuits</a>
 * <a href="https://www.amon-hen.com/television/6358">MST3K Short 1012 – A Case Of Spring Fever</a>
-* <a href="https://www.amon-hen.com/movies/23929">The Cabinet Of Dr. Caligari (1920)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Warning: George Michael STILL wants your sex. He never rescinded the order! Stay vigilant.</em><br /> -- Bill Corbett</p>
+<p><em>Go not to the elves for counsel, for they will say both no and yes.</em><br /> -- J.R.R. Tolkien</p>
