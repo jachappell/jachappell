@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/37424">Cheesecake Factory</a>
+* <a href="https://www.amon-hen.com/television/16893">The Paul Lynde Halloween Special</a>
+* <a href="https://www.amon-hen.com/books/37426">Dune: Part Three | Another Trailer</a>
+* <a href="https://www.amon-hen.com/humor/28278">The Mads – Halloween Safety</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/37424">Cheesecake Factory</a>
 * <a href="https://www.amon-hen.com/television/9584">MST3K 0324 – Master Ninja II</a>
 * <a href="https://www.amon-hen.com/politics/37420">The Republican Party & The Far Right</a>
 * <a href="https://www.amon-hen.com/humor/32756">MST3K Short 1304 – Sleep For Health</a>
 * <a href="https://www.amon-hen.com/movies/25759">White Zombie (1932)</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: A Native’s Return</a>
-* <a href="https://www.amon-hen.com/music/37414">Dupree’s Paradise</a>
-* <a href="https://www.amon-hen.com/politics/37411">Former Josh Hawley Aide</a>
-* <a href="https://www.amon-hen.com/humor/37399">Mmmm, Syd’s Olive Loaf</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Physicists like to think that all you have to do is say, these are the conditions, now what happens next?</em><br /> -- Richard P. Feynman</p>
+<p><em>A man is as old as the woman he feels.</em><br /> -- Groucho Marx</p>
