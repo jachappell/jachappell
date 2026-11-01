@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/movies/26496">Carnival Of Souls (1962)</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/books/37433">Gatsby, a modern-day police procedural</a>
 * <a href="https://www.amon-hen.com/music/37422">Wonderous Stories</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/16893">The Paul Lynde Halloween Special</a>
 * <a href="https://www.amon-hen.com/books/37426">Dune: Part Three | Another Trailer</a>
 * <a href="https://www.amon-hen.com/humor/28278">The Mads – Halloween Safety</a>
 * <a href="https://www.amon-hen.com/politics/37424">Cheesecake Factory</a>
 * <a href="https://www.amon-hen.com/television/9584">MST3K 0324 – Master Ninja II</a>
 * <a href="https://www.amon-hen.com/politics/37420">The Republican Party & The Far Right</a>
-* <a href="https://www.amon-hen.com/humor/32756">MST3K Short 1304 – Sleep For Health</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>After one look at this planet any visitor from outer space would say "I want to see the manager."</em><br /> -- William S. Burroughs</p>
+<p><em>The language and concepts contained herein are guaranteed not to cause eternal torment in the place where the guy with the horns and pointed stick conducts his business.</em><br /> -- Frank Zappa</p>
