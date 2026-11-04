@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/37436">Midterms 2026</a>
+* <a href="https://www.amon-hen.com/television/7000">MST3K 0401 – Space Travelers</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/37436">Midterms 2026</a>
 * <a href="https://www.amon-hen.com/television/32643">MST3K Short 1310 – Let’s Keep Food Safe to Eat</a>
 * <a href="https://www.amon-hen.com/movies/26496">Carnival Of Souls (1962)</a>
 * <a href="https://www.amon-hen.com/books/37433">Gatsby, a modern-day police procedural</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/16893">The Paul Lynde Halloween Special</a>
 * <a href="https://www.amon-hen.com/books/37426">Dune: Part Three | Another Trailer</a>
 * <a href="https://www.amon-hen.com/humor/28278">The Mads – Halloween Safety</a>
-* <a href="https://www.amon-hen.com/politics/37424">Cheesecake Factory</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Worlds are conquered, galaxies destroyed -- but a woman is always a woman.</em><br /> -- James T. Kirk, "The Conscience of the King", stardate 2818.9</p>
+<p><em>I love timbersports! They combine the thrill of victory, the agony of defeat, and the threat of amputation!</em><br /> -- Stephen Colbert</p>
