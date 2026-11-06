@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
+* <a href="https://www.amon-hen.com/politics/37456">JD Vance and Marco Rubio</a>
+* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/politics/37461">CityNerd Does Cleveland</a>
 * <a href="https://www.amon-hen.com/humor/37441">McDonald’s must face lawsuit over McRib</a>
-* <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
 * <a href="https://www.amon-hen.com/television/7000">MST3K 0401 – Space Travelers</a>
 * <a href="https://www.amon-hen.com/politics/37436">Midterms 2026</a>
 * <a href="https://www.amon-hen.com/television/32643">MST3K Short 1310 – Let’s Keep Food Safe to Eat</a>
 * <a href="https://www.amon-hen.com/movies/26496">Carnival Of Souls (1962)</a>
 * <a href="https://www.amon-hen.com/books/37433">Gatsby, a modern-day police procedural</a>
 * <a href="https://www.amon-hen.com/music/37422">Wonderous Stories</a>
-* <a href="https://www.amon-hen.com/television/16893">The Paul Lynde Halloween Special</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Congratulations!  You have purchased an extremely fine device that would give you thousands of years of trouble-free service, except that you undoubtably will destroy it via some typical bonehead consumer maneuver.  Which is why we ask you to PLEASE FOR GOD'S SAKE READ THIS OWNER'S MANUAL CAREFULLY BEFORE YOU UNPACK THE DEVICE.  YOU ALREADY UNPACKED IT, DIDN'T YOU?  YOU UNPACKED IT AND PLUGGED IT IN AND TURNED IT ON AND FIDDLED WITH THE KNOBS, AND NOW YOUR CHILD, THE SAME CHILD WHO ONCE SHOVED A POLISH SAUSAGE INTO YOUR VIDEOCASSETTE RECORDER AND SET IT ON "FAST FORWARD", THIS CHILD ALSO IS FIDDLING WITH THE KNOBS, RIGHT?  AND YOU'RE JUST NOW STARTING TO READ THE INSTRUCTIONS, RIGHT???  WE MIGHT AS WELL JUST BREAK THESE DEVICES RIGHT AT THE FACTORY BEFORE WE SHIP THEM OUT, YOU KNOW THAT?</em><br /> -- Dave Barry</p>
+<p><em>The secret of life is honesty and fair dealing. If you can fake that, you've got it made.</em><br /> -- Groucho Marx</p>
