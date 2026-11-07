@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/37456">JD Vance and Marco Rubio</a>
+* <a href="https://www.amon-hen.com/music/37438">Dusky</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/37456">JD Vance and Marco Rubio</a>
 * <a href="https://www.amon-hen.com/politics/37461">CityNerd Does Cleveland</a>
 * <a href="https://www.amon-hen.com/humor/37441">McDonald’s must face lawsuit over McRib</a>
 * <a href="https://www.amon-hen.com/television/7000">MST3K 0401 – Space Travelers</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/32643">MST3K Short 1310 – Let’s Keep Food Safe to Eat</a>
 * <a href="https://www.amon-hen.com/movies/26496">Carnival Of Souls (1962)</a>
 * <a href="https://www.amon-hen.com/books/37433">Gatsby, a modern-day police procedural</a>
-* <a href="https://www.amon-hen.com/music/37422">Wonderous Stories</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>The secret of life is honesty and fair dealing. If you can fake that, you've got it made.</em><br /> -- Groucho Marx</p>
+<p><em>I really only listen to like, German death reggae, and Halloween sound effects records from the 1950s... and Bette Midler, obviously.</em><br /> -- April Ludgate</p>
