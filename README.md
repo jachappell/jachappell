@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/movies/37467">Rampage (1997)</a>
+* <a href="https://www.amon-hen.com/television/32649">MST3K Short 1312 – Better Breakfast, U.S.A.</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/movies/37467">Rampage (1997)</a>
 * <a href="https://www.amon-hen.com/music/37438">Dusky</a>
 * <a href="https://www.amon-hen.com/politics/37456">JD Vance and Marco Rubio</a>
 * <a href="https://www.amon-hen.com/politics/37461">CityNerd Does Cleveland</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/7000">MST3K 0401 – Space Travelers</a>
 * <a href="https://www.amon-hen.com/politics/37436">Midterms 2026</a>
 * <a href="https://www.amon-hen.com/television/32643">MST3K Short 1310 – Let’s Keep Food Safe to Eat</a>
-* <a href="https://www.amon-hen.com/movies/26496">Carnival Of Souls (1962)</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I wonder what the Shroud Of Turin tastes like.</em><br /> -- Doctor John A. Zoidberg</p>
+<p><em>Yeah man, I tell ya what, man.  That dang ol' Internet, man.  You just go on there and point and click.  Talk about W-W-dot-W-com.  An' lotsa nekkid chicks on there, man.  Click.  Click.  Click.  Click. Click.  It's real easy, man.</em><br /> -- Boomhauer</p>
