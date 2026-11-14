@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/religion/37498">November 12, 2023</a>
+* <a href="https://www.amon-hen.com/science/37527">SpaceX Starship Flight 15</a>
+* <a href="https://www.amon-hen.com/music/37511">Bumps Per Minute</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/religion/37498">November 12, 2023</a>
 * <a href="https://www.amon-hen.com/politics/37504">One Hour Fast</a>
 * <a href="https://www.amon-hen.com/television/4793">MST3K 0402 – The Giant Gila Monster</a>
 * <a href="https://www.amon-hen.com/music/2651">The Gales of November</a>
 * <a href="https://www.amon-hen.com/politics/37483">Pete Hegseth</a>
 * <a href="https://www.amon-hen.com/television/32649">MST3K Short 1312 – Better Breakfast, U.S.A.</a>
 * <a href="https://www.amon-hen.com/movies/37467">Rampage (1997)</a>
-* <a href="https://www.amon-hen.com/music/37438">Dusky</a>
-* <a href="https://www.amon-hen.com/politics/37456">JD Vance and Marco Rubio</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>All right, who did this? I'm not mad, I just want to know who did it so I can punish them.</em><br /> -- Dwight Kurt Schrute III</p>
+<p><em>We are Sex Bob-omb and we are here to make you think about death and get sad and stuff.</em><br /> -- Scott Pilgrim</p>
