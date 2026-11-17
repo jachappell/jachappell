@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/37485">MST3K Short 1301 – Pipeline to the Clouds</a>
+* <a href="https://www.amon-hen.com/politics/37547">Alligator Alcatraz</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/37485">MST3K Short 1301 – Pipeline to the Clouds</a>
 * <a href="https://www.amon-hen.com/politics/37536">Sean Duffy</a>
 * <a href="https://www.amon-hen.com/religion/37522">In Gramps’ Shoes (2014)</a>
 * <a href="https://www.amon-hen.com/science/37527">SpaceX Starship Flight 15</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/religion/37498">November 12, 2023</a>
 * <a href="https://www.amon-hen.com/politics/37504">One Hour Fast</a>
 * <a href="https://www.amon-hen.com/television/4793">MST3K 0402 – The Giant Gila Monster</a>
-* <a href="https://www.amon-hen.com/music/2651">The Gales of November</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I had just received my degree in Calcium Anthropology...  the study of milkmen.</em><br /> -- Steven Wright</p>
+<p><em>This is like deja vu all over again.</em><br /> -- Yogi Berra</p>
