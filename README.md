@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/politics/37547">Alligator Alcatraz</a>
+* <a href="https://www.amon-hen.com/television/9624">MST3K 0403 – City Limits</a>
+* <a href="https://www.amon-hen.com/television/1787">The Star Wars Holiday Special</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/politics/37547">Alligator Alcatraz</a>
 * <a href="https://www.amon-hen.com/television/37485">MST3K Short 1301 – Pipeline to the Clouds</a>
 * <a href="https://www.amon-hen.com/politics/37536">Sean Duffy</a>
 * <a href="https://www.amon-hen.com/religion/37522">In Gramps’ Shoes (2014)</a>
 * <a href="https://www.amon-hen.com/science/37527">SpaceX Starship Flight 15</a>
 * <a href="https://www.amon-hen.com/music/37511">Bumps Per Minute</a>
 * <a href="https://www.amon-hen.com/religion/37498">November 12, 2023</a>
-* <a href="https://www.amon-hen.com/politics/37504">One Hour Fast</a>
-* <a href="https://www.amon-hen.com/television/4793">MST3K 0402 – The Giant Gila Monster</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>This is like deja vu all over again.</em><br /> -- Yogi Berra</p>
+<p><em>In an ideal world I would have all ten fingers on my left hand so my right hand could just be a fist for punching.</em><br /> -- Dwight Kurt Schrute III</p>
