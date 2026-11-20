@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/37492">MST3K Short 1302 – Let’s Make a Meal in 20 Minutes</a>
+* <a href="https://www.amon-hen.com/humor/37579">Mystery Science Theater 3000 LIVE: The Returnen-ing Tour</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/37492">MST3K Short 1302 – Let’s Make a Meal in 20 Minutes</a>
 * <a href="https://www.amon-hen.com/television/9624">MST3K 0403 – City Limits</a>
 * <a href="https://www.amon-hen.com/television/1787">The Star Wars Holiday Special</a>
 * <a href="https://www.amon-hen.com/politics/37547">Alligator Alcatraz</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/politics/37536">Sean Duffy</a>
 * <a href="https://www.amon-hen.com/religion/37522">In Gramps’ Shoes (2014)</a>
 * <a href="https://www.amon-hen.com/science/37527">SpaceX Starship Flight 15</a>
-* <a href="https://www.amon-hen.com/music/37511">Bumps Per Minute</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>When I was a child, the other children in my neighborhood would taunt me, calling me "noodle-head" or "neo-Calvinist" So I would run after them, but lucky for them the chain would snap tight and pull me back.</em><br /> -- Emo Philips </p>
+<p><em>In Italy for thirty years under the Borgias they had warfare, terror, murder, bloodshed; they produced Michelangelo, Leonardo da Vinci and the Renaissance. In Switzerland they had brotherly love, five hundred years of democracy and peace, and what did they produce?  The cuckoo clock!</em><br /> -- Orson Welles</p>
