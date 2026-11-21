@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/humor/37579">Mystery Science Theater 3000 LIVE: The Returnen-ing Tour</a>
+* <a href="https://www.amon-hen.com/music/37551">Stay Up Late</a>
+* <a href="https://www.amon-hen.com/books/37597">The One Ring</a>
+* <a href="https://www.amon-hen.com/movies/37590">RIP Matthew Bruch</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/humor/37579">Mystery Science Theater 3000 LIVE: The Returnen-ing Tour</a>
 * <a href="https://www.amon-hen.com/television/37492">MST3K Short 1302 – Let’s Make a Meal in 20 Minutes</a>
 * <a href="https://www.amon-hen.com/television/9624">MST3K 0403 – City Limits</a>
 * <a href="https://www.amon-hen.com/television/1787">The Star Wars Holiday Special</a>
 * <a href="https://www.amon-hen.com/politics/37547">Alligator Alcatraz</a>
 * <a href="https://www.amon-hen.com/television/37485">MST3K Short 1301 – Pipeline to the Clouds</a>
-* <a href="https://www.amon-hen.com/politics/37536">Sean Duffy</a>
-* <a href="https://www.amon-hen.com/religion/37522">In Gramps’ Shoes (2014)</a>
-* <a href="https://www.amon-hen.com/science/37527">SpaceX Starship Flight 15</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>In Italy for thirty years under the Borgias they had warfare, terror, murder, bloodshed; they produced Michelangelo, Leonardo da Vinci and the Renaissance. In Switzerland they had brotherly love, five hundred years of democracy and peace, and what did they produce?  The cuckoo clock!</em><br /> -- Orson Welles</p>
+<p><em>Sometimes, when I drive across the desert in the middle of the night, with no other cars around, I start imagining: What if there were no civilization out there? No cities, no factories, no people? And then I think: No people or factories? Then who made this car? And this highway? And I get so confused I have to stick my head out the window into the driving rain---unless there's lightning, because I could get struck on the head by a bolt.</em><br /> -- Jack Handey</p>
