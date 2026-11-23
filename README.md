@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/humor/37568">The Cocoanuts (1929)</a>
+* <a href="https://www.amon-hen.com/television/37495">MST3K Short 1303 – Court Case</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/humor/37568">The Cocoanuts (1929)</a>
 * <a href="https://www.amon-hen.com/music/37551">Stay Up Late</a>
 * <a href="https://www.amon-hen.com/books/37597">The One Ring</a>
 * <a href="https://www.amon-hen.com/movies/37590">RIP Matthew Bruch</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/television/37492">MST3K Short 1302 – Let’s Make a Meal in 20 Minutes</a>
 * <a href="https://www.amon-hen.com/television/9624">MST3K 0403 – City Limits</a>
 * <a href="https://www.amon-hen.com/television/1787">The Star Wars Holiday Special</a>
-* <a href="https://www.amon-hen.com/politics/37547">Alligator Alcatraz</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>In West Virginia I never stop for gas, because I'm afraid I'll be caught and made someone's mountain wife. And then I'll probably grow to like the guy and end up with ten scrawny, filthy kids named Shane who always ask, "Momma, how come you don't talk like us?"</em><br /> -- Kathleen Madigan</p>
+<p><em>Turkey can never beat cow.</em><br /> -- Ron Swanson</p>
