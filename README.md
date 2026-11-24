@@ -2,16 +2,16 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/37495">MST3K Short 1303 – Court Case</a>
+* <a href="https://www.amon-hen.com/books/297">Reading: A Friend of the Earth</a>
+* <a href="https://www.amon-hen.com/politics/37610">Last Week Tonight – S3 E15: Retirement Plans & 2016 Election Update</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/37495">MST3K Short 1303 – Court Case</a>
 * <a href="https://www.amon-hen.com/humor/37568">The Cocoanuts (1929)</a>
 * <a href="https://www.amon-hen.com/music/37551">Stay Up Late</a>
 * <a href="https://www.amon-hen.com/books/37597">The One Ring</a>
 * <a href="https://www.amon-hen.com/movies/37590">RIP Matthew Bruch</a>
 * <a href="https://www.amon-hen.com/humor/37579">Mystery Science Theater 3000 LIVE: The Returnen-ing Tour</a>
 * <a href="https://www.amon-hen.com/television/37492">MST3K Short 1302 – Let’s Make a Meal in 20 Minutes</a>
-* <a href="https://www.amon-hen.com/television/9624">MST3K 0403 – City Limits</a>
-* <a href="https://www.amon-hen.com/television/1787">The Star Wars Holiday Special</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>Turkey can never beat cow.</em><br /> -- Ron Swanson</p>
+<p><em>If you laid all of our laws end to end, there would be no end.</em><br /> -- Mark Twain</p>
