@@ -2,8 +2,9 @@
 
 <details><summary> <a href="https://www.amon-hen.com">Yet Another Website</a> </summary>
 
-* <a href="https://www.amon-hen.com/television/9677">MST3K 0404 – Teenagers from Outer Space</a>
+* <a href="https://www.amon-hen.com/food/37618">Mmmm, Cranberry Pumpkin Spice Ice Cream</a>
 * <a href="https://www.amon-hen.com/computing/internet/www/435">Quote of the Day</a>
+* <a href="https://www.amon-hen.com/television/9677">MST3K 0404 – Teenagers from Outer Space</a>
 * <a href="https://www.amon-hen.com/books/297">Reading: A Friend of the Earth</a>
 * <a href="https://www.amon-hen.com/politics/37610">Last Week Tonight – S3 E15: Retirement Plans & 2016 Election Update</a>
 * <a href="https://www.amon-hen.com/television/37495">MST3K Short 1303 – Court Case</a>
@@ -11,7 +12,6 @@
 * <a href="https://www.amon-hen.com/music/37551">Stay Up Late</a>
 * <a href="https://www.amon-hen.com/books/37597">The One Ring</a>
 * <a href="https://www.amon-hen.com/movies/37590">RIP Matthew Bruch</a>
-* <a href="https://www.amon-hen.com/humor/37579">Mystery Science Theater 3000 LIVE: The Returnen-ing Tour</a>
 </details>
 
 <details><summary> <a href="https://www.drum-corps.net">Drum and Bugle Corps</a> </summary>
@@ -43,4 +43,4 @@
 </details>
 
 # Quote of the Day
-<p><em>I wish I lived back in the old west days, because I'd save up my money for about twenty years so I could buy a solid-gold pick. Then I'd go out West and start digging for gold. When someone came up and asked what I was doing, I'd say, "Looking for gold, ya durn fool." He'd say, "Your pick is gold," and I'd say, "Well, that was easy." Good joke, huh.</em><br /> -- Jack Handey</p>
+<p><em>Geography is just physics slowed down, with a couple of trees stuck in it.</em><br /> -- Terry Pratchett (<em>The Last Continent</em>)</p>
